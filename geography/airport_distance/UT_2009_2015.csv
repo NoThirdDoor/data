@@ -1,0 +1,1070 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+49035,49,35,Utah,Salt Lake County,1003,1.0,3.0,Alabama,Baldwin County,14,25,UT
+49049,49,49,Utah,Utah County,1043,1.0,43.0,Alabama,Cullman County,29,37,UT
+49049,49,49,Utah,Utah County,1045,1.0,45.0,Alabama,Dale County,4,6,UT
+49011,49,11,Utah,Davis County,1073,1.0,73.0,Alabama,Jefferson County,8,13,UT
+49013,49,13,Utah,Duchesne County,1083,1.0,83.0,Alabama,Limestone County,6,9,UT
+49005,49,5,Utah,Cache County,1089,1.0,89.0,Alabama,Madison County,21,32,UT
+49011,49,11,Utah,Davis County,1101,1.0,101.0,Alabama,Montgomery County,4,6,UT
+49035,49,35,Utah,Salt Lake County,2020,2.0,20.0,Alaska,Anchorage Municipality,23,22,UT
+49037,49,37,Utah,San Juan County,2020,2.0,20.0,Alaska,Anchorage Municipality,4,9,UT
+49039,49,39,Utah,Sanpete County,2020,2.0,20.0,Alaska,Anchorage Municipality,11,15,UT
+49049,49,49,Utah,Utah County,2020,2.0,20.0,Alaska,Anchorage Municipality,6,9,UT
+49057,49,57,Utah,Weber County,2020,2.0,20.0,Alaska,Anchorage Municipality,7,10,UT
+49035,49,35,Utah,Salt Lake County,2068,2.0,68.0,Alaska,Denali Borough,38,54,UT
+49011,49,11,Utah,Davis County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,7,13,UT
+49049,49,49,Utah,Utah County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,7,10,UT
+49053,49,53,Utah,Washington County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,2,3,UT
+49003,49,3,Utah,Box Elder County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,5,6,UT
+49005,49,5,Utah,Cache County,2185,2.0,185.0,Alaska,North Slope Borough,11,12,UT
+49011,49,11,Utah,Davis County,2185,2.0,185.0,Alaska,North Slope Borough,7,10,UT
+49035,49,35,Utah,Salt Lake County,2185,2.0,185.0,Alaska,North Slope Borough,8,13,UT
+49047,49,47,Utah,Uintah County,2185,2.0,185.0,Alaska,North Slope Borough,37,51,UT
+49053,49,53,Utah,Washington County,2185,2.0,185.0,Alaska,North Slope Borough,10,15,UT
+49057,49,57,Utah,Weber County,2230,2.0,230.0,Alaska,Skagway Municipality,6,9,UT
+49037,49,37,Utah,San Juan County,4001,4.0,1.0,Arizona,Apache County,69,29,UT
+49003,49,3,Utah,Box Elder County,4003,4.0,3.0,Arizona,Cochise County,5,6,UT
+49021,49,21,Utah,Iron County,4005,4.0,5.0,Arizona,Coconino County,48,49,UT
+49023,49,23,Utah,Juab County,4005,4.0,5.0,Arizona,Coconino County,7,14,UT
+49025,49,25,Utah,Kane County,4005,4.0,5.0,Arizona,Coconino County,322,123,UT
+49035,49,35,Utah,Salt Lake County,4005,4.0,5.0,Arizona,Coconino County,17,19,UT
+49037,49,37,Utah,San Juan County,4005,4.0,5.0,Arizona,Coconino County,57,30,UT
+49049,49,49,Utah,Utah County,4005,4.0,5.0,Arizona,Coconino County,15,19,UT
+49053,49,53,Utah,Washington County,4005,4.0,5.0,Arizona,Coconino County,38,24,UT
+49037,49,37,Utah,San Juan County,4007,4.0,7.0,Arizona,Gila County,6,9,UT
+49035,49,35,Utah,Salt Lake County,4011,4.0,11.0,Arizona,Greenlee County,7,11,UT
+49005,49,5,Utah,Cache County,4013,4.0,13.0,Arizona,Maricopa County,15,17,UT
+49011,49,11,Utah,Davis County,4013,4.0,13.0,Arizona,Maricopa County,51,51,UT
+49021,49,21,Utah,Iron County,4013,4.0,13.0,Arizona,Maricopa County,2,2,UT
+49035,49,35,Utah,Salt Lake County,4013,4.0,13.0,Arizona,Maricopa County,200,90,UT
+49043,49,43,Utah,Summit County,4013,4.0,13.0,Arizona,Maricopa County,13,18,UT
+49049,49,49,Utah,Utah County,4013,4.0,13.0,Arizona,Maricopa County,68,50,UT
+49051,49,51,Utah,Wasatch County,4013,4.0,13.0,Arizona,Maricopa County,11,16,UT
+49055,49,55,Utah,Wayne County,4013,4.0,13.0,Arizona,Maricopa County,3,5,UT
+49057,49,57,Utah,Weber County,4013,4.0,13.0,Arizona,Maricopa County,22,25,UT
+49025,49,25,Utah,Kane County,4015,4.0,15.0,Arizona,Mohave County,43,48,UT
+49053,49,53,Utah,Washington County,4015,4.0,15.0,Arizona,Mohave County,214,82,UT
+49021,49,21,Utah,Iron County,4017,4.0,17.0,Arizona,Navajo County,21,35,UT
+49037,49,37,Utah,San Juan County,4017,4.0,17.0,Arizona,Navajo County,44,26,UT
+49043,49,43,Utah,Summit County,4019,4.0,19.0,Arizona,Pima County,19,29,UT
+49035,49,35,Utah,Salt Lake County,4027,4.0,27.0,Arizona,Yuma County,8,13,UT
+49049,49,49,Utah,Utah County,4027,4.0,27.0,Arizona,Yuma County,9,14,UT
+49053,49,53,Utah,Washington County,4027,4.0,27.0,Arizona,Yuma County,32,49,UT
+49049,49,49,Utah,Utah County,5007,5.0,7.0,Arkansas,Benton County,8,11,UT
+49047,49,47,Utah,Uintah County,5103,5.0,103.0,Arkansas,Ouachita County,13,19,UT
+49035,49,35,Utah,Salt Lake County,5119,5.0,119.0,Arkansas,Pulaski County,7,11,UT
+49005,49,5,Utah,Cache County,6001,6.0,1.0,California,Alameda County,1,2,UT
+49011,49,11,Utah,Davis County,6001,6.0,1.0,California,Alameda County,56,61,UT
+49035,49,35,Utah,Salt Lake County,6001,6.0,1.0,California,Alameda County,50,73,UT
+49037,49,37,Utah,San Juan County,6001,6.0,1.0,California,Alameda County,2,3,UT
+49043,49,43,Utah,Summit County,6001,6.0,1.0,California,Alameda County,7,12,UT
+49049,49,49,Utah,Utah County,6001,6.0,1.0,California,Alameda County,16,19,UT
+49035,49,35,Utah,Salt Lake County,6013,6.0,13.0,California,Contra Costa County,47,69,UT
+49053,49,53,Utah,Washington County,6013,6.0,13.0,California,Contra Costa County,8,12,UT
+49003,49,3,Utah,Box Elder County,6019,6.0,19.0,California,Fresno County,4,5,UT
+49057,49,57,Utah,Weber County,6019,6.0,19.0,California,Fresno County,17,26,UT
+49035,49,35,Utah,Salt Lake County,6029,6.0,29.0,California,Kern County,10,16,UT
+49051,49,51,Utah,Wasatch County,6029,6.0,29.0,California,Kern County,21,31,UT
+49035,49,35,Utah,Salt Lake County,6031,6.0,31.0,California,Kings County,8,12,UT
+49003,49,3,Utah,Box Elder County,6037,6.0,37.0,California,Los Angeles County,13,16,UT
+49005,49,5,Utah,Cache County,6037,6.0,37.0,California,Los Angeles County,8,9,UT
+49021,49,21,Utah,Iron County,6037,6.0,37.0,California,Los Angeles County,19,29,UT
+49035,49,35,Utah,Salt Lake County,6037,6.0,37.0,California,Los Angeles County,227,93,UT
+49041,49,41,Utah,Sevier County,6037,6.0,37.0,California,Los Angeles County,15,22,UT
+49043,49,43,Utah,Summit County,6037,6.0,37.0,California,Los Angeles County,79,56,UT
+49049,49,49,Utah,Utah County,6037,6.0,37.0,California,Los Angeles County,99,85,UT
+49051,49,51,Utah,Wasatch County,6037,6.0,37.0,California,Los Angeles County,23,29,UT
+49053,49,53,Utah,Washington County,6037,6.0,37.0,California,Los Angeles County,65,48,UT
+49057,49,57,Utah,Weber County,6037,6.0,37.0,California,Los Angeles County,24,31,UT
+49049,49,49,Utah,Utah County,6039,6.0,39.0,California,Madera County,13,20,UT
+49029,49,29,Utah,Morgan County,6041,6.0,41.0,California,Marin County,5,8,UT
+49011,49,11,Utah,Davis County,6053,6.0,53.0,California,Monterey County,5,9,UT
+49043,49,43,Utah,Summit County,6053,6.0,53.0,California,Monterey County,4,6,UT
+49035,49,35,Utah,Salt Lake County,6057,6.0,57.0,California,Nevada County,9,14,UT
+49003,49,3,Utah,Box Elder County,6059,6.0,59.0,California,Orange County,4,4,UT
+49007,49,7,Utah,Carbon County,6059,6.0,59.0,California,Orange County,3,6,UT
+49027,49,27,Utah,Millard County,6059,6.0,59.0,California,Orange County,3,5,UT
+49035,49,35,Utah,Salt Lake County,6059,6.0,59.0,California,Orange County,82,78,UT
+49049,49,49,Utah,Utah County,6059,6.0,59.0,California,Orange County,20,23,UT
+49053,49,53,Utah,Washington County,6059,6.0,59.0,California,Orange County,20,24,UT
+49057,49,57,Utah,Weber County,6059,6.0,59.0,California,Orange County,11,18,UT
+49003,49,3,Utah,Box Elder County,6065,6.0,65.0,California,Riverside County,6,9,UT
+49011,49,11,Utah,Davis County,6065,6.0,65.0,California,Riverside County,9,14,UT
+49021,49,21,Utah,Iron County,6065,6.0,65.0,California,Riverside County,1,2,UT
+49035,49,35,Utah,Salt Lake County,6065,6.0,65.0,California,Riverside County,9,14,UT
+49057,49,57,Utah,Weber County,6065,6.0,65.0,California,Riverside County,16,25,UT
+49015,49,15,Utah,Emery County,6071,6.0,71.0,California,San Bernardino County,6,9,UT
+49025,49,25,Utah,Kane County,6071,6.0,71.0,California,San Bernardino County,3,5,UT
+49035,49,35,Utah,Salt Lake County,6071,6.0,71.0,California,San Bernardino County,24,36,UT
+49049,49,49,Utah,Utah County,6071,6.0,71.0,California,San Bernardino County,26,38,UT
+49011,49,11,Utah,Davis County,6073,6.0,73.0,California,San Diego County,9,15,UT
+49013,49,13,Utah,Duchesne County,6073,6.0,73.0,California,San Diego County,17,25,UT
+49039,49,39,Utah,Sanpete County,6073,6.0,73.0,California,San Diego County,12,17,UT
+49043,49,43,Utah,Summit County,6073,6.0,73.0,California,San Diego County,7,12,UT
+49049,49,49,Utah,Utah County,6073,6.0,73.0,California,San Diego County,89,61,UT
+49053,49,53,Utah,Washington County,6073,6.0,73.0,California,San Diego County,10,16,UT
+49057,49,57,Utah,Weber County,6073,6.0,73.0,California,San Diego County,7,12,UT
+49005,49,5,Utah,Cache County,6075,6.0,75.0,California,San Francisco County,13,21,UT
+49011,49,11,Utah,Davis County,6075,6.0,75.0,California,San Francisco County,25,38,UT
+49035,49,35,Utah,Salt Lake County,6075,6.0,75.0,California,San Francisco County,8,12,UT
+49043,49,43,Utah,Summit County,6075,6.0,75.0,California,San Francisco County,3,5,UT
+49049,49,49,Utah,Utah County,6075,6.0,75.0,California,San Francisco County,41,40,UT
+49003,49,3,Utah,Box Elder County,6077,6.0,77.0,California,San Joaquin County,13,20,UT
+49035,49,35,Utah,Salt Lake County,6079,6.0,79.0,California,San Luis Obispo County,8,13,UT
+49035,49,35,Utah,Salt Lake County,6081,6.0,81.0,California,San Mateo County,28,26,UT
+49043,49,43,Utah,Summit County,6081,6.0,81.0,California,San Mateo County,16,27,UT
+49049,49,49,Utah,Utah County,6081,6.0,81.0,California,San Mateo County,15,17,UT
+49035,49,35,Utah,Salt Lake County,6083,6.0,83.0,California,Santa Barbara County,26,38,UT
+49053,49,53,Utah,Washington County,6083,6.0,83.0,California,Santa Barbara County,28,43,UT
+49005,49,5,Utah,Cache County,6085,6.0,85.0,California,Santa Clara County,5,7,UT
+49021,49,21,Utah,Iron County,6085,6.0,85.0,California,Santa Clara County,42,57,UT
+49035,49,35,Utah,Salt Lake County,6085,6.0,85.0,California,Santa Clara County,69,52,UT
+49043,49,43,Utah,Summit County,6085,6.0,85.0,California,Santa Clara County,15,23,UT
+49049,49,49,Utah,Utah County,6085,6.0,85.0,California,Santa Clara County,38,32,UT
+49035,49,35,Utah,Salt Lake County,6089,6.0,89.0,California,Shasta County,10,15,UT
+49043,49,43,Utah,Summit County,6095,6.0,95.0,California,Solano County,6,10,UT
+49057,49,57,Utah,Weber County,6095,6.0,95.0,California,Solano County,7,11,UT
+49017,49,17,Utah,Garfield County,6107,6.0,107.0,California,Tulare County,3,4,UT
+49011,49,11,Utah,Davis County,8001,8.0,1.0,Colorado,Adams County,25,40,UT
+49053,49,53,Utah,Washington County,8001,8.0,1.0,Colorado,Adams County,5,11,UT
+49011,49,11,Utah,Davis County,8005,8.0,5.0,Colorado,Arapahoe County,28,41,UT
+49035,49,35,Utah,Salt Lake County,8005,8.0,5.0,Colorado,Arapahoe County,8,13,UT
+49057,49,57,Utah,Weber County,8005,8.0,5.0,Colorado,Arapahoe County,4,8,UT
+49049,49,49,Utah,Utah County,8013,8.0,13.0,Colorado,Boulder County,3,4,UT
+49049,49,49,Utah,Utah County,8021,8.0,21.0,Colorado,Conejos County,7,16,UT
+49007,49,7,Utah,Carbon County,8029,8.0,29.0,Colorado,Delta County,9,14,UT
+49003,49,3,Utah,Box Elder County,8031,8.0,31.0,Colorado,Denver County,14,20,UT
+49011,49,11,Utah,Davis County,8031,8.0,31.0,Colorado,Denver County,8,13,UT
+49015,49,15,Utah,Emery County,8031,8.0,31.0,Colorado,Denver County,8,12,UT
+49035,49,35,Utah,Salt Lake County,8031,8.0,31.0,Colorado,Denver County,90,53,UT
+49045,49,45,Utah,Tooele County,8031,8.0,31.0,Colorado,Denver County,11,18,UT
+49049,49,49,Utah,Utah County,8031,8.0,31.0,Colorado,Denver County,5,8,UT
+49051,49,51,Utah,Wasatch County,8031,8.0,31.0,Colorado,Denver County,20,30,UT
+49053,49,53,Utah,Washington County,8031,8.0,31.0,Colorado,Denver County,33,51,UT
+49037,49,37,Utah,San Juan County,8033,8.0,33.0,Colorado,Dolores County,11,14,UT
+49053,49,53,Utah,Washington County,8033,8.0,33.0,Colorado,Dolores County,13,22,UT
+49001,49,1,Utah,Beaver County,8041,8.0,41.0,Colorado,El Paso County,3,4,UT
+49003,49,3,Utah,Box Elder County,8041,8.0,41.0,Colorado,El Paso County,2,3,UT
+49035,49,35,Utah,Salt Lake County,8041,8.0,41.0,Colorado,El Paso County,10,15,UT
+49041,49,41,Utah,Sevier County,8041,8.0,41.0,Colorado,El Paso County,8,11,UT
+49057,49,57,Utah,Weber County,8041,8.0,41.0,Colorado,El Paso County,56,85,UT
+49013,49,13,Utah,Duchesne County,8045,8.0,45.0,Colorado,Garfield County,8,11,UT
+49039,49,39,Utah,Sanpete County,8045,8.0,45.0,Colorado,Garfield County,3,4,UT
+49041,49,41,Utah,Sevier County,8045,8.0,45.0,Colorado,Garfield County,8,12,UT
+49047,49,47,Utah,Uintah County,8045,8.0,45.0,Colorado,Garfield County,2,4,UT
+49019,49,19,Utah,Grand County,8049,8.0,49.0,Colorado,Grand County,18,30,UT
+49015,49,15,Utah,Emery County,8051,8.0,51.0,Colorado,Gunnison County,19,28,UT
+49005,49,5,Utah,Cache County,8059,8.0,59.0,Colorado,Jefferson County,7,10,UT
+49011,49,11,Utah,Davis County,8059,8.0,59.0,Colorado,Jefferson County,36,37,UT
+49035,49,35,Utah,Salt Lake County,8059,8.0,59.0,Colorado,Jefferson County,15,19,UT
+49045,49,45,Utah,Tooele County,8059,8.0,59.0,Colorado,Jefferson County,16,26,UT
+49049,49,49,Utah,Utah County,8063,8.0,63.0,Colorado,Kit Carson County,5,8,UT
+49013,49,13,Utah,Duchesne County,8077,8.0,77.0,Colorado,Mesa County,26,32,UT
+49019,49,19,Utah,Grand County,8077,8.0,77.0,Colorado,Mesa County,22,32,UT
+49035,49,35,Utah,Salt Lake County,8077,8.0,77.0,Colorado,Mesa County,20,31,UT
+49045,49,45,Utah,Tooele County,8077,8.0,77.0,Colorado,Mesa County,15,20,UT
+49049,49,49,Utah,Utah County,8077,8.0,77.0,Colorado,Mesa County,10,17,UT
+49051,49,51,Utah,Wasatch County,8077,8.0,77.0,Colorado,Mesa County,32,45,UT
+49047,49,47,Utah,Uintah County,8081,8.0,81.0,Colorado,Moffat County,15,18,UT
+49049,49,49,Utah,Utah County,8081,8.0,81.0,Colorado,Moffat County,4,5,UT
+49017,49,17,Utah,Garfield County,8083,8.0,83.0,Colorado,Montezuma County,6,9,UT
+49035,49,35,Utah,Salt Lake County,8083,8.0,83.0,Colorado,Montezuma County,10,16,UT
+49037,49,37,Utah,San Juan County,8083,8.0,83.0,Colorado,Montezuma County,99,42,UT
+49037,49,37,Utah,San Juan County,8085,8.0,85.0,Colorado,Montrose County,14,21,UT
+49035,49,35,Utah,Salt Lake County,8099,8.0,99.0,Colorado,Prowers County,16,27,UT
+49053,49,53,Utah,Washington County,8101,8.0,101.0,Colorado,Pueblo County,24,43,UT
+49005,49,5,Utah,Cache County,8103,8.0,103.0,Colorado,Rio Blanco County,3,4,UT
+49015,49,15,Utah,Emery County,8103,8.0,103.0,Colorado,Rio Blanco County,11,12,UT
+49047,49,47,Utah,Uintah County,8103,8.0,103.0,Colorado,Rio Blanco County,69,49,UT
+49015,49,15,Utah,Emery County,8107,8.0,107.0,Colorado,Routt County,7,11,UT
+49011,49,11,Utah,Davis County,8113,8.0,113.0,Colorado,San Miguel County,52,81,UT
+49035,49,35,Utah,Salt Lake County,8117,8.0,117.0,Colorado,Summit County,10,15,UT
+49043,49,43,Utah,Summit County,8117,8.0,117.0,Colorado,Summit County,12,20,UT
+49005,49,5,Utah,Cache County,8123,8.0,123.0,Colorado,Weld County,42,34,UT
+49011,49,11,Utah,Davis County,8123,8.0,123.0,Colorado,Weld County,28,35,UT
+49013,49,13,Utah,Duchesne County,8123,8.0,123.0,Colorado,Weld County,7,11,UT
+49035,49,35,Utah,Salt Lake County,9001,9.0,1.0,Connecticut,Fairfield County,21,30,UT
+49043,49,43,Utah,Summit County,9001,9.0,1.0,Connecticut,Fairfield County,3,4,UT
+49049,49,49,Utah,Utah County,9001,9.0,1.0,Connecticut,Fairfield County,7,11,UT
+49049,49,49,Utah,Utah County,9009,9.0,9.0,Connecticut,New Haven County,9,14,UT
+49005,49,5,Utah,Cache County,10003,10.0,3.0,Delaware,New Castle County,8,10,UT
+49035,49,35,Utah,Salt Lake County,11001,11.0,1.0,District of Columbia,District of Columbia,20,22,UT
+49037,49,37,Utah,San Juan County,11001,11.0,1.0,District of Columbia,District of Columbia,3,4,UT
+49051,49,51,Utah,Wasatch County,11001,11.0,1.0,District of Columbia,District of Columbia,18,30,UT
+49001,49,1,Utah,Beaver County,12086,12.0,86.0,Florida,Miami-Dade County,8,12,UT
+49011,49,11,Utah,Davis County,12086,12.0,86.0,Florida,Miami-Dade County,27,32,UT
+49035,49,35,Utah,Salt Lake County,12086,12.0,86.0,Florida,Miami-Dade County,8,14,UT
+49043,49,43,Utah,Summit County,12086,12.0,86.0,Florida,Miami-Dade County,7,10,UT
+49049,49,49,Utah,Utah County,12086,12.0,86.0,Florida,Miami-Dade County,29,39,UT
+49035,49,35,Utah,Salt Lake County,12095,12.0,95.0,Florida,Orange County,16,26,UT
+49049,49,49,Utah,Utah County,13053,13.0,53.0,Georgia,Chattahoochee County,9,15,UT
+49035,49,35,Utah,Salt Lake County,13067,13.0,67.0,Georgia,Cobb County,48,74,UT
+49045,49,45,Utah,Tooele County,13067,13.0,67.0,Georgia,Cobb County,5,8,UT
+49003,49,3,Utah,Box Elder County,13089,13.0,89.0,Georgia,DeKalb County,2,3,UT
+49035,49,35,Utah,Salt Lake County,13089,13.0,89.0,Georgia,DeKalb County,24,41,UT
+49005,49,5,Utah,Cache County,13121,13.0,121.0,Georgia,Fulton County,13,20,UT
+49035,49,35,Utah,Salt Lake County,13121,13.0,121.0,Georgia,Fulton County,48,44,UT
+49049,49,49,Utah,Utah County,13121,13.0,121.0,Georgia,Fulton County,10,14,UT
+49051,49,51,Utah,Wasatch County,13121,13.0,121.0,Georgia,Fulton County,16,19,UT
+49057,49,57,Utah,Weber County,13121,13.0,121.0,Georgia,Fulton County,43,66,UT
+49035,49,35,Utah,Salt Lake County,13223,13.0,223.0,Georgia,Paulding County,9,13,UT
+49011,49,11,Utah,Davis County,13245,13.0,245.0,Georgia,Richmond County,21,33,UT
+49005,49,5,Utah,Cache County,15003,15.0,3.0,Hawaii,Honolulu County,6,9,UT
+49011,49,11,Utah,Davis County,15003,15.0,3.0,Hawaii,Honolulu County,13,21,UT
+49045,49,45,Utah,Tooele County,15003,15.0,3.0,Hawaii,Honolulu County,6,11,UT
+49049,49,49,Utah,Utah County,15003,15.0,3.0,Hawaii,Honolulu County,2,5,UT
+49035,49,35,Utah,Salt Lake County,15007,15.0,7.0,Hawaii,Kauai County,7,13,UT
+49005,49,5,Utah,Cache County,16001,16.0,1.0,Idaho,Ada County,10,11,UT
+49011,49,11,Utah,Davis County,16001,16.0,1.0,Idaho,Ada County,26,25,UT
+49035,49,35,Utah,Salt Lake County,16001,16.0,1.0,Idaho,Ada County,65,65,UT
+49037,49,37,Utah,San Juan County,16001,16.0,1.0,Idaho,Ada County,3,4,UT
+49049,49,49,Utah,Utah County,16001,16.0,1.0,Idaho,Ada County,50,44,UT
+49057,49,57,Utah,Weber County,16001,16.0,1.0,Idaho,Ada County,17,20,UT
+49003,49,3,Utah,Box Elder County,16005,16.0,5.0,Idaho,Bannock County,6,6,UT
+49005,49,5,Utah,Cache County,16005,16.0,5.0,Idaho,Bannock County,20,20,UT
+49049,49,49,Utah,Utah County,16005,16.0,5.0,Idaho,Bannock County,28,29,UT
+49003,49,3,Utah,Box Elder County,16007,16.0,7.0,Idaho,Bear Lake County,4,6,UT
+49005,49,5,Utah,Cache County,16007,16.0,7.0,Idaho,Bear Lake County,32,39,UT
+49011,49,11,Utah,Davis County,16007,16.0,7.0,Idaho,Bear Lake County,8,12,UT
+49049,49,49,Utah,Utah County,16007,16.0,7.0,Idaho,Bear Lake County,17,20,UT
+49057,49,57,Utah,Weber County,16007,16.0,7.0,Idaho,Bear Lake County,17,26,UT
+49003,49,3,Utah,Box Elder County,16011,16.0,11.0,Idaho,Bingham County,2,3,UT
+49005,49,5,Utah,Cache County,16011,16.0,11.0,Idaho,Bingham County,7,12,UT
+49049,49,49,Utah,Utah County,16011,16.0,11.0,Idaho,Bingham County,5,8,UT
+49057,49,57,Utah,Weber County,16011,16.0,11.0,Idaho,Bingham County,6,9,UT
+49035,49,35,Utah,Salt Lake County,16013,16.0,13.0,Idaho,Blaine County,6,10,UT
+49049,49,49,Utah,Utah County,16015,16.0,15.0,Idaho,Boise County,9,12,UT
+49057,49,57,Utah,Weber County,16017,16.0,17.0,Idaho,Bonner County,24,35,UT
+49035,49,35,Utah,Salt Lake County,16019,16.0,19.0,Idaho,Bonneville County,21,29,UT
+49045,49,45,Utah,Tooele County,16019,16.0,19.0,Idaho,Bonneville County,6,10,UT
+49047,49,47,Utah,Uintah County,16019,16.0,19.0,Idaho,Bonneville County,2,3,UT
+49049,49,49,Utah,Utah County,16019,16.0,19.0,Idaho,Bonneville County,8,13,UT
+49053,49,53,Utah,Washington County,16019,16.0,19.0,Idaho,Bonneville County,15,24,UT
+49049,49,49,Utah,Utah County,16021,16.0,21.0,Idaho,Boundary County,10,17,UT
+49049,49,49,Utah,Utah County,16027,16.0,27.0,Idaho,Canyon County,9,14,UT
+49003,49,3,Utah,Box Elder County,16029,16.0,29.0,Idaho,Caribou County,23,33,UT
+49005,49,5,Utah,Cache County,16029,16.0,29.0,Idaho,Caribou County,3,3,UT
+49033,49,33,Utah,Rich County,16029,16.0,29.0,Idaho,Caribou County,2,3,UT
+49049,49,49,Utah,Utah County,16029,16.0,29.0,Idaho,Caribou County,13,20,UT
+49003,49,3,Utah,Box Elder County,16031,16.0,31.0,Idaho,Cassia County,10,13,UT
+49029,49,29,Utah,Morgan County,16031,16.0,31.0,Idaho,Cassia County,4,6,UT
+49035,49,35,Utah,Salt Lake County,16031,16.0,31.0,Idaho,Cassia County,7,11,UT
+49017,49,17,Utah,Garfield County,16039,16.0,39.0,Idaho,Elmore County,2,2,UT
+49003,49,3,Utah,Box Elder County,16041,16.0,41.0,Idaho,Franklin County,21,16,UT
+49005,49,5,Utah,Cache County,16041,16.0,41.0,Idaho,Franklin County,314,95,UT
+49057,49,57,Utah,Weber County,16041,16.0,41.0,Idaho,Franklin County,8,13,UT
+49033,49,33,Utah,Rich County,16051,16.0,51.0,Idaho,Jefferson County,2,3,UT
+49003,49,3,Utah,Box Elder County,16065,16.0,65.0,Idaho,Madison County,4,4,UT
+49005,49,5,Utah,Cache County,16065,16.0,65.0,Idaho,Madison County,22,25,UT
+49049,49,49,Utah,Utah County,16065,16.0,65.0,Idaho,Madison County,14,24,UT
+49049,49,49,Utah,Utah County,16067,16.0,67.0,Idaho,Minidoka County,22,23,UT
+49003,49,3,Utah,Box Elder County,16071,16.0,71.0,Idaho,Oneida County,6,8,UT
+49005,49,5,Utah,Cache County,16071,16.0,71.0,Idaho,Oneida County,9,13,UT
+49049,49,49,Utah,Utah County,16075,16.0,75.0,Idaho,Payette County,7,10,UT
+49057,49,57,Utah,Weber County,16075,16.0,75.0,Idaho,Payette County,30,47,UT
+49035,49,35,Utah,Salt Lake County,16079,16.0,79.0,Idaho,Shoshone County,9,15,UT
+49005,49,5,Utah,Cache County,16083,16.0,83.0,Idaho,Twin Falls County,8,17,UT
+49035,49,35,Utah,Salt Lake County,17001,17.0,1.0,Illinois,Adams County,23,34,UT
+49035,49,35,Utah,Salt Lake County,17031,17.0,31.0,Illinois,Cook County,23,25,UT
+49043,49,43,Utah,Summit County,17031,17.0,31.0,Illinois,Cook County,21,21,UT
+49049,49,49,Utah,Utah County,17031,17.0,31.0,Illinois,Cook County,97,88,UT
+49053,49,53,Utah,Washington County,17031,17.0,31.0,Illinois,Cook County,17,26,UT
+49057,49,57,Utah,Weber County,17031,17.0,31.0,Illinois,Cook County,11,18,UT
+49035,49,35,Utah,Salt Lake County,17043,17.0,43.0,Illinois,DuPage County,17,20,UT
+49053,49,53,Utah,Washington County,17043,17.0,43.0,Illinois,DuPage County,16,28,UT
+49057,49,57,Utah,Weber County,17043,17.0,43.0,Illinois,DuPage County,17,26,UT
+49035,49,35,Utah,Salt Lake County,17097,17.0,97.0,Illinois,Lake County,14,23,UT
+49011,49,11,Utah,Davis County,17179,17.0,179.0,Illinois,Tazewell County,12,19,UT
+49035,49,35,Utah,Salt Lake County,18039,18.0,39.0,Indiana,Elkhart County,6,10,UT
+49053,49,53,Utah,Washington County,18039,18.0,39.0,Indiana,Elkhart County,44,65,UT
+49035,49,35,Utah,Salt Lake County,18057,18.0,57.0,Indiana,Hamilton County,7,13,UT
+49011,49,11,Utah,Davis County,18089,18.0,89.0,Indiana,Lake County,13,21,UT
+49043,49,43,Utah,Summit County,18097,18.0,97.0,Indiana,Marion County,15,23,UT
+49035,49,35,Utah,Salt Lake County,18105,18.0,105.0,Indiana,Monroe County,8,13,UT
+49035,49,35,Utah,Salt Lake County,18157,18.0,157.0,Indiana,Tippecanoe County,13,18,UT
+49035,49,35,Utah,Salt Lake County,18163,18.0,163.0,Indiana,Vanderburgh County,8,12,UT
+49049,49,49,Utah,Utah County,19103,19.0,103.0,Iowa,Johnson County,5,8,UT
+49053,49,53,Utah,Washington County,19103,19.0,103.0,Iowa,Johnson County,33,56,UT
+49035,49,35,Utah,Salt Lake County,19113,19.0,113.0,Iowa,Linn County,42,68,UT
+49005,49,5,Utah,Cache County,19153,19.0,153.0,Iowa,Polk County,19,23,UT
+49035,49,35,Utah,Salt Lake County,19193,19.0,193.0,Iowa,Woodbury County,10,16,UT
+49035,49,35,Utah,Salt Lake County,20161,20.0,161.0,Kansas,Riley County,7,11,UT
+49035,49,35,Utah,Salt Lake County,20173,20.0,173.0,Kansas,Sedgwick County,4,6,UT
+49049,49,49,Utah,Utah County,20173,20.0,173.0,Kansas,Sedgwick County,25,34,UT
+49053,49,53,Utah,Washington County,21017,21.0,17.0,Kentucky,Bourbon County,1,3,UT
+49035,49,35,Utah,Salt Lake County,21111,21.0,111.0,Kentucky,Jefferson County,15,23,UT
+49057,49,57,Utah,Weber County,21111,21.0,111.0,Kentucky,Jefferson County,11,16,UT
+49049,49,49,Utah,Utah County,21113,21.0,113.0,Kentucky,Jessamine County,5,8,UT
+49035,49,35,Utah,Salt Lake County,21161,21.0,161.0,Kentucky,Mason County,7,11,UT
+49053,49,53,Utah,Washington County,21173,21.0,173.0,Kentucky,Montgomery County,1,2,UT
+49035,49,35,Utah,Salt Lake County,22019,22.0,19.0,Louisiana,Calcasieu Parish,29,43,UT
+49035,49,35,Utah,Salt Lake County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,63,79,UT
+49049,49,49,Utah,Utah County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,9,14,UT
+49035,49,35,Utah,Salt Lake County,22071,22.0,71.0,Louisiana,Orleans Parish,49,80,UT
+49049,49,49,Utah,Utah County,22071,22.0,71.0,Louisiana,Orleans Parish,18,21,UT
+49057,49,57,Utah,Weber County,22109,22.0,109.0,Louisiana,Terrebonne Parish,17,28,UT
+49049,49,49,Utah,Utah County,23001,23.0,1.0,Maine,Androscoggin County,4,5,UT
+49035,49,35,Utah,Salt Lake County,23005,23.0,5.0,Maine,Cumberland County,8,11,UT
+49043,49,43,Utah,Summit County,23025,23.0,25.0,Maine,Somerset County,2,4,UT
+49023,49,23,Utah,Juab County,23029,23.0,29.0,Maine,Washington County,11,19,UT
+49049,49,49,Utah,Utah County,24003,24.0,3.0,Maryland,Anne Arundel County,10,15,UT
+49045,49,45,Utah,Tooele County,24005,24.0,5.0,Maryland,Baltimore County,11,18,UT
+49011,49,11,Utah,Davis County,24025,24.0,25.0,Maryland,Harford County,9,14,UT
+49011,49,11,Utah,Davis County,24027,24.0,27.0,Maryland,Howard County,11,15,UT
+49005,49,5,Utah,Cache County,24031,24.0,31.0,Maryland,Montgomery County,8,13,UT
+49043,49,43,Utah,Summit County,24031,24.0,31.0,Maryland,Montgomery County,5,8,UT
+49049,49,49,Utah,Utah County,24031,24.0,31.0,Maryland,Montgomery County,9,11,UT
+49011,49,11,Utah,Davis County,24037,24.0,37.0,Maryland,St. Mary's County,11,19,UT
+49035,49,35,Utah,Salt Lake County,25009,25.0,9.0,Massachusetts,Essex County,22,35,UT
+49043,49,43,Utah,Summit County,25009,25.0,9.0,Massachusetts,Essex County,7,12,UT
+49011,49,11,Utah,Davis County,25017,25.0,17.0,Massachusetts,Middlesex County,7,11,UT
+49035,49,35,Utah,Salt Lake County,25017,25.0,17.0,Massachusetts,Middlesex County,33,41,UT
+49051,49,51,Utah,Wasatch County,25019,25.0,19.0,Massachusetts,Nantucket County,44,72,UT
+49011,49,11,Utah,Davis County,25021,25.0,21.0,Massachusetts,Norfolk County,30,47,UT
+49057,49,57,Utah,Weber County,25021,25.0,21.0,Massachusetts,Norfolk County,6,9,UT
+49049,49,49,Utah,Utah County,25023,25.0,23.0,Massachusetts,Plymouth County,8,14,UT
+49035,49,35,Utah,Salt Lake County,25025,25.0,25.0,Massachusetts,Suffolk County,46,53,UT
+49043,49,43,Utah,Summit County,25025,25.0,25.0,Massachusetts,Suffolk County,8,13,UT
+49053,49,53,Utah,Washington County,25025,25.0,25.0,Massachusetts,Suffolk County,16,26,UT
+49057,49,57,Utah,Weber County,25025,25.0,25.0,Massachusetts,Suffolk County,8,12,UT
+49035,49,35,Utah,Salt Lake County,26013,26.0,13.0,Michigan,Baraga County,7,11,UT
+49057,49,57,Utah,Weber County,26099,26.0,99.0,Michigan,Macomb County,8,12,UT
+49049,49,49,Utah,Utah County,26155,26.0,155.0,Michigan,Shiawassee County,6,9,UT
+49035,49,35,Utah,Salt Lake County,26161,26.0,161.0,Michigan,Washtenaw County,5,8,UT
+49011,49,11,Utah,Davis County,26163,26.0,163.0,Michigan,Wayne County,10,15,UT
+49043,49,43,Utah,Summit County,26163,26.0,163.0,Michigan,Wayne County,10,16,UT
+49051,49,51,Utah,Wasatch County,26163,26.0,163.0,Michigan,Wayne County,34,53,UT
+49035,49,35,Utah,Salt Lake County,27003,27.0,3.0,Minnesota,Anoka County,12,18,UT
+49005,49,5,Utah,Cache County,27023,27.0,23.0,Minnesota,Chippewa County,5,9,UT
+49045,49,45,Utah,Tooele County,27037,27.0,37.0,Minnesota,Dakota County,10,16,UT
+49011,49,11,Utah,Davis County,27053,27.0,53.0,Minnesota,Hennepin County,44,69,UT
+49045,49,45,Utah,Tooele County,27053,27.0,53.0,Minnesota,Hennepin County,14,23,UT
+49049,49,49,Utah,Utah County,27053,27.0,53.0,Minnesota,Hennepin County,5,8,UT
+49035,49,35,Utah,Salt Lake County,27123,27.0,123.0,Minnesota,Ramsey County,6,9,UT
+49051,49,51,Utah,Wasatch County,27123,27.0,123.0,Minnesota,Ramsey County,19,29,UT
+49035,49,35,Utah,Salt Lake County,27145,27.0,145.0,Minnesota,Stearns County,11,17,UT
+49035,49,35,Utah,Salt Lake County,27157,27.0,157.0,Minnesota,Wabasha County,10,17,UT
+49011,49,11,Utah,Davis County,27163,27.0,163.0,Minnesota,Washington County,17,27,UT
+49041,49,41,Utah,Sevier County,27171,27.0,171.0,Minnesota,Wright County,19,27,UT
+49011,49,11,Utah,Davis County,28047,28.0,47.0,Mississippi,Harrison County,43,68,UT
+49035,49,35,Utah,Salt Lake County,28047,28.0,47.0,Mississippi,Harrison County,5,8,UT
+49035,49,35,Utah,Salt Lake County,28049,28.0,49.0,Mississippi,Hinds County,8,12,UT
+49035,49,35,Utah,Salt Lake County,28089,28.0,89.0,Mississippi,Madison County,1,3,UT
+49041,49,41,Utah,Sevier County,28113,28.0,113.0,Mississippi,Pike County,1,2,UT
+49035,49,35,Utah,Salt Lake County,29077,29.0,77.0,Missouri,Greene County,12,20,UT
+49035,49,35,Utah,Salt Lake County,29095,29.0,95.0,Missouri,Jackson County,11,16,UT
+49003,49,3,Utah,Box Elder County,29169,29.0,169.0,Missouri,Pulaski County,3,4,UT
+49049,49,49,Utah,Utah County,29169,29.0,169.0,Missouri,Pulaski County,9,15,UT
+49049,49,49,Utah,Utah County,29189,29.0,189.0,Missouri,St. Louis County,6,9,UT
+49039,49,39,Utah,Sanpete County,30009,30.0,9.0,Montana,Carbon County,3,5,UT
+49035,49,35,Utah,Salt Lake County,30013,30.0,13.0,Montana,Cascade County,11,18,UT
+49045,49,45,Utah,Tooele County,30013,30.0,13.0,Montana,Cascade County,27,40,UT
+49049,49,49,Utah,Utah County,30031,30.0,31.0,Montana,Gallatin County,3,5,UT
+49053,49,53,Utah,Washington County,30031,30.0,31.0,Montana,Gallatin County,9,14,UT
+49031,49,31,Utah,Piute County,30035,30.0,35.0,Montana,Glacier County,4,5,UT
+49035,49,35,Utah,Salt Lake County,30035,30.0,35.0,Montana,Glacier County,10,15,UT
+49057,49,57,Utah,Weber County,30049,30.0,49.0,Montana,Lewis and Clark County,15,25,UT
+49005,49,5,Utah,Cache County,30063,30.0,63.0,Montana,Missoula County,9,14,UT
+49035,49,35,Utah,Salt Lake County,30063,30.0,63.0,Montana,Missoula County,35,46,UT
+49057,49,57,Utah,Weber County,30063,30.0,63.0,Montana,Missoula County,18,28,UT
+49035,49,35,Utah,Salt Lake County,30083,30.0,83.0,Montana,Richland County,46,74,UT
+49049,49,49,Utah,Utah County,30087,30.0,87.0,Montana,Rosebud County,33,42,UT
+49035,49,35,Utah,Salt Lake County,30111,30.0,111.0,Montana,Yellowstone County,13,20,UT
+49041,49,41,Utah,Sevier County,30111,30.0,111.0,Montana,Yellowstone County,37,38,UT
+49049,49,49,Utah,Utah County,30111,30.0,111.0,Montana,Yellowstone County,4,9,UT
+49057,49,57,Utah,Weber County,30111,30.0,111.0,Montana,Yellowstone County,14,21,UT
+49057,49,57,Utah,Weber County,31013,31.0,13.0,Nebraska,Box Butte County,12,18,UT
+49049,49,49,Utah,Utah County,31031,31.0,31.0,Nebraska,Cherry County,4,8,UT
+49011,49,11,Utah,Davis County,31055,31.0,55.0,Nebraska,Douglas County,7,11,UT
+49015,49,15,Utah,Emery County,31055,31.0,55.0,Nebraska,Douglas County,8,12,UT
+49021,49,21,Utah,Iron County,31055,31.0,55.0,Nebraska,Douglas County,1,4,UT
+49027,49,27,Utah,Millard County,31055,31.0,55.0,Nebraska,Douglas County,3,6,UT
+49057,49,57,Utah,Weber County,31055,31.0,55.0,Nebraska,Douglas County,24,28,UT
+49035,49,35,Utah,Salt Lake County,31079,31.0,79.0,Nebraska,Hall County,16,25,UT
+49005,49,5,Utah,Cache County,31153,31.0,153.0,Nebraska,Sarpy County,6,9,UT
+49045,49,45,Utah,Tooele County,32001,32.0,1.0,Nevada,Churchill County,8,14,UT
+49001,49,1,Utah,Beaver County,32003,32.0,3.0,Nevada,Clark County,4,7,UT
+49003,49,3,Utah,Box Elder County,32003,32.0,3.0,Nevada,Clark County,2,4,UT
+49005,49,5,Utah,Cache County,32003,32.0,3.0,Nevada,Clark County,34,35,UT
+49011,49,11,Utah,Davis County,32003,32.0,3.0,Nevada,Clark County,23,23,UT
+49017,49,17,Utah,Garfield County,32003,32.0,3.0,Nevada,Clark County,8,12,UT
+49021,49,21,Utah,Iron County,32003,32.0,3.0,Nevada,Clark County,140,100,UT
+49025,49,25,Utah,Kane County,32003,32.0,3.0,Nevada,Clark County,5,7,UT
+49027,49,27,Utah,Millard County,32003,32.0,3.0,Nevada,Clark County,4,10,UT
+49031,49,31,Utah,Piute County,32003,32.0,3.0,Nevada,Clark County,2,2,UT
+49035,49,35,Utah,Salt Lake County,32003,32.0,3.0,Nevada,Clark County,107,60,UT
+49039,49,39,Utah,Sanpete County,32003,32.0,3.0,Nevada,Clark County,3,5,UT
+49041,49,41,Utah,Sevier County,32003,32.0,3.0,Nevada,Clark County,2,2,UT
+49043,49,43,Utah,Summit County,32003,32.0,3.0,Nevada,Clark County,13,14,UT
+49049,49,49,Utah,Utah County,32003,32.0,3.0,Nevada,Clark County,52,40,UT
+49051,49,51,Utah,Wasatch County,32003,32.0,3.0,Nevada,Clark County,1,3,UT
+49053,49,53,Utah,Washington County,32003,32.0,3.0,Nevada,Clark County,1009,259,UT
+49003,49,3,Utah,Box Elder County,32007,32.0,7.0,Nevada,Elko County,4,4,UT
+49005,49,5,Utah,Cache County,32007,32.0,7.0,Nevada,Elko County,18,22,UT
+49007,49,7,Utah,Carbon County,32007,32.0,7.0,Nevada,Elko County,13,18,UT
+49011,49,11,Utah,Davis County,32007,32.0,7.0,Nevada,Elko County,34,38,UT
+49023,49,23,Utah,Juab County,32007,32.0,7.0,Nevada,Elko County,26,36,UT
+49029,49,29,Utah,Morgan County,32007,32.0,7.0,Nevada,Elko County,11,18,UT
+49035,49,35,Utah,Salt Lake County,32007,32.0,7.0,Nevada,Elko County,119,86,UT
+49041,49,41,Utah,Sevier County,32007,32.0,7.0,Nevada,Elko County,13,22,UT
+49043,49,43,Utah,Summit County,32007,32.0,7.0,Nevada,Elko County,13,20,UT
+49045,49,45,Utah,Tooele County,32007,32.0,7.0,Nevada,Elko County,521,161,UT
+49049,49,49,Utah,Utah County,32007,32.0,7.0,Nevada,Elko County,15,19,UT
+49053,49,53,Utah,Washington County,32007,32.0,7.0,Nevada,Elko County,19,29,UT
+49057,49,57,Utah,Weber County,32007,32.0,7.0,Nevada,Elko County,13,21,UT
+49045,49,45,Utah,Tooele County,32013,32.0,13.0,Nevada,Humboldt County,8,13,UT
+49021,49,21,Utah,Iron County,32017,32.0,17.0,Nevada,Lincoln County,10,15,UT
+49053,49,53,Utah,Washington County,32017,32.0,17.0,Nevada,Lincoln County,9,11,UT
+49057,49,57,Utah,Weber County,32017,32.0,17.0,Nevada,Lincoln County,1,7,UT
+49053,49,53,Utah,Washington County,32023,32.0,23.0,Nevada,Nye County,15,26,UT
+49011,49,11,Utah,Davis County,32031,32.0,31.0,Nevada,Washoe County,14,22,UT
+49057,49,57,Utah,Weber County,32031,32.0,31.0,Nevada,Washoe County,3,5,UT
+49023,49,23,Utah,Juab County,32033,32.0,33.0,Nevada,White Pine County,4,6,UT
+49035,49,35,Utah,Salt Lake County,32033,32.0,33.0,Nevada,White Pine County,52,52,UT
+49053,49,53,Utah,Washington County,32033,32.0,33.0,Nevada,White Pine County,9,15,UT
+49057,49,57,Utah,Weber County,32033,32.0,33.0,Nevada,White Pine County,38,46,UT
+49035,49,35,Utah,Salt Lake County,32510,32.0,510.0,Nevada,Carson City,8,12,UT
+49043,49,43,Utah,Summit County,33009,33.0,9.0,New Hampshire,Grafton County,6,11,UT
+49035,49,35,Utah,Salt Lake County,33011,33.0,11.0,New Hampshire,Hillsborough County,7,12,UT
+49035,49,35,Utah,Salt Lake County,34013,34.0,13.0,New Jersey,Essex County,13,14,UT
+49053,49,53,Utah,Washington County,34013,34.0,13.0,New Jersey,Essex County,15,23,UT
+49011,49,11,Utah,Davis County,34021,34.0,21.0,New Jersey,Mercer County,17,26,UT
+49035,49,35,Utah,Salt Lake County,34023,34.0,23.0,New Jersey,Middlesex County,10,16,UT
+49035,49,35,Utah,Salt Lake County,34025,34.0,25.0,New Jersey,Monmouth County,18,28,UT
+49035,49,35,Utah,Salt Lake County,34027,34.0,27.0,New Jersey,Morris County,8,13,UT
+49011,49,11,Utah,Davis County,34031,34.0,31.0,New Jersey,Passaic County,8,14,UT
+49049,49,49,Utah,Utah County,34031,34.0,31.0,New Jersey,Passaic County,8,13,UT
+49005,49,5,Utah,Cache County,34035,34.0,35.0,New Jersey,Somerset County,20,22,UT
+49035,49,35,Utah,Salt Lake County,35001,35.0,1.0,New Mexico,Bernalillo County,9,19,UT
+49049,49,49,Utah,Utah County,35001,35.0,1.0,New Mexico,Bernalillo County,6,9,UT
+49051,49,51,Utah,Wasatch County,35015,35.0,15.0,New Mexico,Eddy County,25,34,UT
+49049,49,49,Utah,Utah County,35023,35.0,23.0,New Mexico,Hidalgo County,5,7,UT
+49039,49,39,Utah,Sanpete County,35025,35.0,25.0,New Mexico,Lea County,7,10,UT
+49037,49,37,Utah,San Juan County,35029,35.0,29.0,New Mexico,Luna County,15,13,UT
+49035,49,35,Utah,Salt Lake County,35031,35.0,31.0,New Mexico,McKinley County,13,20,UT
+49035,49,35,Utah,Salt Lake County,35043,35.0,43.0,New Mexico,Sandoval County,7,10,UT
+49037,49,37,Utah,San Juan County,35045,35.0,45.0,New Mexico,San Juan County,85,36,UT
+49039,49,39,Utah,Sanpete County,35045,35.0,45.0,New Mexico,San Juan County,14,17,UT
+49019,49,19,Utah,Grand County,35049,35.0,49.0,New Mexico,Santa Fe County,15,27,UT
+49011,49,11,Utah,Davis County,35055,35.0,55.0,New Mexico,Taos County,14,22,UT
+49037,49,37,Utah,San Juan County,35055,35.0,55.0,New Mexico,Taos County,2,3,UT
+49035,49,35,Utah,Salt Lake County,36029,36.0,29.0,New York,Erie County,12,18,UT
+49035,49,35,Utah,Salt Lake County,36047,36.0,47.0,New York,Kings County,22,36,UT
+49043,49,43,Utah,Summit County,36047,36.0,47.0,New York,Kings County,3,6,UT
+49049,49,49,Utah,Utah County,36047,36.0,47.0,New York,Kings County,23,36,UT
+49005,49,5,Utah,Cache County,36055,36.0,55.0,New York,Monroe County,11,17,UT
+49035,49,35,Utah,Salt Lake County,36055,36.0,55.0,New York,Monroe County,6,9,UT
+49011,49,11,Utah,Davis County,36059,36.0,59.0,New York,Nassau County,8,13,UT
+49011,49,11,Utah,Davis County,36061,36.0,61.0,New York,New York County,8,13,UT
+49035,49,35,Utah,Salt Lake County,36061,36.0,61.0,New York,New York County,16,18,UT
+49049,49,49,Utah,Utah County,36061,36.0,61.0,New York,New York County,59,94,UT
+49051,49,51,Utah,Wasatch County,36061,36.0,61.0,New York,New York County,6,10,UT
+49041,49,41,Utah,Sevier County,36065,36.0,65.0,New York,Oneida County,1,3,UT
+49053,49,53,Utah,Washington County,36065,36.0,65.0,New York,Oneida County,8,13,UT
+49035,49,35,Utah,Salt Lake County,36081,36.0,81.0,New York,Queens County,7,11,UT
+49043,49,43,Utah,Summit County,36081,36.0,81.0,New York,Queens County,22,26,UT
+49051,49,51,Utah,Wasatch County,36081,36.0,81.0,New York,Queens County,25,27,UT
+49057,49,57,Utah,Weber County,36081,36.0,81.0,New York,Queens County,21,25,UT
+49003,49,3,Utah,Box Elder County,36093,36.0,93.0,New York,Schenectady County,4,7,UT
+49049,49,49,Utah,Utah County,36119,36.0,119.0,New York,Westchester County,7,11,UT
+49035,49,35,Utah,Salt Lake County,37067,37.0,67.0,North Carolina,Forsyth County,8,13,UT
+49035,49,35,Utah,Salt Lake County,37119,37.0,119.0,North Carolina,Mecklenburg County,24,26,UT
+49007,49,7,Utah,Carbon County,37157,37.0,157.0,North Carolina,Rockingham County,19,28,UT
+49013,49,13,Utah,Duchesne County,38017,38.0,17.0,North Dakota,Cass County,3,5,UT
+49023,49,23,Utah,Juab County,38017,38.0,17.0,North Dakota,Cass County,2,3,UT
+49033,49,33,Utah,Rich County,38017,38.0,17.0,North Dakota,Cass County,5,7,UT
+49035,49,35,Utah,Salt Lake County,38017,38.0,17.0,North Dakota,Cass County,26,27,UT
+49041,49,41,Utah,Sevier County,38017,38.0,17.0,North Dakota,Cass County,9,10,UT
+49053,49,53,Utah,Washington County,38017,38.0,17.0,North Dakota,Cass County,102,137,UT
+49057,49,57,Utah,Weber County,38017,38.0,17.0,North Dakota,Cass County,7,12,UT
+49021,49,21,Utah,Iron County,38025,38.0,25.0,North Dakota,Dunn County,13,22,UT
+49035,49,35,Utah,Salt Lake County,38025,38.0,25.0,North Dakota,Dunn County,27,32,UT
+49049,49,49,Utah,Utah County,38035,38.0,35.0,North Dakota,Grand Forks County,10,15,UT
+49017,49,17,Utah,Garfield County,38053,38.0,53.0,North Dakota,McKenzie County,2,3,UT
+49035,49,35,Utah,Salt Lake County,38053,38.0,53.0,North Dakota,McKenzie County,10,17,UT
+49049,49,49,Utah,Utah County,38053,38.0,53.0,North Dakota,McKenzie County,20,18,UT
+49053,49,53,Utah,Washington County,38053,38.0,53.0,North Dakota,McKenzie County,14,21,UT
+49011,49,11,Utah,Davis County,38059,38.0,59.0,North Dakota,Morton County,27,41,UT
+49013,49,13,Utah,Duchesne County,38061,38.0,61.0,North Dakota,Mountrail County,4,6,UT
+49049,49,49,Utah,Utah County,38061,38.0,61.0,North Dakota,Mountrail County,6,9,UT
+49053,49,53,Utah,Washington County,38061,38.0,61.0,North Dakota,Mountrail County,4,5,UT
+49053,49,53,Utah,Washington County,38089,38.0,89.0,North Dakota,Stark County,11,18,UT
+49057,49,57,Utah,Weber County,38089,38.0,89.0,North Dakota,Stark County,9,14,UT
+49005,49,5,Utah,Cache County,38101,38.0,101.0,North Dakota,Ward County,24,24,UT
+49011,49,11,Utah,Davis County,38101,38.0,101.0,North Dakota,Ward County,46,68,UT
+49035,49,35,Utah,Salt Lake County,38101,38.0,101.0,North Dakota,Ward County,7,12,UT
+49043,49,43,Utah,Summit County,38101,38.0,101.0,North Dakota,Ward County,3,6,UT
+49047,49,47,Utah,Uintah County,38101,38.0,101.0,North Dakota,Ward County,17,22,UT
+49049,49,49,Utah,Utah County,38101,38.0,101.0,North Dakota,Ward County,16,21,UT
+49003,49,3,Utah,Box Elder County,38105,38.0,105.0,North Dakota,Williams County,21,16,UT
+49005,49,5,Utah,Cache County,38105,38.0,105.0,North Dakota,Williams County,39,44,UT
+49013,49,13,Utah,Duchesne County,38105,38.0,105.0,North Dakota,Williams County,11,11,UT
+49015,49,15,Utah,Emery County,38105,38.0,105.0,North Dakota,Williams County,4,6,UT
+49017,49,17,Utah,Garfield County,38105,38.0,105.0,North Dakota,Williams County,6,9,UT
+49021,49,21,Utah,Iron County,38105,38.0,105.0,North Dakota,Williams County,28,34,UT
+49025,49,25,Utah,Kane County,38105,38.0,105.0,North Dakota,Williams County,1,3,UT
+49035,49,35,Utah,Salt Lake County,38105,38.0,105.0,North Dakota,Williams County,38,31,UT
+49039,49,39,Utah,Sanpete County,38105,38.0,105.0,North Dakota,Williams County,6,7,UT
+49041,49,41,Utah,Sevier County,38105,38.0,105.0,North Dakota,Williams County,2,3,UT
+49045,49,45,Utah,Tooele County,38105,38.0,105.0,North Dakota,Williams County,1,2,UT
+49047,49,47,Utah,Uintah County,38105,38.0,105.0,North Dakota,Williams County,27,32,UT
+49049,49,49,Utah,Utah County,38105,38.0,105.0,North Dakota,Williams County,80,53,UT
+49053,49,53,Utah,Washington County,38105,38.0,105.0,North Dakota,Williams County,34,53,UT
+49057,49,57,Utah,Weber County,38105,38.0,105.0,North Dakota,Williams County,21,27,UT
+49035,49,35,Utah,Salt Lake County,39017,39.0,17.0,Ohio,Butler County,7,10,UT
+49057,49,57,Utah,Weber County,39017,39.0,17.0,Ohio,Butler County,7,12,UT
+49035,49,35,Utah,Salt Lake County,39035,39.0,35.0,Ohio,Cuyahoga County,34,38,UT
+49049,49,49,Utah,Utah County,39035,39.0,35.0,Ohio,Cuyahoga County,10,16,UT
+49035,49,35,Utah,Salt Lake County,39049,39.0,49.0,Ohio,Franklin County,14,22,UT
+49043,49,43,Utah,Summit County,39063,39.0,63.0,Ohio,Hancock County,10,20,UT
+49035,49,35,Utah,Salt Lake County,39113,39.0,113.0,Ohio,Montgomery County,13,22,UT
+49005,49,5,Utah,Cache County,40031,40.0,31.0,Oklahoma,Comanche County,8,15,UT
+49049,49,49,Utah,Utah County,40047,40.0,47.0,Oklahoma,Garfield County,5,9,UT
+49035,49,35,Utah,Salt Lake County,40103,40.0,103.0,Oklahoma,Noble County,16,25,UT
+49005,49,5,Utah,Cache County,40109,40.0,109.0,Oklahoma,Oklahoma County,17,26,UT
+49049,49,49,Utah,Utah County,40109,40.0,109.0,Oklahoma,Oklahoma County,16,22,UT
+49035,49,35,Utah,Salt Lake County,40117,40.0,117.0,Oklahoma,Pawnee County,24,38,UT
+49053,49,53,Utah,Washington County,40123,40.0,123.0,Oklahoma,Pontotoc County,15,23,UT
+49005,49,5,Utah,Cache County,40143,40.0,143.0,Oklahoma,Tulsa County,7,10,UT
+49035,49,35,Utah,Salt Lake County,40143,40.0,143.0,Oklahoma,Tulsa County,7,10,UT
+49049,49,49,Utah,Utah County,40143,40.0,143.0,Oklahoma,Tulsa County,20,33,UT
+49035,49,35,Utah,Salt Lake County,41005,41.0,5.0,Oregon,Clackamas County,20,27,UT
+49043,49,43,Utah,Summit County,41005,41.0,5.0,Oregon,Clackamas County,4,5,UT
+49057,49,57,Utah,Weber County,41005,41.0,5.0,Oregon,Clackamas County,11,18,UT
+49035,49,35,Utah,Salt Lake County,41029,41.0,29.0,Oregon,Jackson County,13,20,UT
+49049,49,49,Utah,Utah County,41045,41.0,45.0,Oregon,Malheur County,2,4,UT
+49035,49,35,Utah,Salt Lake County,41047,41.0,47.0,Oregon,Marion County,11,16,UT
+49011,49,11,Utah,Davis County,41051,41.0,51.0,Oregon,Multnomah County,27,41,UT
+49035,49,35,Utah,Salt Lake County,41051,41.0,51.0,Oregon,Multnomah County,34,35,UT
+49049,49,49,Utah,Utah County,41051,41.0,51.0,Oregon,Multnomah County,9,13,UT
+49005,49,5,Utah,Cache County,42003,42.0,3.0,Pennsylvania,Allegheny County,3,4,UT
+49011,49,11,Utah,Davis County,42003,42.0,3.0,Pennsylvania,Allegheny County,10,18,UT
+49035,49,35,Utah,Salt Lake County,42003,42.0,3.0,Pennsylvania,Allegheny County,8,12,UT
+49003,49,3,Utah,Box Elder County,42017,42.0,17.0,Pennsylvania,Bucks County,2,4,UT
+49009,49,9,Utah,Daggett County,42043,42.0,43.0,Pennsylvania,Dauphin County,5,7,UT
+49051,49,51,Utah,Wasatch County,42049,42.0,49.0,Pennsylvania,Erie County,7,10,UT
+49035,49,35,Utah,Salt Lake County,42077,42.0,77.0,Pennsylvania,Lehigh County,4,7,UT
+49057,49,57,Utah,Weber County,42089,42.0,89.0,Pennsylvania,Monroe County,6,9,UT
+49007,49,7,Utah,Carbon County,42091,42.0,91.0,Pennsylvania,Montgomery County,22,34,UT
+49045,49,45,Utah,Tooele County,42091,42.0,91.0,Pennsylvania,Montgomery County,5,10,UT
+49039,49,39,Utah,Sanpete County,42101,42.0,101.0,Pennsylvania,Philadelphia County,3,5,UT
+49049,49,49,Utah,Utah County,42101,42.0,101.0,Pennsylvania,Philadelphia County,8,12,UT
+49057,49,57,Utah,Weber County,42127,42.0,127.0,Pennsylvania,Wayne County,17,27,UT
+49057,49,57,Utah,Weber County,45019,45.0,19.0,South Carolina,Charleston County,6,10,UT
+49011,49,11,Utah,Davis County,45045,45.0,45.0,South Carolina,Greenville County,29,46,UT
+49049,49,49,Utah,Utah County,45045,45.0,45.0,South Carolina,Greenville County,5,9,UT
+49011,49,11,Utah,Davis County,45079,45.0,79.0,South Carolina,Richland County,9,13,UT
+49021,49,21,Utah,Iron County,46079,46.0,79.0,South Dakota,Lake County,24,38,UT
+49011,49,11,Utah,Davis County,46099,46.0,99.0,South Dakota,Minnehaha County,6,10,UT
+49017,49,17,Utah,Garfield County,46099,46.0,99.0,South Dakota,Minnehaha County,16,16,UT
+49043,49,43,Utah,Summit County,46103,46.0,103.0,South Dakota,Pennington County,11,17,UT
+49043,49,43,Utah,Summit County,47011,47.0,11.0,Tennessee,Bradley County,9,16,UT
+49035,49,35,Utah,Salt Lake County,47037,47.0,37.0,Tennessee,Davidson County,29,33,UT
+49049,49,49,Utah,Utah County,47037,47.0,37.0,Tennessee,Davidson County,20,22,UT
+49003,49,3,Utah,Box Elder County,47093,47.0,93.0,Tennessee,Knox County,20,30,UT
+49011,49,11,Utah,Davis County,47157,47.0,157.0,Tennessee,Shelby County,9,15,UT
+49035,49,35,Utah,Salt Lake County,47157,47.0,157.0,Tennessee,Shelby County,8,12,UT
+49049,49,49,Utah,Utah County,47157,47.0,157.0,Tennessee,Shelby County,11,17,UT
+49043,49,43,Utah,Summit County,47187,47.0,187.0,Tennessee,Williamson County,13,21,UT
+49041,49,41,Utah,Sevier County,48021,48.0,21.0,Texas,Bastrop County,2,3,UT
+49011,49,11,Utah,Davis County,48027,48.0,27.0,Texas,Bell County,42,67,UT
+49035,49,35,Utah,Salt Lake County,48027,48.0,27.0,Texas,Bell County,12,19,UT
+49021,49,21,Utah,Iron County,48029,48.0,29.0,Texas,Bexar County,28,36,UT
+49035,49,35,Utah,Salt Lake County,48029,48.0,29.0,Texas,Bexar County,27,26,UT
+49049,49,49,Utah,Utah County,48029,48.0,29.0,Texas,Bexar County,34,41,UT
+49057,49,57,Utah,Weber County,48029,48.0,29.0,Texas,Bexar County,15,24,UT
+49005,49,5,Utah,Cache County,48113,48.0,113.0,Texas,Dallas County,8,12,UT
+49029,49,29,Utah,Morgan County,48113,48.0,113.0,Texas,Dallas County,13,19,UT
+49035,49,35,Utah,Salt Lake County,48113,48.0,113.0,Texas,Dallas County,28,37,UT
+49037,49,37,Utah,San Juan County,48113,48.0,113.0,Texas,Dallas County,3,4,UT
+49043,49,43,Utah,Summit County,48113,48.0,113.0,Texas,Dallas County,17,27,UT
+49047,49,47,Utah,Uintah County,48113,48.0,113.0,Texas,Dallas County,5,7,UT
+49049,49,49,Utah,Utah County,48113,48.0,113.0,Texas,Dallas County,42,46,UT
+49051,49,51,Utah,Wasatch County,48113,48.0,113.0,Texas,Dallas County,32,48,UT
+49007,49,7,Utah,Carbon County,48135,48.0,135.0,Texas,Ector County,16,23,UT
+49027,49,27,Utah,Millard County,48141,48.0,141.0,Texas,El Paso County,8,12,UT
+49049,49,49,Utah,Utah County,48157,48.0,157.0,Texas,Fort Bend County,8,13,UT
+49049,49,49,Utah,Utah County,48163,48.0,163.0,Texas,Frio County,7,10,UT
+49041,49,41,Utah,Sevier County,48167,48.0,167.0,Texas,Galveston County,15,22,UT
+49003,49,3,Utah,Box Elder County,48201,48.0,201.0,Texas,Harris County,3,4,UT
+49005,49,5,Utah,Cache County,48201,48.0,201.0,Texas,Harris County,24,39,UT
+49007,49,7,Utah,Carbon County,48201,48.0,201.0,Texas,Harris County,3,4,UT
+49009,49,9,Utah,Daggett County,48201,48.0,201.0,Texas,Harris County,1,3,UT
+49011,49,11,Utah,Davis County,48201,48.0,201.0,Texas,Harris County,9,16,UT
+49017,49,17,Utah,Garfield County,48201,48.0,201.0,Texas,Harris County,4,5,UT
+49025,49,25,Utah,Kane County,48201,48.0,201.0,Texas,Harris County,6,10,UT
+49035,49,35,Utah,Salt Lake County,48201,48.0,201.0,Texas,Harris County,31,30,UT
+49041,49,41,Utah,Sevier County,48201,48.0,201.0,Texas,Harris County,21,29,UT
+49043,49,43,Utah,Summit County,48201,48.0,201.0,Texas,Harris County,5,7,UT
+49049,49,49,Utah,Utah County,48201,48.0,201.0,Texas,Harris County,43,39,UT
+49053,49,53,Utah,Washington County,48201,48.0,201.0,Texas,Harris County,69,59,UT
+49045,49,45,Utah,Tooele County,48215,48.0,215.0,Texas,Hidalgo County,4,6,UT
+49005,49,5,Utah,Cache County,48303,48.0,303.0,Texas,Lubbock County,14,20,UT
+49035,49,35,Utah,Salt Lake County,48329,48.0,329.0,Texas,Midland County,9,14,UT
+49039,49,39,Utah,Sanpete County,48329,48.0,329.0,Texas,Midland County,7,12,UT
+49041,49,41,Utah,Sevier County,48329,48.0,329.0,Texas,Midland County,6,9,UT
+49047,49,47,Utah,Uintah County,48339,48.0,339.0,Texas,Montgomery County,11,16,UT
+49053,49,53,Utah,Washington County,48363,48.0,363.0,Texas,Palo Pinto County,10,15,UT
+49019,49,19,Utah,Grand County,48371,48.0,371.0,Texas,Pecos County,2,5,UT
+49035,49,35,Utah,Salt Lake County,48375,48.0,375.0,Texas,Potter County,21,24,UT
+49049,49,49,Utah,Utah County,48375,48.0,375.0,Texas,Potter County,17,21,UT
+49005,49,5,Utah,Cache County,48439,48.0,439.0,Texas,Tarrant County,22,23,UT
+49011,49,11,Utah,Davis County,48439,48.0,439.0,Texas,Tarrant County,10,14,UT
+49057,49,57,Utah,Weber County,48439,48.0,439.0,Texas,Tarrant County,8,14,UT
+49011,49,11,Utah,Davis County,48453,48.0,453.0,Texas,Travis County,13,21,UT
+49035,49,35,Utah,Salt Lake County,48479,48.0,479.0,Texas,Webb County,50,61,UT
+49021,49,21,Utah,Iron County,48485,48.0,485.0,Texas,Wichita County,10,16,UT
+49049,49,49,Utah,Utah County,48491,48.0,491.0,Texas,Williamson County,4,7,UT
+49001,49,1,Utah,Beaver County,49001,49.0,1.0,Utah,Beaver County,2644,142,UT
+49015,49,15,Utah,Emery County,49001,49.0,1.0,Utah,Beaver County,3,4,UT
+49021,49,21,Utah,Iron County,49001,49.0,1.0,Utah,Beaver County,255,140,UT
+49027,49,27,Utah,Millard County,49001,49.0,1.0,Utah,Beaver County,43,34,UT
+49031,49,31,Utah,Piute County,49001,49.0,1.0,Utah,Beaver County,16,15,UT
+49041,49,41,Utah,Sevier County,49001,49.0,1.0,Utah,Beaver County,37,34,UT
+49045,49,45,Utah,Tooele County,49001,49.0,1.0,Utah,Beaver County,1,4,UT
+49049,49,49,Utah,Utah County,49001,49.0,1.0,Utah,Beaver County,35,32,UT
+49053,49,53,Utah,Washington County,49001,49.0,1.0,Utah,Beaver County,18,29,UT
+49055,49,55,Utah,Wayne County,49001,49.0,1.0,Utah,Beaver County,3,4,UT
+49003,49,3,Utah,Box Elder County,49003,49.0,3.0,Utah,Box Elder County,14040,582,UT
+49005,49,5,Utah,Cache County,49003,49.0,3.0,Utah,Box Elder County,1934,282,UT
+49011,49,11,Utah,Davis County,49003,49.0,3.0,Utah,Box Elder County,473,155,UT
+49029,49,29,Utah,Morgan County,49003,49.0,3.0,Utah,Box Elder County,14,19,UT
+49035,49,35,Utah,Salt Lake County,49003,49.0,3.0,Utah,Box Elder County,84,58,UT
+49041,49,41,Utah,Sevier County,49003,49.0,3.0,Utah,Box Elder County,5,7,UT
+49049,49,49,Utah,Utah County,49003,49.0,3.0,Utah,Box Elder County,19,30,UT
+49057,49,57,Utah,Weber County,49003,49.0,3.0,Utah,Box Elder County,1480,249,UT
+49003,49,3,Utah,Box Elder County,49005,49.0,5.0,Utah,Cache County,1100,196,UT
+49005,49,5,Utah,Cache County,49005,49.0,5.0,Utah,Cache County,49027,857,UT
+49007,49,7,Utah,Carbon County,49005,49.0,5.0,Utah,Cache County,6,11,UT
+49011,49,11,Utah,Davis County,49005,49.0,5.0,Utah,Cache County,226,89,UT
+49033,49,33,Utah,Rich County,49005,49.0,5.0,Utah,Cache County,13,14,UT
+49035,49,35,Utah,Salt Lake County,49005,49.0,5.0,Utah,Cache County,138,67,UT
+49039,49,39,Utah,Sanpete County,49005,49.0,5.0,Utah,Cache County,14,24,UT
+49041,49,41,Utah,Sevier County,49005,49.0,5.0,Utah,Cache County,8,9,UT
+49049,49,49,Utah,Utah County,49005,49.0,5.0,Utah,Cache County,104,59,UT
+49057,49,57,Utah,Weber County,49005,49.0,5.0,Utah,Cache County,334,94,UT
+49003,49,3,Utah,Box Elder County,49007,49.0,7.0,Utah,Carbon County,8,18,UT
+49005,49,5,Utah,Cache County,49007,49.0,7.0,Utah,Carbon County,8,12,UT
+49007,49,7,Utah,Carbon County,49007,49.0,7.0,Utah,Carbon County,8075,426,UT
+49011,49,11,Utah,Davis County,49007,49.0,7.0,Utah,Carbon County,8,13,UT
+49015,49,15,Utah,Emery County,49007,49.0,7.0,Utah,Carbon County,813,105,UT
+49035,49,35,Utah,Salt Lake County,49007,49.0,7.0,Utah,Carbon County,39,34,UT
+49037,49,37,Utah,San Juan County,49007,49.0,7.0,Utah,Carbon County,7,10,UT
+49039,49,39,Utah,Sanpete County,49007,49.0,7.0,Utah,Carbon County,196,61,UT
+49041,49,41,Utah,Sevier County,49007,49.0,7.0,Utah,Carbon County,7,6,UT
+49043,49,43,Utah,Summit County,49007,49.0,7.0,Utah,Carbon County,3,4,UT
+49047,49,47,Utah,Uintah County,49007,49.0,7.0,Utah,Carbon County,3,6,UT
+49049,49,49,Utah,Utah County,49007,49.0,7.0,Utah,Carbon County,168,87,UT
+49057,49,57,Utah,Weber County,49007,49.0,7.0,Utah,Carbon County,3,5,UT
+49009,49,9,Utah,Daggett County,49009,49.0,9.0,Utah,Daggett County,172,42,UT
+49029,49,29,Utah,Morgan County,49009,49.0,9.0,Utah,Daggett County,4,6,UT
+49035,49,35,Utah,Salt Lake County,49009,49.0,9.0,Utah,Daggett County,13,20,UT
+49003,49,3,Utah,Box Elder County,49011,49.0,11.0,Utah,Davis County,1150,177,UT
+49005,49,5,Utah,Cache County,49011,49.0,11.0,Utah,Davis County,427,102,UT
+49007,49,7,Utah,Carbon County,49011,49.0,11.0,Utah,Davis County,11,16,UT
+49011,49,11,Utah,Davis County,49011,49.0,11.0,Utah,Davis County,79324,1544,UT
+49013,49,13,Utah,Duchesne County,49011,49.0,11.0,Utah,Davis County,11,12,UT
+49023,49,23,Utah,Juab County,49011,49.0,11.0,Utah,Davis County,9,8,UT
+49027,49,27,Utah,Millard County,49011,49.0,11.0,Utah,Davis County,1,2,UT
+49029,49,29,Utah,Morgan County,49011,49.0,11.0,Utah,Davis County,793,143,UT
+49035,49,35,Utah,Salt Lake County,49011,49.0,11.0,Utah,Davis County,9816,746,UT
+49039,49,39,Utah,Sanpete County,49011,49.0,11.0,Utah,Davis County,10,16,UT
+49043,49,43,Utah,Summit County,49011,49.0,11.0,Utah,Davis County,221,83,UT
+49045,49,45,Utah,Tooele County,49011,49.0,11.0,Utah,Davis County,465,118,UT
+49049,49,49,Utah,Utah County,49011,49.0,11.0,Utah,Davis County,954,226,UT
+49051,49,51,Utah,Wasatch County,49011,49.0,11.0,Utah,Davis County,15,14,UT
+49053,49,53,Utah,Washington County,49011,49.0,11.0,Utah,Davis County,67,63,UT
+49055,49,55,Utah,Wayne County,49011,49.0,11.0,Utah,Davis County,2,2,UT
+49057,49,57,Utah,Weber County,49011,49.0,11.0,Utah,Davis County,20418,1201,UT
+49003,49,3,Utah,Box Elder County,49013,49.0,13.0,Utah,Duchesne County,1,3,UT
+49005,49,5,Utah,Cache County,49013,49.0,13.0,Utah,Duchesne County,4,5,UT
+49007,49,7,Utah,Carbon County,49013,49.0,13.0,Utah,Duchesne County,36,40,UT
+49011,49,11,Utah,Davis County,49013,49.0,13.0,Utah,Duchesne County,20,34,UT
+49013,49,13,Utah,Duchesne County,49013,49.0,13.0,Utah,Duchesne County,6540,237,UT
+49021,49,21,Utah,Iron County,49013,49.0,13.0,Utah,Duchesne County,31,49,UT
+49029,49,29,Utah,Morgan County,49013,49.0,13.0,Utah,Duchesne County,11,18,UT
+49035,49,35,Utah,Salt Lake County,49013,49.0,13.0,Utah,Duchesne County,290,180,UT
+49039,49,39,Utah,Sanpete County,49013,49.0,13.0,Utah,Duchesne County,17,21,UT
+49043,49,43,Utah,Summit County,49013,49.0,13.0,Utah,Duchesne County,35,46,UT
+49045,49,45,Utah,Tooele County,49013,49.0,13.0,Utah,Duchesne County,44,44,UT
+49047,49,47,Utah,Uintah County,49013,49.0,13.0,Utah,Duchesne County,1240,187,UT
+49049,49,49,Utah,Utah County,49013,49.0,13.0,Utah,Duchesne County,38,28,UT
+49051,49,51,Utah,Wasatch County,49013,49.0,13.0,Utah,Duchesne County,125,82,UT
+49057,49,57,Utah,Weber County,49013,49.0,13.0,Utah,Duchesne County,11,20,UT
+49007,49,7,Utah,Carbon County,49015,49.0,15.0,Utah,Emery County,500,120,UT
+49013,49,13,Utah,Duchesne County,49015,49.0,15.0,Utah,Emery County,5,9,UT
+49015,49,15,Utah,Emery County,49015,49.0,15.0,Utah,Emery County,3008,185,UT
+49023,49,23,Utah,Juab County,49015,49.0,15.0,Utah,Emery County,19,20,UT
+49035,49,35,Utah,Salt Lake County,49015,49.0,15.0,Utah,Emery County,32,25,UT
+49039,49,39,Utah,Sanpete County,49015,49.0,15.0,Utah,Emery County,48,29,UT
+49041,49,41,Utah,Sevier County,49015,49.0,15.0,Utah,Emery County,17,17,UT
+49049,49,49,Utah,Utah County,49015,49.0,15.0,Utah,Emery County,22,26,UT
+49001,49,1,Utah,Beaver County,49017,49.0,17.0,Utah,Garfield County,4,7,UT
+49017,49,17,Utah,Garfield County,49017,49.0,17.0,Utah,Garfield County,1691,145,UT
+49021,49,21,Utah,Iron County,49017,49.0,17.0,Utah,Garfield County,96,80,UT
+49025,49,25,Utah,Kane County,49017,49.0,17.0,Utah,Garfield County,3,4,UT
+49027,49,27,Utah,Millard County,49017,49.0,17.0,Utah,Garfield County,7,12,UT
+49031,49,31,Utah,Piute County,49017,49.0,17.0,Utah,Garfield County,71,27,UT
+49043,49,43,Utah,Summit County,49017,49.0,17.0,Utah,Garfield County,1,3,UT
+49053,49,53,Utah,Washington County,49017,49.0,17.0,Utah,Garfield County,25,38,UT
+49055,49,55,Utah,Wayne County,49017,49.0,17.0,Utah,Garfield County,4,4,UT
+49015,49,15,Utah,Emery County,49019,49.0,19.0,Utah,Grand County,41,25,UT
+49019,49,19,Utah,Grand County,49019,49.0,19.0,Utah,Grand County,4419,340,UT
+49035,49,35,Utah,Salt Lake County,49019,49.0,19.0,Utah,Grand County,10,17,UT
+49037,49,37,Utah,San Juan County,49019,49.0,19.0,Utah,Grand County,245,96,UT
+49047,49,47,Utah,Uintah County,49019,49.0,19.0,Utah,Grand County,6,12,UT
+49049,49,49,Utah,Utah County,49019,49.0,19.0,Utah,Grand County,13,18,UT
+49057,49,57,Utah,Weber County,49019,49.0,19.0,Utah,Grand County,6,10,UT
+49001,49,1,Utah,Beaver County,49021,49.0,21.0,Utah,Iron County,81,52,UT
+49011,49,11,Utah,Davis County,49021,49.0,21.0,Utah,Iron County,36,44,UT
+49017,49,17,Utah,Garfield County,49021,49.0,21.0,Utah,Iron County,22,16,UT
+49021,49,21,Utah,Iron County,49021,49.0,21.0,Utah,Iron County,17065,667,UT
+49023,49,23,Utah,Juab County,49021,49.0,21.0,Utah,Iron County,3,3,UT
+49025,49,25,Utah,Kane County,49021,49.0,21.0,Utah,Iron County,4,5,UT
+49031,49,31,Utah,Piute County,49021,49.0,21.0,Utah,Iron County,11,10,UT
+49033,49,33,Utah,Rich County,49021,49.0,21.0,Utah,Iron County,2,5,UT
+49035,49,35,Utah,Salt Lake County,49021,49.0,21.0,Utah,Iron County,50,44,UT
+49039,49,39,Utah,Sanpete County,49021,49.0,21.0,Utah,Iron County,14,18,UT
+49041,49,41,Utah,Sevier County,49021,49.0,21.0,Utah,Iron County,11,12,UT
+49049,49,49,Utah,Utah County,49021,49.0,21.0,Utah,Iron County,24,22,UT
+49053,49,53,Utah,Washington County,49021,49.0,21.0,Utah,Iron County,509,138,UT
+49055,49,55,Utah,Wayne County,49021,49.0,21.0,Utah,Iron County,4,6,UT
+49007,49,7,Utah,Carbon County,49023,49.0,23.0,Utah,Juab County,9,12,UT
+49023,49,23,Utah,Juab County,49023,49.0,23.0,Utah,Juab County,2495,234,UT
+49027,49,27,Utah,Millard County,49023,49.0,23.0,Utah,Juab County,63,35,UT
+49035,49,35,Utah,Salt Lake County,49023,49.0,23.0,Utah,Juab County,31,47,UT
+49039,49,39,Utah,Sanpete County,49023,49.0,23.0,Utah,Juab County,249,87,UT
+49041,49,41,Utah,Sevier County,49023,49.0,23.0,Utah,Juab County,28,21,UT
+49045,49,45,Utah,Tooele County,49023,49.0,23.0,Utah,Juab County,12,20,UT
+49049,49,49,Utah,Utah County,49023,49.0,23.0,Utah,Juab County,378,100,UT
+49017,49,17,Utah,Garfield County,49025,49.0,25.0,Utah,Kane County,5,6,UT
+49021,49,21,Utah,Iron County,49025,49.0,25.0,Utah,Kane County,120,78,UT
+49025,49,25,Utah,Kane County,49025,49.0,25.0,Utah,Kane County,2696,197,UT
+49037,49,37,Utah,San Juan County,49025,49.0,25.0,Utah,Kane County,4,6,UT
+49049,49,49,Utah,Utah County,49025,49.0,25.0,Utah,Kane County,13,20,UT
+49053,49,53,Utah,Washington County,49025,49.0,25.0,Utah,Kane County,129,103,UT
+49055,49,55,Utah,Wayne County,49025,49.0,25.0,Utah,Kane County,3,4,UT
+49001,49,1,Utah,Beaver County,49027,49.0,27.0,Utah,Millard County,55,48,UT
+49023,49,23,Utah,Juab County,49027,49.0,27.0,Utah,Millard County,137,65,UT
+49027,49,27,Utah,Millard County,49027,49.0,27.0,Utah,Millard County,4985,225,UT
+49035,49,35,Utah,Salt Lake County,49027,49.0,27.0,Utah,Millard County,25,30,UT
+49039,49,39,Utah,Sanpete County,49027,49.0,27.0,Utah,Millard County,22,19,UT
+49041,49,41,Utah,Sevier County,49027,49.0,27.0,Utah,Millard County,3,5,UT
+49049,49,49,Utah,Utah County,49027,49.0,27.0,Utah,Millard County,48,34,UT
+49011,49,11,Utah,Davis County,49029,49.0,29.0,Utah,Morgan County,172,70,UT
+49029,49,29,Utah,Morgan County,49029,49.0,29.0,Utah,Morgan County,1398,168,UT
+49035,49,35,Utah,Salt Lake County,49029,49.0,29.0,Utah,Morgan County,24,38,UT
+49043,49,43,Utah,Summit County,49029,49.0,29.0,Utah,Morgan County,53,32,UT
+49049,49,49,Utah,Utah County,49029,49.0,29.0,Utah,Morgan County,6,11,UT
+49057,49,57,Utah,Weber County,49029,49.0,29.0,Utah,Morgan County,256,103,UT
+49017,49,17,Utah,Garfield County,49031,49.0,31.0,Utah,Piute County,5,5,UT
+49021,49,21,Utah,Iron County,49031,49.0,31.0,Utah,Piute County,15,23,UT
+49031,49,31,Utah,Piute County,49031,49.0,31.0,Utah,Piute County,440,75,UT
+49041,49,41,Utah,Sevier County,49031,49.0,31.0,Utah,Piute County,15,13,UT
+49005,49,5,Utah,Cache County,49033,49.0,33.0,Utah,Rich County,57,41,UT
+49033,49,33,Utah,Rich County,49033,49.0,33.0,Utah,Rich County,570,76,UT
+49047,49,47,Utah,Uintah County,49033,49.0,33.0,Utah,Rich County,3,4,UT
+49001,49,1,Utah,Beaver County,49035,49.0,35.0,Utah,Salt Lake County,9,9,UT
+49003,49,3,Utah,Box Elder County,49035,49.0,35.0,Utah,Salt Lake County,822,168,UT
+49005,49,5,Utah,Cache County,49035,49.0,35.0,Utah,Salt Lake County,645,136,UT
+49007,49,7,Utah,Carbon County,49035,49.0,35.0,Utah,Salt Lake County,116,62,UT
+49011,49,11,Utah,Davis County,49035,49.0,35.0,Utah,Salt Lake County,47388,1417,UT
+49013,49,13,Utah,Duchesne County,49035,49.0,35.0,Utah,Salt Lake County,55,27,UT
+49015,49,15,Utah,Emery County,49035,49.0,35.0,Utah,Salt Lake County,28,23,UT
+49017,49,17,Utah,Garfield County,49035,49.0,35.0,Utah,Salt Lake County,4,5,UT
+49019,49,19,Utah,Grand County,49035,49.0,35.0,Utah,Salt Lake County,59,63,UT
+49021,49,21,Utah,Iron County,49035,49.0,35.0,Utah,Salt Lake County,233,108,UT
+49023,49,23,Utah,Juab County,49035,49.0,35.0,Utah,Salt Lake County,183,70,UT
+49025,49,25,Utah,Kane County,49035,49.0,35.0,Utah,Salt Lake County,3,4,UT
+49027,49,27,Utah,Millard County,49035,49.0,35.0,Utah,Salt Lake County,57,34,UT
+49029,49,29,Utah,Morgan County,49035,49.0,35.0,Utah,Salt Lake County,613,133,UT
+49031,49,31,Utah,Piute County,49035,49.0,35.0,Utah,Salt Lake County,4,4,UT
+49033,49,33,Utah,Rich County,49035,49.0,35.0,Utah,Salt Lake County,12,9,UT
+49035,49,35,Utah,Salt Lake County,49035,49.0,35.0,Utah,Salt Lake County,490409,2321,UT
+49037,49,37,Utah,San Juan County,49035,49.0,35.0,Utah,Salt Lake County,10,9,UT
+49039,49,39,Utah,Sanpete County,49035,49.0,35.0,Utah,Salt Lake County,278,92,UT
+49041,49,41,Utah,Sevier County,49035,49.0,35.0,Utah,Salt Lake County,26,19,UT
+49043,49,43,Utah,Summit County,49035,49.0,35.0,Utah,Salt Lake County,4250,354,UT
+49045,49,45,Utah,Tooele County,49035,49.0,35.0,Utah,Salt Lake County,10375,507,UT
+49047,49,47,Utah,Uintah County,49035,49.0,35.0,Utah,Salt Lake County,71,96,UT
+49049,49,49,Utah,Utah County,49035,49.0,35.0,Utah,Salt Lake County,33741,1246,UT
+49051,49,51,Utah,Wasatch County,49035,49.0,35.0,Utah,Salt Lake County,1305,251,UT
+49053,49,53,Utah,Washington County,49035,49.0,35.0,Utah,Salt Lake County,341,115,UT
+49055,49,55,Utah,Wayne County,49035,49.0,35.0,Utah,Salt Lake County,15,15,UT
+49057,49,57,Utah,Weber County,49035,49.0,35.0,Utah,Salt Lake County,9378,617,UT
+49005,49,5,Utah,Cache County,49037,49.0,37.0,Utah,San Juan County,7,10,UT
+49015,49,15,Utah,Emery County,49037,49.0,37.0,Utah,San Juan County,8,13,UT
+49017,49,17,Utah,Garfield County,49037,49.0,37.0,Utah,San Juan County,99,79,UT
+49019,49,19,Utah,Grand County,49037,49.0,37.0,Utah,San Juan County,110,103,UT
+49021,49,21,Utah,Iron County,49037,49.0,37.0,Utah,San Juan County,63,94,UT
+49025,49,25,Utah,Kane County,49037,49.0,37.0,Utah,San Juan County,18,31,UT
+49035,49,35,Utah,Salt Lake County,49037,49.0,37.0,Utah,San Juan County,26,30,UT
+49037,49,37,Utah,San Juan County,49037,49.0,37.0,Utah,San Juan County,4188,242,UT
+49049,49,49,Utah,Utah County,49037,49.0,37.0,Utah,San Juan County,20,21,UT
+49055,49,55,Utah,Wayne County,49037,49.0,37.0,Utah,San Juan County,17,17,UT
+49005,49,5,Utah,Cache County,49039,49.0,39.0,Utah,Sanpete County,3,4,UT
+49007,49,7,Utah,Carbon County,49039,49.0,39.0,Utah,Sanpete County,11,17,UT
+49023,49,23,Utah,Juab County,49039,49.0,39.0,Utah,Sanpete County,28,23,UT
+49027,49,27,Utah,Millard County,49039,49.0,39.0,Utah,Sanpete County,22,19,UT
+49031,49,31,Utah,Piute County,49039,49.0,39.0,Utah,Sanpete County,11,18,UT
+49035,49,35,Utah,Salt Lake County,49039,49.0,39.0,Utah,Sanpete County,28,28,UT
+49039,49,39,Utah,Sanpete County,49039,49.0,39.0,Utah,Sanpete County,7788,386,UT
+49041,49,41,Utah,Sevier County,49039,49.0,39.0,Utah,Sanpete County,230,69,UT
+49049,49,49,Utah,Utah County,49039,49.0,39.0,Utah,Sanpete County,203,99,UT
+49055,49,55,Utah,Wayne County,49039,49.0,39.0,Utah,Sanpete County,3,4,UT
+49001,49,1,Utah,Beaver County,49041,49.0,41.0,Utah,Sevier County,17,19,UT
+49007,49,7,Utah,Carbon County,49041,49.0,41.0,Utah,Sevier County,22,22,UT
+49011,49,11,Utah,Davis County,49041,49.0,41.0,Utah,Sevier County,38,56,UT
+49015,49,15,Utah,Emery County,49041,49.0,41.0,Utah,Sevier County,8,13,UT
+49017,49,17,Utah,Garfield County,49041,49.0,41.0,Utah,Sevier County,43,25,UT
+49021,49,21,Utah,Iron County,49041,49.0,41.0,Utah,Sevier County,35,34,UT
+49023,49,23,Utah,Juab County,49041,49.0,41.0,Utah,Sevier County,7,11,UT
+49027,49,27,Utah,Millard County,49041,49.0,41.0,Utah,Sevier County,30,24,UT
+49031,49,31,Utah,Piute County,49041,49.0,41.0,Utah,Sevier County,70,26,UT
+49035,49,35,Utah,Salt Lake County,49041,49.0,41.0,Utah,Sevier County,185,238,UT
+49039,49,39,Utah,Sanpete County,49041,49.0,41.0,Utah,Sevier County,473,108,UT
+49041,49,41,Utah,Sevier County,49041,49.0,41.0,Utah,Sevier County,7633,306,UT
+49047,49,47,Utah,Uintah County,49041,49.0,41.0,Utah,Sevier County,21,32,UT
+49049,49,49,Utah,Utah County,49041,49.0,41.0,Utah,Sevier County,27,23,UT
+49051,49,51,Utah,Wasatch County,49041,49.0,41.0,Utah,Sevier County,1,2,UT
+49053,49,53,Utah,Washington County,49041,49.0,41.0,Utah,Sevier County,56,59,UT
+49055,49,55,Utah,Wayne County,49041,49.0,41.0,Utah,Sevier County,61,32,UT
+49003,49,3,Utah,Box Elder County,49043,49.0,43.0,Utah,Summit County,13,20,UT
+49005,49,5,Utah,Cache County,49043,49.0,43.0,Utah,Summit County,30,23,UT
+49007,49,7,Utah,Carbon County,49043,49.0,43.0,Utah,Summit County,12,15,UT
+49009,49,9,Utah,Daggett County,49043,49.0,43.0,Utah,Summit County,4,6,UT
+49011,49,11,Utah,Davis County,49043,49.0,43.0,Utah,Summit County,301,124,UT
+49013,49,13,Utah,Duchesne County,49043,49.0,43.0,Utah,Summit County,6,9,UT
+49015,49,15,Utah,Emery County,49043,49.0,43.0,Utah,Summit County,4,5,UT
+49017,49,17,Utah,Garfield County,49043,49.0,43.0,Utah,Summit County,2,5,UT
+49023,49,23,Utah,Juab County,49043,49.0,43.0,Utah,Summit County,11,11,UT
+49027,49,27,Utah,Millard County,49043,49.0,43.0,Utah,Summit County,7,8,UT
+49029,49,29,Utah,Morgan County,49043,49.0,43.0,Utah,Summit County,50,33,UT
+49033,49,33,Utah,Rich County,49043,49.0,43.0,Utah,Summit County,5,7,UT
+49035,49,35,Utah,Salt Lake County,49043,49.0,43.0,Utah,Summit County,5150,595,UT
+49037,49,37,Utah,San Juan County,49043,49.0,43.0,Utah,Summit County,4,9,UT
+49043,49,43,Utah,Summit County,49043,49.0,43.0,Utah,Summit County,14795,529,UT
+49045,49,45,Utah,Tooele County,49043,49.0,43.0,Utah,Summit County,28,31,UT
+49049,49,49,Utah,Utah County,49043,49.0,43.0,Utah,Summit County,408,136,UT
+49051,49,51,Utah,Wasatch County,49043,49.0,43.0,Utah,Summit County,3264,453,UT
+49053,49,53,Utah,Washington County,49043,49.0,43.0,Utah,Summit County,13,22,UT
+49057,49,57,Utah,Weber County,49043,49.0,43.0,Utah,Summit County,95,69,UT
+49003,49,3,Utah,Box Elder County,49045,49.0,45.0,Utah,Tooele County,18,21,UT
+49011,49,11,Utah,Davis County,49045,49.0,45.0,Utah,Tooele County,151,72,UT
+49013,49,13,Utah,Duchesne County,49045,49.0,45.0,Utah,Tooele County,6,8,UT
+49023,49,23,Utah,Juab County,49045,49.0,45.0,Utah,Tooele County,66,26,UT
+49035,49,35,Utah,Salt Lake County,49045,49.0,45.0,Utah,Tooele County,1855,312,UT
+49039,49,39,Utah,Sanpete County,49045,49.0,45.0,Utah,Tooele County,16,23,UT
+49045,49,45,Utah,Tooele County,49045,49.0,45.0,Utah,Tooele County,14021,815,UT
+49047,49,47,Utah,Uintah County,49045,49.0,45.0,Utah,Tooele County,14,15,UT
+49049,49,49,Utah,Utah County,49045,49.0,45.0,Utah,Tooele County,392,135,UT
+49057,49,57,Utah,Weber County,49045,49.0,45.0,Utah,Tooele County,92,64,UT
+49005,49,5,Utah,Cache County,49047,49.0,47.0,Utah,Uintah County,17,16,UT
+49007,49,7,Utah,Carbon County,49047,49.0,47.0,Utah,Uintah County,7,12,UT
+49009,49,9,Utah,Daggett County,49047,49.0,47.0,Utah,Uintah County,3,4,UT
+49011,49,11,Utah,Davis County,49047,49.0,47.0,Utah,Uintah County,65,76,UT
+49013,49,13,Utah,Duchesne County,49047,49.0,47.0,Utah,Uintah County,959,126,UT
+49015,49,15,Utah,Emery County,49047,49.0,47.0,Utah,Uintah County,16,16,UT
+49023,49,23,Utah,Juab County,49047,49.0,47.0,Utah,Uintah County,4,6,UT
+49025,49,25,Utah,Kane County,49047,49.0,47.0,Utah,Uintah County,4,8,UT
+49027,49,27,Utah,Millard County,49047,49.0,47.0,Utah,Uintah County,7,6,UT
+49035,49,35,Utah,Salt Lake County,49047,49.0,47.0,Utah,Uintah County,197,107,UT
+49037,49,37,Utah,San Juan County,49047,49.0,47.0,Utah,Uintah County,18,19,UT
+49039,49,39,Utah,Sanpete County,49047,49.0,47.0,Utah,Uintah County,44,45,UT
+49043,49,43,Utah,Summit County,49047,49.0,47.0,Utah,Uintah County,11,18,UT
+49045,49,45,Utah,Tooele County,49047,49.0,47.0,Utah,Uintah County,13,23,UT
+49047,49,47,Utah,Uintah County,49047,49.0,47.0,Utah,Uintah County,13591,642,UT
+49049,49,49,Utah,Utah County,49047,49.0,47.0,Utah,Uintah County,154,81,UT
+49051,49,51,Utah,Wasatch County,49047,49.0,47.0,Utah,Uintah County,15,15,UT
+49057,49,57,Utah,Weber County,49047,49.0,47.0,Utah,Uintah County,28,24,UT
+49001,49,1,Utah,Beaver County,49049,49.0,49.0,Utah,Utah County,16,29,UT
+49003,49,3,Utah,Box Elder County,49049,49.0,49.0,Utah,Utah County,11,14,UT
+49005,49,5,Utah,Cache County,49049,49.0,49.0,Utah,Utah County,227,85,UT
+49007,49,7,Utah,Carbon County,49049,49.0,49.0,Utah,Utah County,73,60,UT
+49011,49,11,Utah,Davis County,49049,49.0,49.0,Utah,Utah County,1098,229,UT
+49013,49,13,Utah,Duchesne County,49049,49.0,49.0,Utah,Utah County,23,18,UT
+49015,49,15,Utah,Emery County,49049,49.0,49.0,Utah,Utah County,19,13,UT
+49021,49,21,Utah,Iron County,49049,49.0,49.0,Utah,Utah County,18,20,UT
+49023,49,23,Utah,Juab County,49049,49.0,49.0,Utah,Utah County,1238,148,UT
+49027,49,27,Utah,Millard County,49049,49.0,49.0,Utah,Utah County,44,30,UT
+49029,49,29,Utah,Morgan County,49049,49.0,49.0,Utah,Utah County,43,54,UT
+49031,49,31,Utah,Piute County,49049,49.0,49.0,Utah,Utah County,4,5,UT
+49035,49,35,Utah,Salt Lake County,49049,49.0,49.0,Utah,Utah County,13926,785,UT
+49039,49,39,Utah,Sanpete County,49049,49.0,49.0,Utah,Utah County,569,145,UT
+49041,49,41,Utah,Sevier County,49049,49.0,49.0,Utah,Utah County,76,37,UT
+49043,49,43,Utah,Summit County,49049,49.0,49.0,Utah,Utah County,231,78,UT
+49045,49,45,Utah,Tooele County,49049,49.0,49.0,Utah,Utah County,128,79,UT
+49049,49,49,Utah,Utah County,49049,49.0,49.0,Utah,Utah County,196630,1875,UT
+49051,49,51,Utah,Wasatch County,49049,49.0,49.0,Utah,Utah County,783,255,UT
+49053,49,53,Utah,Washington County,49049,49.0,49.0,Utah,Utah County,161,97,UT
+49057,49,57,Utah,Weber County,49049,49.0,49.0,Utah,Utah County,300,110,UT
+49011,49,11,Utah,Davis County,49051,49.0,51.0,Utah,Wasatch County,126,73,UT
+49013,49,13,Utah,Duchesne County,49051,49.0,51.0,Utah,Wasatch County,56,32,UT
+49029,49,29,Utah,Morgan County,49051,49.0,51.0,Utah,Wasatch County,5,10,UT
+49035,49,35,Utah,Salt Lake County,49051,49.0,51.0,Utah,Wasatch County,430,131,UT
+49039,49,39,Utah,Sanpete County,49051,49.0,51.0,Utah,Wasatch County,5,7,UT
+49043,49,43,Utah,Summit County,49051,49.0,51.0,Utah,Wasatch County,298,88,UT
+49045,49,45,Utah,Tooele County,49051,49.0,51.0,Utah,Wasatch County,4,5,UT
+49047,49,47,Utah,Uintah County,49051,49.0,51.0,Utah,Wasatch County,9,14,UT
+49049,49,49,Utah,Utah County,49051,49.0,51.0,Utah,Wasatch County,557,180,UT
+49051,49,51,Utah,Wasatch County,49051,49.0,51.0,Utah,Wasatch County,6251,496,UT
+49001,49,1,Utah,Beaver County,49053,49.0,53.0,Utah,Washington County,24,27,UT
+49005,49,5,Utah,Cache County,49053,49.0,53.0,Utah,Washington County,26,24,UT
+49007,49,7,Utah,Carbon County,49053,49.0,53.0,Utah,Washington County,14,22,UT
+49011,49,11,Utah,Davis County,49053,49.0,53.0,Utah,Washington County,24,27,UT
+49017,49,17,Utah,Garfield County,49053,49.0,53.0,Utah,Washington County,14,15,UT
+49021,49,21,Utah,Iron County,49053,49.0,53.0,Utah,Washington County,1016,248,UT
+49025,49,25,Utah,Kane County,49053,49.0,53.0,Utah,Washington County,26,29,UT
+49027,49,27,Utah,Millard County,49053,49.0,53.0,Utah,Washington County,4,4,UT
+49035,49,35,Utah,Salt Lake County,49053,49.0,53.0,Utah,Washington County,126,58,UT
+49039,49,39,Utah,Sanpete County,49053,49.0,53.0,Utah,Washington County,14,10,UT
+49041,49,41,Utah,Sevier County,49053,49.0,53.0,Utah,Washington County,24,21,UT
+49043,49,43,Utah,Summit County,49053,49.0,53.0,Utah,Washington County,4,8,UT
+49049,49,49,Utah,Utah County,49053,49.0,53.0,Utah,Washington County,101,56,UT
+49053,49,53,Utah,Washington County,49053,49.0,53.0,Utah,Washington County,53020,1178,UT
+49055,49,55,Utah,Wayne County,49053,49.0,53.0,Utah,Washington County,6,6,UT
+49057,49,57,Utah,Weber County,49053,49.0,53.0,Utah,Washington County,7,12,UT
+49001,49,1,Utah,Beaver County,49055,49.0,55.0,Utah,Wayne County,10,16,UT
+49011,49,11,Utah,Davis County,49055,49.0,55.0,Utah,Wayne County,11,17,UT
+49017,49,17,Utah,Garfield County,49055,49.0,55.0,Utah,Wayne County,13,10,UT
+49031,49,31,Utah,Piute County,49055,49.0,55.0,Utah,Wayne County,7,5,UT
+49041,49,41,Utah,Sevier County,49055,49.0,55.0,Utah,Wayne County,18,21,UT
+49055,49,55,Utah,Wayne County,49055,49.0,55.0,Utah,Wayne County,1113,92,UT
+49003,49,3,Utah,Box Elder County,49057,49.0,57.0,Utah,Weber County,3853,327,UT
+49005,49,5,Utah,Cache County,49057,49.0,57.0,Utah,Weber County,674,156,UT
+49007,49,7,Utah,Carbon County,49057,49.0,57.0,Utah,Weber County,2,3,UT
+49011,49,11,Utah,Davis County,49057,49.0,57.0,Utah,Weber County,17393,976,UT
+49023,49,23,Utah,Juab County,49057,49.0,57.0,Utah,Weber County,1,2,UT
+49029,49,29,Utah,Morgan County,49057,49.0,57.0,Utah,Weber County,1226,202,UT
+49031,49,31,Utah,Piute County,49057,49.0,57.0,Utah,Weber County,3,3,UT
+49035,49,35,Utah,Salt Lake County,49057,49.0,57.0,Utah,Weber County,2170,330,UT
+49039,49,39,Utah,Sanpete County,49057,49.0,57.0,Utah,Weber County,4,7,UT
+49041,49,41,Utah,Sevier County,49057,49.0,57.0,Utah,Weber County,7,10,UT
+49043,49,43,Utah,Summit County,49057,49.0,57.0,Utah,Weber County,82,41,UT
+49045,49,45,Utah,Tooele County,49057,49.0,57.0,Utah,Weber County,59,53,UT
+49047,49,47,Utah,Uintah County,49057,49.0,57.0,Utah,Weber County,11,20,UT
+49049,49,49,Utah,Utah County,49057,49.0,57.0,Utah,Weber County,228,95,UT
+49051,49,51,Utah,Wasatch County,49057,49.0,57.0,Utah,Weber County,69,103,UT
+49057,49,57,Utah,Weber County,49057,49.0,57.0,Utah,Weber County,75082,1478,UT
+49035,49,35,Utah,Salt Lake County,50015,50.0,15.0,Vermont,Lamoille County,17,20,UT
+49035,49,35,Utah,Salt Lake County,50023,50.0,23.0,Vermont,Washington County,19,30,UT
+49057,49,57,Utah,Weber County,50027,50.0,27.0,Vermont,Windsor County,12,19,UT
+49057,49,57,Utah,Weber County,51013,51.0,13.0,Virginia,Arlington County,8,12,UT
+49035,49,35,Utah,Salt Lake County,51059,51.0,59.0,Virginia,Fairfax County,12,23,UT
+49043,49,43,Utah,Summit County,51059,51.0,59.0,Virginia,Fairfax County,2,4,UT
+49049,49,49,Utah,Utah County,51149,51.0,149.0,Virginia,Prince George County,8,13,UT
+49049,49,49,Utah,Utah County,51157,51.0,157.0,Virginia,Rappahannock County,23,36,UT
+49035,49,35,Utah,Salt Lake County,51179,51.0,179.0,Virginia,Stafford County,6,12,UT
+49049,49,49,Utah,Utah County,51199,51.0,199.0,Virginia,York County,8,12,UT
+49035,49,35,Utah,Salt Lake County,51510,51.0,510.0,Virginia,Alexandria city,9,15,UT
+49043,49,43,Utah,Summit County,51510,51.0,510.0,Virginia,Alexandria city,3,5,UT
+49049,49,49,Utah,Utah County,51530,51.0,530.0,Virginia,Buena Vista city,10,17,UT
+49045,49,45,Utah,Tooele County,51630,51.0,630.0,Virginia,Fredericksburg city,13,20,UT
+49005,49,5,Utah,Cache County,53005,53.0,5.0,Washington,Benton County,22,26,UT
+49049,49,49,Utah,Utah County,53005,53.0,5.0,Washington,Benton County,2,2,UT
+49035,49,35,Utah,Salt Lake County,53007,53.0,7.0,Washington,Chelan County,13,20,UT
+49053,49,53,Utah,Washington County,53011,53.0,11.0,Washington,Clark County,46,42,UT
+49025,49,25,Utah,Kane County,53031,53.0,31.0,Washington,Jefferson County,16,24,UT
+49005,49,5,Utah,Cache County,53033,53.0,33.0,Washington,King County,16,25,UT
+49011,49,11,Utah,Davis County,53033,53.0,33.0,Washington,King County,29,26,UT
+49025,49,25,Utah,Kane County,53033,53.0,33.0,Washington,King County,13,14,UT
+49035,49,35,Utah,Salt Lake County,53033,53.0,33.0,Washington,King County,45,31,UT
+49039,49,39,Utah,Sanpete County,53033,53.0,33.0,Washington,King County,4,7,UT
+49043,49,43,Utah,Summit County,53033,53.0,33.0,Washington,King County,15,22,UT
+49049,49,49,Utah,Utah County,53033,53.0,33.0,Washington,King County,29,25,UT
+49049,49,49,Utah,Utah County,53053,53.0,53.0,Washington,Pierce County,3,4,UT
+49049,49,49,Utah,Utah County,53055,53.0,55.0,Washington,San Juan County,8,14,UT
+49053,49,53,Utah,Washington County,53061,53.0,61.0,Washington,Snohomish County,17,28,UT
+49035,49,35,Utah,Salt Lake County,53067,53.0,67.0,Washington,Thurston County,11,17,UT
+49053,49,53,Utah,Washington County,53075,53.0,75.0,Washington,Whitman County,30,41,UT
+49049,49,49,Utah,Utah County,54039,54.0,39.0,West Virginia,Kanawha County,12,19,UT
+49049,49,49,Utah,Utah County,54061,54.0,61.0,West Virginia,Monongalia County,5,10,UT
+49047,49,47,Utah,Uintah County,54085,54.0,85.0,West Virginia,Ritchie County,5,7,UT
+49043,49,43,Utah,Summit County,55009,55.0,9.0,Wisconsin,Brown County,5,8,UT
+49035,49,35,Utah,Salt Lake County,55011,55.0,11.0,Wisconsin,Buffalo County,14,24,UT
+49035,49,35,Utah,Salt Lake County,55025,55.0,25.0,Wisconsin,Dane County,18,30,UT
+49035,49,35,Utah,Salt Lake County,55079,55.0,79.0,Wisconsin,Milwaukee County,8,12,UT
+49035,49,35,Utah,Salt Lake County,55101,55.0,101.0,Wisconsin,Racine County,8,12,UT
+49035,49,35,Utah,Salt Lake County,55133,55.0,133.0,Wisconsin,Waukesha County,1,3,UT
+49015,49,15,Utah,Emery County,56005,56.0,5.0,Wyoming,Campbell County,8,11,UT
+49011,49,11,Utah,Davis County,56007,56.0,7.0,Wyoming,Carbon County,54,83,UT
+49035,49,35,Utah,Salt Lake County,56007,56.0,7.0,Wyoming,Carbon County,29,26,UT
+49049,49,49,Utah,Utah County,56007,56.0,7.0,Wyoming,Carbon County,2,3,UT
+49057,49,57,Utah,Weber County,56007,56.0,7.0,Wyoming,Carbon County,32,29,UT
+49049,49,49,Utah,Utah County,56009,56.0,9.0,Wyoming,Converse County,5,8,UT
+49035,49,35,Utah,Salt Lake County,56013,56.0,13.0,Wyoming,Fremont County,7,12,UT
+49045,49,45,Utah,Tooele County,56013,56.0,13.0,Wyoming,Fremont County,27,44,UT
+49053,49,53,Utah,Washington County,56013,56.0,13.0,Wyoming,Fremont County,111,145,UT
+49057,49,57,Utah,Weber County,56013,56.0,13.0,Wyoming,Fremont County,63,71,UT
+49007,49,7,Utah,Carbon County,56021,56.0,21.0,Wyoming,Laramie County,11,17,UT
+49031,49,31,Utah,Piute County,56021,56.0,21.0,Wyoming,Laramie County,2,3,UT
+49045,49,45,Utah,Tooele County,56021,56.0,21.0,Wyoming,Laramie County,46,71,UT
+49047,49,47,Utah,Uintah County,56021,56.0,21.0,Wyoming,Laramie County,2,5,UT
+49033,49,33,Utah,Rich County,56023,56.0,23.0,Wyoming,Lincoln County,50,22,UT
+49035,49,35,Utah,Salt Lake County,56023,56.0,23.0,Wyoming,Lincoln County,15,20,UT
+49011,49,11,Utah,Davis County,56025,56.0,25.0,Wyoming,Natrona County,22,23,UT
+49035,49,35,Utah,Salt Lake County,56025,56.0,25.0,Wyoming,Natrona County,51,77,UT
+49041,49,41,Utah,Sevier County,56025,56.0,25.0,Wyoming,Natrona County,8,13,UT
+49049,49,49,Utah,Utah County,56025,56.0,25.0,Wyoming,Natrona County,17,27,UT
+49051,49,51,Utah,Wasatch County,56025,56.0,25.0,Wyoming,Natrona County,2,3,UT
+49057,49,57,Utah,Weber County,56025,56.0,25.0,Wyoming,Natrona County,83,79,UT
+49043,49,43,Utah,Summit County,56031,56.0,31.0,Wyoming,Platte County,3,5,UT
+49039,49,39,Utah,Sanpete County,56033,56.0,33.0,Wyoming,Sheridan County,10,16,UT
+49045,49,45,Utah,Tooele County,56033,56.0,33.0,Wyoming,Sheridan County,9,15,UT
+49049,49,49,Utah,Utah County,56033,56.0,33.0,Wyoming,Sheridan County,4,6,UT
+49005,49,5,Utah,Cache County,56035,56.0,35.0,Wyoming,Sublette County,6,8,UT
+49007,49,7,Utah,Carbon County,56035,56.0,35.0,Wyoming,Sublette County,9,11,UT
+49011,49,11,Utah,Davis County,56035,56.0,35.0,Wyoming,Sublette County,46,56,UT
+49013,49,13,Utah,Duchesne County,56035,56.0,35.0,Wyoming,Sublette County,4,6,UT
+49021,49,21,Utah,Iron County,56035,56.0,35.0,Wyoming,Sublette County,1,2,UT
+49039,49,39,Utah,Sanpete County,56035,56.0,35.0,Wyoming,Sublette County,31,40,UT
+49041,49,41,Utah,Sevier County,56035,56.0,35.0,Wyoming,Sublette County,9,14,UT
+49043,49,43,Utah,Summit County,56035,56.0,35.0,Wyoming,Sublette County,3,5,UT
+49053,49,53,Utah,Washington County,56035,56.0,35.0,Wyoming,Sublette County,20,29,UT
+49057,49,57,Utah,Weber County,56035,56.0,35.0,Wyoming,Sublette County,6,9,UT
+49003,49,3,Utah,Box Elder County,56037,56.0,37.0,Wyoming,Sweetwater County,28,24,UT
+49005,49,5,Utah,Cache County,56037,56.0,37.0,Wyoming,Sweetwater County,8,12,UT
+49007,49,7,Utah,Carbon County,56037,56.0,37.0,Wyoming,Sweetwater County,20,22,UT
+49009,49,9,Utah,Daggett County,56037,56.0,37.0,Wyoming,Sweetwater County,30,22,UT
+49011,49,11,Utah,Davis County,56037,56.0,37.0,Wyoming,Sweetwater County,11,17,UT
+49013,49,13,Utah,Duchesne County,56037,56.0,37.0,Wyoming,Sweetwater County,11,12,UT
+49015,49,15,Utah,Emery County,56037,56.0,37.0,Wyoming,Sweetwater County,4,8,UT
+49031,49,31,Utah,Piute County,56037,56.0,37.0,Wyoming,Sweetwater County,2,3,UT
+49035,49,35,Utah,Salt Lake County,56037,56.0,37.0,Wyoming,Sweetwater County,96,81,UT
+49043,49,43,Utah,Summit County,56037,56.0,37.0,Wyoming,Sweetwater County,4,8,UT
+49049,49,49,Utah,Utah County,56037,56.0,37.0,Wyoming,Sweetwater County,2,3,UT
+49053,49,53,Utah,Washington County,56037,56.0,37.0,Wyoming,Sweetwater County,12,20,UT
+49057,49,57,Utah,Weber County,56037,56.0,37.0,Wyoming,Sweetwater County,40,43,UT
+49035,49,35,Utah,Salt Lake County,56039,56.0,39.0,Wyoming,Teton County,11,19,UT
+49049,49,49,Utah,Utah County,56039,56.0,39.0,Wyoming,Teton County,12,18,UT
+49057,49,57,Utah,Weber County,56039,56.0,39.0,Wyoming,Teton County,25,35,UT
+49003,49,3,Utah,Box Elder County,56041,56.0,41.0,Wyoming,Uinta County,30,32,UT
+49005,49,5,Utah,Cache County,56041,56.0,41.0,Wyoming,Uinta County,16,18,UT
+49011,49,11,Utah,Davis County,56041,56.0,41.0,Wyoming,Uinta County,33,31,UT
+49027,49,27,Utah,Millard County,56041,56.0,41.0,Wyoming,Uinta County,2,3,UT
+49029,49,29,Utah,Morgan County,56041,56.0,41.0,Wyoming,Uinta County,41,40,UT
+49033,49,33,Utah,Rich County,56041,56.0,41.0,Wyoming,Uinta County,67,25,UT
+49035,49,35,Utah,Salt Lake County,56041,56.0,41.0,Wyoming,Uinta County,22,35,UT
+49039,49,39,Utah,Sanpete County,56041,56.0,41.0,Wyoming,Uinta County,8,9,UT
+49043,49,43,Utah,Summit County,56041,56.0,41.0,Wyoming,Uinta County,113,52,UT
+49049,49,49,Utah,Utah County,56041,56.0,41.0,Wyoming,Uinta County,11,18,UT
+49051,49,51,Utah,Wasatch County,56041,56.0,41.0,Wyoming,Uinta County,47,66,UT
+49057,49,57,Utah,Weber County,56041,56.0,41.0,Wyoming,Uinta County,80,66,UT
+49003,49,3,Utah,Box Elder County,301000,301.0,,Canada,,4,6,UT
+49035,49,35,Utah,Salt Lake County,301000,301.0,,Canada,,31,31,UT
+49041,49,41,Utah,Sevier County,301000,301.0,,Canada,,3,5,UT
+49043,49,43,Utah,Summit County,301000,301.0,,Canada,,43,51,UT
+49053,49,53,Utah,Washington County,301000,301.0,,Canada,,13,22,UT
+49057,49,57,Utah,Weber County,301000,301.0,,Canada,,22,27,UT
+49039,49,39,Utah,Sanpete County,303000,303.0,,Mexico,,5,7,UT
+49043,49,43,Utah,Summit County,303000,303.0,,Mexico,,8,13,UT
+49005,49,5,Utah,Cache County,-1,,,Other workplace outside of the U.S.,,16,14,UT
+49011,49,11,Utah,Davis County,-1,,,Other workplace outside of the U.S.,,76,53,UT
+49027,49,27,Utah,Millard County,-1,,,Other workplace outside of the U.S.,,4,5,UT
+49035,49,35,Utah,Salt Lake County,-1,,,Other workplace outside of the U.S.,,137,65,UT
+49043,49,43,Utah,Summit County,-1,,,Other workplace outside of the U.S.,,17,20,UT
+49047,49,47,Utah,Uintah County,-1,,,Other workplace outside of the U.S.,,18,20,UT
+49049,49,49,Utah,Utah County,-1,,,Other workplace outside of the U.S.,,101,59,UT
+49051,49,51,Utah,Wasatch County,-1,,,Other workplace outside of the U.S.,,20,29,UT
+49053,49,53,Utah,Washington County,-1,,,Other workplace outside of the U.S.,,36,36,UT
+49057,49,57,Utah,Weber County,-1,,,Other workplace outside of the U.S.,,30,33,UT

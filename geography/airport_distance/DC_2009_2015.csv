@@ -1,0 +1,144 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+11001,11,1,District of Columbia,District of Columbia,1089,1.0,89.0,Alabama,Madison County,11,17,DC
+11001,11,1,District of Columbia,District of Columbia,1101,1.0,101.0,Alabama,Montgomery County,5,7,DC
+11001,11,1,District of Columbia,District of Columbia,5007,5.0,7.0,Arkansas,Benton County,17,27,DC
+11001,11,1,District of Columbia,District of Columbia,6001,6.0,1.0,California,Alameda County,7,12,DC
+11001,11,1,District of Columbia,District of Columbia,6037,6.0,37.0,California,Los Angeles County,29,28,DC
+11001,11,1,District of Columbia,District of Columbia,6057,6.0,57.0,California,Nevada County,6,11,DC
+11001,11,1,District of Columbia,District of Columbia,6059,6.0,59.0,California,Orange County,19,31,DC
+11001,11,1,District of Columbia,District of Columbia,6065,6.0,65.0,California,Riverside County,4,8,DC
+11001,11,1,District of Columbia,District of Columbia,6067,6.0,67.0,California,Sacramento County,59,95,DC
+11001,11,1,District of Columbia,District of Columbia,6075,6.0,75.0,California,San Francisco County,72,47,DC
+11001,11,1,District of Columbia,District of Columbia,6081,6.0,81.0,California,San Mateo County,7,12,DC
+11001,11,1,District of Columbia,District of Columbia,8031,8.0,31.0,Colorado,Denver County,1,4,DC
+11001,11,1,District of Columbia,District of Columbia,8041,8.0,41.0,Colorado,El Paso County,13,19,DC
+11001,11,1,District of Columbia,District of Columbia,10003,10.0,3.0,Delaware,New Castle County,7,15,DC
+11001,11,1,District of Columbia,District of Columbia,11001,11.0,1.0,District of Columbia,District of Columbia,252256,2654,DC
+11001,11,1,District of Columbia,District of Columbia,12073,12.0,73.0,Florida,Leon County,14,25,DC
+11001,11,1,District of Columbia,District of Columbia,12086,12.0,86.0,Florida,Miami-Dade County,97,64,DC
+11001,11,1,District of Columbia,District of Columbia,12109,12.0,109.0,Florida,St. Johns County,14,21,DC
+11001,11,1,District of Columbia,District of Columbia,13063,13.0,63.0,Georgia,Clayton County,6,11,DC
+11001,11,1,District of Columbia,District of Columbia,13121,13.0,121.0,Georgia,Fulton County,103,74,DC
+11001,11,1,District of Columbia,District of Columbia,13129,13.0,129.0,Georgia,Gordon County,15,24,DC
+11001,11,1,District of Columbia,District of Columbia,13135,13.0,135.0,Georgia,Gwinnett County,8,12,DC
+11001,11,1,District of Columbia,District of Columbia,17031,17.0,31.0,Illinois,Cook County,37,36,DC
+11001,11,1,District of Columbia,District of Columbia,18063,18.0,63.0,Indiana,Hendricks County,14,18,DC
+11001,11,1,District of Columbia,District of Columbia,18097,18.0,97.0,Indiana,Marion County,20,22,DC
+11001,11,1,District of Columbia,District of Columbia,19153,19.0,153.0,Iowa,Polk County,8,13,DC
+11001,11,1,District of Columbia,District of Columbia,21111,21.0,111.0,Kentucky,Jefferson County,21,18,DC
+11001,11,1,District of Columbia,District of Columbia,22071,22.0,71.0,Louisiana,Orleans Parish,11,18,DC
+11001,11,1,District of Columbia,District of Columbia,24001,24.0,1.0,Maryland,Allegany County,28,35,DC
+11001,11,1,District of Columbia,District of Columbia,24003,24.0,3.0,Maryland,Anne Arundel County,1290,219,DC
+11001,11,1,District of Columbia,District of Columbia,24005,24.0,5.0,Maryland,Baltimore County,403,133,DC
+11001,11,1,District of Columbia,District of Columbia,24013,24.0,13.0,Maryland,Carroll County,32,47,DC
+11001,11,1,District of Columbia,District of Columbia,24015,24.0,15.0,Maryland,Cecil County,21,27,DC
+11001,11,1,District of Columbia,District of Columbia,24017,24.0,17.0,Maryland,Charles County,262,111,DC
+11001,11,1,District of Columbia,District of Columbia,24021,24.0,21.0,Maryland,Frederick County,162,97,DC
+11001,11,1,District of Columbia,District of Columbia,24027,24.0,27.0,Maryland,Howard County,960,188,DC
+11001,11,1,District of Columbia,District of Columbia,24031,24.0,31.0,Maryland,Montgomery County,22447,1091,DC
+11001,11,1,District of Columbia,District of Columbia,24033,24.0,33.0,Maryland,Prince George's County,16214,928,DC
+11001,11,1,District of Columbia,District of Columbia,24037,24.0,37.0,Maryland,St. Mary's County,14,22,DC
+11001,11,1,District of Columbia,District of Columbia,24041,24.0,41.0,Maryland,Talbot County,96,70,DC
+11001,11,1,District of Columbia,District of Columbia,24047,24.0,47.0,Maryland,Worcester County,10,17,DC
+11001,11,1,District of Columbia,District of Columbia,24510,24.0,510.0,Maryland,Baltimore city,1234,237,DC
+11001,11,1,District of Columbia,District of Columbia,25003,25.0,3.0,Massachusetts,Berkshire County,10,21,DC
+11001,11,1,District of Columbia,District of Columbia,25005,25.0,5.0,Massachusetts,Bristol County,7,17,DC
+11001,11,1,District of Columbia,District of Columbia,25017,25.0,17.0,Massachusetts,Middlesex County,70,92,DC
+11001,11,1,District of Columbia,District of Columbia,25021,25.0,21.0,Massachusetts,Norfolk County,52,59,DC
+11001,11,1,District of Columbia,District of Columbia,25025,25.0,25.0,Massachusetts,Suffolk County,102,75,DC
+11001,11,1,District of Columbia,District of Columbia,26065,26.0,65.0,Michigan,Ingham County,17,26,DC
+11001,11,1,District of Columbia,District of Columbia,26125,26.0,125.0,Michigan,Oakland County,42,41,DC
+11001,11,1,District of Columbia,District of Columbia,26163,26.0,163.0,Michigan,Wayne County,4,6,DC
+11001,11,1,District of Columbia,District of Columbia,27053,27.0,53.0,Minnesota,Hennepin County,10,15,DC
+11001,11,1,District of Columbia,District of Columbia,27123,27.0,123.0,Minnesota,Ramsey County,10,16,DC
+11001,11,1,District of Columbia,District of Columbia,29029,29.0,29.0,Missouri,Camden County,7,10,DC
+11001,11,1,District of Columbia,District of Columbia,29047,29.0,47.0,Missouri,Clay County,4,6,DC
+11001,11,1,District of Columbia,District of Columbia,29169,29.0,169.0,Missouri,Pulaski County,9,14,DC
+11001,11,1,District of Columbia,District of Columbia,31055,31.0,55.0,Nebraska,Douglas County,7,11,DC
+11001,11,1,District of Columbia,District of Columbia,33011,33.0,11.0,New Hampshire,Hillsborough County,40,63,DC
+11001,11,1,District of Columbia,District of Columbia,33017,33.0,17.0,New Hampshire,Strafford County,18,29,DC
+11001,11,1,District of Columbia,District of Columbia,34003,34.0,3.0,New Jersey,Bergen County,39,28,DC
+11001,11,1,District of Columbia,District of Columbia,34005,34.0,5.0,New Jersey,Burlington County,7,11,DC
+11001,11,1,District of Columbia,District of Columbia,34011,34.0,11.0,New Jersey,Cumberland County,15,24,DC
+11001,11,1,District of Columbia,District of Columbia,34013,34.0,13.0,New Jersey,Essex County,42,39,DC
+11001,11,1,District of Columbia,District of Columbia,34021,34.0,21.0,New Jersey,Mercer County,24,36,DC
+11001,11,1,District of Columbia,District of Columbia,34025,34.0,25.0,New Jersey,Monmouth County,17,23,DC
+11001,11,1,District of Columbia,District of Columbia,34039,34.0,39.0,New Jersey,Union County,32,40,DC
+11001,11,1,District of Columbia,District of Columbia,36047,36.0,47.0,New York,Kings County,143,80,DC
+11001,11,1,District of Columbia,District of Columbia,36061,36.0,61.0,New York,New York County,327,115,DC
+11001,11,1,District of Columbia,District of Columbia,36081,36.0,81.0,New York,Queens County,16,27,DC
+11001,11,1,District of Columbia,District of Columbia,36101,36.0,101.0,New York,Steuben County,34,39,DC
+11001,11,1,District of Columbia,District of Columbia,36103,36.0,103.0,New York,Suffolk County,24,42,DC
+11001,11,1,District of Columbia,District of Columbia,37063,37.0,63.0,North Carolina,Durham County,15,28,DC
+11001,11,1,District of Columbia,District of Columbia,37081,37.0,81.0,North Carolina,Guilford County,40,47,DC
+11001,11,1,District of Columbia,District of Columbia,37097,37.0,97.0,North Carolina,Iredell County,9,14,DC
+11001,11,1,District of Columbia,District of Columbia,37147,37.0,147.0,North Carolina,Pitt County,8,12,DC
+11001,11,1,District of Columbia,District of Columbia,37183,37.0,183.0,North Carolina,Wake County,15,23,DC
+11001,11,1,District of Columbia,District of Columbia,39029,39.0,29.0,Ohio,Columbiana County,22,21,DC
+11001,11,1,District of Columbia,District of Columbia,39049,39.0,49.0,Ohio,Franklin County,55,59,DC
+11001,11,1,District of Columbia,District of Columbia,39057,39.0,57.0,Ohio,Greene County,5,8,DC
+11001,11,1,District of Columbia,District of Columbia,39079,39.0,79.0,Ohio,Jackson County,14,23,DC
+11001,11,1,District of Columbia,District of Columbia,39113,39.0,113.0,Ohio,Montgomery County,4,6,DC
+11001,11,1,District of Columbia,District of Columbia,41051,41.0,51.0,Oregon,Multnomah County,4,6,DC
+11001,11,1,District of Columbia,District of Columbia,41067,41.0,67.0,Oregon,Washington County,18,28,DC
+11001,11,1,District of Columbia,District of Columbia,42003,42.0,3.0,Pennsylvania,Allegheny County,17,18,DC
+11001,11,1,District of Columbia,District of Columbia,42029,42.0,29.0,Pennsylvania,Chester County,7,12,DC
+11001,11,1,District of Columbia,District of Columbia,42041,42.0,41.0,Pennsylvania,Cumberland County,12,18,DC
+11001,11,1,District of Columbia,District of Columbia,42043,42.0,43.0,Pennsylvania,Dauphin County,22,25,DC
+11001,11,1,District of Columbia,District of Columbia,42045,42.0,45.0,Pennsylvania,Delaware County,11,12,DC
+11001,11,1,District of Columbia,District of Columbia,42061,42.0,61.0,Pennsylvania,Huntingdon County,9,14,DC
+11001,11,1,District of Columbia,District of Columbia,42091,42.0,91.0,Pennsylvania,Montgomery County,13,18,DC
+11001,11,1,District of Columbia,District of Columbia,42101,42.0,101.0,Pennsylvania,Philadelphia County,126,67,DC
+11001,11,1,District of Columbia,District of Columbia,44003,44.0,3.0,Rhode Island,Kent County,27,44,DC
+11001,11,1,District of Columbia,District of Columbia,47093,47.0,93.0,Tennessee,Knox County,8,13,DC
+11001,11,1,District of Columbia,District of Columbia,47157,47.0,157.0,Tennessee,Shelby County,9,17,DC
+11001,11,1,District of Columbia,District of Columbia,48041,48.0,41.0,Texas,Brazos County,10,16,DC
+11001,11,1,District of Columbia,District of Columbia,48113,48.0,113.0,Texas,Dallas County,9,14,DC
+11001,11,1,District of Columbia,District of Columbia,48201,48.0,201.0,Texas,Harris County,32,39,DC
+11001,11,1,District of Columbia,District of Columbia,48439,48.0,439.0,Texas,Tarrant County,17,27,DC
+11001,11,1,District of Columbia,District of Columbia,50023,50.0,23.0,Vermont,Washington County,6,9,DC
+11001,11,1,District of Columbia,District of Columbia,51003,51.0,3.0,Virginia,Albemarle County,65,73,DC
+11001,11,1,District of Columbia,District of Columbia,51013,51.0,13.0,Virginia,Arlington County,16190,979,DC
+11001,11,1,District of Columbia,District of Columbia,51047,51.0,47.0,Virginia,Culpeper County,12,19,DC
+11001,11,1,District of Columbia,District of Columbia,51059,51.0,59.0,Virginia,Fairfax County,11736,671,DC
+11001,11,1,District of Columbia,District of Columbia,51069,51.0,69.0,Virginia,Frederick County,57,57,DC
+11001,11,1,District of Columbia,District of Columbia,51075,51.0,75.0,Virginia,Goochland County,9,15,DC
+11001,11,1,District of Columbia,District of Columbia,51083,51.0,83.0,Virginia,Halifax County,25,36,DC
+11001,11,1,District of Columbia,District of Columbia,51085,51.0,85.0,Virginia,Hanover County,42,40,DC
+11001,11,1,District of Columbia,District of Columbia,51087,51.0,87.0,Virginia,Henrico County,30,29,DC
+11001,11,1,District of Columbia,District of Columbia,51107,51.0,107.0,Virginia,Loudoun County,898,193,DC
+11001,11,1,District of Columbia,District of Columbia,51113,51.0,113.0,Virginia,Madison County,8,11,DC
+11001,11,1,District of Columbia,District of Columbia,51121,51.0,121.0,Virginia,Montgomery County,7,9,DC
+11001,11,1,District of Columbia,District of Columbia,51125,51.0,125.0,Virginia,Nelson County,18,29,DC
+11001,11,1,District of Columbia,District of Columbia,51137,51.0,137.0,Virginia,Orange County,20,31,DC
+11001,11,1,District of Columbia,District of Columbia,51153,51.0,153.0,Virginia,Prince William County,330,115,DC
+11001,11,1,District of Columbia,District of Columbia,51157,51.0,157.0,Virginia,Rappahannock County,9,15,DC
+11001,11,1,District of Columbia,District of Columbia,51179,51.0,179.0,Virginia,Stafford County,49,68,DC
+11001,11,1,District of Columbia,District of Columbia,51191,51.0,191.0,Virginia,Washington County,19,28,DC
+11001,11,1,District of Columbia,District of Columbia,51193,51.0,193.0,Virginia,Westmoreland County,24,33,DC
+11001,11,1,District of Columbia,District of Columbia,51510,51.0,510.0,Virginia,Alexandria city,6054,644,DC
+11001,11,1,District of Columbia,District of Columbia,51600,51.0,600.0,Virginia,Fairfax city,722,184,DC
+11001,11,1,District of Columbia,District of Columbia,51610,51.0,610.0,Virginia,Falls Church city,215,91,DC
+11001,11,1,District of Columbia,District of Columbia,51630,51.0,630.0,Virginia,Fredericksburg city,56,47,DC
+11001,11,1,District of Columbia,District of Columbia,51683,51.0,683.0,Virginia,Manassas city,54,48,DC
+11001,11,1,District of Columbia,District of Columbia,51685,51.0,685.0,Virginia,Manassas Park city,26,28,DC
+11001,11,1,District of Columbia,District of Columbia,51710,51.0,710.0,Virginia,Norfolk city,35,46,DC
+11001,11,1,District of Columbia,District of Columbia,51730,51.0,730.0,Virginia,Petersburg city,7,11,DC
+11001,11,1,District of Columbia,District of Columbia,51740,51.0,740.0,Virginia,Portsmouth city,27,30,DC
+11001,11,1,District of Columbia,District of Columbia,51760,51.0,760.0,Virginia,Richmond city,8,12,DC
+11001,11,1,District of Columbia,District of Columbia,51770,51.0,770.0,Virginia,Roanoke city,13,20,DC
+11001,11,1,District of Columbia,District of Columbia,51810,51.0,810.0,Virginia,Virginia Beach city,27,41,DC
+11001,11,1,District of Columbia,District of Columbia,51840,51.0,840.0,Virginia,Winchester city,10,15,DC
+11001,11,1,District of Columbia,District of Columbia,53001,53.0,1.0,Washington,Adams County,4,7,DC
+11001,11,1,District of Columbia,District of Columbia,53011,53.0,11.0,Washington,Clark County,20,32,DC
+11001,11,1,District of Columbia,District of Columbia,53013,53.0,13.0,Washington,Columbia County,26,45,DC
+11001,11,1,District of Columbia,District of Columbia,53029,53.0,29.0,Washington,Island County,9,14,DC
+11001,11,1,District of Columbia,District of Columbia,53033,53.0,33.0,Washington,King County,19,24,DC
+11001,11,1,District of Columbia,District of Columbia,53061,53.0,61.0,Washington,Snohomish County,50,46,DC
+11001,11,1,District of Columbia,District of Columbia,54003,54.0,3.0,West Virginia,Berkeley County,8,11,DC
+11001,11,1,District of Columbia,District of Columbia,54037,54.0,37.0,West Virginia,Jefferson County,19,27,DC
+11001,11,1,District of Columbia,District of Columbia,54039,54.0,39.0,West Virginia,Kanawha County,4,6,DC
+11001,11,1,District of Columbia,District of Columbia,54057,54.0,57.0,West Virginia,Mineral County,12,22,DC
+11001,11,1,District of Columbia,District of Columbia,54069,54.0,69.0,West Virginia,Ohio County,10,14,DC
+11001,11,1,District of Columbia,District of Columbia,56039,56.0,39.0,Wyoming,Teton County,13,20,DC
+11001,11,1,District of Columbia,District of Columbia,-1,,,Other workplace outside of the U.S.,,501,225,DC

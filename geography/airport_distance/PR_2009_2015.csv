@@ -1,0 +1,1983 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+72025,72,25,Puerto Rico,Caguas Municipio,5007,5.0,7.0,Arkansas,Benton County,30,47,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,5143,5.0,143.0,Arkansas,Washington County,54,79,PR
+72031,72,31,Puerto Rico,Carolina Municipio,6037,6.0,37.0,California,Los Angeles County,18,20,PR
+72071,72,71,Puerto Rico,Isabela Municipio,6037,6.0,37.0,California,Los Angeles County,31,49,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,6081,6.0,81.0,California,San Mateo County,13,19,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,9001,9.0,1.0,Connecticut,Fairfield County,37,60,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,11001,11.0,1.0,District of Columbia,District of Columbia,9,16,PR
+72031,72,31,Puerto Rico,Carolina Municipio,11001,11.0,1.0,District of Columbia,District of Columbia,10,15,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,12011,12.0,11.0,Florida,Broward County,8,13,PR
+72031,72,31,Puerto Rico,Carolina Municipio,12011,12.0,11.0,Florida,Broward County,9,14,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,12011,12.0,11.0,Florida,Broward County,28,44,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,12011,12.0,11.0,Florida,Broward County,15,23,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,12083,12.0,83.0,Florida,Marion County,10,15,PR
+72031,72,31,Puerto Rico,Carolina Municipio,12086,12.0,86.0,Florida,Miami-Dade County,21,26,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,12086,12.0,86.0,Florida,Miami-Dade County,11,17,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,12086,12.0,86.0,Florida,Miami-Dade County,11,16,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,12086,12.0,86.0,Florida,Miami-Dade County,22,37,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,12095,12.0,95.0,Florida,Orange County,17,27,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,12095,12.0,95.0,Florida,Orange County,7,11,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,12095,12.0,95.0,Florida,Orange County,29,34,PR
+72127,72,127,Puerto Rico,San Juan Municipio,12095,12.0,95.0,Florida,Orange County,20,24,PR
+72141,72,141,Puerto Rico,Utuado Municipio,12095,12.0,95.0,Florida,Orange County,7,12,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,12095,12.0,95.0,Florida,Orange County,31,47,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,12103,12.0,103.0,Florida,Pinellas County,24,31,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,13121,13.0,121.0,Georgia,Fulton County,15,24,PR
+72027,72,27,Puerto Rico,Camuy Municipio,13121,13.0,121.0,Georgia,Fulton County,17,26,PR
+72113,72,113,Puerto Rico,Ponce Municipio,15003,15.0,3.0,Hawaii,Honolulu County,18,28,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,16001,16.0,1.0,Idaho,Ada County,13,22,PR
+72057,72,57,Puerto Rico,Guayama Municipio,18063,18.0,63.0,Indiana,Hendricks County,36,55,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,16,26,PR
+72153,72,153,Puerto Rico,Yauco Municipio,23005,23.0,5.0,Maine,Cumberland County,33,34,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,24021,24.0,21.0,Maryland,Frederick County,24,30,PR
+72031,72,31,Puerto Rico,Carolina Municipio,25005,25.0,5.0,Massachusetts,Bristol County,11,17,PR
+72127,72,127,Puerto Rico,San Juan Municipio,25025,25.0,25.0,Massachusetts,Suffolk County,10,15,PR
+72099,72,99,Puerto Rico,Moca Municipio,29189,29.0,189.0,Missouri,St. Louis County,54,61,PR
+72027,72,27,Puerto Rico,Camuy Municipio,34001,34.0,1.0,New Jersey,Atlantic County,7,11,PR
+72041,72,41,Puerto Rico,Cidra Municipio,34003,34.0,3.0,New Jersey,Bergen County,14,21,PR
+72127,72,127,Puerto Rico,San Juan Municipio,34003,34.0,3.0,New Jersey,Bergen County,9,14,PR
+72043,72,43,Puerto Rico,Coamo Municipio,34015,34.0,15.0,New Jersey,Gloucester County,16,25,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,34029,34.0,29.0,New Jersey,Ocean County,49,79,PR
+72043,72,43,Puerto Rico,Coamo Municipio,34039,34.0,39.0,New Jersey,Union County,10,17,PR
+72149,72,149,Puerto Rico,Villalba Municipio,36029,36.0,29.0,New York,Erie County,14,23,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,36031,36.0,31.0,New York,Essex County,12,18,PR
+72117,72,117,Puerto Rico,Rincón Municipio,36047,36.0,47.0,New York,Kings County,13,21,PR
+72025,72,25,Puerto Rico,Caguas Municipio,36059,36.0,59.0,New York,Nassau County,11,17,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,36061,36.0,61.0,New York,New York County,19,31,PR
+72055,72,55,Puerto Rico,Guánica Municipio,36061,36.0,61.0,New York,New York County,11,18,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,36061,36.0,61.0,New York,New York County,10,16,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,36061,36.0,61.0,New York,New York County,18,28,PR
+72127,72,127,Puerto Rico,San Juan Municipio,36061,36.0,61.0,New York,New York County,8,13,PR
+72127,72,127,Puerto Rico,San Juan Municipio,36071,36.0,71.0,New York,Orange County,19,31,PR
+72031,72,31,Puerto Rico,Carolina Municipio,36081,36.0,81.0,New York,Queens County,22,36,PR
+72051,72,51,Puerto Rico,Dorado Municipio,36081,36.0,81.0,New York,Queens County,9,14,PR
+72071,72,71,Puerto Rico,Isabela Municipio,36081,36.0,81.0,New York,Queens County,11,17,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,37051,37.0,51.0,North Carolina,Cumberland County,7,11,PR
+72031,72,31,Puerto Rico,Carolina Municipio,40031,40.0,31.0,Oklahoma,Comanche County,11,18,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,40109,40.0,109.0,Oklahoma,Oklahoma County,10,16,PR
+72031,72,31,Puerto Rico,Carolina Municipio,42043,42.0,43.0,Pennsylvania,Dauphin County,57,65,PR
+72033,72,33,Puerto Rico,Cataño Municipio,42079,42.0,79.0,Pennsylvania,Luzerne County,4,6,PR
+72127,72,127,Puerto Rico,San Juan Municipio,42101,42.0,101.0,Pennsylvania,Philadelphia County,28,33,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,48113,48.0,113.0,Texas,Dallas County,10,18,PR
+72113,72,113,Puerto Rico,Ponce Municipio,48201,48.0,201.0,Texas,Harris County,22,35,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,48201,48.0,201.0,Texas,Harris County,8,12,PR
+72127,72,127,Puerto Rico,San Juan Municipio,48439,48.0,439.0,Texas,Tarrant County,15,24,PR
+72041,72,41,Puerto Rico,Cidra Municipio,49035,49.0,35.0,Utah,Salt Lake County,13,20,PR
+72127,72,127,Puerto Rico,San Juan Municipio,53033,53.0,33.0,Washington,King County,6,9,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,53063,53.0,63.0,Washington,Spokane County,8,14,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,2085,307,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,10,15,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,19,32,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,28,32,PR
+72081,72,81,Puerto Rico,Lares Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,141,66,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,32,51,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,29,32,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,116,71,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,12,20,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,62,95,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,85,70,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72001,72.0,1.0,Puerto Rico,Adjuntas Municipio,23,27,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,5264,539,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,411,142,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,104,71,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,17,29,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,10,15,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,9,14,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,22,36,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,22,35,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,8,12,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,13,21,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,37,41,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,37,45,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,127,67,PR
+72099,72,99,Puerto Rico,Moca Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,308,181,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,32,48,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,130,63,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72003,72.0,3.0,Puerto Rico,Aguada Municipio,37,35,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,25,37,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,1661,295,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,10603,633,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,600,190,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,183,99,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,44,58,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,291,110,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,197,100,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,26,42,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,15,23,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,81,68,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,33,31,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,2435,367,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,20,30,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,35,38,PR
+72081,72,81,Puerto Rico,Lares Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,82,57,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,9,13,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,46,53,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,587,168,PR
+72099,72,99,Puerto Rico,Moca Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,2011,407,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,37,37,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,508,174,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,513,154,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,15,24,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,59,56,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,95,73,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,991,205,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,16,26,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,41,64,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,35,55,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72005,72.0,5.0,Puerto Rico,Aguadilla Municipio,42,55,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,1653,359,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,19,21,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,309,141,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,59,48,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,24,27,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,151,111,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,59,63,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,49,55,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,96,101,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,22,36,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,33,38,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,22,35,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72007,72.0,7.0,Puerto Rico,Aguas Buenas Municipio,32,35,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,3708,356,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,12,19,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,695,210,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,10,16,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,31,37,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,117,69,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,191,103,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,685,213,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,14,22,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,16,26,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,55,67,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,17,28,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,24,39,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,14,23,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,6,8,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,32,52,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,269,128,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,15,23,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,11,17,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,9,14,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,92,87,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72009,72.0,9.0,Puerto Rico,Aibonito Municipio,18,28,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,903,255,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,236,118,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,4254,439,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,17,28,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,247,132,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,21,33,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,9,14,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,32,26,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,147,81,PR
+72081,72,81,Puerto Rico,Lares Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,75,55,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,28,34,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,669,217,PR
+72099,72,99,Puerto Rico,Moca Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,208,109,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,9,14,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,63,59,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,156,93,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,124,122,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,206,133,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,129,108,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72011,72.0,11.0,Puerto Rico,Añasco Municipio,29,44,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,70,45,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,14,23,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,81,49,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,16,26,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,13440,826,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,467,197,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,199,98,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,32,51,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,78,90,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,1730,334,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,39,44,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,57,59,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,153,103,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,41,64,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,47,44,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,19,33,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,159,103,PR
+72054,72,54,Puerto Rico,Florida Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,378,165,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,89,80,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,4304,533,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,424,202,PR
+72081,72,81,Puerto Rico,Lares Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,864,187,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,11,18,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,459,135,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,23,26,PR
+72099,72,99,Puerto Rico,Moca Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,86,90,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,90,69,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,57,55,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,816,222,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,38,43,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,22,34,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,177,97,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,155,106,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,83,71,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,146,106,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,19,21,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,721,177,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,52,46,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,237,121,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72013,72.0,13.0,Puerto Rico,Arecibo Municipio,18,27,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,1472,281,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,15,24,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,43,41,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,9,14,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,338,152,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,8,12,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,17,29,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,20,31,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,20,33,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,344,150,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,86,85,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,46,58,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,12,18,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72015,72.0,15.0,Puerto Rico,Arroyo Municipio,26,40,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,44,50,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,1664,318,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,2072,352,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,187,93,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,68,67,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,240,130,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,11,15,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,10,15,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,1,8,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,243,102,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,13,20,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,54,49,PR
+72054,72,54,Puerto Rico,Florida Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,400,170,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,10,15,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,685,222,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,21,34,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,31,31,PR
+72081,72,81,Puerto Rico,Lares Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,58,56,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,17,30,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,912,247,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,13,22,PR
+72099,72,99,Puerto Rico,Moca Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,17,26,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,309,142,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,63,51,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,10,15,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,148,98,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,110,66,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,14,22,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,20,33,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,51,80,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,140,109,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,18,30,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,232,98,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,129,84,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72017,72.0,17.0,Puerto Rico,Barceloneta Municipio,508,160,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,250,106,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,3565,460,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,82,65,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,78,56,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,110,68,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,196,98,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,178,140,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,9,15,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,231,129,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,229,90,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,11,17,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,44,41,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,12,20,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,35,39,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72019,72.0,19.0,Puerto Rico,Barranquitas Municipio,27,42,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,12,19,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,19,31,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,80,64,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,383,173,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,20,33,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,265,118,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,145,111,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,244,112,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,26571,983,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,12,21,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,641,212,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,89,77,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,137,64,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,1314,282,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,1036,200,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,147,96,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,13,20,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,144,101,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,167,115,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,13,21,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,741,192,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,1304,302,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,1309,278,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,44,42,PR
+72054,72,54,Puerto Rico,Florida Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,55,68,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,35,56,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,2643,413,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,340,162,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,45,43,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,60,46,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,23,38,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,41,45,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,170,95,PR
+72081,72,81,Puerto Rico,Lares Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,39,48,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,8,12,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,65,50,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,95,59,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,72,51,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,671,219,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,92,91,PR
+72099,72,99,Puerto Rico,Moca Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,85,71,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,581,226,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,1945,369,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,180,87,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,93,105,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,29,42,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,32,35,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,248,132,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,29,47,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,11,16,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,4192,444,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,209,110,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,81,76,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,29,47,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,7002,670,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,5446,527,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,742,204,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,128,77,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,1052,250,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,922,276,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,11,17,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,45,56,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,70,108,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,13,21,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,82,56,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,66,45,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,104,84,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,5510,548,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,15,24,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,17,26,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,19,22,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,527,136,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,30,45,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,448,164,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,21,25,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,761,228,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,18,28,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,64,56,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,10,17,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,67,56,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,343,136,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,21,25,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,10,16,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,35,40,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,8,12,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72023,72.0,23.0,Puerto Rico,Cabo Rojo Municipio,13,14,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,7,10,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,1881,330,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,173,76,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,11,18,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,18,29,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,62,57,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,89,73,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,1195,229,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,23106,1131,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,26,33,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,359,190,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,612,193,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,36,33,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,1764,296,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,85,72,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,32,49,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,2310,338,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,129,94,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,388,150,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,39,64,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,83,62,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,66,63,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,293,120,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,816,217,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,4375,615,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,7,10,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,650,173,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,16,26,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,18,27,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,1736,355,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,15,25,PR
+72081,72,81,Puerto Rico,Lares Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,13,21,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,989,240,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,41,36,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,229,143,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,5,9,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,55,60,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,154,121,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,142,81,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,45,53,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,94,69,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,140,62,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,237,95,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,371,153,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,2128,301,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,3111,430,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,36,58,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,105,100,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,170,94,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,297,123,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,788,232,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,186,110,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,45,44,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,39,38,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,540,176,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72025,72.0,25.0,Puerto Rico,Caguas Municipio,8,13,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,23,27,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,33,52,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,224,110,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,63,71,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,3606,412,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,16,25,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,378,150,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,116,94,PR
+72081,72,81,Puerto Rico,Lares Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,90,48,PR
+72099,72,99,Puerto Rico,Moca Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,109,84,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,362,133,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,52,58,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,17,26,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72027,72.0,27.0,Puerto Rico,Camuy Municipio,29,34,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,17,26,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,38,24,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,52,48,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,2819,355,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,1185,216,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,76,72,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,39,51,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,164,81,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,32,51,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,27,32,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,166,125,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,85,55,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,611,145,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,171,97,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,85,73,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,18,29,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,31,49,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,1405,290,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,284,107,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,42,42,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,43,41,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,327,151,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,26,42,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72029,72.0,29.0,Puerto Rico,Canóvanas Municipio,14,23,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,29,34,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,20,31,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,82,88,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,145,84,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,113,90,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,29,28,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,34,58,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,28,44,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,2202,299,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,1102,298,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,37,59,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,4138,513,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,23502,1039,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,211,88,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,231,106,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,133,86,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,25,37,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,135,91,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,66,63,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,72,53,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,398,151,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,396,123,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,7,12,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,59,57,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,21,32,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,1046,225,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,626,216,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,186,120,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,11,19,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,28,32,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,661,210,PR
+72081,72,81,Puerto Rico,Lares Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,27,41,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,244,116,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,1868,267,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,467,149,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,230,111,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,28,45,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,35,31,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,91,59,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,129,104,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,21,20,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,25,28,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,68,53,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,12,20,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,3050,456,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,8495,683,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,160,125,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,20,31,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,42,52,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,740,213,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,1081,199,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,3068,383,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,138,90,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,80,76,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,46,52,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,94,75,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72031,72.0,31.0,Puerto Rico,Carolina Municipio,8,13,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,8,12,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,37,37,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,93,62,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,23,37,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,1772,320,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,19,30,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,569,183,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,27,33,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,41,41,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,704,165,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,1698,243,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,85,66,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,91,53,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,100,105,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,30,36,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,121,101,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,337,128,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,24,31,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,550,145,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,142,102,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,20,29,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,13,21,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,42,40,PR
+72081,72,81,Puerto Rico,Lares Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,35,41,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,77,59,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,22,25,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,13,20,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,131,84,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,78,118,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,75,84,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,7,11,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,31,37,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,152,83,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,1574,298,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,45,45,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,22,37,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,680,204,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,1167,228,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,281,139,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,54,40,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,190,126,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72033,72.0,33.0,Puerto Rico,Cataño Municipio,408,212,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,175,97,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,849,237,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,43,66,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,108,89,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,65,51,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,1212,287,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,14,22,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,24,29,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,7176,582,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,2337,304,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,62,55,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,181,87,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,42,48,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,209,128,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,36,56,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,219,120,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,109,77,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,46,41,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,13,21,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,13,22,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,89,83,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,5,7,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,26,30,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,92,96,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,35,57,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,99,67,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,7,10,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,361,155,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,155,94,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,68,52,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,105,102,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,80,76,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,14,23,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,30,45,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72035,72.0,35.0,Puerto Rico,Cayey Municipio,60,56,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,16,25,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,16,24,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,46,53,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,25,28,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,886,231,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,273,132,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,10,16,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,34,39,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,47,57,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,54,45,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,103,76,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,64,75,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,22,21,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72037,72.0,37.0,Puerto Rico,Ceiba Municipio,37,46,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,96,78,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,35,57,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,10,16,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,16,25,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,1597,264,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,50,37,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,130,95,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,13,20,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,39,61,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,29,32,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72039,72.0,39.0,Puerto Rico,Ciales Municipio,33,38,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,216,97,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,84,81,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,16,26,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,27,44,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,54,48,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,23,21,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,782,203,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,39,38,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,909,239,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,4621,382,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,195,103,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,56,61,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,15,25,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,71,60,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,135,72,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,6,9,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,18,22,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,44,50,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,43,65,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,67,60,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,20,21,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,114,83,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,33,40,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,13,22,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72041,72.0,41.0,Puerto Rico,Cidra Municipio,23,36,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,19,29,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,115,77,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,68,73,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,29,28,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,5025,532,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,11,16,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,15,25,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,9,13,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,22,35,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,12,19,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,137,82,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,24,29,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,108,65,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,104,74,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,32,40,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,226,142,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,44,69,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72043,72.0,43.0,Puerto Rico,Coamo Municipio,120,72,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,36,46,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,31,52,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,199,116,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,48,35,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,81,108,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,10,18,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,37,42,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,171,83,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,34,54,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,1520,229,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,12,20,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,48,77,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,177,131,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,46,42,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,74,73,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72045,72.0,45.0,Puerto Rico,Comerío Municipio,5,7,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,10,16,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,12,20,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,18,28,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,202,105,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,16,26,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,16,25,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,3108,468,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,83,68,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,44,75,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,8,13,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,338,170,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,274,128,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,23,19,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,30,35,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,66,48,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,287,146,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,40,44,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,12,19,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,81,74,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,90,72,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72047,72.0,47.0,Puerto Rico,Corozal Municipio,19,30,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72049,72.0,49.0,Puerto Rico,Culebra Municipio,9,16,PR
+72049,72,49,Puerto Rico,Culebra Municipio,72049,72.0,49.0,Puerto Rico,Culebra Municipio,661,166,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72049,72.0,49.0,Puerto Rico,Culebra Municipio,12,19,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72049,72.0,49.0,Puerto Rico,Culebra Municipio,11,18,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,31,35,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,270,143,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,225,189,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,57,56,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,539,121,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,87,57,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,55,54,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,17,27,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,50,43,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,116,71,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,17,27,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,74,82,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,6,10,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,31,33,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,200,122,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,3986,510,PR
+72054,72,54,Puerto Rico,Florida Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,45,68,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,22,36,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,205,99,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,4,7,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,58,68,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,10,18,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,63,62,PR
+72081,72,81,Puerto Rico,Lares Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,39,50,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,319,130,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,371,215,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,36,58,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,141,87,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,55,52,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,9,14,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,76,84,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,359,134,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,17,28,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,600,199,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,946,237,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,108,65,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,24,27,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,913,250,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72051,72.0,51.0,Puerto Rico,Dorado Municipio,686,222,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,105,76,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,145,99,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,162,86,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,522,163,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,12,21,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,1277,251,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,12,18,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,72,84,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,6676,452,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,36,40,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,30,35,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,408,154,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,31,49,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,207,145,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,158,90,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,1685,240,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,912,288,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,17,28,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,1056,248,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,181,83,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,7,11,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,35,33,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,19,30,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72053,72.0,53.0,Puerto Rico,Fajardo Municipio,128,79,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,113,84,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,98,94,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,14,23,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,49,47,PR
+72054,72,54,Puerto Rico,Florida Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,1301,370,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,59,54,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,18,29,PR
+72081,72,81,Puerto Rico,Lares Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,25,40,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,25,40,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,57,53,PR
+72099,72,99,Puerto Rico,Moca Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,46,73,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72054,72.0,54.0,Puerto Rico,Florida Municipio,14,22,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,71,77,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,1851,229,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,148,87,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,44,56,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,20,22,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,259,131,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,8,11,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,9,14,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,30,38,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,27,31,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,54,55,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,81,59,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,99,74,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72055,72.0,55.0,Puerto Rico,Guánica Municipio,260,122,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,24,37,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,17,27,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,28,31,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,1672,351,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,13,21,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,40,46,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,130,87,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,14,23,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,32,39,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,138,88,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,48,52,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,377,161,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,36,58,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,6469,585,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,32,36,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,124,72,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,21,35,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,37,43,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,5,9,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,36,58,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,307,102,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,27,42,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,17,27,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,101,63,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,62,86,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,25,39,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,902,233,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,54,60,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,318,119,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,1381,258,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,62,45,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,30,35,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,302,133,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,23,37,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,27,41,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,10,15,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,73,52,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,19,22,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72057,72.0,57.0,Puerto Rico,Guayama Municipio,13,20,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,29,34,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,24,37,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,96,61,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,1328,226,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,25,39,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,14,23,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,20,34,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,8,13,PR
+72099,72,99,Puerto Rico,Moca Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,13,21,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,22,36,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,197,118,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,166,85,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,105,105,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,27,41,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,22,33,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72059,72.0,59.0,Puerto Rico,Guayanilla Municipio,521,211,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,17,27,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,488,182,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,124,105,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,23,37,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,226,123,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,166,131,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,65,53,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,6611,469,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,2430,374,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,596,167,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,3077,428,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,815,199,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,505,167,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,58,48,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,47,41,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,476,187,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,66,65,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,123,64,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,333,167,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,689,212,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,135,76,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,147,128,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,6,12,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,12612,701,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,757,316,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,51,59,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,182,145,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,10,18,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,18,27,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,51,52,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,389,159,PR
+72081,72,81,Puerto Rico,Lares Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,14,23,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,243,136,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,263,119,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,86,61,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,323,122,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,38,45,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,14,22,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,311,145,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,221,150,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,560,228,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,79,71,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,17,28,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,205,86,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,89,77,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,448,176,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,14,23,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,74,62,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,19,31,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,9735,694,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,452,175,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,52,65,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,2832,391,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,2256,314,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,1669,314,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,55,44,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,517,179,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,603,232,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,114,77,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72061,72.0,61.0,Puerto Rico,Guaynabo Municipio,12,15,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,9,14,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,44,57,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,37,43,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,28,32,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,52,58,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,907,214,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,92,75,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,116,77,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,5,7,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,168,113,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,103,62,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,18,30,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,36,41,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,37,42,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,51,49,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,121,91,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,3625,539,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,276,120,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,637,224,PR
+72081,72,81,Puerto Rico,Lares Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,34,39,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,176,104,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,23,29,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,18,27,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,54,63,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,114,99,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,65,62,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,12,18,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,55,37,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,12,19,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,210,82,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,303,142,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,27,24,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,7,11,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,87,54,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72063,72.0,63.0,Puerto Rico,Gurabo Municipio,117,78,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,33,37,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,87,84,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,1379,251,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,11,19,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,79,88,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,32,38,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,29,34,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,1127,227,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,26,33,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,35,39,PR
+72054,72,54,Puerto Rico,Florida Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,110,107,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,4787,430,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,116,107,PR
+72081,72,81,Puerto Rico,Lares Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,351,164,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,33,50,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,13,21,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,34,55,PR
+72099,72,99,Puerto Rico,Moca Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,19,30,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,68,96,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,494,185,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,26,43,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,31,53,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,16,23,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,97,69,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,206,122,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,112,122,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72065,72.0,65.0,Puerto Rico,Hatillo Municipio,20,32,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,88,65,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,15,25,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,104,84,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,441,173,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,15,24,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,6,9,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,7,11,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,1043,189,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,18,28,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,35,42,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,398,159,PR
+72099,72,99,Puerto Rico,Moca Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,31,50,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,24,39,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,31,40,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,155,144,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,345,139,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,23,35,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72067,72.0,67.0,Puerto Rico,Hormigueros Municipio,44,40,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,13,21,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,38,48,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,1,3,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,27,41,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,80,47,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,635,175,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,121,67,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,81,53,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,35,38,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,268,134,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,96,61,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,19,23,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,218,118,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,74,72,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,68,54,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,787,292,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,12,28,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,9594,721,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,18,29,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,876,266,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,1727,324,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,17,20,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,101,65,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,30,34,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,399,153,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,1706,363,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,12,21,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,25,29,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,63,54,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,259,113,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,380,162,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,58,64,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,16,27,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,30,28,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,89,80,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,33,50,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,23,35,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,21,32,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,2403,362,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72069,72.0,69.0,Puerto Rico,Humacao Municipio,16,25,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,22,33,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,313,143,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,797,201,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,67,72,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,31,54,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,29,26,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,25,41,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,9,13,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,132,76,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,15,24,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,11,16,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,142,111,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,35,33,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,5341,505,PR
+72081,72,81,Puerto Rico,Lares Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,50,46,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,68,63,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,114,69,PR
+72099,72,99,Puerto Rico,Moca Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,374,162,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,12,18,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,320,143,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,101,89,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,45,44,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,208,121,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72071,72.0,71.0,Puerto Rico,Isabela Municipio,22,34,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,97,64,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,8,10,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,11,19,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,16,25,PR
+72054,72,54,Puerto Rico,Florida Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,12,18,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,2811,276,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,20,24,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,42,72,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,68,51,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,8,12,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72073,72.0,73.0,Puerto Rico,Jayuya Municipio,284,118,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,49,49,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,21,35,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,22,25,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,45,45,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,46,58,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,46,39,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,20,33,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,619,192,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,77,57,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,107,165,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,11,18,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,31,48,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,89,79,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,5487,454,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,10,16,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,24,41,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,18,28,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,96,64,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,1101,238,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,166,105,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,38,43,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,46,41,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,577,211,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,40,63,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,932,201,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72075,72.0,75.0,Puerto Rico,Juana Díaz Municipio,52,70,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,55,53,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,31,53,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,26,40,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,201,90,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,630,205,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,134,78,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,161,81,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,103,84,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,89,68,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,73,48,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,22,35,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,9,14,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,79,67,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,84,71,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,542,219,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,28,44,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,557,175,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,26,30,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,3203,499,PR
+72081,72,81,Puerto Rico,Lares Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,23,25,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,1164,292,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,34,36,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,34,55,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,61,65,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,314,196,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,83,73,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,37,33,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,14,24,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,324,106,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,295,116,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,44,45,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,50,56,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,106,80,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,83,79,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,325,144,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72077,72.0,77.0,Puerto Rico,Juncos Municipio,7,11,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,17,28,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,2,4,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,11,25,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,34,33,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,387,147,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,79,55,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,105,64,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,32,53,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,15,25,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,78,64,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,1,4,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,2113,356,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,2,4,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,15,23,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,20,33,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,12,19,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,159,115,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,444,146,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,9,15,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,3,6,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,17,27,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,18,43,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72079,72.0,79.0,Puerto Rico,Lajas Municipio,35,34,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,116,69,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,138,84,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,57,56,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,52,55,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,30,49,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,207,155,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,23,36,PR
+72054,72,54,Puerto Rico,Florida Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,18,30,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,149,111,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,46,53,PR
+72081,72,81,Puerto Rico,Lares Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,3301,362,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,65,45,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,20,22,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,11,18,PR
+72099,72,99,Puerto Rico,Moca Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,17,28,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,42,59,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,47,54,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,433,151,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,71,51,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,17,26,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72081,72.0,81.0,Puerto Rico,Lares Municipio,84,65,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,9,15,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,12,21,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,25,42,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,1294,216,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,74,51,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,17,28,PR
+72099,72,99,Puerto Rico,Moca Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,51,81,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,7,12,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,12,21,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,227,104,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72083,72.0,83.0,Puerto Rico,Las Marías Municipio,9,15,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,17,27,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,28,47,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,133,80,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,368,120,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,34,35,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,145,78,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,113,80,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,7,12,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,32,41,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,62,57,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,52,54,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,212,118,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,1287,316,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,18,24,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,633,258,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,2951,450,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,16,16,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,7,13,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,21,28,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,333,186,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,11,16,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,15,23,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,16,25,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,11,19,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,27,32,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,130,92,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,309,145,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,95,103,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,36,56,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,85,121,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,15,23,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72085,72.0,85.0,Puerto Rico,Las Piedras Municipio,407,156,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,12,19,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,19,29,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,145,81,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,229,104,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,11,17,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,22,22,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,17,27,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,1460,255,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,105,90,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,284,134,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,86,55,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,13,20,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72087,72.0,87.0,Puerto Rico,Loíza Municipio,56,54,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,87,78,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,28,44,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,50,43,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,154,93,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,231,121,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,636,166,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,29,33,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,13,20,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,72,60,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,1283,221,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,31,51,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,276,132,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,51,42,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,52,62,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,18,31,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72089,72.0,89.0,Puerto Rico,Luquillo Municipio,19,31,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,32,39,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,31,38,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,19,31,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,1759,331,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,1053,327,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,17,27,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,296,119,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,62,70,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,220,120,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,51,56,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,15,17,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,23,36,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,532,163,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,47,72,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,369,137,PR
+72054,72,54,Puerto Rico,Florida Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,387,163,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,133,68,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,92,88,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,432,164,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,44,70,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,69,62,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,5,15,PR
+72081,72,81,Puerto Rico,Lares Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,70,47,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,5748,528,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,35,36,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,754,227,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,20,33,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,38,46,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,71,60,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,125,78,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,261,149,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,58,91,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,180,95,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,89,81,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,171,97,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,342,181,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,1445,331,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72091,72.0,91.0,Puerto Rico,Manatí Municipio,13,22,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,19,30,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,28,43,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,14,22,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,16,25,PR
+72081,72,81,Puerto Rico,Lares Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,24,28,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,164,79,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,945,205,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,302,155,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,176,136,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,28,30,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,28,32,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72093,72.0,93.0,Puerto Rico,Maricao Municipio,15,22,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,14,22,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,34,54,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,37,34,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,10,18,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,998,204,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,80,66,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,5,11,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72095,72.0,95.0,Puerto Rico,Maunabo Municipio,46,54,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,8,12,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,1836,289,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,640,205,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,2143,389,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,131,91,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,1,3,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,112,64,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,4036,512,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,14,23,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,52,43,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,11,19,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,32,40,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,16,19,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,53,61,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,13,20,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,158,90,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,163,79,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,10,11,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,38,34,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,2307,277,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,14,21,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,294,135,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,71,50,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,711,215,PR
+72081,72,81,Puerto Rico,Lares Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,66,64,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,688,188,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,26,40,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,152,108,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,15919,883,PR
+72099,72,99,Puerto Rico,Moca Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,924,291,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,39,34,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,301,133,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,142,124,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,791,210,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,563,184,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,1618,286,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,119,73,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,553,186,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,35,54,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,42,48,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,15,25,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,10,15,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,12,20,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,4,7,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72097,72.0,97.0,Puerto Rico,Mayagüez Municipio,147,78,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,272,116,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,380,137,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,81,58,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,18,28,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,49,37,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,288,127,PR
+72081,72,81,Puerto Rico,Lares Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,35,32,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,26,26,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,88,67,PR
+72099,72,99,Puerto Rico,Moca Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,3498,460,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,7,12,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,132,98,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,12,19,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,24,39,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,482,194,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72099,72.0,99.0,Puerto Rico,Moca Municipio,32,50,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,24,38,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,39,37,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,17,19,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,77,48,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,72,66,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,13,22,PR
+72054,72,54,Puerto Rico,Florida Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,60,60,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,180,108,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,2316,458,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,28,35,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,91,61,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,109,79,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,44,54,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,78,95,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72101,72.0,101.0,Puerto Rico,Morovis Municipio,173,106,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,39,38,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,64,59,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,9,16,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,42,54,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,118,79,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,13,20,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,37,36,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,169,89,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,86,84,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,164,105,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,8,14,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,30,35,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,21,34,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,2184,369,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,39,49,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,53,51,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,12,18,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72103,72.0,103.0,Puerto Rico,Naguabo Municipio,15,23,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,39,47,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,428,127,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,208,96,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,232,110,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,243,149,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,78,79,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,26,42,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,29,50,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,2415,411,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,68,56,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,9,14,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,200,84,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72105,72.0,105.0,Puerto Rico,Naranjito Municipio,33,38,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,17,28,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,39,58,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,241,130,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,49,46,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,112,89,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,23,36,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,25,24,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,238,133,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,37,60,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,2679,304,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,5,8,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,17,26,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,22,35,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,19,30,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72107,72.0,107.0,Puerto Rico,Orocovis Municipio,37,44,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,9,16,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,382,173,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,6,9,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,232,123,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,12,21,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,169,137,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,1581,301,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,35,39,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72109,72.0,109.0,Puerto Rico,Patillas Municipio,23,22,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,56,46,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,90,69,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,26,42,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,398,130,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,34,32,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,19,32,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,2152,336,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,503,135,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,18,25,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,7,12,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,33,52,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,27,42,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,14,23,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,11,19,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72111,72.0,111.0,Puerto Rico,Peñuelas Municipio,99,57,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,1140,218,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,14,23,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,46,51,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,86,131,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,104,62,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,45,43,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,66,63,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,76,74,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,421,135,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,176,109,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,295,211,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,13,23,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,42,48,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,21,33,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,111,67,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,27,31,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,1207,287,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,23,27,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,438,126,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,315,154,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,1295,244,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,8,14,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,71,60,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,46,65,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,82,60,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,22,35,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,195,126,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,6583,551,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,32,53,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,134,80,PR
+72081,72,81,Puerto Rico,Lares Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,27,32,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,45,54,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,8,12,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,18,30,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,22,34,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,237,115,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,15,25,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,32,30,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,52,36,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,1976,307,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,34275,1021,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,29,49,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,24,39,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,16,26,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,354,149,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,326,125,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,176,108,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,287,100,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,1238,262,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,58,59,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,48,44,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,39,45,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,151,87,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,9,14,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,1470,253,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,29,47,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72113,72.0,113.0,Puerto Rico,Ponce Municipio,1563,307,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,13,21,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,79,73,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,38,59,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,113,122,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,14,22,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,450,159,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,250,165,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,256,133,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,15,20,PR
+72081,72,81,Puerto Rico,Lares Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,12,20,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,2750,344,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72115,72.0,115.0,Puerto Rico,Quebradillas Municipio,23,37,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,266,133,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,80,54,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,277,117,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,55,54,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,16,26,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,11,10,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,45,56,PR
+72099,72,99,Puerto Rico,Moca Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,12,20,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,2251,290,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72117,72.0,117.0,Puerto Rico,Rincón Municipio,6,10,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,113,88,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,42,48,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,451,148,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,371,130,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,11,18,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,241,130,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,65,83,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,629,165,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,46,56,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,72,77,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,35,44,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,38,44,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,416,112,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,654,149,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,99,98,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,4838,552,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,338,115,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,14,23,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,32,53,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,23,27,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,255,113,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72119,72.0,119.0,Puerto Rico,Río Grande Municipio,44,42,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,27,44,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,24,38,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,127,100,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,7,12,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,213,112,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,30,34,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,85,66,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,44,43,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,51,48,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,41,46,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,2263,321,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,346,118,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72121,72.0,121.0,Puerto Rico,Sabana Grande Municipio,241,147,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,37,35,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,92,81,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,26,42,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,17,19,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,44,42,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,219,119,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,83,57,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,310,126,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,551,194,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,13,21,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,31,50,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,33,53,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,165,79,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,12,19,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,22,34,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,27,44,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,95,71,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,13,20,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,300,135,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,3701,417,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,2,6,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,409,180,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,148,77,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72123,72.0,123.0,Puerto Rico,Salinas Municipio,12,15,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,26,29,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,56,41,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,13,23,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,71,48,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,5,9,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,20,22,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,659,253,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,5,7,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,71,47,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,25,29,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,21,33,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,310,138,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,41,39,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,762,186,PR
+72081,72,81,Puerto Rico,Lares Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,19,31,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,149,109,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,386,144,PR
+72099,72,99,Puerto Rico,Moca Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,121,83,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,13,21,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,16,25,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,85,71,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,22,34,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,733,203,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,4549,440,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,9,13,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,16,26,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72125,72.0,125.0,Puerto Rico,San Germán Municipio,251,126,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,91,49,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,167,101,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,128,70,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,914,244,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,189,91,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,56,41,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,773,184,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,291,177,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,177,113,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,19953,937,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,66,70,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,10240,827,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,143,100,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,3770,465,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,25914,1188,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,2919,335,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1568,293,PR
+72037,72,37,Puerto Rico,Ceiba Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,202,97,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,172,92,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1403,229,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,439,214,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,436,172,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1077,316,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,2204,362,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,517,183,PR
+72054,72,54,Puerto Rico,Florida Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,129,106,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,372,139,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,142,79,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,16994,791,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,3597,566,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,156,102,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,86,62,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1042,308,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,136,96,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,165,88,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1385,302,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,80,66,PR
+72081,72,81,Puerto Rico,Lares Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,208,104,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,48,49,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,852,210,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,2692,298,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,422,133,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,655,157,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,9,15,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,147,106,PR
+72099,72,99,Puerto Rico,Moca Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,129,162,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,482,186,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,543,199,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,554,206,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,161,73,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,129,75,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,127,73,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,958,208,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,51,57,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,38,43,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,3371,428,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,107,70,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,365,159,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,99,68,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,97738,1721,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1322,259,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,70,81,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,100,78,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,6599,606,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,9048,636,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,13149,775,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,94,72,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1800,308,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,1806,385,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,26,31,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,166,101,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72127,72.0,127.0,Puerto Rico,San Juan Municipio,135,115,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,11,19,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,28,33,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,53,60,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,685,216,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,7,12,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,17,27,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,13,21,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,40,46,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,18,29,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,45,41,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,17,28,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,424,195,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,137,73,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,585,204,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,323,159,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,14,23,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,20,35,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,167,104,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,3802,400,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,67,77,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,86,72,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,13,21,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72129,72.0,129.0,Puerto Rico,San Lorenzo Municipio,64,59,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,177,98,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,94,65,PR
+72011,72,11,Puerto Rico,Añasco Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,107,75,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,67,74,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,112,95,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,26,34,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,142,94,PR
+72081,72,81,Puerto Rico,Lares Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,244,94,PR
+72083,72,83,Puerto Rico,Las Marías Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,76,55,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,32,53,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,69,60,PR
+72099,72,99,Puerto Rico,Moca Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,663,196,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,15,24,PR
+72131,72,131,Puerto Rico,San Sebastián Municipio,72131,72.0,131.0,Puerto Rico,San Sebastián Municipio,4543,481,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,20,32,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,122,90,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,66,74,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,1375,292,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,13,14,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,211,140,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,12,20,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,19,32,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,521,154,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,33,39,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,62,47,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,631,155,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,406,153,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,36,27,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,2868,388,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,193,84,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72133,72.0,133.0,Puerto Rico,Santa Isabel Municipio,7,12,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,13,21,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,24,38,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,625,156,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,57,66,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,5,8,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,24,40,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,301,121,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,222,146,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,42,52,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,29,41,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,6,10,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,69,55,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,36,57,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,5,7,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,34,55,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,182,114,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,13,20,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,80,50,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,4003,566,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,275,99,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,24,23,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,60,51,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72135,72.0,135.0,Puerto Rico,Toa Alta Municipio,65,92,PR
+72003,72,3,Puerto Rico,Aguada Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,20,31,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,32,37,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,113,77,PR
+72015,72,15,Puerto Rico,Arroyo Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,17,28,PR
+72019,72,19,Puerto Rico,Barranquitas Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,27,44,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,2190,279,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,99,87,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,36,29,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,14,22,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,345,137,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,476,140,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,27,31,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,10,17,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,15,24,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,17,26,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,32,35,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,277,156,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,676,181,PR
+72054,72,54,Puerto Rico,Florida Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,40,50,PR
+72057,72,57,Puerto Rico,Guayama Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,18,28,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,202,97,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,62,72,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,16,19,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,44,51,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,31,36,PR
+72081,72,81,Puerto Rico,Lares Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,30,46,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,40,51,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,12,18,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,70,55,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,265,203,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,166,107,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,31,29,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,27,31,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,410,119,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,1336,257,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,6681,571,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,175,83,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,33,38,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,385,180,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,210,101,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72137,72.0,137.0,Puerto Rico,Toa Baja Municipio,5,7,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,72,57,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,319,113,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,305,133,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,187,106,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,1119,243,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,111,73,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,154,113,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,17,28,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,20,30,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,15,25,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,17,30,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,83,60,PR
+72053,72,53,Puerto Rico,Fajardo Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,25,41,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,424,225,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,106,70,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,27,44,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,142,112,PR
+72081,72,81,Puerto Rico,Lares Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,12,20,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,44,43,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,63,55,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,44,59,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,21,33,PR
+72117,72,117,Puerto Rico,Rincón Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,15,26,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,193,107,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,1733,303,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,62,60,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,165,109,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,177,99,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72139,72.0,139.0,Puerto Rico,Trujillo Alto Municipio,5476,481,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,176,80,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,6,9,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,212,121,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,29,27,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,12,20,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,22,36,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,212,156,PR
+72073,72,73,Puerto Rico,Jayuya Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,63,64,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,36,41,PR
+72081,72,81,Puerto Rico,Lares Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,158,76,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,43,40,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,86,97,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,50,45,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,48,54,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,15,24,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,14,23,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72141,72.0,141.0,Puerto Rico,Utuado Municipio,3955,401,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,15,22,PR
+72007,72,7,Puerto Rico,Aguas Buenas Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,10,16,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,206,123,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,129,100,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,215,87,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,5,8,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,11,16,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,61,57,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,67,65,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,27,33,PR
+72047,72,47,Puerto Rico,Corozal Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,231,127,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,464,161,PR
+72054,72,54,Puerto Rico,Florida Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,74,68,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,41,28,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,92,106,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,73,113,PR
+72071,72,71,Puerto Rico,Isabela Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,16,24,PR
+72087,72,87,Puerto Rico,Loíza Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,11,18,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,147,76,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,250,123,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,26,41,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,24,38,PR
+72123,72,123,Puerto Rico,Salinas Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,12,19,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,161,77,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,352,169,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,201,107,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,21,34,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,2728,354,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,652,204,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72143,72.0,143.0,Puerto Rico,Vega Alta Municipio,16,24,PR
+72005,72,5,Puerto Rico,Aguadilla Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,26,30,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,590,169,PR
+72017,72,17,Puerto Rico,Barceloneta Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,265,137,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,267,98,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,17,27,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,77,55,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,63,45,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,68,52,PR
+72033,72,33,Puerto Rico,Cataño Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,21,34,PR
+72035,72,35,Puerto Rico,Cayey Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,52,60,PR
+72039,72,39,Puerto Rico,Ciales Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,156,88,PR
+72041,72,41,Puerto Rico,Cidra Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,12,19,PR
+72045,72,45,Puerto Rico,Comerío Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,37,42,PR
+72051,72,51,Puerto Rico,Dorado Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,246,113,PR
+72054,72,54,Puerto Rico,Florida Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,108,91,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,131,89,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,90,103,PR
+72065,72,65,Puerto Rico,Hatillo Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,186,122,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,21,34,PR
+72081,72,81,Puerto Rico,Lares Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,9,14,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,27,46,PR
+72091,72,91,Puerto Rico,Manatí Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,816,200,PR
+72101,72,101,Puerto Rico,Morovis Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,597,216,PR
+72105,72,105,Puerto Rico,Naranjito Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,16,25,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,50,43,PR
+72115,72,115,Puerto Rico,Quebradillas Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,39,49,PR
+72119,72,119,Puerto Rico,Río Grande Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,35,33,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,151,112,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,253,103,PR
+72137,72,137,Puerto Rico,Toa Baja Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,184,87,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,44,58,PR
+72141,72,141,Puerto Rico,Utuado Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,27,30,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,741,234,PR
+72145,72,145,Puerto Rico,Vega Baja Municipio,72145,72.0,145.0,Puerto Rico,Vega Baja Municipio,4999,555,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72147,72.0,147.0,Puerto Rico,Vieques Municipio,17,25,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72147,72.0,147.0,Puerto Rico,Vieques Municipio,35,57,PR
+72135,72,135,Puerto Rico,Toa Alta Municipio,72147,72.0,147.0,Puerto Rico,Vieques Municipio,15,25,PR
+72147,72,147,Puerto Rico,Vieques Municipio,72147,72.0,147.0,Puerto Rico,Vieques Municipio,2808,356,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72147,72.0,147.0,Puerto Rico,Vieques Municipio,60,71,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,13,20,PR
+72009,72,9,Puerto Rico,Aibonito Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,16,26,PR
+72043,72,43,Puerto Rico,Coamo Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,258,113,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,14,21,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,12,18,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,408,111,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,9,14,PR
+72107,72,107,Puerto Rico,Orocovis Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,27,32,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,32,33,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,316,131,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,23,29,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,16,25,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,151,93,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,3142,353,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72149,72.0,149.0,Puerto Rico,Villalba Municipio,47,48,PR
+72025,72,25,Puerto Rico,Caguas Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,16,26,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,21,36,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,11,17,PR
+72063,72,63,Puerto Rico,Gurabo Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,64,67,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,392,137,PR
+72077,72,77,Puerto Rico,Juncos Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,91,80,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,199,124,PR
+72095,72,95,Puerto Rico,Maunabo Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,205,110,PR
+72103,72,103,Puerto Rico,Naguabo Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,112,82,PR
+72109,72,109,Puerto Rico,Patillas Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,32,35,PR
+72127,72,127,Puerto Rico,San Juan Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,8,13,PR
+72129,72,129,Puerto Rico,San Lorenzo Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,99,64,PR
+72133,72,133,Puerto Rico,Santa Isabel Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,40,61,PR
+72139,72,139,Puerto Rico,Trujillo Alto Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,20,32,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72151,72.0,151.0,Puerto Rico,Yabucoa Municipio,2675,388,PR
+72001,72,1,Puerto Rico,Adjuntas Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,19,30,PR
+72023,72,23,Puerto Rico,Cabo Rojo Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,58,57,PR
+72027,72,27,Puerto Rico,Camuy Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,38,58,PR
+72031,72,31,Puerto Rico,Carolina Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,25,29,PR
+72055,72,55,Puerto Rico,Guánica Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,626,170,PR
+72059,72,59,Puerto Rico,Guayanilla Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,645,174,PR
+72067,72,67,Puerto Rico,Hormigueros Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,51,44,PR
+72069,72,69,Puerto Rico,Humacao Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,20,32,PR
+72075,72,75,Puerto Rico,Juana Díaz Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,81,76,PR
+72079,72,79,Puerto Rico,Lajas Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,135,79,PR
+72093,72,93,Puerto Rico,Maricao Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,44,41,PR
+72097,72,97,Puerto Rico,Mayagüez Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,70,57,PR
+72111,72,111,Puerto Rico,Peñuelas Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,359,125,PR
+72113,72,113,Puerto Rico,Ponce Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,251,91,PR
+72121,72,121,Puerto Rico,Sabana Grande Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,296,146,PR
+72125,72,125,Puerto Rico,San Germán Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,206,87,PR
+72149,72,149,Puerto Rico,Villalba Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,23,27,PR
+72151,72,151,Puerto Rico,Yabucoa Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,17,28,PR
+72153,72,153,Puerto Rico,Yauco Municipio,72153,72.0,153.0,Puerto Rico,Yauco Municipio,4894,532,PR
+72011,72,11,Puerto Rico,Añasco Municipio,-1,,,Other workplace outside of the U.S.,,22,37,PR
+72013,72,13,Puerto Rico,Arecibo Municipio,-1,,,Other workplace outside of the U.S.,,28,34,PR
+72021,72,21,Puerto Rico,Bayamón Municipio,-1,,,Other workplace outside of the U.S.,,59,45,PR
+72029,72,29,Puerto Rico,Canóvanas Municipio,-1,,,Other workplace outside of the U.S.,,19,30,PR
+72031,72,31,Puerto Rico,Carolina Municipio,-1,,,Other workplace outside of the U.S.,,34,41,PR
+72061,72,61,Puerto Rico,Guaynabo Municipio,-1,,,Other workplace outside of the U.S.,,51,47,PR
+72085,72,85,Puerto Rico,Las Piedras Municipio,-1,,,Other workplace outside of the U.S.,,9,14,PR
+72089,72,89,Puerto Rico,Luquillo Municipio,-1,,,Other workplace outside of the U.S.,,11,18,PR
+72113,72,113,Puerto Rico,Ponce Municipio,-1,,,Other workplace outside of the U.S.,,47,75,PR
+72125,72,125,Puerto Rico,San Germán Municipio,-1,,,Other workplace outside of the U.S.,,11,18,PR
+72127,72,127,Puerto Rico,San Juan Municipio,-1,,,Other workplace outside of the U.S.,,56,58,PR
+72143,72,143,Puerto Rico,Vega Alta Municipio,-1,,,Other workplace outside of the U.S.,,18,30,PR
+72153,72,153,Puerto Rico,Yauco Municipio,-1,,,Other workplace outside of the U.S.,,8,13,PR

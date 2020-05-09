@@ -1,0 +1,2320 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+8001,8,1,Colorado,Adams County,1043,1.0,43.0,Alabama,Cullman County,2,5,CO
+8035,8,35,Colorado,Douglas County,1043,1.0,43.0,Alabama,Cullman County,7,15,CO
+8049,8,49,Colorado,Grand County,1043,1.0,43.0,Alabama,Cullman County,8,19,CO
+8081,8,81,Colorado,Moffat County,1043,1.0,43.0,Alabama,Cullman County,4,10,CO
+8035,8,35,Colorado,Douglas County,1073,1.0,73.0,Alabama,Jefferson County,9,14,CO
+8041,8,41,Colorado,El Paso County,1073,1.0,73.0,Alabama,Jefferson County,32,46,CO
+8067,8,67,Colorado,La Plata County,1073,1.0,73.0,Alabama,Jefferson County,4,6,CO
+8087,8,87,Colorado,Morgan County,1073,1.0,73.0,Alabama,Jefferson County,30,45,CO
+8059,8,59,Colorado,Jefferson County,1089,1.0,89.0,Alabama,Madison County,9,14,CO
+8041,8,41,Colorado,El Paso County,1101,1.0,101.0,Alabama,Montgomery County,38,61,CO
+8059,8,59,Colorado,Jefferson County,1103,1.0,103.0,Alabama,Morgan County,19,30,CO
+8031,8,31,Colorado,Denver County,1117,1.0,117.0,Alabama,Shelby County,26,39,CO
+8069,8,69,Colorado,Larimer County,1125,1.0,125.0,Alabama,Tuscaloosa County,8,14,CO
+8001,8,1,Colorado,Adams County,2020,2.0,20.0,Alaska,Anchorage Municipality,12,18,CO
+8035,8,35,Colorado,Douglas County,2020,2.0,20.0,Alaska,Anchorage Municipality,31,38,CO
+8041,8,41,Colorado,El Paso County,2020,2.0,20.0,Alaska,Anchorage Municipality,32,38,CO
+8059,8,59,Colorado,Jefferson County,2020,2.0,20.0,Alaska,Anchorage Municipality,9,14,CO
+8063,8,63,Colorado,Kit Carson County,2020,2.0,20.0,Alaska,Anchorage Municipality,7,11,CO
+8069,8,69,Colorado,Larimer County,2020,2.0,20.0,Alaska,Anchorage Municipality,4,6,CO
+8083,8,83,Colorado,Montezuma County,2020,2.0,20.0,Alaska,Anchorage Municipality,12,20,CO
+8085,8,85,Colorado,Montrose County,2020,2.0,20.0,Alaska,Anchorage Municipality,6,10,CO
+8119,8,119,Colorado,Teller County,2020,2.0,20.0,Alaska,Anchorage Municipality,14,24,CO
+8067,8,67,Colorado,La Plata County,2110,2.0,110.0,Alaska,Juneau City and Borough,2,4,CO
+8117,8,117,Colorado,Summit County,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,72,93,CO
+8013,8,13,Colorado,Boulder County,2185,2.0,185.0,Alaska,North Slope Borough,57,81,CO
+8015,8,15,Colorado,Chaffee County,2185,2.0,185.0,Alaska,North Slope Borough,7,11,CO
+8031,8,31,Colorado,Denver County,2185,2.0,185.0,Alaska,North Slope Borough,10,16,CO
+8041,8,41,Colorado,El Paso County,2185,2.0,185.0,Alaska,North Slope Borough,10,16,CO
+8069,8,69,Colorado,Larimer County,2185,2.0,185.0,Alaska,North Slope Borough,8,13,CO
+8043,8,43,Colorado,Fremont County,2220,2.0,220.0,Alaska,Sitka City and Borough,10,15,CO
+8041,8,41,Colorado,El Paso County,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,58,85,CO
+8041,8,41,Colorado,El Paso County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,31,42,CO
+8067,8,67,Colorado,La Plata County,4001,4.0,1.0,Arizona,Apache County,10,15,CO
+8083,8,83,Colorado,Montezuma County,4001,4.0,1.0,Arizona,Apache County,50,49,CO
+8001,8,1,Colorado,Adams County,4003,4.0,3.0,Arizona,Cochise County,6,11,CO
+8041,8,41,Colorado,El Paso County,4003,4.0,3.0,Arizona,Cochise County,19,24,CO
+8069,8,69,Colorado,Larimer County,4003,4.0,3.0,Arizona,Cochise County,10,18,CO
+8005,8,5,Colorado,Arapahoe County,4005,4.0,5.0,Arizona,Coconino County,6,10,CO
+8017,8,17,Colorado,Cheyenne County,4005,4.0,5.0,Arizona,Coconino County,1,2,CO
+8101,8,101,Colorado,Pueblo County,4005,4.0,5.0,Arizona,Coconino County,16,26,CO
+8111,8,111,Colorado,San Juan County,4005,4.0,5.0,Arizona,Coconino County,4,8,CO
+8001,8,1,Colorado,Adams County,4013,4.0,13.0,Arizona,Maricopa County,66,61,CO
+8003,8,3,Colorado,Alamosa County,4013,4.0,13.0,Arizona,Maricopa County,9,16,CO
+8005,8,5,Colorado,Arapahoe County,4013,4.0,13.0,Arizona,Maricopa County,71,97,CO
+8007,8,7,Colorado,Archuleta County,4013,4.0,13.0,Arizona,Maricopa County,10,15,CO
+8013,8,13,Colorado,Boulder County,4013,4.0,13.0,Arizona,Maricopa County,10,15,CO
+8029,8,29,Colorado,Delta County,4013,4.0,13.0,Arizona,Maricopa County,11,17,CO
+8031,8,31,Colorado,Denver County,4013,4.0,13.0,Arizona,Maricopa County,64,46,CO
+8033,8,33,Colorado,Dolores County,4013,4.0,13.0,Arizona,Maricopa County,8,12,CO
+8035,8,35,Colorado,Douglas County,4013,4.0,13.0,Arizona,Maricopa County,7,10,CO
+8039,8,39,Colorado,Elbert County,4013,4.0,13.0,Arizona,Maricopa County,3,4,CO
+8041,8,41,Colorado,El Paso County,4013,4.0,13.0,Arizona,Maricopa County,209,170,CO
+8049,8,49,Colorado,Grand County,4013,4.0,13.0,Arizona,Maricopa County,52,77,CO
+8059,8,59,Colorado,Jefferson County,4013,4.0,13.0,Arizona,Maricopa County,28,34,CO
+8067,8,67,Colorado,La Plata County,4013,4.0,13.0,Arizona,Maricopa County,47,47,CO
+8069,8,69,Colorado,Larimer County,4013,4.0,13.0,Arizona,Maricopa County,116,159,CO
+8077,8,77,Colorado,Mesa County,4013,4.0,13.0,Arizona,Maricopa County,87,101,CO
+8083,8,83,Colorado,Montezuma County,4013,4.0,13.0,Arizona,Maricopa County,2,4,CO
+8091,8,91,Colorado,Ouray County,4013,4.0,13.0,Arizona,Maricopa County,10,14,CO
+8097,8,97,Colorado,Pitkin County,4013,4.0,13.0,Arizona,Maricopa County,71,90,CO
+8107,8,107,Colorado,Routt County,4013,4.0,13.0,Arizona,Maricopa County,15,16,CO
+8123,8,123,Colorado,Weld County,4013,4.0,13.0,Arizona,Maricopa County,138,110,CO
+8069,8,69,Colorado,Larimer County,4015,4.0,15.0,Arizona,Mohave County,21,35,CO
+8031,8,31,Colorado,Denver County,4017,4.0,17.0,Arizona,Navajo County,9,14,CO
+8005,8,5,Colorado,Arapahoe County,4019,4.0,19.0,Arizona,Pima County,14,22,CO
+8013,8,13,Colorado,Boulder County,4019,4.0,19.0,Arizona,Pima County,11,15,CO
+8031,8,31,Colorado,Denver County,4019,4.0,19.0,Arizona,Pima County,13,20,CO
+8035,8,35,Colorado,Douglas County,4019,4.0,19.0,Arizona,Pima County,12,17,CO
+8051,8,51,Colorado,Gunnison County,4019,4.0,19.0,Arizona,Pima County,4,5,CO
+8059,8,59,Colorado,Jefferson County,4019,4.0,19.0,Arizona,Pima County,25,27,CO
+8067,8,67,Colorado,La Plata County,4019,4.0,19.0,Arizona,Pima County,52,47,CO
+8069,8,69,Colorado,Larimer County,4019,4.0,19.0,Arizona,Pima County,13,21,CO
+8035,8,35,Colorado,Douglas County,4021,4.0,21.0,Arizona,Pinal County,7,12,CO
+8069,8,69,Colorado,Larimer County,4025,4.0,25.0,Arizona,Yavapai County,5,6,CO
+8041,8,41,Colorado,El Paso County,4027,4.0,27.0,Arizona,Yuma County,16,24,CO
+8031,8,31,Colorado,Denver County,5007,5.0,7.0,Arkansas,Benton County,13,22,CO
+8035,8,35,Colorado,Douglas County,5007,5.0,7.0,Arkansas,Benton County,8,12,CO
+8041,8,41,Colorado,El Paso County,5007,5.0,7.0,Arkansas,Benton County,24,38,CO
+8069,8,69,Colorado,Larimer County,5007,5.0,7.0,Arkansas,Benton County,23,36,CO
+8039,8,39,Colorado,Elbert County,5015,5.0,15.0,Arkansas,Carroll County,3,5,CO
+8123,8,123,Colorado,Weld County,5063,5.0,63.0,Arkansas,Independence County,9,14,CO
+8031,8,31,Colorado,Denver County,5069,5.0,69.0,Arkansas,Jefferson County,14,21,CO
+8103,8,103,Colorado,Rio Blanco County,5119,5.0,119.0,Arkansas,Pulaski County,8,14,CO
+8013,8,13,Colorado,Boulder County,5143,5.0,143.0,Arkansas,Washington County,12,19,CO
+8005,8,5,Colorado,Arapahoe County,6001,6.0,1.0,California,Alameda County,36,28,CO
+8013,8,13,Colorado,Boulder County,6001,6.0,1.0,California,Alameda County,60,76,CO
+8035,8,35,Colorado,Douglas County,6001,6.0,1.0,California,Alameda County,60,37,CO
+8059,8,59,Colorado,Jefferson County,6001,6.0,1.0,California,Alameda County,20,23,CO
+8005,8,5,Colorado,Arapahoe County,6007,6.0,7.0,California,Butte County,9,14,CO
+8005,8,5,Colorado,Arapahoe County,6011,6.0,11.0,California,Colusa County,6,9,CO
+8005,8,5,Colorado,Arapahoe County,6013,6.0,13.0,California,Contra Costa County,12,20,CO
+8031,8,31,Colorado,Denver County,6013,6.0,13.0,California,Contra Costa County,31,41,CO
+8041,8,41,Colorado,El Paso County,6013,6.0,13.0,California,Contra Costa County,9,14,CO
+8069,8,69,Colorado,Larimer County,6013,6.0,13.0,California,Contra Costa County,6,8,CO
+8077,8,77,Colorado,Mesa County,6013,6.0,13.0,California,Contra Costa County,5,7,CO
+8059,8,59,Colorado,Jefferson County,6023,6.0,23.0,California,Humboldt County,18,28,CO
+8035,8,35,Colorado,Douglas County,6025,6.0,25.0,California,Imperial County,4,8,CO
+8005,8,5,Colorado,Arapahoe County,6029,6.0,29.0,California,Kern County,12,19,CO
+8039,8,39,Colorado,Elbert County,6029,6.0,29.0,California,Kern County,4,6,CO
+8069,8,69,Colorado,Larimer County,6029,6.0,29.0,California,Kern County,7,11,CO
+8123,8,123,Colorado,Weld County,6031,6.0,31.0,California,Kings County,5,8,CO
+8035,8,35,Colorado,Douglas County,6033,6.0,33.0,California,Lake County,22,36,CO
+8001,8,1,Colorado,Adams County,6037,6.0,37.0,California,Los Angeles County,79,68,CO
+8005,8,5,Colorado,Arapahoe County,6037,6.0,37.0,California,Los Angeles County,55,32,CO
+8013,8,13,Colorado,Boulder County,6037,6.0,37.0,California,Los Angeles County,45,39,CO
+8019,8,19,Colorado,Clear Creek County,6037,6.0,37.0,California,Los Angeles County,19,27,CO
+8031,8,31,Colorado,Denver County,6037,6.0,37.0,California,Los Angeles County,145,77,CO
+8035,8,35,Colorado,Douglas County,6037,6.0,37.0,California,Los Angeles County,45,37,CO
+8041,8,41,Colorado,El Paso County,6037,6.0,37.0,California,Los Angeles County,91,62,CO
+8055,8,55,Colorado,Huerfano County,6037,6.0,37.0,California,Los Angeles County,3,4,CO
+8059,8,59,Colorado,Jefferson County,6037,6.0,37.0,California,Los Angeles County,74,53,CO
+8067,8,67,Colorado,La Plata County,6037,6.0,37.0,California,Los Angeles County,11,13,CO
+8069,8,69,Colorado,Larimer County,6037,6.0,37.0,California,Los Angeles County,17,20,CO
+8085,8,85,Colorado,Montrose County,6037,6.0,37.0,California,Los Angeles County,10,16,CO
+8087,8,87,Colorado,Morgan County,6037,6.0,37.0,California,Los Angeles County,15,20,CO
+8097,8,97,Colorado,Pitkin County,6037,6.0,37.0,California,Los Angeles County,31,28,CO
+8119,8,119,Colorado,Teller County,6037,6.0,37.0,California,Los Angeles County,16,21,CO
+8123,8,123,Colorado,Weld County,6037,6.0,37.0,California,Los Angeles County,26,25,CO
+8031,8,31,Colorado,Denver County,6043,6.0,43.0,California,Mariposa County,8,13,CO
+8005,8,5,Colorado,Arapahoe County,6053,6.0,53.0,California,Monterey County,11,19,CO
+8059,8,59,Colorado,Jefferson County,6053,6.0,53.0,California,Monterey County,8,13,CO
+8041,8,41,Colorado,El Paso County,6055,6.0,55.0,California,Napa County,7,14,CO
+8001,8,1,Colorado,Adams County,6059,6.0,59.0,California,Orange County,20,30,CO
+8005,8,5,Colorado,Arapahoe County,6059,6.0,59.0,California,Orange County,14,18,CO
+8013,8,13,Colorado,Boulder County,6059,6.0,59.0,California,Orange County,7,11,CO
+8014,8,14,Colorado,Broomfield County,6059,6.0,59.0,California,Orange County,38,39,CO
+8031,8,31,Colorado,Denver County,6059,6.0,59.0,California,Orange County,23,27,CO
+8035,8,35,Colorado,Douglas County,6059,6.0,59.0,California,Orange County,44,38,CO
+8041,8,41,Colorado,El Paso County,6059,6.0,59.0,California,Orange County,6,11,CO
+8077,8,77,Colorado,Mesa County,6059,6.0,59.0,California,Orange County,13,22,CO
+8123,8,123,Colorado,Weld County,6059,6.0,59.0,California,Orange County,15,24,CO
+8031,8,31,Colorado,Denver County,6061,6.0,61.0,California,Placer County,5,7,CO
+8101,8,101,Colorado,Pueblo County,6061,6.0,61.0,California,Placer County,5,8,CO
+8117,8,117,Colorado,Summit County,6061,6.0,61.0,California,Placer County,5,8,CO
+8031,8,31,Colorado,Denver County,6065,6.0,65.0,California,Riverside County,14,24,CO
+8041,8,41,Colorado,El Paso County,6065,6.0,65.0,California,Riverside County,19,30,CO
+8031,8,31,Colorado,Denver County,6067,6.0,67.0,California,Sacramento County,20,21,CO
+8035,8,35,Colorado,Douglas County,6067,6.0,67.0,California,Sacramento County,20,23,CO
+8045,8,45,Colorado,Garfield County,6067,6.0,67.0,California,Sacramento County,8,15,CO
+8059,8,59,Colorado,Jefferson County,6067,6.0,67.0,California,Sacramento County,16,25,CO
+8123,8,123,Colorado,Weld County,6067,6.0,67.0,California,Sacramento County,4,6,CO
+8031,8,31,Colorado,Denver County,6071,6.0,71.0,California,San Bernardino County,10,15,CO
+8041,8,41,Colorado,El Paso County,6071,6.0,71.0,California,San Bernardino County,38,34,CO
+8067,8,67,Colorado,La Plata County,6071,6.0,71.0,California,San Bernardino County,2,4,CO
+8005,8,5,Colorado,Arapahoe County,6073,6.0,73.0,California,San Diego County,48,45,CO
+8013,8,13,Colorado,Boulder County,6073,6.0,73.0,California,San Diego County,32,31,CO
+8031,8,31,Colorado,Denver County,6073,6.0,73.0,California,San Diego County,13,20,CO
+8035,8,35,Colorado,Douglas County,6073,6.0,73.0,California,San Diego County,102,63,CO
+8059,8,59,Colorado,Jefferson County,6073,6.0,73.0,California,San Diego County,71,40,CO
+8083,8,83,Colorado,Montezuma County,6073,6.0,73.0,California,San Diego County,10,16,CO
+8113,8,113,Colorado,San Miguel County,6073,6.0,73.0,California,San Diego County,11,17,CO
+8123,8,123,Colorado,Weld County,6073,6.0,73.0,California,San Diego County,6,9,CO
+8005,8,5,Colorado,Arapahoe County,6075,6.0,75.0,California,San Francisco County,19,22,CO
+8013,8,13,Colorado,Boulder County,6075,6.0,75.0,California,San Francisco County,54,54,CO
+8031,8,31,Colorado,Denver County,6075,6.0,75.0,California,San Francisco County,88,69,CO
+8035,8,35,Colorado,Douglas County,6075,6.0,75.0,California,San Francisco County,27,37,CO
+8037,8,37,Colorado,Eagle County,6075,6.0,75.0,California,San Francisco County,35,59,CO
+8039,8,39,Colorado,Elbert County,6075,6.0,75.0,California,San Francisco County,5,7,CO
+8041,8,41,Colorado,El Paso County,6075,6.0,75.0,California,San Francisco County,19,30,CO
+8059,8,59,Colorado,Jefferson County,6075,6.0,75.0,California,San Francisco County,11,16,CO
+8077,8,77,Colorado,Mesa County,6075,6.0,75.0,California,San Francisco County,15,23,CO
+8013,8,13,Colorado,Boulder County,6079,6.0,79.0,California,San Luis Obispo County,10,17,CO
+8001,8,1,Colorado,Adams County,6081,6.0,81.0,California,San Mateo County,11,20,CO
+8005,8,5,Colorado,Arapahoe County,6081,6.0,81.0,California,San Mateo County,25,24,CO
+8013,8,13,Colorado,Boulder County,6081,6.0,81.0,California,San Mateo County,71,74,CO
+8014,8,14,Colorado,Broomfield County,6081,6.0,81.0,California,San Mateo County,10,16,CO
+8031,8,31,Colorado,Denver County,6081,6.0,81.0,California,San Mateo County,10,15,CO
+8035,8,35,Colorado,Douglas County,6081,6.0,81.0,California,San Mateo County,105,72,CO
+8041,8,41,Colorado,El Paso County,6081,6.0,81.0,California,San Mateo County,10,16,CO
+8043,8,43,Colorado,Fremont County,6081,6.0,81.0,California,San Mateo County,3,6,CO
+8059,8,59,Colorado,Jefferson County,6081,6.0,81.0,California,San Mateo County,59,35,CO
+8069,8,69,Colorado,Larimer County,6081,6.0,81.0,California,San Mateo County,37,36,CO
+8031,8,31,Colorado,Denver County,6083,6.0,83.0,California,Santa Barbara County,21,34,CO
+8041,8,41,Colorado,El Paso County,6083,6.0,83.0,California,Santa Barbara County,83,79,CO
+8069,8,69,Colorado,Larimer County,6083,6.0,83.0,California,Santa Barbara County,5,7,CO
+8123,8,123,Colorado,Weld County,6083,6.0,83.0,California,Santa Barbara County,9,10,CO
+8001,8,1,Colorado,Adams County,6085,6.0,85.0,California,Santa Clara County,9,14,CO
+8005,8,5,Colorado,Arapahoe County,6085,6.0,85.0,California,Santa Clara County,17,18,CO
+8013,8,13,Colorado,Boulder County,6085,6.0,85.0,California,Santa Clara County,46,38,CO
+8019,8,19,Colorado,Clear Creek County,6085,6.0,85.0,California,Santa Clara County,23,35,CO
+8031,8,31,Colorado,Denver County,6085,6.0,85.0,California,Santa Clara County,38,36,CO
+8035,8,35,Colorado,Douglas County,6085,6.0,85.0,California,Santa Clara County,82,49,CO
+8041,8,41,Colorado,El Paso County,6085,6.0,85.0,California,Santa Clara County,19,20,CO
+8059,8,59,Colorado,Jefferson County,6085,6.0,85.0,California,Santa Clara County,46,41,CO
+8069,8,69,Colorado,Larimer County,6085,6.0,85.0,California,Santa Clara County,6,9,CO
+8071,8,71,Colorado,Las Animas County,6085,6.0,85.0,California,Santa Clara County,4,7,CO
+8123,8,123,Colorado,Weld County,6085,6.0,85.0,California,Santa Clara County,10,13,CO
+8043,8,43,Colorado,Fremont County,6095,6.0,95.0,California,Solano County,2,3,CO
+8045,8,45,Colorado,Garfield County,6095,6.0,95.0,California,Solano County,13,22,CO
+8031,8,31,Colorado,Denver County,6097,6.0,97.0,California,Sonoma County,7,12,CO
+8001,8,1,Colorado,Adams County,6099,6.0,99.0,California,Stanislaus County,7,11,CO
+8069,8,69,Colorado,Larimer County,6107,6.0,107.0,California,Tulare County,9,15,CO
+8005,8,5,Colorado,Arapahoe County,6109,6.0,109.0,California,Tuolumne County,11,14,CO
+8031,8,31,Colorado,Denver County,6111,6.0,111.0,California,Ventura County,11,16,CO
+8035,8,35,Colorado,Douglas County,6111,6.0,111.0,California,Ventura County,14,23,CO
+8041,8,41,Colorado,El Paso County,6111,6.0,111.0,California,Ventura County,18,29,CO
+8059,8,59,Colorado,Jefferson County,6111,6.0,111.0,California,Ventura County,14,23,CO
+8069,8,69,Colorado,Larimer County,6111,6.0,111.0,California,Ventura County,15,24,CO
+8071,8,71,Colorado,Las Animas County,6111,6.0,111.0,California,Ventura County,20,29,CO
+8013,8,13,Colorado,Boulder County,6113,6.0,113.0,California,Yolo County,15,22,CO
+8101,8,101,Colorado,Pueblo County,6113,6.0,113.0,California,Yolo County,14,22,CO
+8001,8,1,Colorado,Adams County,8001,8.0,1.0,Colorado,Adams County,89203,1995,CO
+8005,8,5,Colorado,Arapahoe County,8001,8.0,1.0,Colorado,Adams County,20286,981,CO
+8013,8,13,Colorado,Boulder County,8001,8.0,1.0,Colorado,Adams County,4079,438,CO
+8014,8,14,Colorado,Broomfield County,8001,8.0,1.0,Colorado,Adams County,4244,467,CO
+8019,8,19,Colorado,Clear Creek County,8001,8.0,1.0,Colorado,Adams County,132,81,CO
+8021,8,21,Colorado,Conejos County,8001,8.0,1.0,Colorado,Adams County,1,3,CO
+8025,8,25,Colorado,Crowley County,8001,8.0,1.0,Colorado,Adams County,4,6,CO
+8029,8,29,Colorado,Delta County,8001,8.0,1.0,Colorado,Adams County,19,19,CO
+8031,8,31,Colorado,Denver County,8001,8.0,1.0,Colorado,Adams County,23788,1064,CO
+8035,8,35,Colorado,Douglas County,8001,8.0,1.0,Colorado,Adams County,3753,415,CO
+8039,8,39,Colorado,Elbert County,8001,8.0,1.0,Colorado,Adams County,436,115,CO
+8041,8,41,Colorado,El Paso County,8001,8.0,1.0,Colorado,Adams County,466,146,CO
+8045,8,45,Colorado,Garfield County,8001,8.0,1.0,Colorado,Adams County,12,24,CO
+8047,8,47,Colorado,Gilpin County,8001,8.0,1.0,Colorado,Adams County,60,46,CO
+8049,8,49,Colorado,Grand County,8001,8.0,1.0,Colorado,Adams County,35,37,CO
+8057,8,57,Colorado,Jackson County,8001,8.0,1.0,Colorado,Adams County,10,11,CO
+8059,8,59,Colorado,Jefferson County,8001,8.0,1.0,Colorado,Adams County,19231,1077,CO
+8067,8,67,Colorado,La Plata County,8001,8.0,1.0,Colorado,Adams County,7,13,CO
+8069,8,69,Colorado,Larimer County,8001,8.0,1.0,Colorado,Adams County,1494,248,CO
+8071,8,71,Colorado,Las Animas County,8001,8.0,1.0,Colorado,Adams County,5,7,CO
+8073,8,73,Colorado,Lincoln County,8001,8.0,1.0,Colorado,Adams County,8,9,CO
+8077,8,77,Colorado,Mesa County,8001,8.0,1.0,Colorado,Adams County,5,6,CO
+8083,8,83,Colorado,Montezuma County,8001,8.0,1.0,Colorado,Adams County,8,14,CO
+8085,8,85,Colorado,Montrose County,8001,8.0,1.0,Colorado,Adams County,51,63,CO
+8087,8,87,Colorado,Morgan County,8001,8.0,1.0,Colorado,Adams County,37,21,CO
+8089,8,89,Colorado,Otero County,8001,8.0,1.0,Colorado,Adams County,33,31,CO
+8091,8,91,Colorado,Ouray County,8001,8.0,1.0,Colorado,Adams County,16,25,CO
+8093,8,93,Colorado,Park County,8001,8.0,1.0,Colorado,Adams County,114,83,CO
+8101,8,101,Colorado,Pueblo County,8001,8.0,1.0,Colorado,Adams County,30,35,CO
+8113,8,113,Colorado,San Miguel County,8001,8.0,1.0,Colorado,Adams County,25,23,CO
+8121,8,121,Colorado,Washington County,8001,8.0,1.0,Colorado,Adams County,4,6,CO
+8123,8,123,Colorado,Weld County,8001,8.0,1.0,Colorado,Adams County,6784,535,CO
+8001,8,1,Colorado,Adams County,8003,8.0,3.0,Colorado,Alamosa County,20,33,CO
+8003,8,3,Colorado,Alamosa County,8003,8.0,3.0,Colorado,Alamosa County,5493,507,CO
+8005,8,5,Colorado,Arapahoe County,8003,8.0,3.0,Colorado,Alamosa County,18,28,CO
+8011,8,11,Colorado,Bent County,8003,8.0,3.0,Colorado,Alamosa County,18,27,CO
+8015,8,15,Colorado,Chaffee County,8003,8.0,3.0,Colorado,Alamosa County,4,6,CO
+8021,8,21,Colorado,Conejos County,8003,8.0,3.0,Colorado,Alamosa County,1058,126,CO
+8023,8,23,Colorado,Costilla County,8003,8.0,3.0,Colorado,Alamosa County,267,88,CO
+8029,8,29,Colorado,Delta County,8003,8.0,3.0,Colorado,Alamosa County,9,15,CO
+8031,8,31,Colorado,Denver County,8003,8.0,3.0,Colorado,Alamosa County,14,23,CO
+8035,8,35,Colorado,Douglas County,8003,8.0,3.0,Colorado,Alamosa County,23,26,CO
+8039,8,39,Colorado,Elbert County,8003,8.0,3.0,Colorado,Alamosa County,12,16,CO
+8041,8,41,Colorado,El Paso County,8003,8.0,3.0,Colorado,Alamosa County,17,20,CO
+8053,8,53,Colorado,Hinsdale County,8003,8.0,3.0,Colorado,Alamosa County,4,5,CO
+8059,8,59,Colorado,Jefferson County,8003,8.0,3.0,Colorado,Alamosa County,25,31,CO
+8067,8,67,Colorado,La Plata County,8003,8.0,3.0,Colorado,Alamosa County,15,18,CO
+8077,8,77,Colorado,Mesa County,8003,8.0,3.0,Colorado,Alamosa County,27,45,CO
+8093,8,93,Colorado,Park County,8003,8.0,3.0,Colorado,Alamosa County,18,29,CO
+8101,8,101,Colorado,Pueblo County,8003,8.0,3.0,Colorado,Alamosa County,8,14,CO
+8105,8,105,Colorado,Rio Grande County,8003,8.0,3.0,Colorado,Alamosa County,1009,176,CO
+8109,8,109,Colorado,Saguache County,8003,8.0,3.0,Colorado,Alamosa County,241,101,CO
+8001,8,1,Colorado,Adams County,8005,8.0,5.0,Colorado,Arapahoe County,15492,967,CO
+8003,8,3,Colorado,Alamosa County,8005,8.0,5.0,Colorado,Arapahoe County,5,8,CO
+8005,8,5,Colorado,Arapahoe County,8005,8.0,5.0,Colorado,Arapahoe County,149755,2549,CO
+8013,8,13,Colorado,Boulder County,8005,8.0,5.0,Colorado,Arapahoe County,1564,270,CO
+8014,8,14,Colorado,Broomfield County,8005,8.0,5.0,Colorado,Arapahoe County,974,203,CO
+8015,8,15,Colorado,Chaffee County,8005,8.0,5.0,Colorado,Arapahoe County,23,29,CO
+8017,8,17,Colorado,Cheyenne County,8005,8.0,5.0,Colorado,Arapahoe County,6,7,CO
+8019,8,19,Colorado,Clear Creek County,8005,8.0,5.0,Colorado,Arapahoe County,118,60,CO
+8021,8,21,Colorado,Conejos County,8005,8.0,5.0,Colorado,Arapahoe County,5,8,CO
+8031,8,31,Colorado,Denver County,8005,8.0,5.0,Colorado,Arapahoe County,52077,1396,CO
+8035,8,35,Colorado,Douglas County,8005,8.0,5.0,Colorado,Arapahoe County,40391,1255,CO
+8037,8,37,Colorado,Eagle County,8005,8.0,5.0,Colorado,Arapahoe County,6,9,CO
+8039,8,39,Colorado,Elbert County,8005,8.0,5.0,Colorado,Arapahoe County,2589,295,CO
+8041,8,41,Colorado,El Paso County,8005,8.0,5.0,Colorado,Arapahoe County,1933,264,CO
+8043,8,43,Colorado,Fremont County,8005,8.0,5.0,Colorado,Arapahoe County,16,19,CO
+8045,8,45,Colorado,Garfield County,8005,8.0,5.0,Colorado,Arapahoe County,14,17,CO
+8047,8,47,Colorado,Gilpin County,8005,8.0,5.0,Colorado,Arapahoe County,3,4,CO
+8049,8,49,Colorado,Grand County,8005,8.0,5.0,Colorado,Arapahoe County,18,22,CO
+8055,8,55,Colorado,Huerfano County,8005,8.0,5.0,Colorado,Arapahoe County,7,11,CO
+8059,8,59,Colorado,Jefferson County,8005,8.0,5.0,Colorado,Arapahoe County,28535,1054,CO
+8063,8,63,Colorado,Kit Carson County,8005,8.0,5.0,Colorado,Arapahoe County,6,6,CO
+8065,8,65,Colorado,Lake County,8005,8.0,5.0,Colorado,Arapahoe County,4,8,CO
+8067,8,67,Colorado,La Plata County,8005,8.0,5.0,Colorado,Arapahoe County,2,4,CO
+8069,8,69,Colorado,Larimer County,8005,8.0,5.0,Colorado,Arapahoe County,633,181,CO
+8071,8,71,Colorado,Las Animas County,8005,8.0,5.0,Colorado,Arapahoe County,10,16,CO
+8073,8,73,Colorado,Lincoln County,8005,8.0,5.0,Colorado,Arapahoe County,26,23,CO
+8077,8,77,Colorado,Mesa County,8005,8.0,5.0,Colorado,Arapahoe County,7,11,CO
+8079,8,79,Colorado,Mineral County,8005,8.0,5.0,Colorado,Arapahoe County,3,4,CO
+8087,8,87,Colorado,Morgan County,8005,8.0,5.0,Colorado,Arapahoe County,38,28,CO
+8089,8,89,Colorado,Otero County,8005,8.0,5.0,Colorado,Arapahoe County,5,6,CO
+8093,8,93,Colorado,Park County,8005,8.0,5.0,Colorado,Arapahoe County,615,171,CO
+8101,8,101,Colorado,Pueblo County,8005,8.0,5.0,Colorado,Arapahoe County,90,58,CO
+8107,8,107,Colorado,Routt County,8005,8.0,5.0,Colorado,Arapahoe County,9,12,CO
+8115,8,115,Colorado,Sedgwick County,8005,8.0,5.0,Colorado,Arapahoe County,2,3,CO
+8117,8,117,Colorado,Summit County,8005,8.0,5.0,Colorado,Arapahoe County,95,61,CO
+8119,8,119,Colorado,Teller County,8005,8.0,5.0,Colorado,Arapahoe County,33,28,CO
+8121,8,121,Colorado,Washington County,8005,8.0,5.0,Colorado,Arapahoe County,3,6,CO
+8123,8,123,Colorado,Weld County,8005,8.0,5.0,Colorado,Arapahoe County,1471,219,CO
+8007,8,7,Colorado,Archuleta County,8007,8.0,7.0,Colorado,Archuleta County,4662,352,CO
+8043,8,43,Colorado,Fremont County,8007,8.0,7.0,Colorado,Archuleta County,9,14,CO
+8053,8,53,Colorado,Hinsdale County,8007,8.0,7.0,Colorado,Archuleta County,3,4,CO
+8067,8,67,Colorado,La Plata County,8007,8.0,7.0,Colorado,Archuleta County,160,89,CO
+8079,8,79,Colorado,Mineral County,8007,8.0,7.0,Colorado,Archuleta County,28,27,CO
+8083,8,83,Colorado,Montezuma County,8007,8.0,7.0,Colorado,Archuleta County,3,6,CO
+8105,8,105,Colorado,Rio Grande County,8007,8.0,7.0,Colorado,Archuleta County,61,49,CO
+8107,8,107,Colorado,Routt County,8007,8.0,7.0,Colorado,Archuleta County,3,5,CO
+8009,8,9,Colorado,Baca County,8009,8.0,9.0,Colorado,Baca County,1528,95,CO
+8013,8,13,Colorado,Boulder County,8009,8.0,9.0,Colorado,Baca County,5,7,CO
+8025,8,25,Colorado,Crowley County,8009,8.0,9.0,Colorado,Baca County,6,10,CO
+8071,8,71,Colorado,Las Animas County,8009,8.0,9.0,Colorado,Baca County,4,5,CO
+8099,8,99,Colorado,Prowers County,8009,8.0,9.0,Colorado,Baca County,24,21,CO
+8011,8,11,Colorado,Bent County,8011,8.0,11.0,Colorado,Bent County,886,320,CO
+8025,8,25,Colorado,Crowley County,8011,8.0,11.0,Colorado,Bent County,3,4,CO
+8041,8,41,Colorado,El Paso County,8011,8.0,11.0,Colorado,Bent County,23,40,CO
+8061,8,61,Colorado,Kiowa County,8011,8.0,11.0,Colorado,Bent County,4,6,CO
+8071,8,71,Colorado,Las Animas County,8011,8.0,11.0,Colorado,Bent County,12,12,CO
+8073,8,73,Colorado,Lincoln County,8011,8.0,11.0,Colorado,Bent County,3,4,CO
+8089,8,89,Colorado,Otero County,8011,8.0,11.0,Colorado,Bent County,274,105,CO
+8099,8,99,Colorado,Prowers County,8011,8.0,11.0,Colorado,Bent County,113,63,CO
+8101,8,101,Colorado,Pueblo County,8011,8.0,11.0,Colorado,Bent County,6,9,CO
+8001,8,1,Colorado,Adams County,8013,8.0,13.0,Colorado,Boulder County,13316,841,CO
+8005,8,5,Colorado,Arapahoe County,8013,8.0,13.0,Colorado,Boulder County,2479,354,CO
+8013,8,13,Colorado,Boulder County,8013,8.0,13.0,Colorado,Boulder County,128624,1512,CO
+8014,8,14,Colorado,Broomfield County,8013,8.0,13.0,Colorado,Boulder County,7525,479,CO
+8015,8,15,Colorado,Chaffee County,8013,8.0,13.0,Colorado,Boulder County,39,59,CO
+8019,8,19,Colorado,Clear Creek County,8013,8.0,13.0,Colorado,Boulder County,18,28,CO
+8027,8,27,Colorado,Custer County,8013,8.0,13.0,Colorado,Boulder County,11,15,CO
+8029,8,29,Colorado,Delta County,8013,8.0,13.0,Colorado,Boulder County,17,16,CO
+8031,8,31,Colorado,Denver County,8013,8.0,13.0,Colorado,Boulder County,5503,536,CO
+8035,8,35,Colorado,Douglas County,8013,8.0,13.0,Colorado,Boulder County,815,182,CO
+8037,8,37,Colorado,Eagle County,8013,8.0,13.0,Colorado,Boulder County,62,48,CO
+8039,8,39,Colorado,Elbert County,8013,8.0,13.0,Colorado,Boulder County,31,37,CO
+8041,8,41,Colorado,El Paso County,8013,8.0,13.0,Colorado,Boulder County,87,55,CO
+8045,8,45,Colorado,Garfield County,8013,8.0,13.0,Colorado,Boulder County,56,81,CO
+8047,8,47,Colorado,Gilpin County,8013,8.0,13.0,Colorado,Boulder County,508,167,CO
+8049,8,49,Colorado,Grand County,8013,8.0,13.0,Colorado,Boulder County,4,6,CO
+8059,8,59,Colorado,Jefferson County,8013,8.0,13.0,Colorado,Boulder County,10413,658,CO
+8069,8,69,Colorado,Larimer County,8013,8.0,13.0,Colorado,Boulder County,7505,582,CO
+8077,8,77,Colorado,Mesa County,8013,8.0,13.0,Colorado,Boulder County,23,33,CO
+8085,8,85,Colorado,Montrose County,8013,8.0,13.0,Colorado,Boulder County,7,12,CO
+8087,8,87,Colorado,Morgan County,8013,8.0,13.0,Colorado,Boulder County,14,13,CO
+8093,8,93,Colorado,Park County,8013,8.0,13.0,Colorado,Boulder County,43,37,CO
+8097,8,97,Colorado,Pitkin County,8013,8.0,13.0,Colorado,Boulder County,26,42,CO
+8101,8,101,Colorado,Pueblo County,8013,8.0,13.0,Colorado,Boulder County,43,46,CO
+8103,8,103,Colorado,Rio Blanco County,8013,8.0,13.0,Colorado,Boulder County,4,9,CO
+8115,8,115,Colorado,Sedgwick County,8013,8.0,13.0,Colorado,Boulder County,1,3,CO
+8117,8,117,Colorado,Summit County,8013,8.0,13.0,Colorado,Boulder County,10,14,CO
+8121,8,121,Colorado,Washington County,8013,8.0,13.0,Colorado,Boulder County,8,7,CO
+8123,8,123,Colorado,Weld County,8013,8.0,13.0,Colorado,Boulder County,12413,764,CO
+8001,8,1,Colorado,Adams County,8014,8.0,14.0,Colorado,Broomfield County,10481,708,CO
+8005,8,5,Colorado,Arapahoe County,8014,8.0,14.0,Colorado,Broomfield County,816,203,CO
+8013,8,13,Colorado,Boulder County,8014,8.0,14.0,Colorado,Broomfield County,5580,540,CO
+8014,8,14,Colorado,Broomfield County,8014,8.0,14.0,Colorado,Broomfield County,8491,512,CO
+8021,8,21,Colorado,Conejos County,8014,8.0,14.0,Colorado,Broomfield County,8,11,CO
+8031,8,31,Colorado,Denver County,8014,8.0,14.0,Colorado,Broomfield County,2669,336,CO
+8035,8,35,Colorado,Douglas County,8014,8.0,14.0,Colorado,Broomfield County,415,122,CO
+8041,8,41,Colorado,El Paso County,8014,8.0,14.0,Colorado,Broomfield County,39,31,CO
+8047,8,47,Colorado,Gilpin County,8014,8.0,14.0,Colorado,Broomfield County,90,87,CO
+8059,8,59,Colorado,Jefferson County,8014,8.0,14.0,Colorado,Broomfield County,6143,533,CO
+8067,8,67,Colorado,La Plata County,8014,8.0,14.0,Colorado,Broomfield County,6,9,CO
+8069,8,69,Colorado,Larimer County,8014,8.0,14.0,Colorado,Broomfield County,350,127,CO
+8093,8,93,Colorado,Park County,8014,8.0,14.0,Colorado,Broomfield County,9,14,CO
+8123,8,123,Colorado,Weld County,8014,8.0,14.0,Colorado,Broomfield County,1695,360,CO
+8001,8,1,Colorado,Adams County,8015,8.0,15.0,Colorado,Chaffee County,7,12,CO
+8005,8,5,Colorado,Arapahoe County,8015,8.0,15.0,Colorado,Chaffee County,18,28,CO
+8015,8,15,Colorado,Chaffee County,8015,8.0,15.0,Colorado,Chaffee County,7322,312,CO
+8041,8,41,Colorado,El Paso County,8015,8.0,15.0,Colorado,Chaffee County,16,26,CO
+8043,8,43,Colorado,Fremont County,8015,8.0,15.0,Colorado,Chaffee County,399,128,CO
+8051,8,51,Colorado,Gunnison County,8015,8.0,15.0,Colorado,Chaffee County,15,18,CO
+8059,8,59,Colorado,Jefferson County,8015,8.0,15.0,Colorado,Chaffee County,16,20,CO
+8065,8,65,Colorado,Lake County,8015,8.0,15.0,Colorado,Chaffee County,43,37,CO
+8085,8,85,Colorado,Montrose County,8015,8.0,15.0,Colorado,Chaffee County,8,14,CO
+8093,8,93,Colorado,Park County,8015,8.0,15.0,Colorado,Chaffee County,172,130,CO
+8109,8,109,Colorado,Saguache County,8015,8.0,15.0,Colorado,Chaffee County,150,52,CO
+8117,8,117,Colorado,Summit County,8015,8.0,15.0,Colorado,Chaffee County,9,12,CO
+8001,8,1,Colorado,Adams County,8017,8.0,17.0,Colorado,Cheyenne County,49,41,CO
+8005,8,5,Colorado,Arapahoe County,8017,8.0,17.0,Colorado,Cheyenne County,93,86,CO
+8017,8,17,Colorado,Cheyenne County,8017,8.0,17.0,Colorado,Cheyenne County,836,113,CO
+8031,8,31,Colorado,Denver County,8017,8.0,17.0,Colorado,Cheyenne County,47,52,CO
+8035,8,35,Colorado,Douglas County,8017,8.0,17.0,Colorado,Cheyenne County,7,11,CO
+8041,8,41,Colorado,El Paso County,8017,8.0,17.0,Colorado,Cheyenne County,11,18,CO
+8061,8,61,Colorado,Kiowa County,8017,8.0,17.0,Colorado,Cheyenne County,20,14,CO
+8063,8,63,Colorado,Kit Carson County,8017,8.0,17.0,Colorado,Cheyenne County,22,26,CO
+8071,8,71,Colorado,Las Animas County,8017,8.0,17.0,Colorado,Cheyenne County,3,5,CO
+8073,8,73,Colorado,Lincoln County,8017,8.0,17.0,Colorado,Cheyenne County,4,4,CO
+8099,8,99,Colorado,Prowers County,8017,8.0,17.0,Colorado,Cheyenne County,10,11,CO
+8001,8,1,Colorado,Adams County,8019,8.0,19.0,Colorado,Clear Creek County,125,88,CO
+8005,8,5,Colorado,Arapahoe County,8019,8.0,19.0,Colorado,Clear Creek County,44,40,CO
+8013,8,13,Colorado,Boulder County,8019,8.0,19.0,Colorado,Clear Creek County,38,31,CO
+8014,8,14,Colorado,Broomfield County,8019,8.0,19.0,Colorado,Clear Creek County,12,18,CO
+8017,8,17,Colorado,Cheyenne County,8019,8.0,19.0,Colorado,Clear Creek County,4,7,CO
+8019,8,19,Colorado,Clear Creek County,8019,8.0,19.0,Colorado,Clear Creek County,2214,266,CO
+8031,8,31,Colorado,Denver County,8019,8.0,19.0,Colorado,Clear Creek County,121,82,CO
+8035,8,35,Colorado,Douglas County,8019,8.0,19.0,Colorado,Clear Creek County,8,13,CO
+8047,8,47,Colorado,Gilpin County,8019,8.0,19.0,Colorado,Clear Creek County,47,40,CO
+8049,8,49,Colorado,Grand County,8019,8.0,19.0,Colorado,Clear Creek County,85,82,CO
+8059,8,59,Colorado,Jefferson County,8019,8.0,19.0,Colorado,Clear Creek County,614,149,CO
+8067,8,67,Colorado,La Plata County,8019,8.0,19.0,Colorado,Clear Creek County,9,14,CO
+8093,8,93,Colorado,Park County,8019,8.0,19.0,Colorado,Clear Creek County,57,45,CO
+8105,8,105,Colorado,Rio Grande County,8019,8.0,19.0,Colorado,Clear Creek County,6,10,CO
+8113,8,113,Colorado,San Miguel County,8019,8.0,19.0,Colorado,Clear Creek County,7,12,CO
+8117,8,117,Colorado,Summit County,8019,8.0,19.0,Colorado,Clear Creek County,8,14,CO
+8123,8,123,Colorado,Weld County,8019,8.0,19.0,Colorado,Clear Creek County,4,6,CO
+8003,8,3,Colorado,Alamosa County,8021,8.0,21.0,Colorado,Conejos County,138,81,CO
+8021,8,21,Colorado,Conejos County,8021,8.0,21.0,Colorado,Conejos County,1662,141,CO
+8041,8,41,Colorado,El Paso County,8021,8.0,21.0,Colorado,Conejos County,37,28,CO
+8043,8,43,Colorado,Fremont County,8021,8.0,21.0,Colorado,Conejos County,27,41,CO
+8105,8,105,Colorado,Rio Grande County,8021,8.0,21.0,Colorado,Conejos County,44,39,CO
+8003,8,3,Colorado,Alamosa County,8023,8.0,23.0,Colorado,Costilla County,41,36,CO
+8005,8,5,Colorado,Arapahoe County,8023,8.0,23.0,Colorado,Costilla County,45,59,CO
+8015,8,15,Colorado,Chaffee County,8023,8.0,23.0,Colorado,Costilla County,11,18,CO
+8021,8,21,Colorado,Conejos County,8023,8.0,23.0,Colorado,Costilla County,5,7,CO
+8023,8,23,Colorado,Costilla County,8023,8.0,23.0,Colorado,Costilla County,890,134,CO
+8089,8,89,Colorado,Otero County,8023,8.0,23.0,Colorado,Costilla County,2,5,CO
+8105,8,105,Colorado,Rio Grande County,8023,8.0,23.0,Colorado,Costilla County,5,10,CO
+8011,8,11,Colorado,Bent County,8025,8.0,25.0,Colorado,Crowley County,29,22,CO
+8025,8,25,Colorado,Crowley County,8025,8.0,25.0,Colorado,Crowley County,863,190,CO
+8041,8,41,Colorado,El Paso County,8025,8.0,25.0,Colorado,Crowley County,18,21,CO
+8061,8,61,Colorado,Kiowa County,8025,8.0,25.0,Colorado,Crowley County,4,4,CO
+8073,8,73,Colorado,Lincoln County,8025,8.0,25.0,Colorado,Crowley County,2,5,CO
+8089,8,89,Colorado,Otero County,8025,8.0,25.0,Colorado,Crowley County,334,137,CO
+8099,8,99,Colorado,Prowers County,8025,8.0,25.0,Colorado,Crowley County,34,40,CO
+8101,8,101,Colorado,Pueblo County,8025,8.0,25.0,Colorado,Crowley County,249,93,CO
+8015,8,15,Colorado,Chaffee County,8027,8.0,27.0,Colorado,Custer County,22,26,CO
+8027,8,27,Colorado,Custer County,8027,8.0,27.0,Colorado,Custer County,985,183,CO
+8043,8,43,Colorado,Fremont County,8027,8.0,27.0,Colorado,Custer County,94,51,CO
+8101,8,101,Colorado,Pueblo County,8027,8.0,27.0,Colorado,Custer County,26,33,CO
+8029,8,29,Colorado,Delta County,8029,8.0,29.0,Colorado,Delta County,8426,498,CO
+8035,8,35,Colorado,Douglas County,8029,8.0,29.0,Colorado,Delta County,7,11,CO
+8037,8,37,Colorado,Eagle County,8029,8.0,29.0,Colorado,Delta County,14,21,CO
+8045,8,45,Colorado,Garfield County,8029,8.0,29.0,Colorado,Delta County,12,14,CO
+8051,8,51,Colorado,Gunnison County,8029,8.0,29.0,Colorado,Delta County,26,44,CO
+8077,8,77,Colorado,Mesa County,8029,8.0,29.0,Colorado,Delta County,248,106,CO
+8085,8,85,Colorado,Montrose County,8029,8.0,29.0,Colorado,Delta County,1040,232,CO
+8091,8,91,Colorado,Ouray County,8029,8.0,29.0,Colorado,Delta County,6,6,CO
+8097,8,97,Colorado,Pitkin County,8029,8.0,29.0,Colorado,Delta County,18,30,CO
+8001,8,1,Colorado,Adams County,8031,8.0,31.0,Colorado,Denver County,58697,1719,CO
+8003,8,3,Colorado,Alamosa County,8031,8.0,31.0,Colorado,Denver County,25,31,CO
+8005,8,5,Colorado,Arapahoe County,8031,8.0,31.0,Colorado,Denver County,92622,1965,CO
+8007,8,7,Colorado,Archuleta County,8031,8.0,31.0,Colorado,Denver County,9,13,CO
+8013,8,13,Colorado,Boulder County,8031,8.0,31.0,Colorado,Denver County,8003,604,CO
+8014,8,14,Colorado,Broomfield County,8031,8.0,31.0,Colorado,Denver County,5051,423,CO
+8015,8,15,Colorado,Chaffee County,8031,8.0,31.0,Colorado,Denver County,57,38,CO
+8019,8,19,Colorado,Clear Creek County,8031,8.0,31.0,Colorado,Denver County,658,201,CO
+8021,8,21,Colorado,Conejos County,8031,8.0,31.0,Colorado,Denver County,6,7,CO
+8029,8,29,Colorado,Delta County,8031,8.0,31.0,Colorado,Denver County,29,44,CO
+8031,8,31,Colorado,Denver County,8031,8.0,31.0,Colorado,Denver County,210717,2291,CO
+8035,8,35,Colorado,Douglas County,8031,8.0,31.0,Colorado,Denver County,26834,1122,CO
+8037,8,37,Colorado,Eagle County,8031,8.0,31.0,Colorado,Denver County,103,65,CO
+8039,8,39,Colorado,Elbert County,8031,8.0,31.0,Colorado,Denver County,1333,247,CO
+8041,8,41,Colorado,El Paso County,8031,8.0,31.0,Colorado,Denver County,2813,336,CO
+8043,8,43,Colorado,Fremont County,8031,8.0,31.0,Colorado,Denver County,40,37,CO
+8045,8,45,Colorado,Garfield County,8031,8.0,31.0,Colorado,Denver County,34,43,CO
+8047,8,47,Colorado,Gilpin County,8031,8.0,31.0,Colorado,Denver County,177,85,CO
+8049,8,49,Colorado,Grand County,8031,8.0,31.0,Colorado,Denver County,56,64,CO
+8051,8,51,Colorado,Gunnison County,8031,8.0,31.0,Colorado,Denver County,32,31,CO
+8055,8,55,Colorado,Huerfano County,8031,8.0,31.0,Colorado,Denver County,4,8,CO
+8057,8,57,Colorado,Jackson County,8031,8.0,31.0,Colorado,Denver County,9,14,CO
+8059,8,59,Colorado,Jefferson County,8031,8.0,31.0,Colorado,Denver County,68190,1712,CO
+8061,8,61,Colorado,Kiowa County,8031,8.0,31.0,Colorado,Denver County,3,5,CO
+8063,8,63,Colorado,Kit Carson County,8031,8.0,31.0,Colorado,Denver County,5,8,CO
+8065,8,65,Colorado,Lake County,8031,8.0,31.0,Colorado,Denver County,20,31,CO
+8069,8,69,Colorado,Larimer County,8031,8.0,31.0,Colorado,Denver County,2181,377,CO
+8071,8,71,Colorado,Las Animas County,8031,8.0,31.0,Colorado,Denver County,15,20,CO
+8073,8,73,Colorado,Lincoln County,8031,8.0,31.0,Colorado,Denver County,26,17,CO
+8075,8,75,Colorado,Logan County,8031,8.0,31.0,Colorado,Denver County,19,28,CO
+8077,8,77,Colorado,Mesa County,8031,8.0,31.0,Colorado,Denver County,110,68,CO
+8081,8,81,Colorado,Moffat County,8031,8.0,31.0,Colorado,Denver County,8,15,CO
+8087,8,87,Colorado,Morgan County,8031,8.0,31.0,Colorado,Denver County,112,50,CO
+8089,8,89,Colorado,Otero County,8031,8.0,31.0,Colorado,Denver County,20,12,CO
+8091,8,91,Colorado,Ouray County,8031,8.0,31.0,Colorado,Denver County,5,7,CO
+8093,8,93,Colorado,Park County,8031,8.0,31.0,Colorado,Denver County,999,221,CO
+8097,8,97,Colorado,Pitkin County,8031,8.0,31.0,Colorado,Denver County,65,90,CO
+8101,8,101,Colorado,Pueblo County,8031,8.0,31.0,Colorado,Denver County,183,59,CO
+8103,8,103,Colorado,Rio Blanco County,8031,8.0,31.0,Colorado,Denver County,8,14,CO
+8107,8,107,Colorado,Routt County,8031,8.0,31.0,Colorado,Denver County,25,28,CO
+8109,8,109,Colorado,Saguache County,8031,8.0,31.0,Colorado,Denver County,3,5,CO
+8115,8,115,Colorado,Sedgwick County,8031,8.0,31.0,Colorado,Denver County,1,3,CO
+8117,8,117,Colorado,Summit County,8031,8.0,31.0,Colorado,Denver County,170,109,CO
+8119,8,119,Colorado,Teller County,8031,8.0,31.0,Colorado,Denver County,64,51,CO
+8121,8,121,Colorado,Washington County,8031,8.0,31.0,Colorado,Denver County,18,14,CO
+8123,8,123,Colorado,Weld County,8031,8.0,31.0,Colorado,Denver County,6239,532,CO
+8033,8,33,Colorado,Dolores County,8033,8.0,33.0,Colorado,Dolores County,513,100,CO
+8037,8,37,Colorado,Eagle County,8033,8.0,33.0,Colorado,Dolores County,16,26,CO
+8083,8,83,Colorado,Montezuma County,8033,8.0,33.0,Colorado,Dolores County,46,47,CO
+8091,8,91,Colorado,Ouray County,8033,8.0,33.0,Colorado,Dolores County,3,4,CO
+8113,8,113,Colorado,San Miguel County,8033,8.0,33.0,Colorado,Dolores County,32,28,CO
+8001,8,1,Colorado,Adams County,8035,8.0,35.0,Colorado,Douglas County,2942,391,CO
+8005,8,5,Colorado,Arapahoe County,8035,8.0,35.0,Colorado,Douglas County,20665,910,CO
+8013,8,13,Colorado,Boulder County,8035,8.0,35.0,Colorado,Douglas County,315,108,CO
+8014,8,14,Colorado,Broomfield County,8035,8.0,35.0,Colorado,Douglas County,403,127,CO
+8015,8,15,Colorado,Chaffee County,8035,8.0,35.0,Colorado,Douglas County,10,16,CO
+8019,8,19,Colorado,Clear Creek County,8035,8.0,35.0,Colorado,Douglas County,42,42,CO
+8031,8,31,Colorado,Denver County,8035,8.0,35.0,Colorado,Douglas County,10518,819,CO
+8035,8,35,Colorado,Douglas County,8035,8.0,35.0,Colorado,Douglas County,67951,1583,CO
+8039,8,39,Colorado,Elbert County,8035,8.0,35.0,Colorado,Douglas County,2331,266,CO
+8041,8,41,Colorado,El Paso County,8035,8.0,35.0,Colorado,Douglas County,1796,321,CO
+8043,8,43,Colorado,Fremont County,8035,8.0,35.0,Colorado,Douglas County,23,40,CO
+8045,8,45,Colorado,Garfield County,8035,8.0,35.0,Colorado,Douglas County,6,12,CO
+8049,8,49,Colorado,Grand County,8035,8.0,35.0,Colorado,Douglas County,4,7,CO
+8059,8,59,Colorado,Jefferson County,8035,8.0,35.0,Colorado,Douglas County,8064,559,CO
+8069,8,69,Colorado,Larimer County,8035,8.0,35.0,Colorado,Douglas County,113,75,CO
+8071,8,71,Colorado,Las Animas County,8035,8.0,35.0,Colorado,Douglas County,4,6,CO
+8075,8,75,Colorado,Logan County,8035,8.0,35.0,Colorado,Douglas County,2,2,CO
+8077,8,77,Colorado,Mesa County,8035,8.0,35.0,Colorado,Douglas County,15,22,CO
+8081,8,81,Colorado,Moffat County,8035,8.0,35.0,Colorado,Douglas County,13,20,CO
+8087,8,87,Colorado,Morgan County,8035,8.0,35.0,Colorado,Douglas County,17,28,CO
+8093,8,93,Colorado,Park County,8035,8.0,35.0,Colorado,Douglas County,80,58,CO
+8101,8,101,Colorado,Pueblo County,8035,8.0,35.0,Colorado,Douglas County,30,32,CO
+8107,8,107,Colorado,Routt County,8035,8.0,35.0,Colorado,Douglas County,4,7,CO
+8117,8,117,Colorado,Summit County,8035,8.0,35.0,Colorado,Douglas County,3,5,CO
+8119,8,119,Colorado,Teller County,8035,8.0,35.0,Colorado,Douglas County,21,39,CO
+8123,8,123,Colorado,Weld County,8035,8.0,35.0,Colorado,Douglas County,277,97,CO
+8001,8,1,Colorado,Adams County,8037,8.0,37.0,Colorado,Eagle County,49,41,CO
+8005,8,5,Colorado,Arapahoe County,8037,8.0,37.0,Colorado,Eagle County,84,56,CO
+8009,8,9,Colorado,Baca County,8037,8.0,37.0,Colorado,Eagle County,5,8,CO
+8013,8,13,Colorado,Boulder County,8037,8.0,37.0,Colorado,Eagle County,58,63,CO
+8014,8,14,Colorado,Broomfield County,8037,8.0,37.0,Colorado,Eagle County,7,13,CO
+8015,8,15,Colorado,Chaffee County,8037,8.0,37.0,Colorado,Eagle County,17,19,CO
+8029,8,29,Colorado,Delta County,8037,8.0,37.0,Colorado,Eagle County,22,35,CO
+8031,8,31,Colorado,Denver County,8037,8.0,37.0,Colorado,Eagle County,287,156,CO
+8035,8,35,Colorado,Douglas County,8037,8.0,37.0,Colorado,Eagle County,68,56,CO
+8037,8,37,Colorado,Eagle County,8037,8.0,37.0,Colorado,Eagle County,26063,969,CO
+8039,8,39,Colorado,Elbert County,8037,8.0,37.0,Colorado,Eagle County,14,23,CO
+8041,8,41,Colorado,El Paso County,8037,8.0,37.0,Colorado,Eagle County,33,31,CO
+8045,8,45,Colorado,Garfield County,8037,8.0,37.0,Colorado,Eagle County,1208,239,CO
+8049,8,49,Colorado,Grand County,8037,8.0,37.0,Colorado,Eagle County,38,34,CO
+8051,8,51,Colorado,Gunnison County,8037,8.0,37.0,Colorado,Eagle County,34,22,CO
+8059,8,59,Colorado,Jefferson County,8037,8.0,37.0,Colorado,Eagle County,55,30,CO
+8065,8,65,Colorado,Lake County,8037,8.0,37.0,Colorado,Eagle County,509,164,CO
+8069,8,69,Colorado,Larimer County,8037,8.0,37.0,Colorado,Eagle County,74,60,CO
+8075,8,75,Colorado,Logan County,8037,8.0,37.0,Colorado,Eagle County,25,21,CO
+8077,8,77,Colorado,Mesa County,8037,8.0,37.0,Colorado,Eagle County,35,33,CO
+8091,8,91,Colorado,Ouray County,8037,8.0,37.0,Colorado,Eagle County,15,24,CO
+8097,8,97,Colorado,Pitkin County,8037,8.0,37.0,Colorado,Eagle County,292,146,CO
+8101,8,101,Colorado,Pueblo County,8037,8.0,37.0,Colorado,Eagle County,9,16,CO
+8107,8,107,Colorado,Routt County,8037,8.0,37.0,Colorado,Eagle County,40,36,CO
+8117,8,117,Colorado,Summit County,8037,8.0,37.0,Colorado,Eagle County,339,166,CO
+8001,8,1,Colorado,Adams County,8039,8.0,39.0,Colorado,Elbert County,26,23,CO
+8005,8,5,Colorado,Arapahoe County,8039,8.0,39.0,Colorado,Elbert County,246,84,CO
+8021,8,21,Colorado,Conejos County,8039,8.0,39.0,Colorado,Elbert County,4,6,CO
+8031,8,31,Colorado,Denver County,8039,8.0,39.0,Colorado,Elbert County,63,45,CO
+8035,8,35,Colorado,Douglas County,8039,8.0,39.0,Colorado,Elbert County,705,306,CO
+8039,8,39,Colorado,Elbert County,8039,8.0,39.0,Colorado,Elbert County,4171,432,CO
+8041,8,41,Colorado,El Paso County,8039,8.0,39.0,Colorado,Elbert County,178,87,CO
+8059,8,59,Colorado,Jefferson County,8039,8.0,39.0,Colorado,Elbert County,28,24,CO
+8073,8,73,Colorado,Lincoln County,8039,8.0,39.0,Colorado,Elbert County,11,13,CO
+8099,8,99,Colorado,Prowers County,8039,8.0,39.0,Colorado,Elbert County,10,15,CO
+8123,8,123,Colorado,Weld County,8039,8.0,39.0,Colorado,Elbert County,10,14,CO
+8001,8,1,Colorado,Adams County,8041,8.0,41.0,Colorado,El Paso County,214,109,CO
+8003,8,3,Colorado,Alamosa County,8041,8.0,41.0,Colorado,El Paso County,8,11,CO
+8005,8,5,Colorado,Arapahoe County,8041,8.0,41.0,Colorado,El Paso County,1112,258,CO
+8011,8,11,Colorado,Bent County,8041,8.0,41.0,Colorado,El Paso County,5,6,CO
+8013,8,13,Colorado,Boulder County,8041,8.0,41.0,Colorado,El Paso County,153,80,CO
+8014,8,14,Colorado,Broomfield County,8041,8.0,41.0,Colorado,El Paso County,180,85,CO
+8015,8,15,Colorado,Chaffee County,8041,8.0,41.0,Colorado,El Paso County,15,14,CO
+8017,8,17,Colorado,Cheyenne County,8041,8.0,41.0,Colorado,El Paso County,3,5,CO
+8027,8,27,Colorado,Custer County,8041,8.0,41.0,Colorado,El Paso County,108,70,CO
+8029,8,29,Colorado,Delta County,8041,8.0,41.0,Colorado,El Paso County,16,23,CO
+8031,8,31,Colorado,Denver County,8041,8.0,41.0,Colorado,El Paso County,549,173,CO
+8035,8,35,Colorado,Douglas County,8041,8.0,41.0,Colorado,El Paso County,2853,410,CO
+8039,8,39,Colorado,Elbert County,8041,8.0,41.0,Colorado,El Paso County,475,133,CO
+8041,8,41,Colorado,El Paso County,8041,8.0,41.0,Colorado,El Paso County,294336,2412,CO
+8043,8,43,Colorado,Fremont County,8041,8.0,41.0,Colorado,El Paso County,849,188,CO
+8051,8,51,Colorado,Gunnison County,8041,8.0,41.0,Colorado,El Paso County,8,14,CO
+8055,8,55,Colorado,Huerfano County,8041,8.0,41.0,Colorado,El Paso County,19,25,CO
+8059,8,59,Colorado,Jefferson County,8041,8.0,41.0,Colorado,El Paso County,598,212,CO
+8063,8,63,Colorado,Kit Carson County,8041,8.0,41.0,Colorado,El Paso County,2,6,CO
+8067,8,67,Colorado,La Plata County,8041,8.0,41.0,Colorado,El Paso County,15,22,CO
+8069,8,69,Colorado,Larimer County,8041,8.0,41.0,Colorado,El Paso County,155,93,CO
+8071,8,71,Colorado,Las Animas County,8041,8.0,41.0,Colorado,El Paso County,15,13,CO
+8073,8,73,Colorado,Lincoln County,8041,8.0,41.0,Colorado,El Paso County,33,18,CO
+8077,8,77,Colorado,Mesa County,8041,8.0,41.0,Colorado,El Paso County,60,59,CO
+8083,8,83,Colorado,Montezuma County,8041,8.0,41.0,Colorado,El Paso County,14,22,CO
+8089,8,89,Colorado,Otero County,8041,8.0,41.0,Colorado,El Paso County,46,45,CO
+8091,8,91,Colorado,Ouray County,8041,8.0,41.0,Colorado,El Paso County,8,13,CO
+8093,8,93,Colorado,Park County,8041,8.0,41.0,Colorado,El Paso County,141,84,CO
+8097,8,97,Colorado,Pitkin County,8041,8.0,41.0,Colorado,El Paso County,39,47,CO
+8101,8,101,Colorado,Pueblo County,8041,8.0,41.0,Colorado,El Paso County,3606,426,CO
+8107,8,107,Colorado,Routt County,8041,8.0,41.0,Colorado,El Paso County,10,13,CO
+8117,8,117,Colorado,Summit County,8041,8.0,41.0,Colorado,El Paso County,8,14,CO
+8119,8,119,Colorado,Teller County,8041,8.0,41.0,Colorado,El Paso County,3956,360,CO
+8123,8,123,Colorado,Weld County,8041,8.0,41.0,Colorado,El Paso County,165,75,CO
+8125,8,125,Colorado,Yuma County,8041,8.0,41.0,Colorado,El Paso County,24,34,CO
+8001,8,1,Colorado,Adams County,8043,8.0,43.0,Colorado,Fremont County,16,26,CO
+8005,8,5,Colorado,Arapahoe County,8043,8.0,43.0,Colorado,Fremont County,12,18,CO
+8013,8,13,Colorado,Boulder County,8043,8.0,43.0,Colorado,Fremont County,54,41,CO
+8015,8,15,Colorado,Chaffee County,8043,8.0,43.0,Colorado,Fremont County,117,66,CO
+8025,8,25,Colorado,Crowley County,8043,8.0,43.0,Colorado,Fremont County,19,22,CO
+8027,8,27,Colorado,Custer County,8043,8.0,43.0,Colorado,Fremont County,140,83,CO
+8035,8,35,Colorado,Douglas County,8043,8.0,43.0,Colorado,Fremont County,15,23,CO
+8041,8,41,Colorado,El Paso County,8043,8.0,43.0,Colorado,Fremont County,761,175,CO
+8043,8,43,Colorado,Fremont County,8043,8.0,43.0,Colorado,Fremont County,11054,774,CO
+8051,8,51,Colorado,Gunnison County,8043,8.0,43.0,Colorado,Fremont County,15,24,CO
+8059,8,59,Colorado,Jefferson County,8043,8.0,43.0,Colorado,Fremont County,10,15,CO
+8071,8,71,Colorado,Las Animas County,8043,8.0,43.0,Colorado,Fremont County,6,7,CO
+8077,8,77,Colorado,Mesa County,8043,8.0,43.0,Colorado,Fremont County,1,5,CO
+8089,8,89,Colorado,Otero County,8043,8.0,43.0,Colorado,Fremont County,13,12,CO
+8101,8,101,Colorado,Pueblo County,8043,8.0,43.0,Colorado,Fremont County,1463,235,CO
+8119,8,119,Colorado,Teller County,8043,8.0,43.0,Colorado,Fremont County,24,22,CO
+8001,8,1,Colorado,Adams County,8045,8.0,45.0,Colorado,Garfield County,54,64,CO
+8005,8,5,Colorado,Arapahoe County,8045,8.0,45.0,Colorado,Garfield County,75,66,CO
+8011,8,11,Colorado,Bent County,8045,8.0,45.0,Colorado,Garfield County,2,4,CO
+8013,8,13,Colorado,Boulder County,8045,8.0,45.0,Colorado,Garfield County,13,19,CO
+8029,8,29,Colorado,Delta County,8045,8.0,45.0,Colorado,Garfield County,79,58,CO
+8031,8,31,Colorado,Denver County,8045,8.0,45.0,Colorado,Garfield County,47,44,CO
+8037,8,37,Colorado,Eagle County,8045,8.0,45.0,Colorado,Garfield County,1231,371,CO
+8039,8,39,Colorado,Elbert County,8045,8.0,45.0,Colorado,Garfield County,2,3,CO
+8041,8,41,Colorado,El Paso County,8045,8.0,45.0,Colorado,Garfield County,29,33,CO
+8045,8,45,Colorado,Garfield County,8045,8.0,45.0,Colorado,Garfield County,22101,780,CO
+8051,8,51,Colorado,Gunnison County,8045,8.0,45.0,Colorado,Garfield County,57,24,CO
+8059,8,59,Colorado,Jefferson County,8045,8.0,45.0,Colorado,Garfield County,61,49,CO
+8065,8,65,Colorado,Lake County,8045,8.0,45.0,Colorado,Garfield County,23,34,CO
+8069,8,69,Colorado,Larimer County,8045,8.0,45.0,Colorado,Garfield County,32,32,CO
+8077,8,77,Colorado,Mesa County,8045,8.0,45.0,Colorado,Garfield County,2027,396,CO
+8081,8,81,Colorado,Moffat County,8045,8.0,45.0,Colorado,Garfield County,10,16,CO
+8085,8,85,Colorado,Montrose County,8045,8.0,45.0,Colorado,Garfield County,5,13,CO
+8087,8,87,Colorado,Morgan County,8045,8.0,45.0,Colorado,Garfield County,9,11,CO
+8097,8,97,Colorado,Pitkin County,8045,8.0,45.0,Colorado,Garfield County,607,198,CO
+8099,8,99,Colorado,Prowers County,8045,8.0,45.0,Colorado,Garfield County,15,18,CO
+8103,8,103,Colorado,Rio Blanco County,8045,8.0,45.0,Colorado,Garfield County,143,75,CO
+8107,8,107,Colorado,Routt County,8045,8.0,45.0,Colorado,Garfield County,1,3,CO
+8001,8,1,Colorado,Adams County,8047,8.0,47.0,Colorado,Gilpin County,734,161,CO
+8005,8,5,Colorado,Arapahoe County,8047,8.0,47.0,Colorado,Gilpin County,413,174,CO
+8013,8,13,Colorado,Boulder County,8047,8.0,47.0,Colorado,Gilpin County,71,43,CO
+8014,8,14,Colorado,Broomfield County,8047,8.0,47.0,Colorado,Gilpin County,83,64,CO
+8019,8,19,Colorado,Clear Creek County,8047,8.0,47.0,Colorado,Gilpin County,286,150,CO
+8031,8,31,Colorado,Denver County,8047,8.0,47.0,Colorado,Gilpin County,710,258,CO
+8035,8,35,Colorado,Douglas County,8047,8.0,47.0,Colorado,Gilpin County,102,68,CO
+8041,8,41,Colorado,El Paso County,8047,8.0,47.0,Colorado,Gilpin County,10,13,CO
+8047,8,47,Colorado,Gilpin County,8047,8.0,47.0,Colorado,Gilpin County,1572,244,CO
+8049,8,49,Colorado,Grand County,8047,8.0,47.0,Colorado,Gilpin County,2,4,CO
+8059,8,59,Colorado,Jefferson County,8047,8.0,47.0,Colorado,Gilpin County,1681,262,CO
+8123,8,123,Colorado,Weld County,8047,8.0,47.0,Colorado,Gilpin County,10,15,CO
+8001,8,1,Colorado,Adams County,8049,8.0,49.0,Colorado,Grand County,29,30,CO
+8005,8,5,Colorado,Arapahoe County,8049,8.0,49.0,Colorado,Grand County,9,13,CO
+8013,8,13,Colorado,Boulder County,8049,8.0,49.0,Colorado,Grand County,45,38,CO
+8019,8,19,Colorado,Clear Creek County,8049,8.0,49.0,Colorado,Grand County,3,5,CO
+8029,8,29,Colorado,Delta County,8049,8.0,49.0,Colorado,Grand County,4,7,CO
+8031,8,31,Colorado,Denver County,8049,8.0,49.0,Colorado,Grand County,43,68,CO
+8035,8,35,Colorado,Douglas County,8049,8.0,49.0,Colorado,Grand County,56,48,CO
+8039,8,39,Colorado,Elbert County,8049,8.0,49.0,Colorado,Grand County,8,11,CO
+8041,8,41,Colorado,El Paso County,8049,8.0,49.0,Colorado,Grand County,50,78,CO
+8045,8,45,Colorado,Garfield County,8049,8.0,49.0,Colorado,Grand County,13,21,CO
+8049,8,49,Colorado,Grand County,8049,8.0,49.0,Colorado,Grand County,7255,507,CO
+8057,8,57,Colorado,Jackson County,8049,8.0,49.0,Colorado,Grand County,3,4,CO
+8059,8,59,Colorado,Jefferson County,8049,8.0,49.0,Colorado,Grand County,48,35,CO
+8069,8,69,Colorado,Larimer County,8049,8.0,49.0,Colorado,Grand County,11,17,CO
+8081,8,81,Colorado,Moffat County,8049,8.0,49.0,Colorado,Grand County,36,41,CO
+8107,8,107,Colorado,Routt County,8049,8.0,49.0,Colorado,Grand County,33,41,CO
+8117,8,117,Colorado,Summit County,8049,8.0,49.0,Colorado,Grand County,21,35,CO
+8001,8,1,Colorado,Adams County,8051,8.0,51.0,Colorado,Gunnison County,51,55,CO
+8013,8,13,Colorado,Boulder County,8051,8.0,51.0,Colorado,Gunnison County,19,23,CO
+8015,8,15,Colorado,Chaffee County,8051,8.0,51.0,Colorado,Gunnison County,8,14,CO
+8029,8,29,Colorado,Delta County,8051,8.0,51.0,Colorado,Gunnison County,532,126,CO
+8031,8,31,Colorado,Denver County,8051,8.0,51.0,Colorado,Gunnison County,10,17,CO
+8037,8,37,Colorado,Eagle County,8051,8.0,51.0,Colorado,Gunnison County,43,49,CO
+8043,8,43,Colorado,Fremont County,8051,8.0,51.0,Colorado,Gunnison County,1,2,CO
+8045,8,45,Colorado,Garfield County,8051,8.0,51.0,Colorado,Gunnison County,59,47,CO
+8051,8,51,Colorado,Gunnison County,8051,8.0,51.0,Colorado,Gunnison County,8517,331,CO
+8053,8,53,Colorado,Hinsdale County,8051,8.0,51.0,Colorado,Gunnison County,24,18,CO
+8059,8,59,Colorado,Jefferson County,8051,8.0,51.0,Colorado,Gunnison County,11,16,CO
+8071,8,71,Colorado,Las Animas County,8051,8.0,51.0,Colorado,Gunnison County,7,13,CO
+8077,8,77,Colorado,Mesa County,8051,8.0,51.0,Colorado,Gunnison County,39,56,CO
+8085,8,85,Colorado,Montrose County,8051,8.0,51.0,Colorado,Gunnison County,77,68,CO
+8091,8,91,Colorado,Ouray County,8051,8.0,51.0,Colorado,Gunnison County,9,13,CO
+8097,8,97,Colorado,Pitkin County,8051,8.0,51.0,Colorado,Gunnison County,9,15,CO
+8101,8,101,Colorado,Pueblo County,8051,8.0,51.0,Colorado,Gunnison County,27,39,CO
+8109,8,109,Colorado,Saguache County,8051,8.0,51.0,Colorado,Gunnison County,23,17,CO
+8117,8,117,Colorado,Summit County,8051,8.0,51.0,Colorado,Gunnison County,28,48,CO
+8119,8,119,Colorado,Teller County,8051,8.0,51.0,Colorado,Gunnison County,10,15,CO
+8031,8,31,Colorado,Denver County,8053,8.0,53.0,Colorado,Hinsdale County,10,16,CO
+8051,8,51,Colorado,Gunnison County,8053,8.0,53.0,Colorado,Hinsdale County,9,13,CO
+8053,8,53,Colorado,Hinsdale County,8053,8.0,53.0,Colorado,Hinsdale County,392,69,CO
+8003,8,3,Colorado,Alamosa County,8055,8.0,55.0,Colorado,Huerfano County,2,3,CO
+8021,8,21,Colorado,Conejos County,8055,8.0,55.0,Colorado,Huerfano County,2,3,CO
+8023,8,23,Colorado,Costilla County,8055,8.0,55.0,Colorado,Huerfano County,11,15,CO
+8027,8,27,Colorado,Custer County,8055,8.0,55.0,Colorado,Huerfano County,15,17,CO
+8035,8,35,Colorado,Douglas County,8055,8.0,55.0,Colorado,Huerfano County,36,37,CO
+8041,8,41,Colorado,El Paso County,8055,8.0,55.0,Colorado,Huerfano County,38,44,CO
+8043,8,43,Colorado,Fremont County,8055,8.0,55.0,Colorado,Huerfano County,28,40,CO
+8055,8,55,Colorado,Huerfano County,8055,8.0,55.0,Colorado,Huerfano County,1666,224,CO
+8069,8,69,Colorado,Larimer County,8055,8.0,55.0,Colorado,Huerfano County,18,26,CO
+8071,8,71,Colorado,Las Animas County,8055,8.0,55.0,Colorado,Huerfano County,128,57,CO
+8089,8,89,Colorado,Otero County,8055,8.0,55.0,Colorado,Huerfano County,29,38,CO
+8101,8,101,Colorado,Pueblo County,8055,8.0,55.0,Colorado,Huerfano County,146,97,CO
+8105,8,105,Colorado,Rio Grande County,8055,8.0,55.0,Colorado,Huerfano County,5,8,CO
+8001,8,1,Colorado,Adams County,8057,8.0,57.0,Colorado,Jackson County,13,19,CO
+8005,8,5,Colorado,Arapahoe County,8057,8.0,57.0,Colorado,Jackson County,10,16,CO
+8049,8,49,Colorado,Grand County,8057,8.0,57.0,Colorado,Jackson County,11,14,CO
+8057,8,57,Colorado,Jackson County,8057,8.0,57.0,Colorado,Jackson County,675,85,CO
+8087,8,87,Colorado,Morgan County,8057,8.0,57.0,Colorado,Jackson County,5,8,CO
+8107,8,107,Colorado,Routt County,8057,8.0,57.0,Colorado,Jackson County,4,6,CO
+8001,8,1,Colorado,Adams County,8059,8.0,59.0,Colorado,Jefferson County,24452,1046,CO
+8005,8,5,Colorado,Arapahoe County,8059,8.0,59.0,Colorado,Jefferson County,14427,812,CO
+8007,8,7,Colorado,Archuleta County,8059,8.0,59.0,Colorado,Jefferson County,10,22,CO
+8013,8,13,Colorado,Boulder County,8059,8.0,59.0,Colorado,Jefferson County,4655,375,CO
+8014,8,14,Colorado,Broomfield County,8059,8.0,59.0,Colorado,Jefferson County,3374,320,CO
+8015,8,15,Colorado,Chaffee County,8059,8.0,59.0,Colorado,Jefferson County,30,36,CO
+8019,8,19,Colorado,Clear Creek County,8059,8.0,59.0,Colorado,Jefferson County,1313,241,CO
+8027,8,27,Colorado,Custer County,8059,8.0,59.0,Colorado,Jefferson County,8,14,CO
+8029,8,29,Colorado,Delta County,8059,8.0,59.0,Colorado,Jefferson County,10,17,CO
+8031,8,31,Colorado,Denver County,8059,8.0,59.0,Colorado,Jefferson County,29746,1339,CO
+8035,8,35,Colorado,Douglas County,8059,8.0,59.0,Colorado,Jefferson County,10061,689,CO
+8037,8,37,Colorado,Eagle County,8059,8.0,59.0,Colorado,Jefferson County,112,124,CO
+8039,8,39,Colorado,Elbert County,8059,8.0,59.0,Colorado,Jefferson County,383,117,CO
+8041,8,41,Colorado,El Paso County,8059,8.0,59.0,Colorado,Jefferson County,663,216,CO
+8043,8,43,Colorado,Fremont County,8059,8.0,59.0,Colorado,Jefferson County,31,35,CO
+8045,8,45,Colorado,Garfield County,8059,8.0,59.0,Colorado,Jefferson County,10,31,CO
+8047,8,47,Colorado,Gilpin County,8059,8.0,59.0,Colorado,Jefferson County,647,195,CO
+8049,8,49,Colorado,Grand County,8059,8.0,59.0,Colorado,Jefferson County,61,68,CO
+8053,8,53,Colorado,Hinsdale County,8059,8.0,59.0,Colorado,Jefferson County,4,6,CO
+8059,8,59,Colorado,Jefferson County,8059,8.0,59.0,Colorado,Jefferson County,140832,2091,CO
+8063,8,63,Colorado,Kit Carson County,8059,8.0,59.0,Colorado,Jefferson County,4,4,CO
+8065,8,65,Colorado,Lake County,8059,8.0,59.0,Colorado,Jefferson County,54,40,CO
+8067,8,67,Colorado,La Plata County,8059,8.0,59.0,Colorado,Jefferson County,10,15,CO
+8069,8,69,Colorado,Larimer County,8059,8.0,59.0,Colorado,Jefferson County,603,166,CO
+8071,8,71,Colorado,Las Animas County,8059,8.0,59.0,Colorado,Jefferson County,8,14,CO
+8073,8,73,Colorado,Lincoln County,8059,8.0,59.0,Colorado,Jefferson County,2,4,CO
+8075,8,75,Colorado,Logan County,8059,8.0,59.0,Colorado,Jefferson County,2,4,CO
+8077,8,77,Colorado,Mesa County,8059,8.0,59.0,Colorado,Jefferson County,50,40,CO
+8079,8,79,Colorado,Mineral County,8059,8.0,59.0,Colorado,Jefferson County,4,8,CO
+8087,8,87,Colorado,Morgan County,8059,8.0,59.0,Colorado,Jefferson County,44,31,CO
+8089,8,89,Colorado,Otero County,8059,8.0,59.0,Colorado,Jefferson County,10,22,CO
+8093,8,93,Colorado,Park County,8059,8.0,59.0,Colorado,Jefferson County,1938,302,CO
+8099,8,99,Colorado,Prowers County,8059,8.0,59.0,Colorado,Jefferson County,4,8,CO
+8101,8,101,Colorado,Pueblo County,8059,8.0,59.0,Colorado,Jefferson County,114,93,CO
+8105,8,105,Colorado,Rio Grande County,8059,8.0,59.0,Colorado,Jefferson County,16,18,CO
+8107,8,107,Colorado,Routt County,8059,8.0,59.0,Colorado,Jefferson County,7,11,CO
+8109,8,109,Colorado,Saguache County,8059,8.0,59.0,Colorado,Jefferson County,5,7,CO
+8115,8,115,Colorado,Sedgwick County,8059,8.0,59.0,Colorado,Jefferson County,10,15,CO
+8117,8,117,Colorado,Summit County,8059,8.0,59.0,Colorado,Jefferson County,26,29,CO
+8119,8,119,Colorado,Teller County,8059,8.0,59.0,Colorado,Jefferson County,8,12,CO
+8123,8,123,Colorado,Weld County,8059,8.0,59.0,Colorado,Jefferson County,2200,281,CO
+8001,8,1,Colorado,Adams County,8061,8.0,61.0,Colorado,Kiowa County,14,16,CO
+8017,8,17,Colorado,Cheyenne County,8061,8.0,61.0,Colorado,Kiowa County,20,15,CO
+8061,8,61,Colorado,Kiowa County,8061,8.0,61.0,Colorado,Kiowa County,588,82,CO
+8063,8,63,Colorado,Kit Carson County,8061,8.0,61.0,Colorado,Kiowa County,9,13,CO
+8099,8,99,Colorado,Prowers County,8061,8.0,61.0,Colorado,Kiowa County,47,54,CO
+8105,8,105,Colorado,Rio Grande County,8061,8.0,61.0,Colorado,Kiowa County,4,8,CO
+8001,8,1,Colorado,Adams County,8063,8.0,63.0,Colorado,Kit Carson County,40,45,CO
+8005,8,5,Colorado,Arapahoe County,8063,8.0,63.0,Colorado,Kit Carson County,8,12,CO
+8013,8,13,Colorado,Boulder County,8063,8.0,63.0,Colorado,Kit Carson County,9,15,CO
+8017,8,17,Colorado,Cheyenne County,8063,8.0,63.0,Colorado,Kit Carson County,13,10,CO
+8039,8,39,Colorado,Elbert County,8063,8.0,63.0,Colorado,Kit Carson County,22,15,CO
+8059,8,59,Colorado,Jefferson County,8063,8.0,63.0,Colorado,Kit Carson County,19,23,CO
+8061,8,61,Colorado,Kiowa County,8063,8.0,63.0,Colorado,Kit Carson County,3,6,CO
+8063,8,63,Colorado,Kit Carson County,8063,8.0,63.0,Colorado,Kit Carson County,3218,311,CO
+8073,8,73,Colorado,Lincoln County,8063,8.0,63.0,Colorado,Kit Carson County,29,16,CO
+8121,8,121,Colorado,Washington County,8063,8.0,63.0,Colorado,Kit Carson County,12,7,CO
+8125,8,125,Colorado,Yuma County,8063,8.0,63.0,Colorado,Kit Carson County,39,22,CO
+8001,8,1,Colorado,Adams County,8065,8.0,65.0,Colorado,Lake County,14,22,CO
+8015,8,15,Colorado,Chaffee County,8065,8.0,65.0,Colorado,Lake County,94,66,CO
+8019,8,19,Colorado,Clear Creek County,8065,8.0,65.0,Colorado,Lake County,3,7,CO
+8021,8,21,Colorado,Conejos County,8065,8.0,65.0,Colorado,Lake County,3,4,CO
+8025,8,25,Colorado,Crowley County,8065,8.0,65.0,Colorado,Lake County,5,7,CO
+8037,8,37,Colorado,Eagle County,8065,8.0,65.0,Colorado,Lake County,14,16,CO
+8043,8,43,Colorado,Fremont County,8065,8.0,65.0,Colorado,Lake County,2,3,CO
+8045,8,45,Colorado,Garfield County,8065,8.0,65.0,Colorado,Lake County,9,14,CO
+8049,8,49,Colorado,Grand County,8065,8.0,65.0,Colorado,Lake County,20,17,CO
+8059,8,59,Colorado,Jefferson County,8065,8.0,65.0,Colorado,Lake County,27,44,CO
+8065,8,65,Colorado,Lake County,8065,8.0,65.0,Colorado,Lake County,2879,335,CO
+8067,8,67,Colorado,La Plata County,8065,8.0,65.0,Colorado,Lake County,3,4,CO
+8117,8,117,Colorado,Summit County,8065,8.0,65.0,Colorado,Lake County,50,49,CO
+8119,8,119,Colorado,Teller County,8065,8.0,65.0,Colorado,Lake County,13,22,CO
+8005,8,5,Colorado,Arapahoe County,8067,8.0,67.0,Colorado,La Plata County,47,44,CO
+8007,8,7,Colorado,Archuleta County,8067,8.0,67.0,Colorado,La Plata County,307,77,CO
+8029,8,29,Colorado,Delta County,8067,8.0,67.0,Colorado,La Plata County,21,21,CO
+8031,8,31,Colorado,Denver County,8067,8.0,67.0,Colorado,La Plata County,19,23,CO
+8035,8,35,Colorado,Douglas County,8067,8.0,67.0,Colorado,La Plata County,13,23,CO
+8039,8,39,Colorado,Elbert County,8067,8.0,67.0,Colorado,La Plata County,35,33,CO
+8051,8,51,Colorado,Gunnison County,8067,8.0,67.0,Colorado,La Plata County,3,4,CO
+8067,8,67,Colorado,La Plata County,8067,8.0,67.0,Colorado,La Plata County,25212,567,CO
+8083,8,83,Colorado,Montezuma County,8067,8.0,67.0,Colorado,La Plata County,913,171,CO
+8101,8,101,Colorado,Pueblo County,8067,8.0,67.0,Colorado,La Plata County,16,21,CO
+8109,8,109,Colorado,Saguache County,8067,8.0,67.0,Colorado,La Plata County,10,15,CO
+8111,8,111,Colorado,San Juan County,8067,8.0,67.0,Colorado,La Plata County,43,23,CO
+8113,8,113,Colorado,San Miguel County,8067,8.0,67.0,Colorado,La Plata County,31,36,CO
+8001,8,1,Colorado,Adams County,8069,8.0,69.0,Colorado,Larimer County,1259,277,CO
+8005,8,5,Colorado,Arapahoe County,8069,8.0,69.0,Colorado,Larimer County,219,97,CO
+8007,8,7,Colorado,Archuleta County,8069,8.0,69.0,Colorado,Larimer County,4,6,CO
+8013,8,13,Colorado,Boulder County,8069,8.0,69.0,Colorado,Larimer County,2376,317,CO
+8014,8,14,Colorado,Broomfield County,8069,8.0,69.0,Colorado,Larimer County,170,94,CO
+8019,8,19,Colorado,Clear Creek County,8069,8.0,69.0,Colorado,Larimer County,4,6,CO
+8025,8,25,Colorado,Crowley County,8069,8.0,69.0,Colorado,Larimer County,13,18,CO
+8029,8,29,Colorado,Delta County,8069,8.0,69.0,Colorado,Larimer County,6,8,CO
+8031,8,31,Colorado,Denver County,8069,8.0,69.0,Colorado,Larimer County,735,191,CO
+8035,8,35,Colorado,Douglas County,8069,8.0,69.0,Colorado,Larimer County,83,50,CO
+8041,8,41,Colorado,El Paso County,8069,8.0,69.0,Colorado,Larimer County,151,69,CO
+8043,8,43,Colorado,Fremont County,8069,8.0,69.0,Colorado,Larimer County,25,29,CO
+8059,8,59,Colorado,Jefferson County,8069,8.0,69.0,Colorado,Larimer County,692,143,CO
+8067,8,67,Colorado,La Plata County,8069,8.0,69.0,Colorado,Larimer County,2,3,CO
+8069,8,69,Colorado,Larimer County,8069,8.0,69.0,Colorado,Larimer County,131908,1616,CO
+8075,8,75,Colorado,Logan County,8069,8.0,69.0,Colorado,Larimer County,27,20,CO
+8077,8,77,Colorado,Mesa County,8069,8.0,69.0,Colorado,Larimer County,53,55,CO
+8087,8,87,Colorado,Morgan County,8069,8.0,69.0,Colorado,Larimer County,47,34,CO
+8093,8,93,Colorado,Park County,8069,8.0,69.0,Colorado,Larimer County,13,22,CO
+8101,8,101,Colorado,Pueblo County,8069,8.0,69.0,Colorado,Larimer County,64,59,CO
+8119,8,119,Colorado,Teller County,8069,8.0,69.0,Colorado,Larimer County,25,38,CO
+8121,8,121,Colorado,Washington County,8069,8.0,69.0,Colorado,Larimer County,6,8,CO
+8123,8,123,Colorado,Weld County,8069,8.0,69.0,Colorado,Larimer County,14154,777,CO
+8009,8,9,Colorado,Baca County,8071,8.0,71.0,Colorado,Las Animas County,2,5,CO
+8011,8,11,Colorado,Bent County,8071,8.0,71.0,Colorado,Las Animas County,8,13,CO
+8025,8,25,Colorado,Crowley County,8071,8.0,71.0,Colorado,Las Animas County,5,8,CO
+8027,8,27,Colorado,Custer County,8071,8.0,71.0,Colorado,Las Animas County,11,16,CO
+8029,8,29,Colorado,Delta County,8071,8.0,71.0,Colorado,Las Animas County,3,6,CO
+8039,8,39,Colorado,Elbert County,8071,8.0,71.0,Colorado,Las Animas County,14,17,CO
+8041,8,41,Colorado,El Paso County,8071,8.0,71.0,Colorado,Las Animas County,80,62,CO
+8043,8,43,Colorado,Fremont County,8071,8.0,71.0,Colorado,Las Animas County,6,12,CO
+8055,8,55,Colorado,Huerfano County,8071,8.0,71.0,Colorado,Las Animas County,200,122,CO
+8061,8,61,Colorado,Kiowa County,8071,8.0,71.0,Colorado,Las Animas County,2,3,CO
+8069,8,69,Colorado,Larimer County,8071,8.0,71.0,Colorado,Las Animas County,10,19,CO
+8071,8,71,Colorado,Las Animas County,8071,8.0,71.0,Colorado,Las Animas County,5288,411,CO
+8089,8,89,Colorado,Otero County,8071,8.0,71.0,Colorado,Las Animas County,9,12,CO
+8101,8,101,Colorado,Pueblo County,8071,8.0,71.0,Colorado,Las Animas County,131,85,CO
+8109,8,109,Colorado,Saguache County,8071,8.0,71.0,Colorado,Las Animas County,6,10,CO
+8123,8,123,Colorado,Weld County,8071,8.0,71.0,Colorado,Las Animas County,23,24,CO
+8001,8,1,Colorado,Adams County,8073,8.0,73.0,Colorado,Lincoln County,9,10,CO
+8005,8,5,Colorado,Arapahoe County,8073,8.0,73.0,Colorado,Lincoln County,86,48,CO
+8013,8,13,Colorado,Boulder County,8073,8.0,73.0,Colorado,Lincoln County,28,45,CO
+8014,8,14,Colorado,Broomfield County,8073,8.0,73.0,Colorado,Lincoln County,13,21,CO
+8017,8,17,Colorado,Cheyenne County,8073,8.0,73.0,Colorado,Lincoln County,8,7,CO
+8031,8,31,Colorado,Denver County,8073,8.0,73.0,Colorado,Lincoln County,112,93,CO
+8035,8,35,Colorado,Douglas County,8073,8.0,73.0,Colorado,Lincoln County,21,22,CO
+8039,8,39,Colorado,Elbert County,8073,8.0,73.0,Colorado,Lincoln County,201,83,CO
+8041,8,41,Colorado,El Paso County,8073,8.0,73.0,Colorado,Lincoln County,194,92,CO
+8043,8,43,Colorado,Fremont County,8073,8.0,73.0,Colorado,Lincoln County,10,13,CO
+8059,8,59,Colorado,Jefferson County,8073,8.0,73.0,Colorado,Lincoln County,9,14,CO
+8061,8,61,Colorado,Kiowa County,8073,8.0,73.0,Colorado,Lincoln County,12,10,CO
+8063,8,63,Colorado,Kit Carson County,8073,8.0,73.0,Colorado,Lincoln County,43,22,CO
+8065,8,65,Colorado,Lake County,8073,8.0,73.0,Colorado,Lincoln County,57,61,CO
+8073,8,73,Colorado,Lincoln County,8073,8.0,73.0,Colorado,Lincoln County,1304,231,CO
+8075,8,75,Colorado,Logan County,8073,8.0,73.0,Colorado,Lincoln County,16,24,CO
+8089,8,89,Colorado,Otero County,8073,8.0,73.0,Colorado,Lincoln County,8,13,CO
+8101,8,101,Colorado,Pueblo County,8073,8.0,73.0,Colorado,Lincoln County,2,4,CO
+8121,8,121,Colorado,Washington County,8073,8.0,73.0,Colorado,Lincoln County,1,3,CO
+8123,8,123,Colorado,Weld County,8073,8.0,73.0,Colorado,Lincoln County,52,60,CO
+8001,8,1,Colorado,Adams County,8075,8.0,75.0,Colorado,Logan County,5,8,CO
+8005,8,5,Colorado,Arapahoe County,8075,8.0,75.0,Colorado,Logan County,8,13,CO
+8031,8,31,Colorado,Denver County,8075,8.0,75.0,Colorado,Logan County,14,22,CO
+8039,8,39,Colorado,Elbert County,8075,8.0,75.0,Colorado,Logan County,2,8,CO
+8069,8,69,Colorado,Larimer County,8075,8.0,75.0,Colorado,Logan County,74,84,CO
+8073,8,73,Colorado,Lincoln County,8075,8.0,75.0,Colorado,Logan County,2,4,CO
+8075,8,75,Colorado,Logan County,8075,8.0,75.0,Colorado,Logan County,8896,469,CO
+8077,8,77,Colorado,Mesa County,8075,8.0,75.0,Colorado,Logan County,10,18,CO
+8087,8,87,Colorado,Morgan County,8075,8.0,75.0,Colorado,Logan County,295,117,CO
+8089,8,89,Colorado,Otero County,8075,8.0,75.0,Colorado,Logan County,3,5,CO
+8095,8,95,Colorado,Phillips County,8075,8.0,75.0,Colorado,Logan County,125,35,CO
+8115,8,115,Colorado,Sedgwick County,8075,8.0,75.0,Colorado,Logan County,40,17,CO
+8121,8,121,Colorado,Washington County,8075,8.0,75.0,Colorado,Logan County,159,50,CO
+8123,8,123,Colorado,Weld County,8075,8.0,75.0,Colorado,Logan County,58,28,CO
+8125,8,125,Colorado,Yuma County,8075,8.0,75.0,Colorado,Logan County,39,40,CO
+8001,8,1,Colorado,Adams County,8077,8.0,77.0,Colorado,Mesa County,9,19,CO
+8005,8,5,Colorado,Arapahoe County,8077,8.0,77.0,Colorado,Mesa County,93,63,CO
+8013,8,13,Colorado,Boulder County,8077,8.0,77.0,Colorado,Mesa County,22,24,CO
+8029,8,29,Colorado,Delta County,8077,8.0,77.0,Colorado,Mesa County,568,125,CO
+8031,8,31,Colorado,Denver County,8077,8.0,77.0,Colorado,Mesa County,13,15,CO
+8035,8,35,Colorado,Douglas County,8077,8.0,77.0,Colorado,Mesa County,30,29,CO
+8037,8,37,Colorado,Eagle County,8077,8.0,77.0,Colorado,Mesa County,94,106,CO
+8041,8,41,Colorado,El Paso County,8077,8.0,77.0,Colorado,Mesa County,5,8,CO
+8045,8,45,Colorado,Garfield County,8077,8.0,77.0,Colorado,Mesa County,461,165,CO
+8059,8,59,Colorado,Jefferson County,8077,8.0,77.0,Colorado,Mesa County,15,18,CO
+8067,8,67,Colorado,La Plata County,8077,8.0,77.0,Colorado,Mesa County,51,65,CO
+8069,8,69,Colorado,Larimer County,8077,8.0,77.0,Colorado,Mesa County,32,36,CO
+8075,8,75,Colorado,Logan County,8077,8.0,77.0,Colorado,Mesa County,1,2,CO
+8077,8,77,Colorado,Mesa County,8077,8.0,77.0,Colorado,Mesa County,62207,1345,CO
+8085,8,85,Colorado,Montrose County,8077,8.0,77.0,Colorado,Mesa County,223,84,CO
+8091,8,91,Colorado,Ouray County,8077,8.0,77.0,Colorado,Mesa County,2,4,CO
+8097,8,97,Colorado,Pitkin County,8077,8.0,77.0,Colorado,Mesa County,12,19,CO
+8103,8,103,Colorado,Rio Blanco County,8077,8.0,77.0,Colorado,Mesa County,12,16,CO
+8119,8,119,Colorado,Teller County,8077,8.0,77.0,Colorado,Mesa County,34,42,CO
+8123,8,123,Colorado,Weld County,8077,8.0,77.0,Colorado,Mesa County,38,43,CO
+8079,8,79,Colorado,Mineral County,8079,8.0,79.0,Colorado,Mineral County,240,52,CO
+8105,8,105,Colorado,Rio Grande County,8079,8.0,79.0,Colorado,Mineral County,36,25,CO
+8005,8,5,Colorado,Arapahoe County,8081,8.0,81.0,Colorado,Moffat County,26,30,CO
+8029,8,29,Colorado,Delta County,8081,8.0,81.0,Colorado,Moffat County,5,8,CO
+8043,8,43,Colorado,Fremont County,8081,8.0,81.0,Colorado,Moffat County,17,24,CO
+8045,8,45,Colorado,Garfield County,8081,8.0,81.0,Colorado,Moffat County,62,76,CO
+8049,8,49,Colorado,Grand County,8081,8.0,81.0,Colorado,Moffat County,27,32,CO
+8059,8,59,Colorado,Jefferson County,8081,8.0,81.0,Colorado,Moffat County,31,23,CO
+8077,8,77,Colorado,Mesa County,8081,8.0,81.0,Colorado,Moffat County,62,48,CO
+8081,8,81,Colorado,Moffat County,8081,8.0,81.0,Colorado,Moffat County,4830,293,CO
+8103,8,103,Colorado,Rio Blanco County,8081,8.0,81.0,Colorado,Moffat County,71,36,CO
+8107,8,107,Colorado,Routt County,8081,8.0,81.0,Colorado,Moffat County,257,80,CO
+8007,8,7,Colorado,Archuleta County,8083,8.0,83.0,Colorado,Montezuma County,53,73,CO
+8033,8,33,Colorado,Dolores County,8083,8.0,83.0,Colorado,Montezuma County,146,59,CO
+8043,8,43,Colorado,Fremont County,8083,8.0,83.0,Colorado,Montezuma County,1,3,CO
+8067,8,67,Colorado,La Plata County,8083,8.0,83.0,Colorado,Montezuma County,122,65,CO
+8077,8,77,Colorado,Mesa County,8083,8.0,83.0,Colorado,Montezuma County,43,42,CO
+8083,8,83,Colorado,Montezuma County,8083,8.0,83.0,Colorado,Montezuma County,9171,434,CO
+8085,8,85,Colorado,Montrose County,8083,8.0,83.0,Colorado,Montezuma County,2,3,CO
+8001,8,1,Colorado,Adams County,8085,8.0,85.0,Colorado,Montrose County,3,7,CO
+8029,8,29,Colorado,Delta County,8085,8.0,85.0,Colorado,Montrose County,905,199,CO
+8031,8,31,Colorado,Denver County,8085,8.0,85.0,Colorado,Montrose County,6,8,CO
+8041,8,41,Colorado,El Paso County,8085,8.0,85.0,Colorado,Montrose County,18,29,CO
+8051,8,51,Colorado,Gunnison County,8085,8.0,85.0,Colorado,Montrose County,7,8,CO
+8059,8,59,Colorado,Jefferson County,8085,8.0,85.0,Colorado,Montrose County,23,24,CO
+8077,8,77,Colorado,Mesa County,8085,8.0,85.0,Colorado,Montrose County,183,82,CO
+8085,8,85,Colorado,Montrose County,8085,8.0,85.0,Colorado,Montrose County,13623,528,CO
+8091,8,91,Colorado,Ouray County,8085,8.0,85.0,Colorado,Montrose County,317,137,CO
+8113,8,113,Colorado,San Miguel County,8085,8.0,85.0,Colorado,Montrose County,130,61,CO
+8001,8,1,Colorado,Adams County,8087,8.0,87.0,Colorado,Morgan County,167,98,CO
+8005,8,5,Colorado,Arapahoe County,8087,8.0,87.0,Colorado,Morgan County,56,58,CO
+8031,8,31,Colorado,Denver County,8087,8.0,87.0,Colorado,Morgan County,89,66,CO
+8035,8,35,Colorado,Douglas County,8087,8.0,87.0,Colorado,Morgan County,22,25,CO
+8041,8,41,Colorado,El Paso County,8087,8.0,87.0,Colorado,Morgan County,13,22,CO
+8059,8,59,Colorado,Jefferson County,8087,8.0,87.0,Colorado,Morgan County,62,47,CO
+8069,8,69,Colorado,Larimer County,8087,8.0,87.0,Colorado,Morgan County,46,33,CO
+8071,8,71,Colorado,Las Animas County,8087,8.0,87.0,Colorado,Morgan County,9,15,CO
+8073,8,73,Colorado,Lincoln County,8087,8.0,87.0,Colorado,Morgan County,1,2,CO
+8075,8,75,Colorado,Logan County,8087,8.0,87.0,Colorado,Morgan County,250,136,CO
+8087,8,87,Colorado,Morgan County,8087,8.0,87.0,Colorado,Morgan County,11731,468,CO
+8095,8,95,Colorado,Phillips County,8087,8.0,87.0,Colorado,Morgan County,9,9,CO
+8099,8,99,Colorado,Prowers County,8087,8.0,87.0,Colorado,Morgan County,4,6,CO
+8115,8,115,Colorado,Sedgwick County,8087,8.0,87.0,Colorado,Morgan County,10,9,CO
+8121,8,121,Colorado,Washington County,8087,8.0,87.0,Colorado,Morgan County,136,33,CO
+8123,8,123,Colorado,Weld County,8087,8.0,87.0,Colorado,Morgan County,211,110,CO
+8125,8,125,Colorado,Yuma County,8087,8.0,87.0,Colorado,Morgan County,1,4,CO
+8009,8,9,Colorado,Baca County,8089,8.0,89.0,Colorado,Otero County,6,8,CO
+8011,8,11,Colorado,Bent County,8089,8.0,89.0,Colorado,Otero County,79,42,CO
+8025,8,25,Colorado,Crowley County,8089,8.0,89.0,Colorado,Otero County,401,129,CO
+8041,8,41,Colorado,El Paso County,8089,8.0,89.0,Colorado,Otero County,24,25,CO
+8055,8,55,Colorado,Huerfano County,8089,8.0,89.0,Colorado,Otero County,22,23,CO
+8059,8,59,Colorado,Jefferson County,8089,8.0,89.0,Colorado,Otero County,10,18,CO
+8061,8,61,Colorado,Kiowa County,8089,8.0,89.0,Colorado,Otero County,8,7,CO
+8071,8,71,Colorado,Las Animas County,8089,8.0,89.0,Colorado,Otero County,27,15,CO
+8073,8,73,Colorado,Lincoln County,8089,8.0,89.0,Colorado,Otero County,9,12,CO
+8089,8,89,Colorado,Otero County,8089,8.0,89.0,Colorado,Otero County,5967,420,CO
+8099,8,99,Colorado,Prowers County,8089,8.0,89.0,Colorado,Otero County,56,51,CO
+8101,8,101,Colorado,Pueblo County,8089,8.0,89.0,Colorado,Otero County,333,159,CO
+8119,8,119,Colorado,Teller County,8089,8.0,89.0,Colorado,Otero County,8,12,CO
+8123,8,123,Colorado,Weld County,8089,8.0,89.0,Colorado,Otero County,7,13,CO
+8035,8,35,Colorado,Douglas County,8091,8.0,91.0,Colorado,Ouray County,18,29,CO
+8045,8,45,Colorado,Garfield County,8091,8.0,91.0,Colorado,Ouray County,12,19,CO
+8067,8,67,Colorado,La Plata County,8091,8.0,91.0,Colorado,Ouray County,20,32,CO
+8077,8,77,Colorado,Mesa County,8091,8.0,91.0,Colorado,Ouray County,6,10,CO
+8085,8,85,Colorado,Montrose County,8091,8.0,91.0,Colorado,Ouray County,615,231,CO
+8089,8,89,Colorado,Otero County,8091,8.0,91.0,Colorado,Ouray County,1,4,CO
+8091,8,91,Colorado,Ouray County,8091,8.0,91.0,Colorado,Ouray County,1515,135,CO
+8111,8,111,Colorado,San Juan County,8091,8.0,91.0,Colorado,Ouray County,12,13,CO
+8113,8,113,Colorado,San Miguel County,8091,8.0,91.0,Colorado,Ouray County,23,23,CO
+8001,8,1,Colorado,Adams County,8093,8.0,93.0,Colorado,Park County,69,75,CO
+8015,8,15,Colorado,Chaffee County,8093,8.0,93.0,Colorado,Park County,51,40,CO
+8019,8,19,Colorado,Clear Creek County,8093,8.0,93.0,Colorado,Park County,4,6,CO
+8031,8,31,Colorado,Denver County,8093,8.0,93.0,Colorado,Park County,28,41,CO
+8035,8,35,Colorado,Douglas County,8093,8.0,93.0,Colorado,Park County,49,65,CO
+8043,8,43,Colorado,Fremont County,8093,8.0,93.0,Colorado,Park County,10,16,CO
+8059,8,59,Colorado,Jefferson County,8093,8.0,93.0,Colorado,Park County,175,76,CO
+8065,8,65,Colorado,Lake County,8093,8.0,93.0,Colorado,Park County,104,74,CO
+8093,8,93,Colorado,Park County,8093,8.0,93.0,Colorado,Park County,3117,365,CO
+8101,8,101,Colorado,Pueblo County,8093,8.0,93.0,Colorado,Park County,37,57,CO
+8117,8,117,Colorado,Summit County,8093,8.0,93.0,Colorado,Park County,100,128,CO
+8119,8,119,Colorado,Teller County,8093,8.0,93.0,Colorado,Park County,157,103,CO
+8001,8,1,Colorado,Adams County,8095,8.0,95.0,Colorado,Phillips County,35,56,CO
+8013,8,13,Colorado,Boulder County,8095,8.0,95.0,Colorado,Phillips County,6,9,CO
+8069,8,69,Colorado,Larimer County,8095,8.0,95.0,Colorado,Phillips County,31,51,CO
+8075,8,75,Colorado,Logan County,8095,8.0,95.0,Colorado,Phillips County,213,81,CO
+8077,8,77,Colorado,Mesa County,8095,8.0,95.0,Colorado,Phillips County,46,70,CO
+8095,8,95,Colorado,Phillips County,8095,8.0,95.0,Colorado,Phillips County,1709,159,CO
+8115,8,115,Colorado,Sedgwick County,8095,8.0,95.0,Colorado,Phillips County,54,23,CO
+8121,8,121,Colorado,Washington County,8095,8.0,95.0,Colorado,Phillips County,23,26,CO
+8125,8,125,Colorado,Yuma County,8095,8.0,95.0,Colorado,Phillips County,17,13,CO
+8005,8,5,Colorado,Arapahoe County,8097,8.0,97.0,Colorado,Pitkin County,117,71,CO
+8009,8,9,Colorado,Baca County,8097,8.0,97.0,Colorado,Pitkin County,8,10,CO
+8013,8,13,Colorado,Boulder County,8097,8.0,97.0,Colorado,Pitkin County,21,30,CO
+8029,8,29,Colorado,Delta County,8097,8.0,97.0,Colorado,Pitkin County,109,74,CO
+8037,8,37,Colorado,Eagle County,8097,8.0,97.0,Colorado,Pitkin County,3219,558,CO
+8039,8,39,Colorado,Elbert County,8097,8.0,97.0,Colorado,Pitkin County,18,30,CO
+8041,8,41,Colorado,El Paso County,8097,8.0,97.0,Colorado,Pitkin County,8,13,CO
+8045,8,45,Colorado,Garfield County,8097,8.0,97.0,Colorado,Pitkin County,4201,534,CO
+8051,8,51,Colorado,Gunnison County,8097,8.0,97.0,Colorado,Pitkin County,42,25,CO
+8059,8,59,Colorado,Jefferson County,8097,8.0,97.0,Colorado,Pitkin County,8,13,CO
+8067,8,67,Colorado,La Plata County,8097,8.0,97.0,Colorado,Pitkin County,9,16,CO
+8069,8,69,Colorado,Larimer County,8097,8.0,97.0,Colorado,Pitkin County,20,26,CO
+8071,8,71,Colorado,Las Animas County,8097,8.0,97.0,Colorado,Pitkin County,6,9,CO
+8077,8,77,Colorado,Mesa County,8097,8.0,97.0,Colorado,Pitkin County,33,29,CO
+8085,8,85,Colorado,Montrose County,8097,8.0,97.0,Colorado,Pitkin County,6,10,CO
+8087,8,87,Colorado,Morgan County,8097,8.0,97.0,Colorado,Pitkin County,5,7,CO
+8097,8,97,Colorado,Pitkin County,8097,8.0,97.0,Colorado,Pitkin County,8594,484,CO
+8101,8,101,Colorado,Pueblo County,8097,8.0,97.0,Colorado,Pitkin County,12,20,CO
+8107,8,107,Colorado,Routt County,8097,8.0,97.0,Colorado,Pitkin County,6,9,CO
+8109,8,109,Colorado,Saguache County,8097,8.0,97.0,Colorado,Pitkin County,9,12,CO
+8009,8,9,Colorado,Baca County,8099,8.0,99.0,Colorado,Prowers County,36,26,CO
+8011,8,11,Colorado,Bent County,8099,8.0,99.0,Colorado,Prowers County,126,66,CO
+8017,8,17,Colorado,Cheyenne County,8099,8.0,99.0,Colorado,Prowers County,6,9,CO
+8025,8,25,Colorado,Crowley County,8099,8.0,99.0,Colorado,Prowers County,10,10,CO
+8031,8,31,Colorado,Denver County,8099,8.0,99.0,Colorado,Prowers County,28,43,CO
+8035,8,35,Colorado,Douglas County,8099,8.0,99.0,Colorado,Prowers County,9,15,CO
+8041,8,41,Colorado,El Paso County,8099,8.0,99.0,Colorado,Prowers County,36,39,CO
+8061,8,61,Colorado,Kiowa County,8099,8.0,99.0,Colorado,Prowers County,51,26,CO
+8063,8,63,Colorado,Kit Carson County,8099,8.0,99.0,Colorado,Prowers County,11,14,CO
+8089,8,89,Colorado,Otero County,8099,8.0,99.0,Colorado,Prowers County,11,15,CO
+8099,8,99,Colorado,Prowers County,8099,8.0,99.0,Colorado,Prowers County,5007,307,CO
+8101,8,101,Colorado,Pueblo County,8099,8.0,99.0,Colorado,Prowers County,16,13,CO
+8001,8,1,Colorado,Adams County,8101,8.0,101.0,Colorado,Pueblo County,213,278,CO
+8003,8,3,Colorado,Alamosa County,8101,8.0,101.0,Colorado,Pueblo County,12,16,CO
+8005,8,5,Colorado,Arapahoe County,8101,8.0,101.0,Colorado,Pueblo County,105,72,CO
+8009,8,9,Colorado,Baca County,8101,8.0,101.0,Colorado,Pueblo County,7,10,CO
+8011,8,11,Colorado,Bent County,8101,8.0,101.0,Colorado,Pueblo County,15,18,CO
+8013,8,13,Colorado,Boulder County,8101,8.0,101.0,Colorado,Pueblo County,11,16,CO
+8021,8,21,Colorado,Conejos County,8101,8.0,101.0,Colorado,Pueblo County,4,7,CO
+8025,8,25,Colorado,Crowley County,8101,8.0,101.0,Colorado,Pueblo County,104,54,CO
+8027,8,27,Colorado,Custer County,8101,8.0,101.0,Colorado,Pueblo County,22,26,CO
+8031,8,31,Colorado,Denver County,8101,8.0,101.0,Colorado,Pueblo County,5,8,CO
+8035,8,35,Colorado,Douglas County,8101,8.0,101.0,Colorado,Pueblo County,153,112,CO
+8039,8,39,Colorado,Elbert County,8101,8.0,101.0,Colorado,Pueblo County,11,17,CO
+8041,8,41,Colorado,El Paso County,8101,8.0,101.0,Colorado,Pueblo County,2502,335,CO
+8043,8,43,Colorado,Fremont County,8101,8.0,101.0,Colorado,Pueblo County,789,181,CO
+8055,8,55,Colorado,Huerfano County,8101,8.0,101.0,Colorado,Pueblo County,168,92,CO
+8059,8,59,Colorado,Jefferson County,8101,8.0,101.0,Colorado,Pueblo County,72,70,CO
+8061,8,61,Colorado,Kiowa County,8101,8.0,101.0,Colorado,Pueblo County,1,2,CO
+8069,8,69,Colorado,Larimer County,8101,8.0,101.0,Colorado,Pueblo County,15,17,CO
+8071,8,71,Colorado,Las Animas County,8101,8.0,101.0,Colorado,Pueblo County,24,20,CO
+8079,8,79,Colorado,Mineral County,8101,8.0,101.0,Colorado,Pueblo County,2,3,CO
+8089,8,89,Colorado,Otero County,8101,8.0,101.0,Colorado,Pueblo County,365,110,CO
+8099,8,99,Colorado,Prowers County,8101,8.0,101.0,Colorado,Pueblo County,48,34,CO
+8101,8,101,Colorado,Pueblo County,8101,8.0,101.0,Colorado,Pueblo County,57319,1160,CO
+8119,8,119,Colorado,Teller County,8101,8.0,101.0,Colorado,Pueblo County,141,100,CO
+8045,8,45,Colorado,Garfield County,8103,8.0,103.0,Colorado,Rio Blanco County,83,63,CO
+8051,8,51,Colorado,Gunnison County,8103,8.0,103.0,Colorado,Rio Blanco County,5,9,CO
+8071,8,71,Colorado,Las Animas County,8103,8.0,103.0,Colorado,Rio Blanco County,7,11,CO
+8077,8,77,Colorado,Mesa County,8103,8.0,103.0,Colorado,Rio Blanco County,189,114,CO
+8081,8,81,Colorado,Moffat County,8103,8.0,103.0,Colorado,Rio Blanco County,113,44,CO
+8085,8,85,Colorado,Montrose County,8103,8.0,103.0,Colorado,Rio Blanco County,17,27,CO
+8091,8,91,Colorado,Ouray County,8103,8.0,103.0,Colorado,Rio Blanco County,10,16,CO
+8103,8,103,Colorado,Rio Blanco County,8103,8.0,103.0,Colorado,Rio Blanco County,3015,174,CO
+8003,8,3,Colorado,Alamosa County,8105,8.0,105.0,Colorado,Rio Grande County,338,112,CO
+8021,8,21,Colorado,Conejos County,8105,8.0,105.0,Colorado,Rio Grande County,88,43,CO
+8023,8,23,Colorado,Costilla County,8105,8.0,105.0,Colorado,Rio Grande County,5,8,CO
+8049,8,49,Colorado,Grand County,8105,8.0,105.0,Colorado,Rio Grande County,3,5,CO
+8051,8,51,Colorado,Gunnison County,8105,8.0,105.0,Colorado,Rio Grande County,11,18,CO
+8053,8,53,Colorado,Hinsdale County,8105,8.0,105.0,Colorado,Rio Grande County,2,3,CO
+8067,8,67,Colorado,La Plata County,8105,8.0,105.0,Colorado,Rio Grande County,4,5,CO
+8079,8,79,Colorado,Mineral County,8105,8.0,105.0,Colorado,Rio Grande County,10,7,CO
+8091,8,91,Colorado,Ouray County,8105,8.0,105.0,Colorado,Rio Grande County,2,5,CO
+8105,8,105,Colorado,Rio Grande County,8105,8.0,105.0,Colorado,Rio Grande County,3325,274,CO
+8109,8,109,Colorado,Saguache County,8105,8.0,105.0,Colorado,Rio Grande County,337,88,CO
+8001,8,1,Colorado,Adams County,8107,8.0,107.0,Colorado,Routt County,35,29,CO
+8013,8,13,Colorado,Boulder County,8107,8.0,107.0,Colorado,Routt County,10,16,CO
+8019,8,19,Colorado,Clear Creek County,8107,8.0,107.0,Colorado,Routt County,9,14,CO
+8025,8,25,Colorado,Crowley County,8107,8.0,107.0,Colorado,Routt County,2,4,CO
+8029,8,29,Colorado,Delta County,8107,8.0,107.0,Colorado,Routt County,28,30,CO
+8031,8,31,Colorado,Denver County,8107,8.0,107.0,Colorado,Routt County,32,33,CO
+8037,8,37,Colorado,Eagle County,8107,8.0,107.0,Colorado,Routt County,6,9,CO
+8045,8,45,Colorado,Garfield County,8107,8.0,107.0,Colorado,Routt County,10,16,CO
+8049,8,49,Colorado,Grand County,8107,8.0,107.0,Colorado,Routt County,59,78,CO
+8057,8,57,Colorado,Jackson County,8107,8.0,107.0,Colorado,Routt County,48,28,CO
+8059,8,59,Colorado,Jefferson County,8107,8.0,107.0,Colorado,Routt County,39,43,CO
+8069,8,69,Colorado,Larimer County,8107,8.0,107.0,Colorado,Routt County,9,14,CO
+8077,8,77,Colorado,Mesa County,8107,8.0,107.0,Colorado,Routt County,32,32,CO
+8081,8,81,Colorado,Moffat County,8107,8.0,107.0,Colorado,Routt County,1070,243,CO
+8107,8,107,Colorado,Routt County,8107,8.0,107.0,Colorado,Routt County,13129,379,CO
+8003,8,3,Colorado,Alamosa County,8109,8.0,109.0,Colorado,Saguache County,89,66,CO
+8015,8,15,Colorado,Chaffee County,8109,8.0,109.0,Colorado,Saguache County,2,3,CO
+8021,8,21,Colorado,Conejos County,8109,8.0,109.0,Colorado,Saguache County,21,20,CO
+8029,8,29,Colorado,Delta County,8109,8.0,109.0,Colorado,Saguache County,18,23,CO
+8079,8,79,Colorado,Mineral County,8109,8.0,109.0,Colorado,Saguache County,5,7,CO
+8105,8,105,Colorado,Rio Grande County,8109,8.0,109.0,Colorado,Saguache County,376,136,CO
+8109,8,109,Colorado,Saguache County,8109,8.0,109.0,Colorado,Saguache County,1649,177,CO
+8031,8,31,Colorado,Denver County,8111,8.0,111.0,Colorado,San Juan County,20,30,CO
+8059,8,59,Colorado,Jefferson County,8111,8.0,111.0,Colorado,San Juan County,13,20,CO
+8083,8,83,Colorado,Montezuma County,8111,8.0,111.0,Colorado,San Juan County,9,13,CO
+8111,8,111,Colorado,San Juan County,8111,8.0,111.0,Colorado,San Juan County,257,58,CO
+8001,8,1,Colorado,Adams County,8113,8.0,113.0,Colorado,San Miguel County,8,14,CO
+8031,8,31,Colorado,Denver County,8113,8.0,113.0,Colorado,San Miguel County,8,12,CO
+8033,8,33,Colorado,Dolores County,8113,8.0,113.0,Colorado,San Miguel County,90,38,CO
+8077,8,77,Colorado,Mesa County,8113,8.0,113.0,Colorado,San Miguel County,9,11,CO
+8083,8,83,Colorado,Montezuma County,8113,8.0,113.0,Colorado,San Miguel County,38,43,CO
+8085,8,85,Colorado,Montrose County,8113,8.0,113.0,Colorado,San Miguel County,567,155,CO
+8091,8,91,Colorado,Ouray County,8113,8.0,113.0,Colorado,San Miguel County,234,72,CO
+8113,8,113,Colorado,San Miguel County,8113,8.0,113.0,Colorado,San Miguel County,4054,230,CO
+8001,8,1,Colorado,Adams County,8115,8.0,115.0,Colorado,Sedgwick County,40,45,CO
+8069,8,69,Colorado,Larimer County,8115,8.0,115.0,Colorado,Sedgwick County,6,8,CO
+8075,8,75,Colorado,Logan County,8115,8.0,115.0,Colorado,Sedgwick County,11,14,CO
+8095,8,95,Colorado,Phillips County,8115,8.0,115.0,Colorado,Sedgwick County,41,33,CO
+8115,8,115,Colorado,Sedgwick County,8115,8.0,115.0,Colorado,Sedgwick County,720,64,CO
+8125,8,125,Colorado,Yuma County,8115,8.0,115.0,Colorado,Sedgwick County,7,12,CO
+8001,8,1,Colorado,Adams County,8117,8.0,117.0,Colorado,Summit County,30,28,CO
+8003,8,3,Colorado,Alamosa County,8117,8.0,117.0,Colorado,Summit County,17,22,CO
+8005,8,5,Colorado,Arapahoe County,8117,8.0,117.0,Colorado,Summit County,47,39,CO
+8007,8,7,Colorado,Archuleta County,8117,8.0,117.0,Colorado,Summit County,2,4,CO
+8013,8,13,Colorado,Boulder County,8117,8.0,117.0,Colorado,Summit County,169,120,CO
+8015,8,15,Colorado,Chaffee County,8117,8.0,117.0,Colorado,Summit County,104,72,CO
+8019,8,19,Colorado,Clear Creek County,8117,8.0,117.0,Colorado,Summit County,115,63,CO
+8025,8,25,Colorado,Crowley County,8117,8.0,117.0,Colorado,Summit County,13,22,CO
+8031,8,31,Colorado,Denver County,8117,8.0,117.0,Colorado,Summit County,182,93,CO
+8035,8,35,Colorado,Douglas County,8117,8.0,117.0,Colorado,Summit County,55,50,CO
+8037,8,37,Colorado,Eagle County,8117,8.0,117.0,Colorado,Summit County,34,31,CO
+8041,8,41,Colorado,El Paso County,8117,8.0,117.0,Colorado,Summit County,42,40,CO
+8043,8,43,Colorado,Fremont County,8117,8.0,117.0,Colorado,Summit County,18,26,CO
+8045,8,45,Colorado,Garfield County,8117,8.0,117.0,Colorado,Summit County,23,27,CO
+8047,8,47,Colorado,Gilpin County,8117,8.0,117.0,Colorado,Summit County,23,29,CO
+8049,8,49,Colorado,Grand County,8117,8.0,117.0,Colorado,Summit County,312,122,CO
+8059,8,59,Colorado,Jefferson County,8117,8.0,117.0,Colorado,Summit County,317,142,CO
+8065,8,65,Colorado,Lake County,8117,8.0,117.0,Colorado,Summit County,385,171,CO
+8069,8,69,Colorado,Larimer County,8117,8.0,117.0,Colorado,Summit County,66,62,CO
+8073,8,73,Colorado,Lincoln County,8117,8.0,117.0,Colorado,Summit County,2,3,CO
+8077,8,77,Colorado,Mesa County,8117,8.0,117.0,Colorado,Summit County,14,21,CO
+8085,8,85,Colorado,Montrose County,8117,8.0,117.0,Colorado,Summit County,39,59,CO
+8093,8,93,Colorado,Park County,8117,8.0,117.0,Colorado,Summit County,984,194,CO
+8117,8,117,Colorado,Summit County,8117,8.0,117.0,Colorado,Summit County,16462,832,CO
+8119,8,119,Colorado,Teller County,8117,8.0,117.0,Colorado,Summit County,23,35,CO
+8123,8,123,Colorado,Weld County,8117,8.0,117.0,Colorado,Summit County,6,9,CO
+8005,8,5,Colorado,Arapahoe County,8119,8.0,119.0,Colorado,Teller County,36,44,CO
+8035,8,35,Colorado,Douglas County,8119,8.0,119.0,Colorado,Teller County,72,37,CO
+8041,8,41,Colorado,El Paso County,8119,8.0,119.0,Colorado,Teller County,1219,249,CO
+8043,8,43,Colorado,Fremont County,8119,8.0,119.0,Colorado,Teller County,205,120,CO
+8055,8,55,Colorado,Huerfano County,8119,8.0,119.0,Colorado,Teller County,7,11,CO
+8059,8,59,Colorado,Jefferson County,8119,8.0,119.0,Colorado,Teller County,30,27,CO
+8093,8,93,Colorado,Park County,8119,8.0,119.0,Colorado,Teller County,309,118,CO
+8101,8,101,Colorado,Pueblo County,8119,8.0,119.0,Colorado,Teller County,51,35,CO
+8119,8,119,Colorado,Teller County,8119,8.0,119.0,Colorado,Teller County,6709,432,CO
+8005,8,5,Colorado,Arapahoe County,8121,8.0,121.0,Colorado,Washington County,10,15,CO
+8055,8,55,Colorado,Huerfano County,8121,8.0,121.0,Colorado,Washington County,36,33,CO
+8059,8,59,Colorado,Jefferson County,8121,8.0,121.0,Colorado,Washington County,18,19,CO
+8063,8,63,Colorado,Kit Carson County,8121,8.0,121.0,Colorado,Washington County,1,2,CO
+8075,8,75,Colorado,Logan County,8121,8.0,121.0,Colorado,Washington County,5,5,CO
+8087,8,87,Colorado,Morgan County,8121,8.0,121.0,Colorado,Washington County,39,43,CO
+8115,8,115,Colorado,Sedgwick County,8121,8.0,121.0,Colorado,Washington County,2,4,CO
+8121,8,121,Colorado,Washington County,8121,8.0,121.0,Colorado,Washington County,1392,110,CO
+8125,8,125,Colorado,Yuma County,8121,8.0,121.0,Colorado,Washington County,99,94,CO
+8001,8,1,Colorado,Adams County,8123,8.0,123.0,Colorado,Weld County,5975,668,CO
+8005,8,5,Colorado,Arapahoe County,8123,8.0,123.0,Colorado,Weld County,898,202,CO
+8013,8,13,Colorado,Boulder County,8123,8.0,123.0,Colorado,Weld County,4868,486,CO
+8014,8,14,Colorado,Broomfield County,8123,8.0,123.0,Colorado,Weld County,428,114,CO
+8015,8,15,Colorado,Chaffee County,8123,8.0,123.0,Colorado,Weld County,3,8,CO
+8025,8,25,Colorado,Crowley County,8123,8.0,123.0,Colorado,Weld County,5,7,CO
+8031,8,31,Colorado,Denver County,8123,8.0,123.0,Colorado,Weld County,1294,283,CO
+8035,8,35,Colorado,Douglas County,8123,8.0,123.0,Colorado,Weld County,265,111,CO
+8039,8,39,Colorado,Elbert County,8123,8.0,123.0,Colorado,Weld County,35,30,CO
+8041,8,41,Colorado,El Paso County,8123,8.0,123.0,Colorado,Weld County,390,152,CO
+8045,8,45,Colorado,Garfield County,8123,8.0,123.0,Colorado,Weld County,5,9,CO
+8055,8,55,Colorado,Huerfano County,8123,8.0,123.0,Colorado,Weld County,10,15,CO
+8057,8,57,Colorado,Jackson County,8123,8.0,123.0,Colorado,Weld County,3,5,CO
+8059,8,59,Colorado,Jefferson County,8123,8.0,123.0,Colorado,Weld County,925,192,CO
+8063,8,63,Colorado,Kit Carson County,8123,8.0,123.0,Colorado,Weld County,3,4,CO
+8069,8,69,Colorado,Larimer County,8123,8.0,123.0,Colorado,Weld County,11277,736,CO
+8071,8,71,Colorado,Las Animas County,8123,8.0,123.0,Colorado,Weld County,2,4,CO
+8073,8,73,Colorado,Lincoln County,8123,8.0,123.0,Colorado,Weld County,2,5,CO
+8075,8,75,Colorado,Logan County,8123,8.0,123.0,Colorado,Weld County,120,75,CO
+8077,8,77,Colorado,Mesa County,8123,8.0,123.0,Colorado,Weld County,190,101,CO
+8085,8,85,Colorado,Montrose County,8123,8.0,123.0,Colorado,Weld County,3,5,CO
+8087,8,87,Colorado,Morgan County,8123,8.0,123.0,Colorado,Weld County,545,136,CO
+8093,8,93,Colorado,Park County,8123,8.0,123.0,Colorado,Weld County,33,38,CO
+8095,8,95,Colorado,Phillips County,8123,8.0,123.0,Colorado,Weld County,15,17,CO
+8101,8,101,Colorado,Pueblo County,8123,8.0,123.0,Colorado,Weld County,38,36,CO
+8105,8,105,Colorado,Rio Grande County,8123,8.0,123.0,Colorado,Weld County,5,8,CO
+8113,8,113,Colorado,San Miguel County,8123,8.0,123.0,Colorado,Weld County,8,13,CO
+8119,8,119,Colorado,Teller County,8123,8.0,123.0,Colorado,Weld County,11,17,CO
+8121,8,121,Colorado,Washington County,8123,8.0,123.0,Colorado,Weld County,41,34,CO
+8123,8,123,Colorado,Weld County,8123,8.0,123.0,Colorado,Weld County,79153,1580,CO
+8125,8,125,Colorado,Yuma County,8123,8.0,123.0,Colorado,Weld County,10,14,CO
+8015,8,15,Colorado,Chaffee County,8125,8.0,125.0,Colorado,Yuma County,5,8,CO
+8017,8,17,Colorado,Cheyenne County,8125,8.0,125.0,Colorado,Yuma County,10,10,CO
+8063,8,63,Colorado,Kit Carson County,8125,8.0,125.0,Colorado,Yuma County,19,14,CO
+8069,8,69,Colorado,Larimer County,8125,8.0,125.0,Colorado,Yuma County,8,12,CO
+8075,8,75,Colorado,Logan County,8125,8.0,125.0,Colorado,Yuma County,45,33,CO
+8087,8,87,Colorado,Morgan County,8125,8.0,125.0,Colorado,Yuma County,17,19,CO
+8095,8,95,Colorado,Phillips County,8125,8.0,125.0,Colorado,Yuma County,13,10,CO
+8115,8,115,Colorado,Sedgwick County,8125,8.0,125.0,Colorado,Yuma County,2,4,CO
+8121,8,121,Colorado,Washington County,8125,8.0,125.0,Colorado,Yuma County,307,53,CO
+8123,8,123,Colorado,Weld County,8125,8.0,125.0,Colorado,Yuma County,37,50,CO
+8125,8,125,Colorado,Yuma County,8125,8.0,125.0,Colorado,Yuma County,4506,244,CO
+8005,8,5,Colorado,Arapahoe County,9001,9.0,1.0,Connecticut,Fairfield County,20,18,CO
+8059,8,59,Colorado,Jefferson County,9001,9.0,1.0,Connecticut,Fairfield County,11,18,CO
+8005,8,5,Colorado,Arapahoe County,9003,9.0,3.0,Connecticut,Hartford County,23,26,CO
+8013,8,13,Colorado,Boulder County,9003,9.0,3.0,Connecticut,Hartford County,9,15,CO
+8013,8,13,Colorado,Boulder County,9005,9.0,5.0,Connecticut,Litchfield County,24,28,CO
+8059,8,59,Colorado,Jefferson County,9005,9.0,5.0,Connecticut,Litchfield County,9,15,CO
+8001,8,1,Colorado,Adams County,9009,9.0,9.0,Connecticut,New Haven County,39,61,CO
+8039,8,39,Colorado,Elbert County,9009,9.0,9.0,Connecticut,New Haven County,29,29,CO
+8013,8,13,Colorado,Boulder County,9011,9.0,11.0,Connecticut,New London County,8,12,CO
+8001,8,1,Colorado,Adams County,11001,11.0,1.0,District of Columbia,District of Columbia,8,12,CO
+8005,8,5,Colorado,Arapahoe County,11001,11.0,1.0,District of Columbia,District of Columbia,32,29,CO
+8013,8,13,Colorado,Boulder County,11001,11.0,1.0,District of Columbia,District of Columbia,35,31,CO
+8031,8,31,Colorado,Denver County,11001,11.0,1.0,District of Columbia,District of Columbia,9,15,CO
+8041,8,41,Colorado,El Paso County,11001,11.0,1.0,District of Columbia,District of Columbia,18,19,CO
+8059,8,59,Colorado,Jefferson County,11001,11.0,1.0,District of Columbia,District of Columbia,87,109,CO
+8069,8,69,Colorado,Larimer County,11001,11.0,1.0,District of Columbia,District of Columbia,24,38,CO
+8097,8,97,Colorado,Pitkin County,11001,11.0,1.0,District of Columbia,District of Columbia,19,31,CO
+8101,8,101,Colorado,Pueblo County,11001,11.0,1.0,District of Columbia,District of Columbia,14,20,CO
+8113,8,113,Colorado,San Miguel County,11001,11.0,1.0,District of Columbia,District of Columbia,3,6,CO
+8117,8,117,Colorado,Summit County,11001,11.0,1.0,District of Columbia,District of Columbia,8,13,CO
+8007,8,7,Colorado,Archuleta County,12009,12.0,9.0,Florida,Brevard County,9,14,CO
+8041,8,41,Colorado,El Paso County,12009,12.0,9.0,Florida,Brevard County,22,35,CO
+8001,8,1,Colorado,Adams County,12011,12.0,11.0,Florida,Broward County,6,12,CO
+8013,8,13,Colorado,Boulder County,12011,12.0,11.0,Florida,Broward County,34,34,CO
+8059,8,59,Colorado,Jefferson County,12011,12.0,11.0,Florida,Broward County,10,15,CO
+8071,8,71,Colorado,Las Animas County,12011,12.0,11.0,Florida,Broward County,2,2,CO
+8013,8,13,Colorado,Boulder County,12021,12.0,21.0,Florida,Collier County,25,33,CO
+8041,8,41,Colorado,El Paso County,12021,12.0,21.0,Florida,Collier County,16,25,CO
+8059,8,59,Colorado,Jefferson County,12023,12.0,23.0,Florida,Columbia County,8,12,CO
+8069,8,69,Colorado,Larimer County,12031,12.0,31.0,Florida,Duval County,44,67,CO
+8014,8,14,Colorado,Broomfield County,12033,12.0,33.0,Florida,Escambia County,10,18,CO
+8005,8,5,Colorado,Arapahoe County,12057,12.0,57.0,Florida,Hillsborough County,8,13,CO
+8041,8,41,Colorado,El Paso County,12057,12.0,57.0,Florida,Hillsborough County,24,27,CO
+8077,8,77,Colorado,Mesa County,12057,12.0,57.0,Florida,Hillsborough County,24,37,CO
+8007,8,7,Colorado,Archuleta County,12073,12.0,73.0,Florida,Leon County,7,12,CO
+8035,8,35,Colorado,Douglas County,12073,12.0,73.0,Florida,Leon County,11,18,CO
+8007,8,7,Colorado,Archuleta County,12083,12.0,83.0,Florida,Marion County,16,20,CO
+8001,8,1,Colorado,Adams County,12086,12.0,86.0,Florida,Miami-Dade County,45,60,CO
+8005,8,5,Colorado,Arapahoe County,12086,12.0,86.0,Florida,Miami-Dade County,25,34,CO
+8035,8,35,Colorado,Douglas County,12086,12.0,86.0,Florida,Miami-Dade County,5,9,CO
+8059,8,59,Colorado,Jefferson County,12086,12.0,86.0,Florida,Miami-Dade County,15,16,CO
+8097,8,97,Colorado,Pitkin County,12086,12.0,86.0,Florida,Miami-Dade County,5,10,CO
+8041,8,41,Colorado,El Paso County,12087,12.0,87.0,Florida,Monroe County,16,28,CO
+8005,8,5,Colorado,Arapahoe County,12095,12.0,95.0,Florida,Orange County,4,12,CO
+8014,8,14,Colorado,Broomfield County,12095,12.0,95.0,Florida,Orange County,10,15,CO
+8041,8,41,Colorado,El Paso County,12095,12.0,95.0,Florida,Orange County,101,152,CO
+8059,8,59,Colorado,Jefferson County,12095,12.0,95.0,Florida,Orange County,70,85,CO
+8005,8,5,Colorado,Arapahoe County,12099,12.0,99.0,Florida,Palm Beach County,9,14,CO
+8013,8,13,Colorado,Boulder County,12099,12.0,99.0,Florida,Palm Beach County,7,11,CO
+8031,8,31,Colorado,Denver County,12099,12.0,99.0,Florida,Palm Beach County,88,92,CO
+8035,8,35,Colorado,Douglas County,12099,12.0,99.0,Florida,Palm Beach County,24,28,CO
+8041,8,41,Colorado,El Paso County,12099,12.0,99.0,Florida,Palm Beach County,15,17,CO
+8069,8,69,Colorado,Larimer County,12101,12.0,101.0,Florida,Pasco County,8,16,CO
+8005,8,5,Colorado,Arapahoe County,12103,12.0,103.0,Florida,Pinellas County,16,18,CO
+8035,8,35,Colorado,Douglas County,12103,12.0,103.0,Florida,Pinellas County,32,39,CO
+8001,8,1,Colorado,Adams County,12109,12.0,109.0,Florida,St. Johns County,10,17,CO
+8067,8,67,Colorado,La Plata County,12119,12.0,119.0,Florida,Sumter County,8,13,CO
+8041,8,41,Colorado,El Paso County,13021,13.0,21.0,Georgia,Bibb County,34,50,CO
+8041,8,41,Colorado,El Paso County,13053,13.0,53.0,Georgia,Chattahoochee County,38,38,CO
+8005,8,5,Colorado,Arapahoe County,13063,13.0,63.0,Georgia,Clayton County,7,13,CO
+8035,8,35,Colorado,Douglas County,13063,13.0,63.0,Georgia,Clayton County,7,11,CO
+8041,8,41,Colorado,El Paso County,13063,13.0,63.0,Georgia,Clayton County,26,30,CO
+8005,8,5,Colorado,Arapahoe County,13067,13.0,67.0,Georgia,Cobb County,8,12,CO
+8013,8,13,Colorado,Boulder County,13067,13.0,67.0,Georgia,Cobb County,19,21,CO
+8059,8,59,Colorado,Jefferson County,13067,13.0,67.0,Georgia,Cobb County,6,11,CO
+8005,8,5,Colorado,Arapahoe County,13089,13.0,89.0,Georgia,DeKalb County,8,13,CO
+8059,8,59,Colorado,Jefferson County,13089,13.0,89.0,Georgia,DeKalb County,11,13,CO
+8001,8,1,Colorado,Adams County,13121,13.0,121.0,Georgia,Fulton County,13,20,CO
+8005,8,5,Colorado,Arapahoe County,13121,13.0,121.0,Georgia,Fulton County,58,34,CO
+8013,8,13,Colorado,Boulder County,13121,13.0,121.0,Georgia,Fulton County,17,18,CO
+8031,8,31,Colorado,Denver County,13121,13.0,121.0,Georgia,Fulton County,28,33,CO
+8041,8,41,Colorado,El Paso County,13121,13.0,121.0,Georgia,Fulton County,84,79,CO
+8051,8,51,Colorado,Gunnison County,13121,13.0,121.0,Georgia,Fulton County,7,13,CO
+8059,8,59,Colorado,Jefferson County,13121,13.0,121.0,Georgia,Fulton County,25,36,CO
+8001,8,1,Colorado,Adams County,13135,13.0,135.0,Georgia,Gwinnett County,38,53,CO
+8031,8,31,Colorado,Denver County,13135,13.0,135.0,Georgia,Gwinnett County,14,23,CO
+8123,8,123,Colorado,Weld County,13157,13.0,157.0,Georgia,Jackson County,10,17,CO
+8041,8,41,Colorado,El Paso County,13215,13.0,215.0,Georgia,Muscogee County,15,26,CO
+8035,8,35,Colorado,Douglas County,13223,13.0,223.0,Georgia,Paulding County,14,23,CO
+8001,8,1,Colorado,Adams County,13275,13.0,275.0,Georgia,Thomas County,23,38,CO
+8005,8,5,Colorado,Arapahoe County,15003,15.0,3.0,Hawaii,Honolulu County,69,66,CO
+8014,8,14,Colorado,Broomfield County,15003,15.0,3.0,Hawaii,Honolulu County,6,10,CO
+8035,8,35,Colorado,Douglas County,15003,15.0,3.0,Hawaii,Honolulu County,40,62,CO
+8041,8,41,Colorado,El Paso County,15003,15.0,3.0,Hawaii,Honolulu County,37,41,CO
+8059,8,59,Colorado,Jefferson County,15003,15.0,3.0,Hawaii,Honolulu County,10,16,CO
+8067,8,67,Colorado,La Plata County,15003,15.0,3.0,Hawaii,Honolulu County,21,22,CO
+8069,8,69,Colorado,Larimer County,15003,15.0,3.0,Hawaii,Honolulu County,11,17,CO
+8085,8,85,Colorado,Montrose County,15003,15.0,3.0,Hawaii,Honolulu County,21,33,CO
+8123,8,123,Colorado,Weld County,15003,15.0,3.0,Hawaii,Honolulu County,13,17,CO
+8123,8,123,Colorado,Weld County,15009,15.0,9.0,Hawaii,Maui County,5,8,CO
+8005,8,5,Colorado,Arapahoe County,16001,16.0,1.0,Idaho,Ada County,17,21,CO
+8013,8,13,Colorado,Boulder County,16001,16.0,1.0,Idaho,Ada County,7,12,CO
+8035,8,35,Colorado,Douglas County,16001,16.0,1.0,Idaho,Ada County,7,11,CO
+8041,8,41,Colorado,El Paso County,16001,16.0,1.0,Idaho,Ada County,14,23,CO
+8013,8,13,Colorado,Boulder County,16019,16.0,19.0,Idaho,Bonneville County,15,24,CO
+8059,8,59,Colorado,Jefferson County,16019,16.0,19.0,Idaho,Bonneville County,6,9,CO
+8069,8,69,Colorado,Larimer County,17019,17.0,19.0,Illinois,Champaign County,4,7,CO
+8001,8,1,Colorado,Adams County,17031,17.0,31.0,Illinois,Cook County,46,43,CO
+8005,8,5,Colorado,Arapahoe County,17031,17.0,31.0,Illinois,Cook County,117,86,CO
+8013,8,13,Colorado,Boulder County,17031,17.0,31.0,Illinois,Cook County,88,61,CO
+8014,8,14,Colorado,Broomfield County,17031,17.0,31.0,Illinois,Cook County,7,10,CO
+8031,8,31,Colorado,Denver County,17031,17.0,31.0,Illinois,Cook County,37,28,CO
+8035,8,35,Colorado,Douglas County,17031,17.0,31.0,Illinois,Cook County,40,32,CO
+8041,8,41,Colorado,El Paso County,17031,17.0,31.0,Illinois,Cook County,21,31,CO
+8045,8,45,Colorado,Garfield County,17031,17.0,31.0,Illinois,Cook County,1,3,CO
+8049,8,49,Colorado,Grand County,17031,17.0,31.0,Illinois,Cook County,11,26,CO
+8059,8,59,Colorado,Jefferson County,17031,17.0,31.0,Illinois,Cook County,79,40,CO
+8067,8,67,Colorado,La Plata County,17031,17.0,31.0,Illinois,Cook County,52,60,CO
+8069,8,69,Colorado,Larimer County,17031,17.0,31.0,Illinois,Cook County,58,52,CO
+8097,8,97,Colorado,Pitkin County,17031,17.0,31.0,Illinois,Cook County,29,28,CO
+8117,8,117,Colorado,Summit County,17031,17.0,31.0,Illinois,Cook County,8,19,CO
+8123,8,123,Colorado,Weld County,17031,17.0,31.0,Illinois,Cook County,25,22,CO
+8069,8,69,Colorado,Larimer County,17033,17.0,33.0,Illinois,Crawford County,29,45,CO
+8005,8,5,Colorado,Arapahoe County,17043,17.0,43.0,Illinois,DuPage County,9,14,CO
+8035,8,35,Colorado,Douglas County,17043,17.0,43.0,Illinois,DuPage County,32,32,CO
+8041,8,41,Colorado,El Paso County,17043,17.0,43.0,Illinois,DuPage County,8,13,CO
+8059,8,59,Colorado,Jefferson County,17043,17.0,43.0,Illinois,DuPage County,30,38,CO
+8069,8,69,Colorado,Larimer County,17043,17.0,43.0,Illinois,DuPage County,36,35,CO
+8031,8,31,Colorado,Denver County,17077,17.0,77.0,Illinois,Jackson County,5,9,CO
+8005,8,5,Colorado,Arapahoe County,17089,17.0,89.0,Illinois,Kane County,7,12,CO
+8014,8,14,Colorado,Broomfield County,17089,17.0,89.0,Illinois,Kane County,13,15,CO
+8059,8,59,Colorado,Jefferson County,17089,17.0,89.0,Illinois,Kane County,12,18,CO
+8005,8,5,Colorado,Arapahoe County,17097,17.0,97.0,Illinois,Lake County,32,49,CO
+8013,8,13,Colorado,Boulder County,17097,17.0,97.0,Illinois,Lake County,11,17,CO
+8031,8,31,Colorado,Denver County,17097,17.0,97.0,Illinois,Lake County,86,90,CO
+8059,8,59,Colorado,Jefferson County,17097,17.0,97.0,Illinois,Lake County,7,11,CO
+8069,8,69,Colorado,Larimer County,17097,17.0,97.0,Illinois,Lake County,13,20,CO
+8069,8,69,Colorado,Larimer County,17111,17.0,111.0,Illinois,McHenry County,11,18,CO
+8059,8,59,Colorado,Jefferson County,17113,17.0,113.0,Illinois,McLean County,23,30,CO
+8069,8,69,Colorado,Larimer County,17115,17.0,115.0,Illinois,Macon County,6,9,CO
+8013,8,13,Colorado,Boulder County,17119,17.0,119.0,Illinois,Madison County,1,2,CO
+8031,8,31,Colorado,Denver County,17119,17.0,119.0,Illinois,Madison County,4,5,CO
+8014,8,14,Colorado,Broomfield County,17161,17.0,161.0,Illinois,Rock Island County,7,11,CO
+8049,8,49,Colorado,Grand County,17163,17.0,163.0,Illinois,St. Clair County,8,19,CO
+8103,8,103,Colorado,Rio Blanco County,17163,17.0,163.0,Illinois,St. Clair County,2,4,CO
+8101,8,101,Colorado,Pueblo County,17197,17.0,197.0,Illinois,Will County,6,8,CO
+8059,8,59,Colorado,Jefferson County,18057,18.0,57.0,Indiana,Hamilton County,19,20,CO
+8041,8,41,Colorado,El Paso County,18065,18.0,65.0,Indiana,Henry County,39,60,CO
+8005,8,5,Colorado,Arapahoe County,18083,18.0,83.0,Indiana,Knox County,6,11,CO
+8005,8,5,Colorado,Arapahoe County,18085,18.0,85.0,Indiana,Kosciusko County,7,10,CO
+8041,8,41,Colorado,El Paso County,18085,18.0,85.0,Indiana,Kosciusko County,7,11,CO
+8059,8,59,Colorado,Jefferson County,18089,18.0,89.0,Indiana,Lake County,18,22,CO
+8001,8,1,Colorado,Adams County,18091,18.0,91.0,Indiana,LaPorte County,36,34,CO
+8005,8,5,Colorado,Arapahoe County,18097,18.0,97.0,Indiana,Marion County,29,35,CO
+8041,8,41,Colorado,El Paso County,18097,18.0,97.0,Indiana,Marion County,4,6,CO
+8059,8,59,Colorado,Jefferson County,18097,18.0,97.0,Indiana,Marion County,11,17,CO
+8067,8,67,Colorado,La Plata County,18097,18.0,97.0,Indiana,Marion County,9,14,CO
+8031,8,31,Colorado,Denver County,19041,19.0,41.0,Iowa,Clay County,25,39,CO
+8005,8,5,Colorado,Arapahoe County,19103,19.0,103.0,Iowa,Johnson County,8,12,CO
+8059,8,59,Colorado,Jefferson County,19113,19.0,113.0,Iowa,Linn County,18,28,CO
+8059,8,59,Colorado,Jefferson County,19123,19.0,123.0,Iowa,Mahaska County,9,14,CO
+8035,8,35,Colorado,Douglas County,19145,19.0,145.0,Iowa,Page County,8,15,CO
+8005,8,5,Colorado,Arapahoe County,19153,19.0,153.0,Iowa,Polk County,25,29,CO
+8035,8,35,Colorado,Douglas County,19155,19.0,155.0,Iowa,Pottawattamie County,12,19,CO
+8073,8,73,Colorado,Lincoln County,19161,19.0,161.0,Iowa,Sac County,1,3,CO
+8014,8,14,Colorado,Broomfield County,19163,19.0,163.0,Iowa,Scott County,15,20,CO
+8069,8,69,Colorado,Larimer County,19167,19.0,167.0,Iowa,Sioux County,10,13,CO
+8035,8,35,Colorado,Douglas County,19191,19.0,191.0,Iowa,Winneshiek County,37,56,CO
+8123,8,123,Colorado,Weld County,19193,19.0,193.0,Iowa,Woodbury County,10,16,CO
+8001,8,1,Colorado,Adams County,20005,20.0,5.0,Kansas,Atchison County,12,23,CO
+8125,8,125,Colorado,Yuma County,20023,20.0,23.0,Kansas,Cheyenne County,7,8,CO
+8041,8,41,Colorado,El Paso County,20045,20.0,45.0,Kansas,Douglas County,12,16,CO
+8001,8,1,Colorado,Adams County,20051,20.0,51.0,Kansas,Ellis County,7,10,CO
+8041,8,41,Colorado,El Paso County,20051,20.0,51.0,Kansas,Ellis County,6,8,CO
+8005,8,5,Colorado,Arapahoe County,20055,20.0,55.0,Kansas,Finney County,13,20,CO
+8039,8,39,Colorado,Elbert County,20055,20.0,55.0,Kansas,Finney County,2,4,CO
+8099,8,99,Colorado,Prowers County,20055,20.0,55.0,Kansas,Finney County,3,5,CO
+8123,8,123,Colorado,Weld County,20055,20.0,55.0,Kansas,Finney County,1,3,CO
+8069,8,69,Colorado,Larimer County,20057,20.0,57.0,Kansas,Ford County,14,21,CO
+8005,8,5,Colorado,Arapahoe County,20061,20.0,61.0,Kansas,Geary County,16,24,CO
+8041,8,41,Colorado,El Paso County,20061,20.0,61.0,Kansas,Geary County,4,6,CO
+8101,8,101,Colorado,Pueblo County,20061,20.0,61.0,Kansas,Geary County,11,16,CO
+8061,8,61,Colorado,Kiowa County,20071,20.0,71.0,Kansas,Greeley County,12,9,CO
+8099,8,99,Colorado,Prowers County,20075,20.0,75.0,Kansas,Hamilton County,58,30,CO
+8005,8,5,Colorado,Arapahoe County,20091,20.0,91.0,Kansas,Johnson County,10,17,CO
+8031,8,31,Colorado,Denver County,20091,20.0,91.0,Kansas,Johnson County,18,20,CO
+8035,8,35,Colorado,Douglas County,20091,20.0,91.0,Kansas,Johnson County,23,26,CO
+8041,8,41,Colorado,El Paso County,20091,20.0,91.0,Kansas,Johnson County,28,33,CO
+8069,8,69,Colorado,Larimer County,20091,20.0,91.0,Kansas,Johnson County,15,24,CO
+8071,8,71,Colorado,Las Animas County,20091,20.0,91.0,Kansas,Johnson County,4,5,CO
+8075,8,75,Colorado,Logan County,20091,20.0,91.0,Kansas,Johnson County,2,4,CO
+8089,8,89,Colorado,Otero County,20091,20.0,91.0,Kansas,Johnson County,9,15,CO
+8093,8,93,Colorado,Park County,20091,20.0,91.0,Kansas,Johnson County,17,28,CO
+8097,8,97,Colorado,Pitkin County,20091,20.0,91.0,Kansas,Johnson County,7,12,CO
+8101,8,101,Colorado,Pueblo County,20091,20.0,91.0,Kansas,Johnson County,5,7,CO
+8107,8,107,Colorado,Routt County,20091,20.0,91.0,Kansas,Johnson County,7,9,CO
+8123,8,123,Colorado,Weld County,20091,20.0,91.0,Kansas,Johnson County,6,9,CO
+8009,8,9,Colorado,Baca County,20129,20.0,129.0,Kansas,Morton County,3,4,CO
+8099,8,99,Colorado,Prowers County,20129,20.0,129.0,Kansas,Morton County,7,10,CO
+8027,8,27,Colorado,Custer County,20151,20.0,151.0,Kansas,Pratt County,8,11,CO
+8029,8,29,Colorado,Delta County,20155,20.0,155.0,Kansas,Reno County,19,31,CO
+8101,8,101,Colorado,Pueblo County,20167,20.0,167.0,Kansas,Russell County,9,13,CO
+8011,8,11,Colorado,Bent County,20169,20.0,169.0,Kansas,Saline County,8,10,CO
+8123,8,123,Colorado,Weld County,20169,20.0,169.0,Kansas,Saline County,8,13,CO
+8041,8,41,Colorado,El Paso County,20171,20.0,171.0,Kansas,Scott County,7,12,CO
+8123,8,123,Colorado,Weld County,20171,20.0,171.0,Kansas,Scott County,8,11,CO
+8005,8,5,Colorado,Arapahoe County,20173,20.0,173.0,Kansas,Sedgwick County,23,26,CO
+8023,8,23,Colorado,Costilla County,20173,20.0,173.0,Kansas,Sedgwick County,4,6,CO
+8031,8,31,Colorado,Denver County,20173,20.0,173.0,Kansas,Sedgwick County,8,12,CO
+8035,8,35,Colorado,Douglas County,20173,20.0,173.0,Kansas,Sedgwick County,19,22,CO
+8059,8,59,Colorado,Jefferson County,20173,20.0,173.0,Kansas,Sedgwick County,16,15,CO
+8061,8,61,Colorado,Kiowa County,20173,20.0,173.0,Kansas,Sedgwick County,4,6,CO
+8005,8,5,Colorado,Arapahoe County,20177,20.0,177.0,Kansas,Shawnee County,3,5,CO
+8063,8,63,Colorado,Kit Carson County,20181,20.0,181.0,Kansas,Sherman County,14,16,CO
+8009,8,9,Colorado,Baca County,20187,20.0,187.0,Kansas,Stanton County,40,19,CO
+8099,8,99,Colorado,Prowers County,20187,20.0,187.0,Kansas,Stanton County,17,18,CO
+8005,8,5,Colorado,Arapahoe County,20193,20.0,193.0,Kansas,Thomas County,9,15,CO
+8073,8,73,Colorado,Lincoln County,20193,20.0,193.0,Kansas,Thomas County,2,5,CO
+8101,8,101,Colorado,Pueblo County,20193,20.0,193.0,Kansas,Thomas County,12,19,CO
+8017,8,17,Colorado,Cheyenne County,20199,20.0,199.0,Kansas,Wallace County,15,15,CO
+8041,8,41,Colorado,El Paso County,20199,20.0,199.0,Kansas,Wallace County,13,18,CO
+8001,8,1,Colorado,Adams County,20203,20.0,203.0,Kansas,Wichita County,38,48,CO
+8099,8,99,Colorado,Prowers County,20203,20.0,203.0,Kansas,Wichita County,2,5,CO
+8069,8,69,Colorado,Larimer County,20209,20.0,209.0,Kansas,Wyandotte County,31,37,CO
+8099,8,99,Colorado,Prowers County,20209,20.0,209.0,Kansas,Wyandotte County,21,25,CO
+8043,8,43,Colorado,Fremont County,21031,21.0,31.0,Kentucky,Butler County,25,24,CO
+8041,8,41,Colorado,El Paso County,21047,21.0,47.0,Kentucky,Christian County,44,70,CO
+8035,8,35,Colorado,Douglas County,21067,21.0,67.0,Kentucky,Fayette County,7,9,CO
+8001,8,1,Colorado,Adams County,21111,21.0,111.0,Kentucky,Jefferson County,32,37,CO
+8031,8,31,Colorado,Denver County,21111,21.0,111.0,Kentucky,Jefferson County,18,28,CO
+8035,8,35,Colorado,Douglas County,21111,21.0,111.0,Kentucky,Jefferson County,44,44,CO
+8043,8,43,Colorado,Fremont County,21121,21.0,121.0,Kentucky,Knox County,2,3,CO
+8059,8,59,Colorado,Jefferson County,21209,21.0,209.0,Kentucky,Scott County,10,18,CO
+8001,8,1,Colorado,Adams County,22017,22.0,17.0,Louisiana,Caddo Parish,22,34,CO
+8005,8,5,Colorado,Arapahoe County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,26,24,CO
+8075,8,75,Colorado,Logan County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,8,13,CO
+8083,8,83,Colorado,Montezuma County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,11,18,CO
+8041,8,41,Colorado,El Paso County,22051,22.0,51.0,Louisiana,Jefferson Parish,12,19,CO
+8041,8,41,Colorado,El Paso County,22071,22.0,71.0,Louisiana,Orleans Parish,14,23,CO
+8059,8,59,Colorado,Jefferson County,22071,22.0,71.0,Louisiana,Orleans Parish,45,45,CO
+8059,8,59,Colorado,Jefferson County,22073,22.0,73.0,Louisiana,Ouachita Parish,8,12,CO
+8059,8,59,Colorado,Jefferson County,22079,22.0,79.0,Louisiana,Rapides Parish,18,19,CO
+8013,8,13,Colorado,Boulder County,22087,22.0,87.0,Louisiana,St. Bernard Parish,19,30,CO
+8041,8,41,Colorado,El Paso County,22101,22.0,101.0,Louisiana,St. Mary Parish,13,23,CO
+8041,8,41,Colorado,El Paso County,22115,22.0,115.0,Louisiana,Vernon Parish,39,43,CO
+8059,8,59,Colorado,Jefferson County,23005,23.0,5.0,Maine,Cumberland County,6,9,CO
+8117,8,117,Colorado,Summit County,24003,24.0,3.0,Maryland,Anne Arundel County,15,25,CO
+8041,8,41,Colorado,El Paso County,24005,24.0,5.0,Maryland,Baltimore County,13,22,CO
+8035,8,35,Colorado,Douglas County,24027,24.0,27.0,Maryland,Howard County,13,20,CO
+8059,8,59,Colorado,Jefferson County,24027,24.0,27.0,Maryland,Howard County,19,22,CO
+8123,8,123,Colorado,Weld County,24027,24.0,27.0,Maryland,Howard County,8,14,CO
+8005,8,5,Colorado,Arapahoe County,24031,24.0,31.0,Maryland,Montgomery County,1,3,CO
+8013,8,13,Colorado,Boulder County,24031,24.0,31.0,Maryland,Montgomery County,5,9,CO
+8059,8,59,Colorado,Jefferson County,24031,24.0,31.0,Maryland,Montgomery County,29,35,CO
+8041,8,41,Colorado,El Paso County,24033,24.0,33.0,Maryland,Prince George's County,9,15,CO
+8005,8,5,Colorado,Arapahoe County,24510,24.0,510.0,Maryland,Baltimore city,26,23,CO
+8031,8,31,Colorado,Denver County,24510,24.0,510.0,Maryland,Baltimore city,12,19,CO
+8077,8,77,Colorado,Mesa County,25003,25.0,3.0,Massachusetts,Berkshire County,13,20,CO
+8069,8,69,Colorado,Larimer County,25013,25.0,13.0,Massachusetts,Hampden County,12,19,CO
+8001,8,1,Colorado,Adams County,25017,25.0,17.0,Massachusetts,Middlesex County,26,29,CO
+8005,8,5,Colorado,Arapahoe County,25017,25.0,17.0,Massachusetts,Middlesex County,7,12,CO
+8013,8,13,Colorado,Boulder County,25017,25.0,17.0,Massachusetts,Middlesex County,5,9,CO
+8031,8,31,Colorado,Denver County,25017,25.0,17.0,Massachusetts,Middlesex County,31,29,CO
+8035,8,35,Colorado,Douglas County,25017,25.0,17.0,Massachusetts,Middlesex County,4,10,CO
+8041,8,41,Colorado,El Paso County,25017,25.0,17.0,Massachusetts,Middlesex County,10,15,CO
+8059,8,59,Colorado,Jefferson County,25017,25.0,17.0,Massachusetts,Middlesex County,16,19,CO
+8113,8,113,Colorado,San Miguel County,25019,25.0,19.0,Massachusetts,Nantucket County,9,13,CO
+8031,8,31,Colorado,Denver County,25021,25.0,21.0,Massachusetts,Norfolk County,16,26,CO
+8045,8,45,Colorado,Garfield County,25021,25.0,21.0,Massachusetts,Norfolk County,7,13,CO
+8069,8,69,Colorado,Larimer County,25021,25.0,21.0,Massachusetts,Norfolk County,8,12,CO
+8001,8,1,Colorado,Adams County,25025,25.0,25.0,Massachusetts,Suffolk County,13,22,CO
+8005,8,5,Colorado,Arapahoe County,25025,25.0,25.0,Massachusetts,Suffolk County,11,18,CO
+8031,8,31,Colorado,Denver County,25025,25.0,25.0,Massachusetts,Suffolk County,8,13,CO
+8035,8,35,Colorado,Douglas County,25025,25.0,25.0,Massachusetts,Suffolk County,61,48,CO
+8069,8,69,Colorado,Larimer County,25025,25.0,25.0,Massachusetts,Suffolk County,23,36,CO
+8013,8,13,Colorado,Boulder County,25027,25.0,27.0,Massachusetts,Worcester County,6,9,CO
+8041,8,41,Colorado,El Paso County,25027,25.0,27.0,Massachusetts,Worcester County,18,29,CO
+8097,8,97,Colorado,Pitkin County,26047,26.0,47.0,Michigan,Emmet County,33,52,CO
+8041,8,41,Colorado,El Paso County,26057,26.0,57.0,Michigan,Gratiot County,21,36,CO
+8005,8,5,Colorado,Arapahoe County,26065,26.0,65.0,Michigan,Ingham County,12,18,CO
+8041,8,41,Colorado,El Paso County,26067,26.0,67.0,Michigan,Ionia County,2,5,CO
+8001,8,1,Colorado,Adams County,26081,26.0,81.0,Michigan,Kent County,13,20,CO
+8015,8,15,Colorado,Chaffee County,26081,26.0,81.0,Michigan,Kent County,11,18,CO
+8031,8,31,Colorado,Denver County,26081,26.0,81.0,Michigan,Kent County,5,9,CO
+8059,8,59,Colorado,Jefferson County,26081,26.0,81.0,Michigan,Kent County,9,14,CO
+8005,8,5,Colorado,Arapahoe County,26125,26.0,125.0,Michigan,Oakland County,13,14,CO
+8031,8,31,Colorado,Denver County,26125,26.0,125.0,Michigan,Oakland County,2,6,CO
+8035,8,35,Colorado,Douglas County,26125,26.0,125.0,Michigan,Oakland County,17,26,CO
+8059,8,59,Colorado,Jefferson County,26125,26.0,125.0,Michigan,Oakland County,33,45,CO
+8077,8,77,Colorado,Mesa County,26125,26.0,125.0,Michigan,Oakland County,12,20,CO
+8107,8,107,Colorado,Routt County,26125,26.0,125.0,Michigan,Oakland County,9,17,CO
+8041,8,41,Colorado,El Paso County,26133,26.0,133.0,Michigan,Osceola County,16,26,CO
+8035,8,35,Colorado,Douglas County,26161,26.0,161.0,Michigan,Washtenaw County,8,13,CO
+8001,8,1,Colorado,Adams County,26163,26.0,163.0,Michigan,Wayne County,15,19,CO
+8005,8,5,Colorado,Arapahoe County,26163,26.0,163.0,Michigan,Wayne County,28,41,CO
+8031,8,31,Colorado,Denver County,26163,26.0,163.0,Michigan,Wayne County,104,124,CO
+8041,8,41,Colorado,El Paso County,26163,26.0,163.0,Michigan,Wayne County,15,25,CO
+8059,8,59,Colorado,Jefferson County,26163,26.0,163.0,Michigan,Wayne County,14,16,CO
+8001,8,1,Colorado,Adams County,27019,27.0,19.0,Minnesota,Carver County,46,68,CO
+8005,8,5,Colorado,Arapahoe County,27019,27.0,19.0,Minnesota,Carver County,6,10,CO
+8119,8,119,Colorado,Teller County,27019,27.0,19.0,Minnesota,Carver County,20,31,CO
+8001,8,1,Colorado,Adams County,27053,27.0,53.0,Minnesota,Hennepin County,25,25,CO
+8005,8,5,Colorado,Arapahoe County,27053,27.0,53.0,Minnesota,Hennepin County,21,23,CO
+8013,8,13,Colorado,Boulder County,27053,27.0,53.0,Minnesota,Hennepin County,19,21,CO
+8031,8,31,Colorado,Denver County,27053,27.0,53.0,Minnesota,Hennepin County,44,34,CO
+8035,8,35,Colorado,Douglas County,27053,27.0,53.0,Minnesota,Hennepin County,24,27,CO
+8059,8,59,Colorado,Jefferson County,27053,27.0,53.0,Minnesota,Hennepin County,43,37,CO
+8087,8,87,Colorado,Morgan County,27053,27.0,53.0,Minnesota,Hennepin County,8,12,CO
+8097,8,97,Colorado,Pitkin County,27053,27.0,53.0,Minnesota,Hennepin County,22,37,CO
+8101,8,101,Colorado,Pueblo County,27053,27.0,53.0,Minnesota,Hennepin County,27,31,CO
+8123,8,123,Colorado,Weld County,27053,27.0,53.0,Minnesota,Hennepin County,20,21,CO
+8123,8,123,Colorado,Weld County,27063,27.0,63.0,Minnesota,Jackson County,5,7,CO
+8101,8,101,Colorado,Pueblo County,27101,27.0,101.0,Minnesota,Murray County,5,7,CO
+8013,8,13,Colorado,Boulder County,27109,27.0,109.0,Minnesota,Olmsted County,10,15,CO
+8031,8,31,Colorado,Denver County,27109,27.0,109.0,Minnesota,Olmsted County,10,20,CO
+8031,8,31,Colorado,Denver County,27123,27.0,123.0,Minnesota,Ramsey County,10,17,CO
+8035,8,35,Colorado,Douglas County,27123,27.0,123.0,Minnesota,Ramsey County,17,28,CO
+8039,8,39,Colorado,Elbert County,27123,27.0,123.0,Minnesota,Ramsey County,2,3,CO
+8069,8,69,Colorado,Larimer County,27145,27.0,145.0,Minnesota,Stearns County,4,6,CO
+8031,8,31,Colorado,Denver County,27163,27.0,163.0,Minnesota,Washington County,11,17,CO
+8035,8,35,Colorado,Douglas County,27163,27.0,163.0,Minnesota,Washington County,8,15,CO
+8041,8,41,Colorado,El Paso County,28035,28.0,35.0,Mississippi,Forrest County,19,22,CO
+8043,8,43,Colorado,Fremont County,28035,28.0,35.0,Mississippi,Forrest County,1,3,CO
+8123,8,123,Colorado,Weld County,28035,28.0,35.0,Mississippi,Forrest County,26,32,CO
+8005,8,5,Colorado,Arapahoe County,28047,28.0,47.0,Mississippi,Harrison County,7,13,CO
+8123,8,123,Colorado,Weld County,28049,28.0,49.0,Mississippi,Hinds County,20,32,CO
+8031,8,31,Colorado,Denver County,29019,29.0,19.0,Missouri,Boone County,10,16,CO
+8041,8,41,Colorado,El Paso County,29019,29.0,19.0,Missouri,Boone County,10,16,CO
+8069,8,69,Colorado,Larimer County,29029,29.0,29.0,Missouri,Camden County,11,18,CO
+8001,8,1,Colorado,Adams County,29047,29.0,47.0,Missouri,Clay County,12,17,CO
+8041,8,41,Colorado,El Paso County,29047,29.0,47.0,Missouri,Clay County,32,50,CO
+8005,8,5,Colorado,Arapahoe County,29059,29.0,59.0,Missouri,Dallas County,7,11,CO
+8013,8,13,Colorado,Boulder County,29077,29.0,77.0,Missouri,Greene County,19,30,CO
+8031,8,31,Colorado,Denver County,29077,29.0,77.0,Missouri,Greene County,15,22,CO
+8041,8,41,Colorado,El Paso County,29077,29.0,77.0,Missouri,Greene County,40,46,CO
+8101,8,101,Colorado,Pueblo County,29077,29.0,77.0,Missouri,Greene County,4,8,CO
+8059,8,59,Colorado,Jefferson County,29095,29.0,95.0,Missouri,Jackson County,11,16,CO
+8051,8,51,Colorado,Gunnison County,29097,29.0,97.0,Missouri,Jasper County,9,16,CO
+8031,8,31,Colorado,Denver County,29099,29.0,99.0,Missouri,Jefferson County,18,27,CO
+8041,8,41,Colorado,El Paso County,29101,29.0,101.0,Missouri,Johnson County,152,211,CO
+8005,8,5,Colorado,Arapahoe County,29165,29.0,165.0,Missouri,Platte County,6,9,CO
+8013,8,13,Colorado,Boulder County,29165,29.0,165.0,Missouri,Platte County,6,9,CO
+8069,8,69,Colorado,Larimer County,29165,29.0,165.0,Missouri,Platte County,8,14,CO
+8117,8,117,Colorado,Summit County,29165,29.0,165.0,Missouri,Platte County,32,50,CO
+8041,8,41,Colorado,El Paso County,29169,29.0,169.0,Missouri,Pulaski County,24,28,CO
+8005,8,5,Colorado,Arapahoe County,29189,29.0,189.0,Missouri,St. Louis County,12,16,CO
+8013,8,13,Colorado,Boulder County,29189,29.0,189.0,Missouri,St. Louis County,7,10,CO
+8035,8,35,Colorado,Douglas County,29189,29.0,189.0,Missouri,St. Louis County,39,39,CO
+8059,8,59,Colorado,Jefferson County,29189,29.0,189.0,Missouri,St. Louis County,19,21,CO
+8123,8,123,Colorado,Weld County,29189,29.0,189.0,Missouri,St. Louis County,20,23,CO
+8069,8,69,Colorado,Larimer County,29211,29.0,211.0,Missouri,Sullivan County,11,17,CO
+8031,8,31,Colorado,Denver County,29213,29.0,213.0,Missouri,Taney County,9,14,CO
+8001,8,1,Colorado,Adams County,29227,29.0,227.0,Missouri,Worth County,15,25,CO
+8001,8,1,Colorado,Adams County,29510,29.0,510.0,Missouri,St. Louis city,18,28,CO
+8031,8,31,Colorado,Denver County,29510,29.0,510.0,Missouri,St. Louis city,48,52,CO
+8015,8,15,Colorado,Chaffee County,30017,30.0,17.0,Montana,Custer County,13,21,CO
+8069,8,69,Colorado,Larimer County,30019,30.0,19.0,Montana,Daniels County,4,7,CO
+8005,8,5,Colorado,Arapahoe County,30029,30.0,29.0,Montana,Flathead County,11,17,CO
+8059,8,59,Colorado,Jefferson County,30029,30.0,29.0,Montana,Flathead County,11,18,CO
+8069,8,69,Colorado,Larimer County,30035,30.0,35.0,Montana,Glacier County,12,21,CO
+8001,8,1,Colorado,Adams County,30049,30.0,49.0,Montana,Lewis and Clark County,5,8,CO
+8014,8,14,Colorado,Broomfield County,30049,30.0,49.0,Montana,Lewis and Clark County,3,6,CO
+8031,8,31,Colorado,Denver County,30083,30.0,83.0,Montana,Richland County,10,17,CO
+8069,8,69,Colorado,Larimer County,30083,30.0,83.0,Montana,Richland County,47,54,CO
+8041,8,41,Colorado,El Paso County,30101,30.0,101.0,Montana,Toole County,18,29,CO
+8041,8,41,Colorado,El Paso County,30111,30.0,111.0,Montana,Yellowstone County,18,14,CO
+8059,8,59,Colorado,Jefferson County,30111,30.0,111.0,Montana,Yellowstone County,22,26,CO
+8085,8,85,Colorado,Montrose County,30111,30.0,111.0,Montana,Yellowstone County,19,36,CO
+8103,8,103,Colorado,Rio Blanco County,30111,30.0,111.0,Montana,Yellowstone County,4,7,CO
+8075,8,75,Colorado,Logan County,31001,31.0,1.0,Nebraska,Adams County,5,9,CO
+8001,8,1,Colorado,Adams County,31015,31.0,15.0,Nebraska,Boyd County,13,23,CO
+8037,8,37,Colorado,Eagle County,31019,31.0,19.0,Nebraska,Buffalo County,7,12,CO
+8075,8,75,Colorado,Logan County,31029,31.0,29.0,Nebraska,Chase County,22,34,CO
+8095,8,95,Colorado,Phillips County,31029,31.0,29.0,Nebraska,Chase County,3,6,CO
+8125,8,125,Colorado,Yuma County,31029,31.0,29.0,Nebraska,Chase County,31,43,CO
+8005,8,5,Colorado,Arapahoe County,31033,31.0,33.0,Nebraska,Cheyenne County,13,25,CO
+8075,8,75,Colorado,Logan County,31033,31.0,33.0,Nebraska,Cheyenne County,415,177,CO
+8087,8,87,Colorado,Morgan County,31033,31.0,33.0,Nebraska,Cheyenne County,6,8,CO
+8115,8,115,Colorado,Sedgwick County,31033,31.0,33.0,Nebraska,Cheyenne County,63,27,CO
+8123,8,123,Colorado,Weld County,31033,31.0,33.0,Nebraska,Cheyenne County,12,21,CO
+8031,8,31,Colorado,Denver County,31045,31.0,45.0,Nebraska,Dawes County,10,15,CO
+8123,8,123,Colorado,Weld County,31045,31.0,45.0,Nebraska,Dawes County,81,83,CO
+8075,8,75,Colorado,Logan County,31049,31.0,49.0,Nebraska,Deuel County,18,21,CO
+8115,8,115,Colorado,Sedgwick County,31049,31.0,49.0,Nebraska,Deuel County,54,18,CO
+8001,8,1,Colorado,Adams County,31055,31.0,55.0,Nebraska,Douglas County,28,36,CO
+8005,8,5,Colorado,Arapahoe County,31055,31.0,55.0,Nebraska,Douglas County,10,14,CO
+8031,8,31,Colorado,Denver County,31055,31.0,55.0,Nebraska,Douglas County,24,28,CO
+8041,8,41,Colorado,El Paso County,31055,31.0,55.0,Nebraska,Douglas County,85,78,CO
+8045,8,45,Colorado,Garfield County,31055,31.0,55.0,Nebraska,Douglas County,4,7,CO
+8059,8,59,Colorado,Jefferson County,31055,31.0,55.0,Nebraska,Douglas County,18,29,CO
+8069,8,69,Colorado,Larimer County,31055,31.0,55.0,Nebraska,Douglas County,42,41,CO
+8087,8,87,Colorado,Morgan County,31055,31.0,55.0,Nebraska,Douglas County,3,4,CO
+8101,8,101,Colorado,Pueblo County,31055,31.0,55.0,Nebraska,Douglas County,8,9,CO
+8107,8,107,Colorado,Routt County,31055,31.0,55.0,Nebraska,Douglas County,13,15,CO
+8125,8,125,Colorado,Yuma County,31055,31.0,55.0,Nebraska,Douglas County,2,3,CO
+8005,8,5,Colorado,Arapahoe County,31069,31.0,69.0,Nebraska,Garden County,20,23,CO
+8115,8,115,Colorado,Sedgwick County,31069,31.0,69.0,Nebraska,Garden County,7,10,CO
+8123,8,123,Colorado,Weld County,31079,31.0,79.0,Nebraska,Hall County,6,10,CO
+8069,8,69,Colorado,Larimer County,31081,31.0,81.0,Nebraska,Hamilton County,22,25,CO
+8015,8,15,Colorado,Chaffee County,31101,31.0,101.0,Nebraska,Keith County,7,11,CO
+8039,8,39,Colorado,Elbert County,31101,31.0,101.0,Nebraska,Keith County,2,3,CO
+8063,8,63,Colorado,Kit Carson County,31101,31.0,101.0,Nebraska,Keith County,2,3,CO
+8115,8,115,Colorado,Sedgwick County,31101,31.0,101.0,Nebraska,Keith County,19,16,CO
+8123,8,123,Colorado,Weld County,31101,31.0,101.0,Nebraska,Keith County,15,22,CO
+8075,8,75,Colorado,Logan County,31105,31.0,105.0,Nebraska,Kimball County,13,21,CO
+8123,8,123,Colorado,Weld County,31105,31.0,105.0,Nebraska,Kimball County,12,13,CO
+8001,8,1,Colorado,Adams County,31109,31.0,109.0,Nebraska,Lancaster County,14,23,CO
+8005,8,5,Colorado,Arapahoe County,31109,31.0,109.0,Nebraska,Lancaster County,12,13,CO
+8123,8,123,Colorado,Weld County,31109,31.0,109.0,Nebraska,Lancaster County,38,39,CO
+8037,8,37,Colorado,Eagle County,31111,31.0,111.0,Nebraska,Lincoln County,12,13,CO
+8059,8,59,Colorado,Jefferson County,31111,31.0,111.0,Nebraska,Lincoln County,11,18,CO
+8069,8,69,Colorado,Larimer County,31111,31.0,111.0,Nebraska,Lincoln County,7,10,CO
+8075,8,75,Colorado,Logan County,31111,31.0,111.0,Nebraska,Lincoln County,3,4,CO
+8087,8,87,Colorado,Morgan County,31111,31.0,111.0,Nebraska,Lincoln County,2,4,CO
+8095,8,95,Colorado,Phillips County,31111,31.0,111.0,Nebraska,Lincoln County,42,39,CO
+8115,8,115,Colorado,Sedgwick County,31111,31.0,111.0,Nebraska,Lincoln County,2,3,CO
+8121,8,121,Colorado,Washington County,31111,31.0,111.0,Nebraska,Lincoln County,3,4,CO
+8123,8,123,Colorado,Weld County,31111,31.0,111.0,Nebraska,Lincoln County,12,16,CO
+8125,8,125,Colorado,Yuma County,31111,31.0,111.0,Nebraska,Lincoln County,12,16,CO
+8031,8,31,Colorado,Denver County,31113,31.0,113.0,Nebraska,Logan County,16,18,CO
+8089,8,89,Colorado,Otero County,31119,31.0,119.0,Nebraska,Madison County,2,12,CO
+8005,8,5,Colorado,Arapahoe County,31135,31.0,135.0,Nebraska,Perkins County,6,10,CO
+8095,8,95,Colorado,Phillips County,31135,31.0,135.0,Nebraska,Perkins County,11,18,CO
+8115,8,115,Colorado,Sedgwick County,31135,31.0,135.0,Nebraska,Perkins County,3,5,CO
+8001,8,1,Colorado,Adams County,31153,31.0,153.0,Nebraska,Sarpy County,26,35,CO
+8029,8,29,Colorado,Delta County,31153,31.0,153.0,Nebraska,Sarpy County,11,17,CO
+8035,8,35,Colorado,Douglas County,31157,31.0,157.0,Nebraska,Scotts Bluff County,47,71,CO
+8069,8,69,Colorado,Larimer County,31157,31.0,157.0,Nebraska,Scotts Bluff County,10,16,CO
+8075,8,75,Colorado,Logan County,31157,31.0,157.0,Nebraska,Scotts Bluff County,16,19,CO
+8115,8,115,Colorado,Sedgwick County,31157,31.0,157.0,Nebraska,Scotts Bluff County,14,19,CO
+8121,8,121,Colorado,Washington County,31157,31.0,157.0,Nebraska,Scotts Bluff County,4,5,CO
+8123,8,123,Colorado,Weld County,31157,31.0,157.0,Nebraska,Scotts Bluff County,9,12,CO
+8087,8,87,Colorado,Morgan County,31159,31.0,159.0,Nebraska,Seward County,6,9,CO
+8029,8,29,Colorado,Delta County,31175,31.0,175.0,Nebraska,Valley County,11,20,CO
+8005,8,5,Colorado,Arapahoe County,31177,31.0,177.0,Nebraska,Washington County,13,20,CO
+8013,8,13,Colorado,Boulder County,32003,32.0,3.0,Nevada,Clark County,4,6,CO
+8014,8,14,Colorado,Broomfield County,32003,32.0,3.0,Nevada,Clark County,16,14,CO
+8035,8,35,Colorado,Douglas County,32003,32.0,3.0,Nevada,Clark County,15,19,CO
+8039,8,39,Colorado,Elbert County,32003,32.0,3.0,Nevada,Clark County,13,21,CO
+8059,8,59,Colorado,Jefferson County,32003,32.0,3.0,Nevada,Clark County,37,35,CO
+8067,8,67,Colorado,La Plata County,32003,32.0,3.0,Nevada,Clark County,6,14,CO
+8069,8,69,Colorado,Larimer County,32003,32.0,3.0,Nevada,Clark County,7,10,CO
+8091,8,91,Colorado,Ouray County,32003,32.0,3.0,Nevada,Clark County,5,7,CO
+8117,8,117,Colorado,Summit County,32003,32.0,3.0,Nevada,Clark County,8,13,CO
+8123,8,123,Colorado,Weld County,32003,32.0,3.0,Nevada,Clark County,20,28,CO
+8005,8,5,Colorado,Arapahoe County,32007,32.0,7.0,Nevada,Elko County,3,4,CO
+8031,8,31,Colorado,Denver County,32007,32.0,7.0,Nevada,Elko County,13,22,CO
+8035,8,35,Colorado,Douglas County,32007,32.0,7.0,Nevada,Elko County,6,9,CO
+8077,8,77,Colorado,Mesa County,32007,32.0,7.0,Nevada,Elko County,7,11,CO
+8111,8,111,Colorado,San Juan County,32007,32.0,7.0,Nevada,Elko County,6,9,CO
+8085,8,85,Colorado,Montrose County,32013,32.0,13.0,Nevada,Humboldt County,11,23,CO
+8013,8,13,Colorado,Boulder County,32031,32.0,31.0,Nevada,Washoe County,62,83,CO
+8041,8,41,Colorado,El Paso County,32031,32.0,31.0,Nevada,Washoe County,69,95,CO
+8031,8,31,Colorado,Denver County,33015,33.0,15.0,New Hampshire,Rockingham County,29,44,CO
+8013,8,13,Colorado,Boulder County,34003,34.0,3.0,New Jersey,Bergen County,9,12,CO
+8031,8,31,Colorado,Denver County,34003,34.0,3.0,New Jersey,Bergen County,14,26,CO
+8035,8,35,Colorado,Douglas County,34003,34.0,3.0,New Jersey,Bergen County,13,24,CO
+8041,8,41,Colorado,El Paso County,34003,34.0,3.0,New Jersey,Bergen County,30,37,CO
+8059,8,59,Colorado,Jefferson County,34003,34.0,3.0,New Jersey,Bergen County,7,11,CO
+8001,8,1,Colorado,Adams County,34005,34.0,5.0,New Jersey,Burlington County,18,30,CO
+8059,8,59,Colorado,Jefferson County,34007,34.0,7.0,New Jersey,Camden County,6,11,CO
+8005,8,5,Colorado,Arapahoe County,34013,34.0,13.0,New Jersey,Essex County,42,25,CO
+8031,8,31,Colorado,Denver County,34013,34.0,13.0,New Jersey,Essex County,121,126,CO
+8035,8,35,Colorado,Douglas County,34013,34.0,13.0,New Jersey,Essex County,21,22,CO
+8041,8,41,Colorado,El Paso County,34013,34.0,13.0,New Jersey,Essex County,14,16,CO
+8069,8,69,Colorado,Larimer County,34013,34.0,13.0,New Jersey,Essex County,19,30,CO
+8035,8,35,Colorado,Douglas County,34015,34.0,15.0,New Jersey,Gloucester County,10,17,CO
+8031,8,31,Colorado,Denver County,34017,34.0,17.0,New Jersey,Hudson County,34,36,CO
+8041,8,41,Colorado,El Paso County,34019,34.0,19.0,New Jersey,Hunterdon County,8,14,CO
+8075,8,75,Colorado,Logan County,34019,34.0,19.0,New Jersey,Hunterdon County,1,2,CO
+8035,8,35,Colorado,Douglas County,34021,34.0,21.0,New Jersey,Mercer County,11,16,CO
+8041,8,41,Colorado,El Paso County,34021,34.0,21.0,New Jersey,Mercer County,4,8,CO
+8035,8,35,Colorado,Douglas County,34023,34.0,23.0,New Jersey,Middlesex County,15,24,CO
+8119,8,119,Colorado,Teller County,34023,34.0,23.0,New Jersey,Middlesex County,20,33,CO
+8035,8,35,Colorado,Douglas County,34027,34.0,27.0,New Jersey,Morris County,11,16,CO
+8059,8,59,Colorado,Jefferson County,34027,34.0,27.0,New Jersey,Morris County,38,45,CO
+8069,8,69,Colorado,Larimer County,34031,34.0,31.0,New Jersey,Passaic County,6,10,CO
+8117,8,117,Colorado,Summit County,34031,34.0,31.0,New Jersey,Passaic County,46,53,CO
+8031,8,31,Colorado,Denver County,34035,34.0,35.0,New Jersey,Somerset County,6,9,CO
+8041,8,41,Colorado,El Paso County,34035,34.0,35.0,New Jersey,Somerset County,30,49,CO
+8001,8,1,Colorado,Adams County,34039,34.0,39.0,New Jersey,Union County,11,17,CO
+8093,8,93,Colorado,Park County,34039,34.0,39.0,New Jersey,Union County,4,7,CO
+8003,8,3,Colorado,Alamosa County,35001,35.0,1.0,New Mexico,Bernalillo County,18,29,CO
+8005,8,5,Colorado,Arapahoe County,35001,35.0,1.0,New Mexico,Bernalillo County,24,23,CO
+8007,8,7,Colorado,Archuleta County,35001,35.0,1.0,New Mexico,Bernalillo County,3,4,CO
+8013,8,13,Colorado,Boulder County,35001,35.0,1.0,New Mexico,Bernalillo County,7,12,CO
+8021,8,21,Colorado,Conejos County,35001,35.0,1.0,New Mexico,Bernalillo County,5,6,CO
+8023,8,23,Colorado,Costilla County,35001,35.0,1.0,New Mexico,Bernalillo County,4,8,CO
+8035,8,35,Colorado,Douglas County,35001,35.0,1.0,New Mexico,Bernalillo County,9,13,CO
+8041,8,41,Colorado,El Paso County,35001,35.0,1.0,New Mexico,Bernalillo County,10,18,CO
+8045,8,45,Colorado,Garfield County,35001,35.0,1.0,New Mexico,Bernalillo County,10,19,CO
+8055,8,55,Colorado,Huerfano County,35001,35.0,1.0,New Mexico,Bernalillo County,14,20,CO
+8059,8,59,Colorado,Jefferson County,35001,35.0,1.0,New Mexico,Bernalillo County,30,29,CO
+8067,8,67,Colorado,La Plata County,35001,35.0,1.0,New Mexico,Bernalillo County,12,11,CO
+8069,8,69,Colorado,Larimer County,35001,35.0,1.0,New Mexico,Bernalillo County,63,39,CO
+8075,8,75,Colorado,Logan County,35001,35.0,1.0,New Mexico,Bernalillo County,13,19,CO
+8077,8,77,Colorado,Mesa County,35001,35.0,1.0,New Mexico,Bernalillo County,11,19,CO
+8081,8,81,Colorado,Moffat County,35001,35.0,1.0,New Mexico,Bernalillo County,10,16,CO
+8093,8,93,Colorado,Park County,35001,35.0,1.0,New Mexico,Bernalillo County,20,30,CO
+8105,8,105,Colorado,Rio Grande County,35001,35.0,1.0,New Mexico,Bernalillo County,22,33,CO
+8123,8,123,Colorado,Weld County,35001,35.0,1.0,New Mexico,Bernalillo County,20,32,CO
+8067,8,67,Colorado,La Plata County,35005,35.0,5.0,New Mexico,Chaves County,15,13,CO
+8067,8,67,Colorado,La Plata County,35006,35.0,6.0,New Mexico,Cibola County,5,9,CO
+8037,8,37,Colorado,Eagle County,35007,35.0,7.0,New Mexico,Colfax County,10,12,CO
+8071,8,71,Colorado,Las Animas County,35007,35.0,7.0,New Mexico,Colfax County,90,54,CO
+8041,8,41,Colorado,El Paso County,35009,35.0,9.0,New Mexico,Curry County,7,12,CO
+8001,8,1,Colorado,Adams County,35013,35.0,13.0,New Mexico,Doña Ana County,8,13,CO
+8014,8,14,Colorado,Broomfield County,35013,35.0,13.0,New Mexico,Doña Ana County,3,5,CO
+8035,8,35,Colorado,Douglas County,35013,35.0,13.0,New Mexico,Doña Ana County,10,15,CO
+8041,8,41,Colorado,El Paso County,35013,35.0,13.0,New Mexico,Doña Ana County,10,16,CO
+8043,8,43,Colorado,Fremont County,35013,35.0,13.0,New Mexico,Doña Ana County,14,24,CO
+8067,8,67,Colorado,La Plata County,35013,35.0,13.0,New Mexico,Doña Ana County,3,5,CO
+8001,8,1,Colorado,Adams County,35015,35.0,15.0,New Mexico,Eddy County,43,33,CO
+8059,8,59,Colorado,Jefferson County,35015,35.0,15.0,New Mexico,Eddy County,9,16,CO
+8059,8,59,Colorado,Jefferson County,35017,35.0,17.0,New Mexico,Grant County,27,34,CO
+8069,8,69,Colorado,Larimer County,35025,35.0,25.0,New Mexico,Lea County,28,37,CO
+8101,8,101,Colorado,Pueblo County,35025,35.0,25.0,New Mexico,Lea County,7,11,CO
+8013,8,13,Colorado,Boulder County,35028,35.0,28.0,New Mexico,Los Alamos County,13,15,CO
+8059,8,59,Colorado,Jefferson County,35028,35.0,28.0,New Mexico,Los Alamos County,40,38,CO
+8013,8,13,Colorado,Boulder County,35029,35.0,29.0,New Mexico,Luna County,18,30,CO
+8067,8,67,Colorado,La Plata County,35031,35.0,31.0,New Mexico,McKinley County,11,19,CO
+8007,8,7,Colorado,Archuleta County,35039,35.0,39.0,New Mexico,Rio Arriba County,74,63,CO
+8013,8,13,Colorado,Boulder County,35039,35.0,39.0,New Mexico,Rio Arriba County,12,16,CO
+8021,8,21,Colorado,Conejos County,35039,35.0,39.0,New Mexico,Rio Arriba County,24,22,CO
+8041,8,41,Colorado,El Paso County,35039,35.0,39.0,New Mexico,Rio Arriba County,67,76,CO
+8087,8,87,Colorado,Morgan County,35041,35.0,41.0,New Mexico,Roosevelt County,4,5,CO
+8021,8,21,Colorado,Conejos County,35043,35.0,43.0,New Mexico,Sandoval County,2,3,CO
+8041,8,41,Colorado,El Paso County,35043,35.0,43.0,New Mexico,Sandoval County,36,44,CO
+8067,8,67,Colorado,La Plata County,35043,35.0,43.0,New Mexico,Sandoval County,20,32,CO
+8071,8,71,Colorado,Las Animas County,35043,35.0,43.0,New Mexico,Sandoval County,2,4,CO
+8077,8,77,Colorado,Mesa County,35043,35.0,43.0,New Mexico,Sandoval County,10,17,CO
+8001,8,1,Colorado,Adams County,35045,35.0,45.0,New Mexico,San Juan County,45,68,CO
+8007,8,7,Colorado,Archuleta County,35045,35.0,45.0,New Mexico,San Juan County,21,20,CO
+8059,8,59,Colorado,Jefferson County,35045,35.0,45.0,New Mexico,San Juan County,25,39,CO
+8067,8,67,Colorado,La Plata County,35045,35.0,45.0,New Mexico,San Juan County,1100,187,CO
+8077,8,77,Colorado,Mesa County,35045,35.0,45.0,New Mexico,San Juan County,7,12,CO
+8083,8,83,Colorado,Montezuma County,35045,35.0,45.0,New Mexico,San Juan County,364,112,CO
+8101,8,101,Colorado,Pueblo County,35045,35.0,45.0,New Mexico,San Juan County,6,9,CO
+8073,8,73,Colorado,Lincoln County,35047,35.0,47.0,New Mexico,San Miguel County,1,4,CO
+8005,8,5,Colorado,Arapahoe County,35049,35.0,49.0,New Mexico,Santa Fe County,5,10,CO
+8007,8,7,Colorado,Archuleta County,35049,35.0,49.0,New Mexico,Santa Fe County,10,17,CO
+8031,8,31,Colorado,Denver County,35049,35.0,49.0,New Mexico,Santa Fe County,57,58,CO
+8065,8,65,Colorado,Lake County,35049,35.0,49.0,New Mexico,Santa Fe County,16,26,CO
+8021,8,21,Colorado,Conejos County,35053,35.0,53.0,New Mexico,Socorro County,5,8,CO
+8031,8,31,Colorado,Denver County,35053,35.0,53.0,New Mexico,Socorro County,17,26,CO
+8069,8,69,Colorado,Larimer County,35053,35.0,53.0,New Mexico,Socorro County,10,16,CO
+8021,8,21,Colorado,Conejos County,35055,35.0,55.0,New Mexico,Taos County,53,35,CO
+8023,8,23,Colorado,Costilla County,35055,35.0,55.0,New Mexico,Taos County,33,33,CO
+8035,8,35,Colorado,Douglas County,35055,35.0,55.0,New Mexico,Taos County,25,20,CO
+8041,8,41,Colorado,El Paso County,35055,35.0,55.0,New Mexico,Taos County,10,16,CO
+8059,8,59,Colorado,Jefferson County,35055,35.0,55.0,New Mexico,Taos County,8,14,CO
+8071,8,71,Colorado,Las Animas County,35059,35.0,59.0,New Mexico,Union County,17,14,CO
+8105,8,105,Colorado,Rio Grande County,35061,35.0,61.0,New Mexico,Valencia County,2,5,CO
+8013,8,13,Colorado,Boulder County,36001,36.0,1.0,New York,Albany County,12,19,CO
+8005,8,5,Colorado,Arapahoe County,36029,36.0,29.0,New York,Erie County,23,25,CO
+8031,8,31,Colorado,Denver County,36047,36.0,47.0,New York,Kings County,29,33,CO
+8045,8,45,Colorado,Garfield County,36047,36.0,47.0,New York,Kings County,13,21,CO
+8069,8,69,Colorado,Larimer County,36047,36.0,47.0,New York,Kings County,5,9,CO
+8069,8,69,Colorado,Larimer County,36059,36.0,59.0,New York,Nassau County,5,9,CO
+8005,8,5,Colorado,Arapahoe County,36061,36.0,61.0,New York,New York County,39,48,CO
+8013,8,13,Colorado,Boulder County,36061,36.0,61.0,New York,New York County,108,81,CO
+8031,8,31,Colorado,Denver County,36061,36.0,61.0,New York,New York County,82,56,CO
+8035,8,35,Colorado,Douglas County,36061,36.0,61.0,New York,New York County,39,39,CO
+8041,8,41,Colorado,El Paso County,36061,36.0,61.0,New York,New York County,9,15,CO
+8059,8,59,Colorado,Jefferson County,36061,36.0,61.0,New York,New York County,99,65,CO
+8097,8,97,Colorado,Pitkin County,36061,36.0,61.0,New York,New York County,22,27,CO
+8113,8,113,Colorado,San Miguel County,36061,36.0,61.0,New York,New York County,5,7,CO
+8059,8,59,Colorado,Jefferson County,36069,36.0,69.0,New York,Ontario County,10,17,CO
+8035,8,35,Colorado,Douglas County,36071,36.0,71.0,New York,Orange County,12,19,CO
+8041,8,41,Colorado,El Paso County,36075,36.0,75.0,New York,Oswego County,24,38,CO
+8013,8,13,Colorado,Boulder County,36081,36.0,81.0,New York,Queens County,29,22,CO
+8014,8,14,Colorado,Broomfield County,36081,36.0,81.0,New York,Queens County,8,13,CO
+8059,8,59,Colorado,Jefferson County,36081,36.0,81.0,New York,Queens County,16,19,CO
+8123,8,123,Colorado,Weld County,36081,36.0,81.0,New York,Queens County,6,9,CO
+8117,8,117,Colorado,Summit County,36085,36.0,85.0,New York,Richmond County,5,9,CO
+8037,8,37,Colorado,Eagle County,36087,36.0,87.0,New York,Rockland County,26,28,CO
+8005,8,5,Colorado,Arapahoe County,36093,36.0,93.0,New York,Schenectady County,12,19,CO
+8031,8,31,Colorado,Denver County,36093,36.0,93.0,New York,Schenectady County,9,14,CO
+8035,8,35,Colorado,Douglas County,36093,36.0,93.0,New York,Schenectady County,160,152,CO
+8041,8,41,Colorado,El Paso County,36103,36.0,103.0,New York,Suffolk County,16,28,CO
+8069,8,69,Colorado,Larimer County,36103,36.0,103.0,New York,Suffolk County,26,30,CO
+8013,8,13,Colorado,Boulder County,36105,36.0,105.0,New York,Sullivan County,59,74,CO
+8013,8,13,Colorado,Boulder County,36109,36.0,109.0,New York,Tompkins County,14,24,CO
+8035,8,35,Colorado,Douglas County,36111,36.0,111.0,New York,Ulster County,13,19,CO
+8051,8,51,Colorado,Gunnison County,36119,36.0,119.0,New York,Westchester County,8,13,CO
+8123,8,123,Colorado,Weld County,37019,37.0,19.0,North Carolina,Brunswick County,3,5,CO
+8005,8,5,Colorado,Arapahoe County,37021,37.0,21.0,North Carolina,Buncombe County,7,13,CO
+8041,8,41,Colorado,El Paso County,37025,37.0,25.0,North Carolina,Cabarrus County,16,23,CO
+8123,8,123,Colorado,Weld County,37025,37.0,25.0,North Carolina,Cabarrus County,7,14,CO
+8059,8,59,Colorado,Jefferson County,37031,37.0,31.0,North Carolina,Carteret County,9,14,CO
+8031,8,31,Colorado,Denver County,37051,37.0,51.0,North Carolina,Cumberland County,18,28,CO
+8035,8,35,Colorado,Douglas County,37051,37.0,51.0,North Carolina,Cumberland County,70,86,CO
+8043,8,43,Colorado,Fremont County,37051,37.0,51.0,North Carolina,Cumberland County,26,40,CO
+8035,8,35,Colorado,Douglas County,37063,37.0,63.0,North Carolina,Durham County,21,35,CO
+8059,8,59,Colorado,Jefferson County,37063,37.0,63.0,North Carolina,Durham County,23,25,CO
+8069,8,69,Colorado,Larimer County,37063,37.0,63.0,North Carolina,Durham County,7,11,CO
+8013,8,13,Colorado,Boulder County,37101,37.0,101.0,North Carolina,Johnston County,9,15,CO
+8005,8,5,Colorado,Arapahoe County,37119,37.0,119.0,North Carolina,Mecklenburg County,18,22,CO
+8031,8,31,Colorado,Denver County,37119,37.0,119.0,North Carolina,Mecklenburg County,5,9,CO
+8041,8,41,Colorado,El Paso County,37119,37.0,119.0,North Carolina,Mecklenburg County,17,28,CO
+8067,8,67,Colorado,La Plata County,37119,37.0,119.0,North Carolina,Mecklenburg County,12,19,CO
+8101,8,101,Colorado,Pueblo County,37119,37.0,119.0,North Carolina,Mecklenburg County,12,18,CO
+8067,8,67,Colorado,La Plata County,37133,37.0,133.0,North Carolina,Onslow County,30,48,CO
+8001,8,1,Colorado,Adams County,37183,37.0,183.0,North Carolina,Wake County,15,25,CO
+8005,8,5,Colorado,Arapahoe County,37183,37.0,183.0,North Carolina,Wake County,34,41,CO
+8031,8,31,Colorado,Denver County,37183,37.0,183.0,North Carolina,Wake County,11,13,CO
+8043,8,43,Colorado,Fremont County,37183,37.0,183.0,North Carolina,Wake County,5,7,CO
+8059,8,59,Colorado,Jefferson County,37183,37.0,183.0,North Carolina,Wake County,6,9,CO
+8067,8,67,Colorado,La Plata County,37183,37.0,183.0,North Carolina,Wake County,7,10,CO
+8123,8,123,Colorado,Weld County,37183,37.0,183.0,North Carolina,Wake County,61,66,CO
+8014,8,14,Colorado,Broomfield County,37191,37.0,191.0,North Carolina,Wayne County,12,18,CO
+8069,8,69,Colorado,Larimer County,38009,38.0,9.0,North Dakota,Bottineau County,4,7,CO
+8005,8,5,Colorado,Arapahoe County,38015,38.0,15.0,North Dakota,Burleigh County,6,9,CO
+8013,8,13,Colorado,Boulder County,38017,38.0,17.0,North Dakota,Cass County,54,52,CO
+8031,8,31,Colorado,Denver County,38017,38.0,17.0,North Dakota,Cass County,21,32,CO
+8041,8,41,Colorado,El Paso County,38017,38.0,17.0,North Dakota,Cass County,31,48,CO
+8043,8,43,Colorado,Fremont County,38017,38.0,17.0,North Dakota,Cass County,19,27,CO
+8053,8,53,Colorado,Hinsdale County,38017,38.0,17.0,North Dakota,Cass County,7,10,CO
+8067,8,67,Colorado,La Plata County,38017,38.0,17.0,North Dakota,Cass County,3,4,CO
+8071,8,71,Colorado,Las Animas County,38017,38.0,17.0,North Dakota,Cass County,5,8,CO
+8081,8,81,Colorado,Moffat County,38017,38.0,17.0,North Dakota,Cass County,10,16,CO
+8099,8,99,Colorado,Prowers County,38017,38.0,17.0,North Dakota,Cass County,11,12,CO
+8123,8,123,Colorado,Weld County,38017,38.0,17.0,North Dakota,Cass County,23,24,CO
+8063,8,63,Colorado,Kit Carson County,38021,38.0,21.0,North Dakota,Dickey County,5,10,CO
+8089,8,89,Colorado,Otero County,38025,38.0,25.0,North Dakota,Dunn County,12,11,CO
+8119,8,119,Colorado,Teller County,38025,38.0,25.0,North Dakota,Dunn County,11,17,CO
+8123,8,123,Colorado,Weld County,38025,38.0,25.0,North Dakota,Dunn County,101,146,CO
+8005,8,5,Colorado,Arapahoe County,38053,38.0,53.0,North Dakota,McKenzie County,7,11,CO
+8031,8,31,Colorado,Denver County,38053,38.0,53.0,North Dakota,McKenzie County,7,11,CO
+8035,8,35,Colorado,Douglas County,38053,38.0,53.0,North Dakota,McKenzie County,4,7,CO
+8075,8,75,Colorado,Logan County,38053,38.0,53.0,North Dakota,McKenzie County,13,20,CO
+8077,8,77,Colorado,Mesa County,38053,38.0,53.0,North Dakota,McKenzie County,9,13,CO
+8093,8,93,Colorado,Park County,38053,38.0,53.0,North Dakota,McKenzie County,5,9,CO
+8123,8,123,Colorado,Weld County,38053,38.0,53.0,North Dakota,McKenzie County,35,48,CO
+8001,8,1,Colorado,Adams County,38061,38.0,61.0,North Dakota,Mountrail County,14,23,CO
+8045,8,45,Colorado,Garfield County,38061,38.0,61.0,North Dakota,Mountrail County,4,6,CO
+8059,8,59,Colorado,Jefferson County,38061,38.0,61.0,North Dakota,Mountrail County,12,14,CO
+8073,8,73,Colorado,Lincoln County,38061,38.0,61.0,North Dakota,Mountrail County,3,5,CO
+8077,8,77,Colorado,Mesa County,38061,38.0,61.0,North Dakota,Mountrail County,42,40,CO
+8081,8,81,Colorado,Moffat County,38061,38.0,61.0,North Dakota,Mountrail County,5,8,CO
+8087,8,87,Colorado,Morgan County,38061,38.0,61.0,North Dakota,Mountrail County,30,45,CO
+8093,8,93,Colorado,Park County,38061,38.0,61.0,North Dakota,Mountrail County,10,19,CO
+8001,8,1,Colorado,Adams County,38089,38.0,89.0,North Dakota,Stark County,64,51,CO
+8041,8,41,Colorado,El Paso County,38089,38.0,89.0,North Dakota,Stark County,75,69,CO
+8043,8,43,Colorado,Fremont County,38089,38.0,89.0,North Dakota,Stark County,10,15,CO
+8045,8,45,Colorado,Garfield County,38089,38.0,89.0,North Dakota,Stark County,63,98,CO
+8059,8,59,Colorado,Jefferson County,38089,38.0,89.0,North Dakota,Stark County,25,26,CO
+8075,8,75,Colorado,Logan County,38089,38.0,89.0,North Dakota,Stark County,3,4,CO
+8077,8,77,Colorado,Mesa County,38089,38.0,89.0,North Dakota,Stark County,123,85,CO
+8085,8,85,Colorado,Montrose County,38089,38.0,89.0,North Dakota,Stark County,15,24,CO
+8093,8,93,Colorado,Park County,38093,38.0,93.0,North Dakota,Stutsman County,10,15,CO
+8069,8,69,Colorado,Larimer County,38101,38.0,101.0,North Dakota,Ward County,36,46,CO
+8077,8,77,Colorado,Mesa County,38101,38.0,101.0,North Dakota,Ward County,51,65,CO
+8001,8,1,Colorado,Adams County,38105,38.0,105.0,North Dakota,Williams County,62,75,CO
+8005,8,5,Colorado,Arapahoe County,38105,38.0,105.0,North Dakota,Williams County,25,29,CO
+8013,8,13,Colorado,Boulder County,38105,38.0,105.0,North Dakota,Williams County,43,43,CO
+8029,8,29,Colorado,Delta County,38105,38.0,105.0,North Dakota,Williams County,12,18,CO
+8031,8,31,Colorado,Denver County,38105,38.0,105.0,North Dakota,Williams County,16,19,CO
+8035,8,35,Colorado,Douglas County,38105,38.0,105.0,North Dakota,Williams County,25,29,CO
+8039,8,39,Colorado,Elbert County,38105,38.0,105.0,North Dakota,Williams County,3,5,CO
+8041,8,41,Colorado,El Paso County,38105,38.0,105.0,North Dakota,Williams County,11,18,CO
+8043,8,43,Colorado,Fremont County,38105,38.0,105.0,North Dakota,Williams County,3,5,CO
+8047,8,47,Colorado,Gilpin County,38105,38.0,105.0,North Dakota,Williams County,16,25,CO
+8059,8,59,Colorado,Jefferson County,38105,38.0,105.0,North Dakota,Williams County,30,25,CO
+8069,8,69,Colorado,Larimer County,38105,38.0,105.0,North Dakota,Williams County,76,86,CO
+8077,8,77,Colorado,Mesa County,38105,38.0,105.0,North Dakota,Williams County,161,88,CO
+8095,8,95,Colorado,Phillips County,38105,38.0,105.0,North Dakota,Williams County,5,8,CO
+8101,8,101,Colorado,Pueblo County,38105,38.0,105.0,North Dakota,Williams County,6,11,CO
+8123,8,123,Colorado,Weld County,38105,38.0,105.0,North Dakota,Williams County,86,58,CO
+8059,8,59,Colorado,Jefferson County,39017,39.0,17.0,Ohio,Butler County,27,43,CO
+8117,8,117,Colorado,Summit County,39017,39.0,17.0,Ohio,Butler County,108,126,CO
+8031,8,31,Colorado,Denver County,39027,39.0,27.0,Ohio,Clinton County,7,13,CO
+8005,8,5,Colorado,Arapahoe County,39035,39.0,35.0,Ohio,Cuyahoga County,23,23,CO
+8013,8,13,Colorado,Boulder County,39035,39.0,35.0,Ohio,Cuyahoga County,21,35,CO
+8019,8,19,Colorado,Clear Creek County,39035,39.0,35.0,Ohio,Cuyahoga County,13,22,CO
+8031,8,31,Colorado,Denver County,39035,39.0,35.0,Ohio,Cuyahoga County,17,21,CO
+8035,8,35,Colorado,Douglas County,39035,39.0,35.0,Ohio,Cuyahoga County,15,22,CO
+8059,8,59,Colorado,Jefferson County,39035,39.0,35.0,Ohio,Cuyahoga County,28,32,CO
+8005,8,5,Colorado,Arapahoe County,39049,39.0,49.0,Ohio,Franklin County,13,20,CO
+8031,8,31,Colorado,Denver County,39049,39.0,49.0,Ohio,Franklin County,168,187,CO
+8035,8,35,Colorado,Douglas County,39049,39.0,49.0,Ohio,Franklin County,19,22,CO
+8041,8,41,Colorado,El Paso County,39049,39.0,49.0,Ohio,Franklin County,8,13,CO
+8059,8,59,Colorado,Jefferson County,39049,39.0,49.0,Ohio,Franklin County,19,21,CO
+8123,8,123,Colorado,Weld County,39049,39.0,49.0,Ohio,Franklin County,11,14,CO
+8035,8,35,Colorado,Douglas County,39061,39.0,61.0,Ohio,Hamilton County,14,21,CO
+8059,8,59,Colorado,Jefferson County,39061,39.0,61.0,Ohio,Hamilton County,9,14,CO
+8069,8,69,Colorado,Larimer County,39061,39.0,61.0,Ohio,Hamilton County,8,14,CO
+8059,8,59,Colorado,Jefferson County,39063,39.0,63.0,Ohio,Hancock County,39,51,CO
+8029,8,29,Colorado,Delta County,39067,39.0,67.0,Ohio,Harrison County,11,16,CO
+8031,8,31,Colorado,Denver County,39089,39.0,89.0,Ohio,Licking County,19,29,CO
+8069,8,69,Colorado,Larimer County,39093,39.0,93.0,Ohio,Lorain County,40,61,CO
+8059,8,59,Colorado,Jefferson County,39095,39.0,95.0,Ohio,Lucas County,7,11,CO
+8035,8,35,Colorado,Douglas County,39097,39.0,97.0,Ohio,Madison County,7,12,CO
+8005,8,5,Colorado,Arapahoe County,39113,39.0,113.0,Ohio,Montgomery County,44,48,CO
+8035,8,35,Colorado,Douglas County,39113,39.0,113.0,Ohio,Montgomery County,7,11,CO
+8085,8,85,Colorado,Montrose County,39113,39.0,113.0,Ohio,Montgomery County,3,5,CO
+8001,8,1,Colorado,Adams County,39131,39.0,131.0,Ohio,Pike County,11,17,CO
+8111,8,111,Colorado,San Juan County,39149,39.0,149.0,Ohio,Shelby County,7,8,CO
+8041,8,41,Colorado,El Paso County,39153,39.0,153.0,Ohio,Summit County,33,39,CO
+8005,8,5,Colorado,Arapahoe County,39159,39.0,159.0,Ohio,Union County,18,28,CO
+8031,8,31,Colorado,Denver County,39165,39.0,165.0,Ohio,Warren County,48,75,CO
+8041,8,41,Colorado,El Paso County,39167,39.0,167.0,Ohio,Washington County,17,27,CO
+8075,8,75,Colorado,Logan County,39169,39.0,169.0,Ohio,Wayne County,12,19,CO
+8123,8,123,Colorado,Weld County,39173,39.0,173.0,Ohio,Wood County,3,5,CO
+8077,8,77,Colorado,Mesa County,40003,40.0,3.0,Oklahoma,Alfalfa County,33,39,CO
+8069,8,69,Colorado,Larimer County,40015,40.0,15.0,Oklahoma,Caddo County,11,18,CO
+8005,8,5,Colorado,Arapahoe County,40019,40.0,19.0,Oklahoma,Carter County,10,16,CO
+8013,8,13,Colorado,Boulder County,40027,40.0,27.0,Oklahoma,Cleveland County,11,17,CO
+8041,8,41,Colorado,El Paso County,40027,40.0,27.0,Oklahoma,Cleveland County,13,16,CO
+8005,8,5,Colorado,Arapahoe County,40065,40.0,65.0,Oklahoma,Jackson County,5,11,CO
+8077,8,77,Colorado,Mesa County,40097,40.0,97.0,Oklahoma,Mayes County,27,35,CO
+8005,8,5,Colorado,Arapahoe County,40109,40.0,109.0,Oklahoma,Oklahoma County,10,16,CO
+8009,8,9,Colorado,Baca County,40109,40.0,109.0,Oklahoma,Oklahoma County,7,7,CO
+8013,8,13,Colorado,Boulder County,40109,40.0,109.0,Oklahoma,Oklahoma County,22,24,CO
+8031,8,31,Colorado,Denver County,40109,40.0,109.0,Oklahoma,Oklahoma County,79,91,CO
+8041,8,41,Colorado,El Paso County,40109,40.0,109.0,Oklahoma,Oklahoma County,33,28,CO
+8059,8,59,Colorado,Jefferson County,40109,40.0,109.0,Oklahoma,Oklahoma County,22,34,CO
+8067,8,67,Colorado,La Plata County,40109,40.0,109.0,Oklahoma,Oklahoma County,3,5,CO
+8099,8,99,Colorado,Prowers County,40109,40.0,109.0,Oklahoma,Oklahoma County,1,2,CO
+8039,8,39,Colorado,Elbert County,40111,40.0,111.0,Oklahoma,Okmulgee County,6,10,CO
+8101,8,101,Colorado,Pueblo County,40113,40.0,113.0,Oklahoma,Osage County,21,19,CO
+8013,8,13,Colorado,Boulder County,40119,40.0,119.0,Oklahoma,Payne County,18,27,CO
+8099,8,99,Colorado,Prowers County,40119,40.0,119.0,Oklahoma,Payne County,5,9,CO
+8077,8,77,Colorado,Mesa County,40121,40.0,121.0,Oklahoma,Pittsburg County,23,39,CO
+8069,8,69,Colorado,Larimer County,40129,40.0,129.0,Oklahoma,Roger Mills County,34,53,CO
+8005,8,5,Colorado,Arapahoe County,40131,40.0,131.0,Oklahoma,Rogers County,8,13,CO
+8031,8,31,Colorado,Denver County,40137,40.0,137.0,Oklahoma,Stephens County,66,68,CO
+8031,8,31,Colorado,Denver County,40143,40.0,143.0,Oklahoma,Tulsa County,14,21,CO
+8035,8,35,Colorado,Douglas County,40143,40.0,143.0,Oklahoma,Tulsa County,12,19,CO
+8041,8,41,Colorado,El Paso County,40143,40.0,143.0,Oklahoma,Tulsa County,5,9,CO
+8077,8,77,Colorado,Mesa County,40143,40.0,143.0,Oklahoma,Tulsa County,10,11,CO
+8005,8,5,Colorado,Arapahoe County,40151,40.0,151.0,Oklahoma,Woods County,11,19,CO
+8005,8,5,Colorado,Arapahoe County,41005,41.0,5.0,Oregon,Clackamas County,18,20,CO
+8013,8,13,Colorado,Boulder County,41005,41.0,5.0,Oregon,Clackamas County,23,26,CO
+8069,8,69,Colorado,Larimer County,41017,41.0,17.0,Oregon,Deschutes County,12,18,CO
+8073,8,73,Colorado,Lincoln County,41047,41.0,47.0,Oregon,Marion County,2,3,CO
+8005,8,5,Colorado,Arapahoe County,41051,41.0,51.0,Oregon,Multnomah County,4,7,CO
+8013,8,13,Colorado,Boulder County,41051,41.0,51.0,Oregon,Multnomah County,23,25,CO
+8083,8,83,Colorado,Montezuma County,41051,41.0,51.0,Oregon,Multnomah County,24,36,CO
+8093,8,93,Colorado,Park County,41059,41.0,59.0,Oregon,Umatilla County,12,19,CO
+8067,8,67,Colorado,La Plata County,41063,41.0,63.0,Oregon,Wallowa County,14,10,CO
+8013,8,13,Colorado,Boulder County,41067,41.0,67.0,Oregon,Washington County,13,20,CO
+8005,8,5,Colorado,Arapahoe County,42003,42.0,3.0,Pennsylvania,Allegheny County,30,42,CO
+8013,8,13,Colorado,Boulder County,42003,42.0,3.0,Pennsylvania,Allegheny County,54,58,CO
+8035,8,35,Colorado,Douglas County,42003,42.0,3.0,Pennsylvania,Allegheny County,35,41,CO
+8059,8,59,Colorado,Jefferson County,42003,42.0,3.0,Pennsylvania,Allegheny County,11,18,CO
+8031,8,31,Colorado,Denver County,42029,42.0,29.0,Pennsylvania,Chester County,8,13,CO
+8013,8,13,Colorado,Boulder County,42039,42.0,39.0,Pennsylvania,Crawford County,15,24,CO
+8059,8,59,Colorado,Jefferson County,42043,42.0,43.0,Pennsylvania,Dauphin County,10,15,CO
+8013,8,13,Colorado,Boulder County,42045,42.0,45.0,Pennsylvania,Delaware County,5,8,CO
+8031,8,31,Colorado,Denver County,42053,42.0,53.0,Pennsylvania,Forest County,5,8,CO
+8041,8,41,Colorado,El Paso County,42077,42.0,77.0,Pennsylvania,Lehigh County,37,58,CO
+8069,8,69,Colorado,Larimer County,42077,42.0,77.0,Pennsylvania,Lehigh County,58,75,CO
+8123,8,123,Colorado,Weld County,42091,42.0,91.0,Pennsylvania,Montgomery County,14,16,CO
+8001,8,1,Colorado,Adams County,42095,42.0,95.0,Pennsylvania,Northampton County,16,17,CO
+8001,8,1,Colorado,Adams County,42101,42.0,101.0,Pennsylvania,Philadelphia County,16,26,CO
+8005,8,5,Colorado,Arapahoe County,42101,42.0,101.0,Pennsylvania,Philadelphia County,76,84,CO
+8013,8,13,Colorado,Boulder County,42101,42.0,101.0,Pennsylvania,Philadelphia County,11,16,CO
+8031,8,31,Colorado,Denver County,42101,42.0,101.0,Pennsylvania,Philadelphia County,46,53,CO
+8035,8,35,Colorado,Douglas County,42101,42.0,101.0,Pennsylvania,Philadelphia County,11,18,CO
+8041,8,41,Colorado,El Paso County,42101,42.0,101.0,Pennsylvania,Philadelphia County,12,19,CO
+8059,8,59,Colorado,Jefferson County,42101,42.0,101.0,Pennsylvania,Philadelphia County,9,14,CO
+8077,8,77,Colorado,Mesa County,42101,42.0,101.0,Pennsylvania,Philadelphia County,13,21,CO
+8123,8,123,Colorado,Weld County,42101,42.0,101.0,Pennsylvania,Philadelphia County,14,23,CO
+8069,8,69,Colorado,Larimer County,42111,42.0,111.0,Pennsylvania,Somerset County,3,5,CO
+8005,8,5,Colorado,Arapahoe County,42117,42.0,117.0,Pennsylvania,Tioga County,8,12,CO
+8035,8,35,Colorado,Douglas County,44007,44.0,7.0,Rhode Island,Providence County,14,22,CO
+8035,8,35,Colorado,Douglas County,45003,45.0,3.0,South Carolina,Aiken County,6,9,CO
+8005,8,5,Colorado,Arapahoe County,45045,45.0,45.0,South Carolina,Greenville County,9,14,CO
+8069,8,69,Colorado,Larimer County,45051,45.0,51.0,South Carolina,Horry County,12,18,CO
+8001,8,1,Colorado,Adams County,45063,45.0,63.0,South Carolina,Lexington County,10,16,CO
+8005,8,5,Colorado,Arapahoe County,45085,45.0,85.0,South Carolina,Sumter County,5,7,CO
+8005,8,5,Colorado,Arapahoe County,46003,46.0,3.0,South Dakota,Aurora County,23,36,CO
+8031,8,31,Colorado,Denver County,46003,46.0,3.0,South Dakota,Aurora County,66,48,CO
+8069,8,69,Colorado,Larimer County,46005,46.0,5.0,South Dakota,Beadle County,10,16,CO
+8041,8,41,Colorado,El Paso County,46013,46.0,13.0,South Dakota,Brown County,23,36,CO
+8069,8,69,Colorado,Larimer County,46027,46.0,27.0,South Dakota,Clay County,26,35,CO
+8091,8,91,Colorado,Ouray County,46081,46.0,81.0,South Dakota,Lawrence County,8,13,CO
+8005,8,5,Colorado,Arapahoe County,46099,46.0,99.0,South Dakota,Minnehaha County,11,17,CO
+8031,8,31,Colorado,Denver County,46099,46.0,99.0,South Dakota,Minnehaha County,15,20,CO
+8069,8,69,Colorado,Larimer County,46099,46.0,99.0,South Dakota,Minnehaha County,7,12,CO
+8123,8,123,Colorado,Weld County,46099,46.0,99.0,South Dakota,Minnehaha County,17,21,CO
+8041,8,41,Colorado,El Paso County,46103,46.0,103.0,South Dakota,Pennington County,69,68,CO
+8013,8,13,Colorado,Boulder County,46125,46.0,125.0,South Dakota,Turner County,4,6,CO
+8005,8,5,Colorado,Arapahoe County,46137,46.0,137.0,South Dakota,Ziebach County,34,33,CO
+8045,8,45,Colorado,Garfield County,47001,47.0,1.0,Tennessee,Anderson County,13,19,CO
+8059,8,59,Colorado,Jefferson County,47021,47.0,21.0,Tennessee,Cheatham County,14,21,CO
+8031,8,31,Colorado,Denver County,47025,47.0,25.0,Tennessee,Claiborne County,4,6,CO
+8001,8,1,Colorado,Adams County,47037,47.0,37.0,Tennessee,Davidson County,26,35,CO
+8005,8,5,Colorado,Arapahoe County,47037,47.0,37.0,Tennessee,Davidson County,7,14,CO
+8013,8,13,Colorado,Boulder County,47037,47.0,37.0,Tennessee,Davidson County,37,37,CO
+8001,8,1,Colorado,Adams County,47065,47.0,65.0,Tennessee,Hamilton County,22,33,CO
+8029,8,29,Colorado,Delta County,47065,47.0,65.0,Tennessee,Hamilton County,10,17,CO
+8041,8,41,Colorado,El Paso County,47065,47.0,65.0,Tennessee,Hamilton County,31,34,CO
+8069,8,69,Colorado,Larimer County,47065,47.0,65.0,Tennessee,Hamilton County,6,11,CO
+8059,8,59,Colorado,Jefferson County,47093,47.0,93.0,Tennessee,Knox County,37,44,CO
+8077,8,77,Colorado,Mesa County,47093,47.0,93.0,Tennessee,Knox County,15,24,CO
+8013,8,13,Colorado,Boulder County,47149,47.0,149.0,Tennessee,Rutherford County,7,9,CO
+8005,8,5,Colorado,Arapahoe County,47157,47.0,157.0,Tennessee,Shelby County,15,16,CO
+8035,8,35,Colorado,Douglas County,47157,47.0,157.0,Tennessee,Shelby County,30,34,CO
+8041,8,41,Colorado,El Paso County,47157,47.0,157.0,Tennessee,Shelby County,12,15,CO
+8059,8,59,Colorado,Jefferson County,47157,47.0,157.0,Tennessee,Shelby County,18,32,CO
+8069,8,69,Colorado,Larimer County,47157,47.0,157.0,Tennessee,Shelby County,15,33,CO
+8077,8,77,Colorado,Mesa County,47157,47.0,157.0,Tennessee,Shelby County,3,8,CO
+8123,8,123,Colorado,Weld County,47179,47.0,179.0,Tennessee,Washington County,17,27,CO
+8031,8,31,Colorado,Denver County,47187,47.0,187.0,Tennessee,Williamson County,14,22,CO
+8035,8,35,Colorado,Douglas County,48001,48.0,1.0,Texas,Anderson County,15,23,CO
+8041,8,41,Colorado,El Paso County,48005,48.0,5.0,Texas,Angelina County,14,22,CO
+8009,8,9,Colorado,Baca County,48013,48.0,13.0,Texas,Atascosa County,7,9,CO
+8035,8,35,Colorado,Douglas County,48021,48.0,21.0,Texas,Bastrop County,11,17,CO
+8005,8,5,Colorado,Arapahoe County,48027,48.0,27.0,Texas,Bell County,19,30,CO
+8041,8,41,Colorado,El Paso County,48027,48.0,27.0,Texas,Bell County,17,32,CO
+8001,8,1,Colorado,Adams County,48029,48.0,29.0,Texas,Bexar County,30,35,CO
+8005,8,5,Colorado,Arapahoe County,48029,48.0,29.0,Texas,Bexar County,70,56,CO
+8014,8,14,Colorado,Broomfield County,48029,48.0,29.0,Texas,Bexar County,4,8,CO
+8035,8,35,Colorado,Douglas County,48029,48.0,29.0,Texas,Bexar County,53,39,CO
+8039,8,39,Colorado,Elbert County,48029,48.0,29.0,Texas,Bexar County,2,5,CO
+8041,8,41,Colorado,El Paso County,48029,48.0,29.0,Texas,Bexar County,81,72,CO
+8059,8,59,Colorado,Jefferson County,48029,48.0,29.0,Texas,Bexar County,35,56,CO
+8069,8,69,Colorado,Larimer County,48029,48.0,29.0,Texas,Bexar County,14,21,CO
+8097,8,97,Colorado,Pitkin County,48029,48.0,29.0,Texas,Bexar County,7,13,CO
+8119,8,119,Colorado,Teller County,48041,48.0,41.0,Texas,Brazos County,2,3,CO
+8005,8,5,Colorado,Arapahoe County,48049,48.0,49.0,Texas,Brown County,6,9,CO
+8067,8,67,Colorado,La Plata County,48049,48.0,49.0,Texas,Brown County,8,11,CO
+8089,8,89,Colorado,Otero County,48053,48.0,53.0,Texas,Burnet County,2,3,CO
+8001,8,1,Colorado,Adams County,48061,48.0,61.0,Texas,Cameron County,11,18,CO
+8001,8,1,Colorado,Adams County,48085,48.0,85.0,Texas,Collin County,23,35,CO
+8031,8,31,Colorado,Denver County,48085,48.0,85.0,Texas,Collin County,14,22,CO
+8035,8,35,Colorado,Douglas County,48085,48.0,85.0,Texas,Collin County,61,53,CO
+8041,8,41,Colorado,El Paso County,48085,48.0,85.0,Texas,Collin County,12,21,CO
+8059,8,59,Colorado,Jefferson County,48085,48.0,85.0,Texas,Collin County,7,11,CO
+8069,8,69,Colorado,Larimer County,48085,48.0,85.0,Texas,Collin County,14,21,CO
+8059,8,59,Colorado,Jefferson County,48097,48.0,97.0,Texas,Cooke County,20,21,CO
+8069,8,69,Colorado,Larimer County,48097,48.0,97.0,Texas,Cooke County,14,18,CO
+8105,8,105,Colorado,Rio Grande County,48103,48.0,103.0,Texas,Crane County,13,21,CO
+8005,8,5,Colorado,Arapahoe County,48113,48.0,113.0,Texas,Dallas County,6,10,CO
+8007,8,7,Colorado,Archuleta County,48113,48.0,113.0,Texas,Dallas County,7,10,CO
+8031,8,31,Colorado,Denver County,48113,48.0,113.0,Texas,Dallas County,37,28,CO
+8035,8,35,Colorado,Douglas County,48113,48.0,113.0,Texas,Dallas County,115,89,CO
+8041,8,41,Colorado,El Paso County,48113,48.0,113.0,Texas,Dallas County,155,77,CO
+8043,8,43,Colorado,Fremont County,48113,48.0,113.0,Texas,Dallas County,5,8,CO
+8049,8,49,Colorado,Grand County,48113,48.0,113.0,Texas,Dallas County,10,17,CO
+8051,8,51,Colorado,Gunnison County,48113,48.0,113.0,Texas,Dallas County,7,11,CO
+8059,8,59,Colorado,Jefferson County,48113,48.0,113.0,Texas,Dallas County,58,37,CO
+8067,8,67,Colorado,La Plata County,48113,48.0,113.0,Texas,Dallas County,3,5,CO
+8069,8,69,Colorado,Larimer County,48113,48.0,113.0,Texas,Dallas County,30,34,CO
+8077,8,77,Colorado,Mesa County,48113,48.0,113.0,Texas,Dallas County,11,18,CO
+8107,8,107,Colorado,Routt County,48113,48.0,113.0,Texas,Dallas County,29,43,CO
+8119,8,119,Colorado,Teller County,48113,48.0,113.0,Texas,Dallas County,36,45,CO
+8005,8,5,Colorado,Arapahoe County,48121,48.0,121.0,Texas,Denton County,17,26,CO
+8035,8,35,Colorado,Douglas County,48121,48.0,121.0,Texas,Denton County,14,23,CO
+8035,8,35,Colorado,Douglas County,48135,48.0,135.0,Texas,Ector County,10,15,CO
+8099,8,99,Colorado,Prowers County,48139,48.0,139.0,Texas,Ellis County,1,2,CO
+8035,8,35,Colorado,Douglas County,48141,48.0,141.0,Texas,El Paso County,11,18,CO
+8041,8,41,Colorado,El Paso County,48141,48.0,141.0,Texas,El Paso County,34,46,CO
+8059,8,59,Colorado,Jefferson County,48141,48.0,141.0,Texas,El Paso County,11,16,CO
+8083,8,83,Colorado,Montezuma County,48153,48.0,153.0,Texas,Floyd County,45,57,CO
+8001,8,1,Colorado,Adams County,48157,48.0,157.0,Texas,Fort Bend County,13,18,CO
+8031,8,31,Colorado,Denver County,48157,48.0,157.0,Texas,Fort Bend County,18,29,CO
+8123,8,123,Colorado,Weld County,48157,48.0,157.0,Texas,Fort Bend County,20,32,CO
+8041,8,41,Colorado,El Paso County,48169,48.0,169.0,Texas,Garza County,16,26,CO
+8041,8,41,Colorado,El Paso County,48185,48.0,185.0,Texas,Grimes County,7,14,CO
+8001,8,1,Colorado,Adams County,48201,48.0,201.0,Texas,Harris County,17,23,CO
+8005,8,5,Colorado,Arapahoe County,48201,48.0,201.0,Texas,Harris County,69,48,CO
+8007,8,7,Colorado,Archuleta County,48201,48.0,201.0,Texas,Harris County,5,9,CO
+8013,8,13,Colorado,Boulder County,48201,48.0,201.0,Texas,Harris County,75,53,CO
+8014,8,14,Colorado,Broomfield County,48201,48.0,201.0,Texas,Harris County,26,25,CO
+8017,8,17,Colorado,Cheyenne County,48201,48.0,201.0,Texas,Harris County,8,11,CO
+8019,8,19,Colorado,Clear Creek County,48201,48.0,201.0,Texas,Harris County,15,25,CO
+8021,8,21,Colorado,Conejos County,48201,48.0,201.0,Texas,Harris County,2,4,CO
+8023,8,23,Colorado,Costilla County,48201,48.0,201.0,Texas,Harris County,15,21,CO
+8029,8,29,Colorado,Delta County,48201,48.0,201.0,Texas,Harris County,4,6,CO
+8031,8,31,Colorado,Denver County,48201,48.0,201.0,Texas,Harris County,117,78,CO
+8035,8,35,Colorado,Douglas County,48201,48.0,201.0,Texas,Harris County,51,47,CO
+8039,8,39,Colorado,Elbert County,48201,48.0,201.0,Texas,Harris County,7,11,CO
+8041,8,41,Colorado,El Paso County,48201,48.0,201.0,Texas,Harris County,61,54,CO
+8051,8,51,Colorado,Gunnison County,48201,48.0,201.0,Texas,Harris County,9,14,CO
+8059,8,59,Colorado,Jefferson County,48201,48.0,201.0,Texas,Harris County,128,89,CO
+8067,8,67,Colorado,La Plata County,48201,48.0,201.0,Texas,Harris County,11,17,CO
+8069,8,69,Colorado,Larimer County,48201,48.0,201.0,Texas,Harris County,23,21,CO
+8071,8,71,Colorado,Las Animas County,48201,48.0,201.0,Texas,Harris County,6,10,CO
+8085,8,85,Colorado,Montrose County,48201,48.0,201.0,Texas,Harris County,14,22,CO
+8099,8,99,Colorado,Prowers County,48201,48.0,201.0,Texas,Harris County,2,5,CO
+8101,8,101,Colorado,Pueblo County,48201,48.0,201.0,Texas,Harris County,9,14,CO
+8123,8,123,Colorado,Weld County,48201,48.0,201.0,Texas,Harris County,2,4,CO
+8029,8,29,Colorado,Delta County,48205,48.0,205.0,Texas,Hartley County,5,8,CO
+8013,8,13,Colorado,Boulder County,48209,48.0,209.0,Texas,Hays County,4,6,CO
+8001,8,1,Colorado,Adams County,48215,48.0,215.0,Texas,Hidalgo County,20,33,CO
+8005,8,5,Colorado,Arapahoe County,48227,48.0,227.0,Texas,Howard County,4,9,CO
+8069,8,69,Colorado,Larimer County,48237,48.0,237.0,Texas,Jack County,6,10,CO
+8059,8,59,Colorado,Jefferson County,48255,48.0,255.0,Texas,Karnes County,6,10,CO
+8117,8,117,Colorado,Summit County,48259,48.0,259.0,Texas,Kendall County,19,27,CO
+8001,8,1,Colorado,Adams County,48283,48.0,283.0,Texas,La Salle County,11,18,CO
+8053,8,53,Colorado,Hinsdale County,48299,48.0,299.0,Texas,Llano County,2,2,CO
+8041,8,41,Colorado,El Paso County,48329,48.0,329.0,Texas,Midland County,13,20,CO
+8043,8,43,Colorado,Fremont County,48329,48.0,329.0,Texas,Midland County,5,8,CO
+8045,8,45,Colorado,Garfield County,48329,48.0,329.0,Texas,Midland County,18,29,CO
+8113,8,113,Colorado,San Miguel County,48339,48.0,339.0,Texas,Montgomery County,4,5,CO
+8123,8,123,Colorado,Weld County,48339,48.0,339.0,Texas,Montgomery County,11,16,CO
+8071,8,71,Colorado,Las Animas County,48341,48.0,341.0,Texas,Moore County,2,3,CO
+8001,8,1,Colorado,Adams County,48375,48.0,375.0,Texas,Potter County,33,38,CO
+8067,8,67,Colorado,La Plata County,48375,48.0,375.0,Texas,Potter County,57,91,CO
+8053,8,53,Colorado,Hinsdale County,48381,48.0,381.0,Texas,Randall County,1,3,CO
+8031,8,31,Colorado,Denver County,48389,48.0,389.0,Texas,Reeves County,26,42,CO
+8101,8,101,Colorado,Pueblo County,48389,48.0,389.0,Texas,Reeves County,14,21,CO
+8013,8,13,Colorado,Boulder County,48423,48.0,423.0,Texas,Smith County,14,19,CO
+8005,8,5,Colorado,Arapahoe County,48439,48.0,439.0,Texas,Tarrant County,27,24,CO
+8013,8,13,Colorado,Boulder County,48439,48.0,439.0,Texas,Tarrant County,5,11,CO
+8031,8,31,Colorado,Denver County,48439,48.0,439.0,Texas,Tarrant County,34,37,CO
+8035,8,35,Colorado,Douglas County,48439,48.0,439.0,Texas,Tarrant County,20,23,CO
+8041,8,41,Colorado,El Paso County,48439,48.0,439.0,Texas,Tarrant County,13,19,CO
+8059,8,59,Colorado,Jefferson County,48439,48.0,439.0,Texas,Tarrant County,8,14,CO
+8097,8,97,Colorado,Pitkin County,48439,48.0,439.0,Texas,Tarrant County,16,25,CO
+8123,8,123,Colorado,Weld County,48439,48.0,439.0,Texas,Tarrant County,17,19,CO
+8041,8,41,Colorado,El Paso County,48451,48.0,451.0,Texas,Tom Green County,9,17,CO
+8101,8,101,Colorado,Pueblo County,48451,48.0,451.0,Texas,Tom Green County,22,35,CO
+8001,8,1,Colorado,Adams County,48453,48.0,453.0,Texas,Travis County,33,48,CO
+8005,8,5,Colorado,Arapahoe County,48453,48.0,453.0,Texas,Travis County,16,18,CO
+8007,8,7,Colorado,Archuleta County,48453,48.0,453.0,Texas,Travis County,11,18,CO
+8013,8,13,Colorado,Boulder County,48453,48.0,453.0,Texas,Travis County,16,18,CO
+8031,8,31,Colorado,Denver County,48453,48.0,453.0,Texas,Travis County,21,21,CO
+8035,8,35,Colorado,Douglas County,48453,48.0,453.0,Texas,Travis County,81,55,CO
+8053,8,53,Colorado,Hinsdale County,48453,48.0,453.0,Texas,Travis County,3,3,CO
+8059,8,59,Colorado,Jefferson County,48453,48.0,453.0,Texas,Travis County,12,18,CO
+8067,8,67,Colorado,La Plata County,48453,48.0,453.0,Texas,Travis County,3,4,CO
+8119,8,119,Colorado,Teller County,48453,48.0,453.0,Texas,Travis County,13,21,CO
+8123,8,123,Colorado,Weld County,48453,48.0,453.0,Texas,Travis County,19,21,CO
+8013,8,13,Colorado,Boulder County,48465,48.0,465.0,Texas,Val Verde County,7,11,CO
+8005,8,5,Colorado,Arapahoe County,48479,48.0,479.0,Texas,Webb County,5,10,CO
+8101,8,101,Colorado,Pueblo County,48479,48.0,479.0,Texas,Webb County,17,27,CO
+8005,8,5,Colorado,Arapahoe County,48491,48.0,491.0,Texas,Williamson County,18,20,CO
+8041,8,41,Colorado,El Paso County,48505,48.0,505.0,Texas,Zapata County,30,35,CO
+8005,8,5,Colorado,Arapahoe County,49001,49.0,1.0,Utah,Beaver County,6,9,CO
+8031,8,31,Colorado,Denver County,49005,49.0,5.0,Utah,Cache County,35,55,CO
+8069,8,69,Colorado,Larimer County,49013,49.0,13.0,Utah,Duchesne County,8,13,CO
+8029,8,29,Colorado,Delta County,49015,49.0,15.0,Utah,Emery County,13,17,CO
+8059,8,59,Colorado,Jefferson County,49015,49.0,15.0,Utah,Emery County,8,12,CO
+8027,8,27,Colorado,Custer County,49019,49.0,19.0,Utah,Grand County,9,14,CO
+8077,8,77,Colorado,Mesa County,49019,49.0,19.0,Utah,Grand County,47,44,CO
+8085,8,85,Colorado,Montrose County,49019,49.0,19.0,Utah,Grand County,2,4,CO
+8113,8,113,Colorado,San Miguel County,49019,49.0,19.0,Utah,Grand County,7,13,CO
+8001,8,1,Colorado,Adams County,49035,49.0,35.0,Utah,Salt Lake County,96,111,CO
+8005,8,5,Colorado,Arapahoe County,49035,49.0,35.0,Utah,Salt Lake County,28,23,CO
+8013,8,13,Colorado,Boulder County,49035,49.0,35.0,Utah,Salt Lake County,70,53,CO
+8029,8,29,Colorado,Delta County,49035,49.0,35.0,Utah,Salt Lake County,4,6,CO
+8031,8,31,Colorado,Denver County,49035,49.0,35.0,Utah,Salt Lake County,71,56,CO
+8035,8,35,Colorado,Douglas County,49035,49.0,35.0,Utah,Salt Lake County,55,40,CO
+8037,8,37,Colorado,Eagle County,49035,49.0,35.0,Utah,Salt Lake County,2,3,CO
+8041,8,41,Colorado,El Paso County,49035,49.0,35.0,Utah,Salt Lake County,10,15,CO
+8045,8,45,Colorado,Garfield County,49035,49.0,35.0,Utah,Salt Lake County,12,29,CO
+8059,8,59,Colorado,Jefferson County,49035,49.0,35.0,Utah,Salt Lake County,47,38,CO
+8067,8,67,Colorado,La Plata County,49035,49.0,35.0,Utah,Salt Lake County,5,7,CO
+8069,8,69,Colorado,Larimer County,49035,49.0,35.0,Utah,Salt Lake County,123,123,CO
+8077,8,77,Colorado,Mesa County,49035,49.0,35.0,Utah,Salt Lake County,43,49,CO
+8097,8,97,Colorado,Pitkin County,49035,49.0,35.0,Utah,Salt Lake County,4,9,CO
+8117,8,117,Colorado,Summit County,49035,49.0,35.0,Utah,Salt Lake County,11,16,CO
+8119,8,119,Colorado,Teller County,49035,49.0,35.0,Utah,Salt Lake County,8,12,CO
+8033,8,33,Colorado,Dolores County,49037,49.0,37.0,Utah,San Juan County,24,23,CO
+8067,8,67,Colorado,La Plata County,49037,49.0,37.0,Utah,San Juan County,18,28,CO
+8077,8,77,Colorado,Mesa County,49037,49.0,37.0,Utah,San Juan County,18,29,CO
+8083,8,83,Colorado,Montezuma County,49037,49.0,37.0,Utah,San Juan County,99,52,CO
+8085,8,85,Colorado,Montrose County,49037,49.0,37.0,Utah,San Juan County,3,6,CO
+8113,8,113,Colorado,San Miguel County,49037,49.0,37.0,Utah,San Juan County,23,34,CO
+8005,8,5,Colorado,Arapahoe County,49043,49.0,43.0,Utah,Summit County,16,24,CO
+8031,8,31,Colorado,Denver County,49043,49.0,43.0,Utah,Summit County,58,66,CO
+8063,8,63,Colorado,Kit Carson County,49043,49.0,43.0,Utah,Summit County,1,3,CO
+8005,8,5,Colorado,Arapahoe County,49047,49.0,47.0,Utah,Uintah County,10,16,CO
+8035,8,35,Colorado,Douglas County,49047,49.0,47.0,Utah,Uintah County,24,41,CO
+8045,8,45,Colorado,Garfield County,49047,49.0,47.0,Utah,Uintah County,17,29,CO
+8059,8,59,Colorado,Jefferson County,49047,49.0,47.0,Utah,Uintah County,31,29,CO
+8069,8,69,Colorado,Larimer County,49047,49.0,47.0,Utah,Uintah County,52,61,CO
+8077,8,77,Colorado,Mesa County,49047,49.0,47.0,Utah,Uintah County,31,51,CO
+8081,8,81,Colorado,Moffat County,49047,49.0,47.0,Utah,Uintah County,34,23,CO
+8103,8,103,Colorado,Rio Blanco County,49047,49.0,47.0,Utah,Uintah County,29,26,CO
+8005,8,5,Colorado,Arapahoe County,49049,49.0,49.0,Utah,Utah County,22,20,CO
+8035,8,35,Colorado,Douglas County,49049,49.0,49.0,Utah,Utah County,6,11,CO
+8067,8,67,Colorado,La Plata County,49049,49.0,49.0,Utah,Utah County,3,5,CO
+8069,8,69,Colorado,Larimer County,49049,49.0,49.0,Utah,Utah County,8,13,CO
+8077,8,77,Colorado,Mesa County,49049,49.0,49.0,Utah,Utah County,34,53,CO
+8045,8,45,Colorado,Garfield County,49051,49.0,51.0,Utah,Wasatch County,13,26,CO
+8031,8,31,Colorado,Denver County,49053,49.0,53.0,Utah,Washington County,11,18,CO
+8041,8,41,Colorado,El Paso County,49053,49.0,53.0,Utah,Washington County,36,36,CO
+8045,8,45,Colorado,Garfield County,49053,49.0,53.0,Utah,Washington County,17,29,CO
+8089,8,89,Colorado,Otero County,50023,50.0,23.0,Vermont,Washington County,10,15,CO
+8123,8,123,Colorado,Weld County,50023,50.0,23.0,Vermont,Washington County,6,9,CO
+8005,8,5,Colorado,Arapahoe County,51013,51.0,13.0,Virginia,Arlington County,20,31,CO
+8059,8,59,Colorado,Jefferson County,51013,51.0,13.0,Virginia,Arlington County,28,29,CO
+8013,8,13,Colorado,Boulder County,51019,51.0,19.0,Virginia,Bedford County,9,12,CO
+8005,8,5,Colorado,Arapahoe County,51047,51.0,47.0,Virginia,Culpeper County,6,9,CO
+8005,8,5,Colorado,Arapahoe County,51059,51.0,59.0,Virginia,Fairfax County,12,16,CO
+8013,8,13,Colorado,Boulder County,51059,51.0,59.0,Virginia,Fairfax County,28,32,CO
+8031,8,31,Colorado,Denver County,51059,51.0,59.0,Virginia,Fairfax County,30,34,CO
+8041,8,41,Colorado,El Paso County,51059,51.0,59.0,Virginia,Fairfax County,14,25,CO
+8059,8,59,Colorado,Jefferson County,51059,51.0,59.0,Virginia,Fairfax County,32,34,CO
+8069,8,69,Colorado,Larimer County,51059,51.0,59.0,Virginia,Fairfax County,66,99,CO
+8117,8,117,Colorado,Summit County,51059,51.0,59.0,Virginia,Fairfax County,8,13,CO
+8035,8,35,Colorado,Douglas County,51087,51.0,87.0,Virginia,Henrico County,41,63,CO
+8001,8,1,Colorado,Adams County,51107,51.0,107.0,Virginia,Loudoun County,8,12,CO
+8031,8,31,Colorado,Denver County,51107,51.0,107.0,Virginia,Loudoun County,32,50,CO
+8035,8,35,Colorado,Douglas County,51109,51.0,109.0,Virginia,Louisa County,8,12,CO
+8041,8,41,Colorado,El Paso County,51149,51.0,149.0,Virginia,Prince George County,91,116,CO
+8059,8,59,Colorado,Jefferson County,51157,51.0,157.0,Virginia,Rappahannock County,21,32,CO
+8069,8,69,Colorado,Larimer County,51171,51.0,171.0,Virginia,Shenandoah County,31,45,CO
+8041,8,41,Colorado,El Paso County,51550,51.0,550.0,Virginia,Chesapeake city,6,10,CO
+8123,8,123,Colorado,Weld County,51680,51.0,680.0,Virginia,Lynchburg city,5,9,CO
+8001,8,1,Colorado,Adams County,51710,51.0,710.0,Virginia,Norfolk city,16,26,CO
+8041,8,41,Colorado,El Paso County,51710,51.0,710.0,Virginia,Norfolk city,15,25,CO
+8041,8,41,Colorado,El Paso County,51760,51.0,760.0,Virginia,Richmond city,15,24,CO
+8041,8,41,Colorado,El Paso County,51770,51.0,770.0,Virginia,Roanoke city,3,5,CO
+8041,8,41,Colorado,El Paso County,51810,51.0,810.0,Virginia,Virginia Beach city,3,7,CO
+8035,8,35,Colorado,Douglas County,53029,53.0,29.0,Washington,Island County,2,7,CO
+8059,8,59,Colorado,Jefferson County,53031,53.0,31.0,Washington,Jefferson County,4,8,CO
+8001,8,1,Colorado,Adams County,53033,53.0,33.0,Washington,King County,12,20,CO
+8005,8,5,Colorado,Arapahoe County,53033,53.0,33.0,Washington,King County,17,18,CO
+8013,8,13,Colorado,Boulder County,53033,53.0,33.0,Washington,King County,7,10,CO
+8029,8,29,Colorado,Delta County,53033,53.0,33.0,Washington,King County,17,22,CO
+8031,8,31,Colorado,Denver County,53033,53.0,33.0,Washington,King County,107,92,CO
+8035,8,35,Colorado,Douglas County,53033,53.0,33.0,Washington,King County,37,42,CO
+8041,8,41,Colorado,El Paso County,53033,53.0,33.0,Washington,King County,32,50,CO
+8049,8,49,Colorado,Grand County,53033,53.0,33.0,Washington,King County,6,9,CO
+8059,8,59,Colorado,Jefferson County,53033,53.0,33.0,Washington,King County,52,44,CO
+8069,8,69,Colorado,Larimer County,53033,53.0,33.0,Washington,King County,10,14,CO
+8089,8,89,Colorado,Otero County,53033,53.0,33.0,Washington,King County,18,30,CO
+8123,8,123,Colorado,Weld County,53033,53.0,33.0,Washington,King County,8,13,CO
+8031,8,31,Colorado,Denver County,53053,53.0,53.0,Washington,Pierce County,22,26,CO
+8035,8,35,Colorado,Douglas County,53053,53.0,53.0,Washington,Pierce County,6,11,CO
+8041,8,41,Colorado,El Paso County,53053,53.0,53.0,Washington,Pierce County,30,24,CO
+8051,8,51,Colorado,Gunnison County,53053,53.0,53.0,Washington,Pierce County,9,14,CO
+8059,8,59,Colorado,Jefferson County,53061,53.0,61.0,Washington,Snohomish County,57,53,CO
+8069,8,69,Colorado,Larimer County,53063,53.0,63.0,Washington,Spokane County,28,34,CO
+8001,8,1,Colorado,Adams County,53067,53.0,67.0,Washington,Thurston County,9,16,CO
+8059,8,59,Colorado,Jefferson County,53071,53.0,71.0,Washington,Walla Walla County,9,14,CO
+8059,8,59,Colorado,Jefferson County,53075,53.0,75.0,Washington,Whitman County,8,12,CO
+8041,8,41,Colorado,El Paso County,53077,53.0,77.0,Washington,Yakima County,29,46,CO
+8107,8,107,Colorado,Routt County,54049,54.0,49.0,West Virginia,Marion County,8,13,CO
+8031,8,31,Colorado,Denver County,55003,55.0,3.0,Wisconsin,Ashland County,10,17,CO
+8031,8,31,Colorado,Denver County,55025,55.0,25.0,Wisconsin,Dane County,9,13,CO
+8041,8,41,Colorado,El Paso County,55025,55.0,25.0,Wisconsin,Dane County,35,56,CO
+8035,8,35,Colorado,Douglas County,55035,55.0,35.0,Wisconsin,Eau Claire County,12,13,CO
+8035,8,35,Colorado,Douglas County,55043,55.0,43.0,Wisconsin,Grant County,8,11,CO
+8001,8,1,Colorado,Adams County,55075,55.0,75.0,Wisconsin,Marinette County,2,4,CO
+8049,8,49,Colorado,Grand County,55075,55.0,75.0,Wisconsin,Marinette County,9,19,CO
+8051,8,51,Colorado,Gunnison County,55075,55.0,75.0,Wisconsin,Marinette County,4,10,CO
+8005,8,5,Colorado,Arapahoe County,55079,55.0,79.0,Wisconsin,Milwaukee County,6,10,CO
+8031,8,31,Colorado,Denver County,55079,55.0,79.0,Wisconsin,Milwaukee County,20,25,CO
+8041,8,41,Colorado,El Paso County,55079,55.0,79.0,Wisconsin,Milwaukee County,14,21,CO
+8069,8,69,Colorado,Larimer County,55089,55.0,89.0,Wisconsin,Ozaukee County,31,34,CO
+8011,8,11,Colorado,Bent County,55107,55.0,107.0,Wisconsin,Rusk County,8,13,CO
+8035,8,35,Colorado,Douglas County,55121,55.0,121.0,Wisconsin,Trempealeau County,9,15,CO
+8069,8,69,Colorado,Larimer County,55127,55.0,127.0,Wisconsin,Walworth County,9,15,CO
+8005,8,5,Colorado,Arapahoe County,55133,55.0,133.0,Wisconsin,Waukesha County,12,19,CO
+8051,8,51,Colorado,Gunnison County,55133,55.0,133.0,Wisconsin,Waukesha County,16,26,CO
+8014,8,14,Colorado,Broomfield County,55139,55.0,139.0,Wisconsin,Winnebago County,27,46,CO
+8119,8,119,Colorado,Teller County,55139,55.0,139.0,Wisconsin,Winnebago County,13,22,CO
+8001,8,1,Colorado,Adams County,56001,56.0,1.0,Wyoming,Albany County,71,55,CO
+8005,8,5,Colorado,Arapahoe County,56001,56.0,1.0,Wyoming,Albany County,37,39,CO
+8031,8,31,Colorado,Denver County,56001,56.0,1.0,Wyoming,Albany County,10,15,CO
+8041,8,41,Colorado,El Paso County,56001,56.0,1.0,Wyoming,Albany County,24,39,CO
+8069,8,69,Colorado,Larimer County,56001,56.0,1.0,Wyoming,Albany County,259,99,CO
+8123,8,123,Colorado,Weld County,56001,56.0,1.0,Wyoming,Albany County,8,9,CO
+8087,8,87,Colorado,Morgan County,56003,56.0,3.0,Wyoming,Big Horn County,17,21,CO
+8005,8,5,Colorado,Arapahoe County,56005,56.0,5.0,Wyoming,Campbell County,9,14,CO
+8013,8,13,Colorado,Boulder County,56005,56.0,5.0,Wyoming,Campbell County,7,13,CO
+8029,8,29,Colorado,Delta County,56005,56.0,5.0,Wyoming,Campbell County,53,60,CO
+8039,8,39,Colorado,Elbert County,56005,56.0,5.0,Wyoming,Campbell County,9,14,CO
+8059,8,59,Colorado,Jefferson County,56005,56.0,5.0,Wyoming,Campbell County,11,17,CO
+8069,8,69,Colorado,Larimer County,56005,56.0,5.0,Wyoming,Campbell County,12,19,CO
+8077,8,77,Colorado,Mesa County,56005,56.0,5.0,Wyoming,Campbell County,28,31,CO
+8101,8,101,Colorado,Pueblo County,56005,56.0,5.0,Wyoming,Campbell County,26,33,CO
+8111,8,111,Colorado,San Juan County,56005,56.0,5.0,Wyoming,Campbell County,8,8,CO
+8005,8,5,Colorado,Arapahoe County,56007,56.0,7.0,Wyoming,Carbon County,10,16,CO
+8057,8,57,Colorado,Jackson County,56007,56.0,7.0,Wyoming,Carbon County,6,10,CO
+8059,8,59,Colorado,Jefferson County,56007,56.0,7.0,Wyoming,Carbon County,16,27,CO
+8069,8,69,Colorado,Larimer County,56007,56.0,7.0,Wyoming,Carbon County,36,51,CO
+8081,8,81,Colorado,Moffat County,56007,56.0,7.0,Wyoming,Carbon County,98,71,CO
+8123,8,123,Colorado,Weld County,56007,56.0,7.0,Wyoming,Carbon County,8,14,CO
+8067,8,67,Colorado,La Plata County,56009,56.0,9.0,Wyoming,Converse County,3,6,CO
+8069,8,69,Colorado,Larimer County,56009,56.0,9.0,Wyoming,Converse County,19,20,CO
+8123,8,123,Colorado,Weld County,56009,56.0,9.0,Wyoming,Converse County,30,38,CO
+8005,8,5,Colorado,Arapahoe County,56013,56.0,13.0,Wyoming,Fremont County,30,29,CO
+8031,8,31,Colorado,Denver County,56013,56.0,13.0,Wyoming,Fremont County,15,23,CO
+8059,8,59,Colorado,Jefferson County,56013,56.0,13.0,Wyoming,Fremont County,11,18,CO
+8075,8,75,Colorado,Logan County,56013,56.0,13.0,Wyoming,Fremont County,7,7,CO
+8123,8,123,Colorado,Weld County,56015,56.0,15.0,Wyoming,Goshen County,7,11,CO
+8031,8,31,Colorado,Denver County,56019,56.0,19.0,Wyoming,Johnson County,8,13,CO
+8123,8,123,Colorado,Weld County,56019,56.0,19.0,Wyoming,Johnson County,21,19,CO
+8001,8,1,Colorado,Adams County,56021,56.0,21.0,Wyoming,Laramie County,138,87,CO
+8005,8,5,Colorado,Arapahoe County,56021,56.0,21.0,Wyoming,Laramie County,7,10,CO
+8011,8,11,Colorado,Bent County,56021,56.0,21.0,Wyoming,Laramie County,1,3,CO
+8013,8,13,Colorado,Boulder County,56021,56.0,21.0,Wyoming,Laramie County,13,14,CO
+8014,8,14,Colorado,Broomfield County,56021,56.0,21.0,Wyoming,Laramie County,20,25,CO
+8025,8,25,Colorado,Crowley County,56021,56.0,21.0,Wyoming,Laramie County,3,4,CO
+8031,8,31,Colorado,Denver County,56021,56.0,21.0,Wyoming,Laramie County,115,80,CO
+8035,8,35,Colorado,Douglas County,56021,56.0,21.0,Wyoming,Laramie County,22,25,CO
+8041,8,41,Colorado,El Paso County,56021,56.0,21.0,Wyoming,Laramie County,51,43,CO
+8043,8,43,Colorado,Fremont County,56021,56.0,21.0,Wyoming,Laramie County,8,11,CO
+8045,8,45,Colorado,Garfield County,56021,56.0,21.0,Wyoming,Laramie County,30,41,CO
+8059,8,59,Colorado,Jefferson County,56021,56.0,21.0,Wyoming,Laramie County,20,20,CO
+8069,8,69,Colorado,Larimer County,56021,56.0,21.0,Wyoming,Laramie County,1466,258,CO
+8075,8,75,Colorado,Logan County,56021,56.0,21.0,Wyoming,Laramie County,61,61,CO
+8077,8,77,Colorado,Mesa County,56021,56.0,21.0,Wyoming,Laramie County,39,59,CO
+8081,8,81,Colorado,Moffat County,56021,56.0,21.0,Wyoming,Laramie County,2,4,CO
+8093,8,93,Colorado,Park County,56021,56.0,21.0,Wyoming,Laramie County,24,40,CO
+8101,8,101,Colorado,Pueblo County,56021,56.0,21.0,Wyoming,Laramie County,13,19,CO
+8107,8,107,Colorado,Routt County,56021,56.0,21.0,Wyoming,Laramie County,6,9,CO
+8121,8,121,Colorado,Washington County,56021,56.0,21.0,Wyoming,Laramie County,8,6,CO
+8123,8,123,Colorado,Weld County,56021,56.0,21.0,Wyoming,Laramie County,935,202,CO
+8001,8,1,Colorado,Adams County,56025,56.0,25.0,Wyoming,Natrona County,49,52,CO
+8013,8,13,Colorado,Boulder County,56025,56.0,25.0,Wyoming,Natrona County,58,93,CO
+8029,8,29,Colorado,Delta County,56025,56.0,25.0,Wyoming,Natrona County,12,18,CO
+8031,8,31,Colorado,Denver County,56025,56.0,25.0,Wyoming,Natrona County,21,36,CO
+8035,8,35,Colorado,Douglas County,56025,56.0,25.0,Wyoming,Natrona County,31,28,CO
+8045,8,45,Colorado,Garfield County,56025,56.0,25.0,Wyoming,Natrona County,4,31,CO
+8059,8,59,Colorado,Jefferson County,56025,56.0,25.0,Wyoming,Natrona County,70,46,CO
+8069,8,69,Colorado,Larimer County,56025,56.0,25.0,Wyoming,Natrona County,20,19,CO
+8077,8,77,Colorado,Mesa County,56025,56.0,25.0,Wyoming,Natrona County,42,34,CO
+8107,8,107,Colorado,Routt County,56025,56.0,25.0,Wyoming,Natrona County,8,13,CO
+8123,8,123,Colorado,Weld County,56025,56.0,25.0,Wyoming,Natrona County,39,37,CO
+8069,8,69,Colorado,Larimer County,56027,56.0,27.0,Wyoming,Niobrara County,36,38,CO
+8101,8,101,Colorado,Pueblo County,56031,56.0,31.0,Wyoming,Platte County,11,13,CO
+8123,8,123,Colorado,Weld County,56031,56.0,31.0,Wyoming,Platte County,9,12,CO
+8069,8,69,Colorado,Larimer County,56033,56.0,33.0,Wyoming,Sheridan County,13,15,CO
+8001,8,1,Colorado,Adams County,56035,56.0,35.0,Wyoming,Sublette County,12,22,CO
+8031,8,31,Colorado,Denver County,56035,56.0,35.0,Wyoming,Sublette County,9,14,CO
+8045,8,45,Colorado,Garfield County,56035,56.0,35.0,Wyoming,Sublette County,6,10,CO
+8077,8,77,Colorado,Mesa County,56035,56.0,35.0,Wyoming,Sublette County,24,37,CO
+8059,8,59,Colorado,Jefferson County,56037,56.0,37.0,Wyoming,Sweetwater County,64,58,CO
+8069,8,69,Colorado,Larimer County,56037,56.0,37.0,Wyoming,Sweetwater County,17,26,CO
+8077,8,77,Colorado,Mesa County,56037,56.0,37.0,Wyoming,Sweetwater County,10,15,CO
+8087,8,87,Colorado,Morgan County,56037,56.0,37.0,Wyoming,Sweetwater County,12,15,CO
+8107,8,107,Colorado,Routt County,56037,56.0,37.0,Wyoming,Sweetwater County,5,9,CO
+8031,8,31,Colorado,Denver County,56039,56.0,39.0,Wyoming,Teton County,11,17,CO
+8035,8,35,Colorado,Douglas County,56039,56.0,39.0,Wyoming,Teton County,17,27,CO
+8045,8,45,Colorado,Garfield County,56041,56.0,41.0,Wyoming,Uinta County,45,53,CO
+8069,8,69,Colorado,Larimer County,56041,56.0,41.0,Wyoming,Uinta County,13,22,CO
+8077,8,77,Colorado,Mesa County,56041,56.0,41.0,Wyoming,Uinta County,14,23,CO
+8123,8,123,Colorado,Weld County,56041,56.0,41.0,Wyoming,Uinta County,8,14,CO
+8069,8,69,Colorado,Larimer County,56043,56.0,43.0,Wyoming,Washakie County,9,16,CO
+8123,8,123,Colorado,Weld County,56043,56.0,43.0,Wyoming,Washakie County,4,7,CO
+8031,8,31,Colorado,Denver County,56045,56.0,45.0,Wyoming,Weston County,8,12,CO
+8077,8,77,Colorado,Mesa County,56045,56.0,45.0,Wyoming,Weston County,8,13,CO
+8005,8,5,Colorado,Arapahoe County,301000,301.0,,Canada,,52,43,CO
+8013,8,13,Colorado,Boulder County,301000,301.0,,Canada,,79,54,CO
+8014,8,14,Colorado,Broomfield County,301000,301.0,,Canada,,12,21,CO
+8031,8,31,Colorado,Denver County,301000,301.0,,Canada,,11,13,CO
+8035,8,35,Colorado,Douglas County,301000,301.0,,Canada,,61,52,CO
+8037,8,37,Colorado,Eagle County,301000,301.0,,Canada,,18,23,CO
+8059,8,59,Colorado,Jefferson County,301000,301.0,,Canada,,42,32,CO
+8075,8,75,Colorado,Logan County,301000,301.0,,Canada,,19,32,CO
+8091,8,91,Colorado,Ouray County,301000,301.0,,Canada,,12,19,CO
+8107,8,107,Colorado,Routt County,301000,301.0,,Canada,,9,14,CO
+8031,8,31,Colorado,Denver County,303000,303.0,,Mexico,,28,35,CO
+8001,8,1,Colorado,Adams County,-1,,,Other workplace outside of the U.S.,,6,10,CO
+8005,8,5,Colorado,Arapahoe County,-1,,,Other workplace outside of the U.S.,,98,75,CO
+8007,8,7,Colorado,Archuleta County,-1,,,Other workplace outside of the U.S.,,31,48,CO
+8013,8,13,Colorado,Boulder County,-1,,,Other workplace outside of the U.S.,,211,85,CO
+8031,8,31,Colorado,Denver County,-1,,,Other workplace outside of the U.S.,,164,92,CO
+8035,8,35,Colorado,Douglas County,-1,,,Other workplace outside of the U.S.,,75,45,CO
+8039,8,39,Colorado,Elbert County,-1,,,Other workplace outside of the U.S.,,11,17,CO
+8041,8,41,Colorado,El Paso County,-1,,,Other workplace outside of the U.S.,,418,137,CO
+8043,8,43,Colorado,Fremont County,-1,,,Other workplace outside of the U.S.,,16,27,CO
+8059,8,59,Colorado,Jefferson County,-1,,,Other workplace outside of the U.S.,,80,40,CO
+8067,8,67,Colorado,La Plata County,-1,,,Other workplace outside of the U.S.,,23,26,CO
+8069,8,69,Colorado,Larimer County,-1,,,Other workplace outside of the U.S.,,155,104,CO
+8077,8,77,Colorado,Mesa County,-1,,,Other workplace outside of the U.S.,,49,77,CO
+8083,8,83,Colorado,Montezuma County,-1,,,Other workplace outside of the U.S.,,20,21,CO
+8085,8,85,Colorado,Montrose County,-1,,,Other workplace outside of the U.S.,,33,47,CO
+8091,8,91,Colorado,Ouray County,-1,,,Other workplace outside of the U.S.,,9,8,CO
+8097,8,97,Colorado,Pitkin County,-1,,,Other workplace outside of the U.S.,,27,39,CO
+8101,8,101,Colorado,Pueblo County,-1,,,Other workplace outside of the U.S.,,29,29,CO
+8107,8,107,Colorado,Routt County,-1,,,Other workplace outside of the U.S.,,11,18,CO
+8117,8,117,Colorado,Summit County,-1,,,Other workplace outside of the U.S.,,3,6,CO
+8123,8,123,Colorado,Weld County,-1,,,Other workplace outside of the U.S.,,17,23,CO

@@ -1,0 +1,156 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+15003,15,3,Hawaii,Honolulu County,2016,2.0,16.0,Alaska,Aleutians West Census Area,19,22,HI
+15001,15,1,Hawaii,Hawaii County,2020,2.0,20.0,Alaska,Anchorage Municipality,24,25,HI
+15003,15,3,Hawaii,Honolulu County,2020,2.0,20.0,Alaska,Anchorage Municipality,18,25,HI
+15003,15,3,Hawaii,Honolulu County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,20,20,HI
+15009,15,9,Hawaii,Maui County,2100,2.0,100.0,Alaska,Haines Borough,5,8,HI
+15001,15,1,Hawaii,Hawaii County,4013,4.0,13.0,Arizona,Maricopa County,39,38,HI
+15003,15,3,Hawaii,Honolulu County,4013,4.0,13.0,Arizona,Maricopa County,27,31,HI
+15009,15,9,Hawaii,Maui County,4013,4.0,13.0,Arizona,Maricopa County,11,13,HI
+15001,15,1,Hawaii,Hawaii County,4019,4.0,19.0,Arizona,Pima County,26,33,HI
+15003,15,3,Hawaii,Honolulu County,4019,4.0,19.0,Arizona,Pima County,21,24,HI
+15003,15,3,Hawaii,Honolulu County,6001,6.0,1.0,California,Alameda County,13,17,HI
+15001,15,1,Hawaii,Hawaii County,6013,6.0,13.0,California,Contra Costa County,36,39,HI
+15001,15,1,Hawaii,Hawaii County,6037,6.0,37.0,California,Los Angeles County,57,78,HI
+15003,15,3,Hawaii,Honolulu County,6037,6.0,37.0,California,Los Angeles County,222,114,HI
+15007,15,7,Hawaii,Kauai County,6037,6.0,37.0,California,Los Angeles County,10,18,HI
+15009,15,9,Hawaii,Maui County,6037,6.0,37.0,California,Los Angeles County,26,25,HI
+15003,15,3,Hawaii,Honolulu County,6045,6.0,45.0,California,Mendocino County,4,6,HI
+15009,15,9,Hawaii,Maui County,6053,6.0,53.0,California,Monterey County,3,4,HI
+15001,15,1,Hawaii,Hawaii County,6059,6.0,59.0,California,Orange County,13,20,HI
+15003,15,3,Hawaii,Honolulu County,6059,6.0,59.0,California,Orange County,72,49,HI
+15009,15,9,Hawaii,Maui County,6059,6.0,59.0,California,Orange County,8,13,HI
+15009,15,9,Hawaii,Maui County,6061,6.0,61.0,California,Placer County,3,5,HI
+15003,15,3,Hawaii,Honolulu County,6067,6.0,67.0,California,Sacramento County,23,32,HI
+15003,15,3,Hawaii,Honolulu County,6071,6.0,71.0,California,San Bernardino County,44,32,HI
+15001,15,1,Hawaii,Hawaii County,6073,6.0,73.0,California,San Diego County,9,10,HI
+15003,15,3,Hawaii,Honolulu County,6073,6.0,73.0,California,San Diego County,100,98,HI
+15007,15,7,Hawaii,Kauai County,6073,6.0,73.0,California,San Diego County,20,25,HI
+15009,15,9,Hawaii,Maui County,6073,6.0,73.0,California,San Diego County,16,25,HI
+15001,15,1,Hawaii,Hawaii County,6075,6.0,75.0,California,San Francisco County,15,20,HI
+15003,15,3,Hawaii,Honolulu County,6075,6.0,75.0,California,San Francisco County,39,42,HI
+15001,15,1,Hawaii,Hawaii County,6081,6.0,81.0,California,San Mateo County,3,5,HI
+15003,15,3,Hawaii,Honolulu County,6081,6.0,81.0,California,San Mateo County,102,58,HI
+15007,15,7,Hawaii,Kauai County,6081,6.0,81.0,California,San Mateo County,22,25,HI
+15009,15,9,Hawaii,Maui County,6081,6.0,81.0,California,San Mateo County,9,15,HI
+15003,15,3,Hawaii,Honolulu County,6083,6.0,83.0,California,Santa Barbara County,13,21,HI
+15007,15,7,Hawaii,Kauai County,6085,6.0,85.0,California,Santa Clara County,11,10,HI
+15009,15,9,Hawaii,Maui County,6085,6.0,85.0,California,Santa Clara County,20,20,HI
+15007,15,7,Hawaii,Kauai County,6097,6.0,97.0,California,Sonoma County,5,7,HI
+15003,15,3,Hawaii,Honolulu County,6099,6.0,99.0,California,Stanislaus County,64,76,HI
+15009,15,9,Hawaii,Maui County,8005,8.0,5.0,Colorado,Arapahoe County,2,4,HI
+15009,15,9,Hawaii,Maui County,8013,8.0,13.0,Colorado,Boulder County,7,11,HI
+15003,15,3,Hawaii,Honolulu County,8031,8.0,31.0,Colorado,Denver County,1,2,HI
+15009,15,9,Hawaii,Maui County,8031,8.0,31.0,Colorado,Denver County,9,12,HI
+15003,15,3,Hawaii,Honolulu County,8041,8.0,41.0,Colorado,El Paso County,13,20,HI
+15001,15,1,Hawaii,Hawaii County,9003,9.0,3.0,Connecticut,Hartford County,13,18,HI
+15003,15,3,Hawaii,Honolulu County,10001,10.0,1.0,Delaware,Kent County,5,8,HI
+15003,15,3,Hawaii,Honolulu County,11001,11.0,1.0,District of Columbia,District of Columbia,21,23,HI
+15003,15,3,Hawaii,Honolulu County,12009,12.0,9.0,Florida,Brevard County,8,14,HI
+15003,15,3,Hawaii,Honolulu County,12011,12.0,11.0,Florida,Broward County,11,16,HI
+15003,15,3,Hawaii,Honolulu County,12033,12.0,33.0,Florida,Escambia County,5,8,HI
+15003,15,3,Hawaii,Honolulu County,12057,12.0,57.0,Florida,Hillsborough County,11,17,HI
+15003,15,3,Hawaii,Honolulu County,12086,12.0,86.0,Florida,Miami-Dade County,17,27,HI
+15003,15,3,Hawaii,Honolulu County,12091,12.0,91.0,Florida,Okaloosa County,13,19,HI
+15009,15,9,Hawaii,Maui County,12095,12.0,95.0,Florida,Orange County,7,9,HI
+15009,15,9,Hawaii,Maui County,13067,13.0,67.0,Georgia,Cobb County,1,2,HI
+15003,15,3,Hawaii,Honolulu County,13113,13.0,113.0,Georgia,Fayette County,7,11,HI
+15005,15,5,Hawaii,Kalawao County,13127,13.0,127.0,Georgia,Glynn County,2,2,HI
+15001,15,1,Hawaii,Hawaii County,15001,15.0,1.0,Hawaii,Hawaii County,78955,1602,HI
+15003,15,3,Hawaii,Honolulu County,15001,15.0,1.0,Hawaii,Hawaii County,411,138,HI
+15007,15,7,Hawaii,Kauai County,15001,15.0,1.0,Hawaii,Hawaii County,109,75,HI
+15009,15,9,Hawaii,Maui County,15001,15.0,1.0,Hawaii,Hawaii County,61,40,HI
+15001,15,1,Hawaii,Hawaii County,15003,15.0,3.0,Hawaii,Honolulu County,883,230,HI
+15003,15,3,Hawaii,Honolulu County,15003,15.0,3.0,Hawaii,Honolulu County,481687,2544,HI
+15007,15,7,Hawaii,Kauai County,15003,15.0,3.0,Hawaii,Honolulu County,88,45,HI
+15009,15,9,Hawaii,Maui County,15003,15.0,3.0,Hawaii,Honolulu County,617,192,HI
+15005,15,5,Hawaii,Kalawao County,15005,15.0,5.0,Hawaii,Kalawao County,54,19,HI
+15009,15,9,Hawaii,Maui County,15005,15.0,5.0,Hawaii,Kalawao County,13,11,HI
+15001,15,1,Hawaii,Hawaii County,15007,15.0,7.0,Hawaii,Kauai County,27,23,HI
+15003,15,3,Hawaii,Honolulu County,15007,15.0,7.0,Hawaii,Kauai County,129,72,HI
+15007,15,7,Hawaii,Kauai County,15007,15.0,7.0,Hawaii,Kauai County,32863,688,HI
+15009,15,9,Hawaii,Maui County,15007,15.0,7.0,Hawaii,Kauai County,97,72,HI
+15001,15,1,Hawaii,Hawaii County,15009,15.0,9.0,Hawaii,Maui County,67,54,HI
+15003,15,3,Hawaii,Honolulu County,15009,15.0,9.0,Hawaii,Maui County,472,129,HI
+15005,15,5,Hawaii,Kalawao County,15009,15.0,9.0,Hawaii,Maui County,11,9,HI
+15007,15,7,Hawaii,Kauai County,15009,15.0,9.0,Hawaii,Maui County,20,19,HI
+15009,15,9,Hawaii,Maui County,15009,15.0,9.0,Hawaii,Maui County,78196,1336,HI
+15001,15,1,Hawaii,Hawaii County,17031,17.0,31.0,Illinois,Cook County,22,32,HI
+15003,15,3,Hawaii,Honolulu County,17031,17.0,31.0,Illinois,Cook County,6,10,HI
+15009,15,9,Hawaii,Maui County,17031,17.0,31.0,Illinois,Cook County,3,4,HI
+15009,15,9,Hawaii,Maui County,17037,17.0,37.0,Illinois,DeKalb County,4,6,HI
+15001,15,1,Hawaii,Hawaii County,18003,18.0,3.0,Indiana,Allen County,6,10,HI
+15003,15,3,Hawaii,Honolulu County,20209,20.0,209.0,Kansas,Wyandotte County,5,8,HI
+15003,15,3,Hawaii,Honolulu County,21111,21.0,111.0,Kentucky,Jefferson County,10,15,HI
+15003,15,3,Hawaii,Honolulu County,22115,22.0,115.0,Louisiana,Vernon Parish,10,15,HI
+15003,15,3,Hawaii,Honolulu County,24027,24.0,27.0,Maryland,Howard County,10,13,HI
+15003,15,3,Hawaii,Honolulu County,24031,24.0,31.0,Maryland,Montgomery County,55,68,HI
+15001,15,1,Hawaii,Hawaii County,24035,24.0,35.0,Maryland,Queen Anne's County,23,38,HI
+15003,15,3,Hawaii,Honolulu County,24510,24.0,510.0,Maryland,Baltimore city,9,10,HI
+15001,15,1,Hawaii,Hawaii County,25001,25.0,1.0,Massachusetts,Barnstable County,43,70,HI
+15003,15,3,Hawaii,Honolulu County,25025,25.0,25.0,Massachusetts,Suffolk County,3,6,HI
+15009,15,9,Hawaii,Maui County,26047,26.0,47.0,Michigan,Emmet County,2,3,HI
+15003,15,3,Hawaii,Honolulu County,26163,26.0,163.0,Michigan,Wayne County,22,25,HI
+15003,15,3,Hawaii,Honolulu County,27003,27.0,3.0,Minnesota,Anoka County,11,17,HI
+15009,15,9,Hawaii,Maui County,27053,27.0,53.0,Minnesota,Hennepin County,21,25,HI
+15001,15,1,Hawaii,Hawaii County,27139,27.0,139.0,Minnesota,Scott County,9,14,HI
+15003,15,3,Hawaii,Honolulu County,29169,29.0,169.0,Missouri,Pulaski County,57,92,HI
+15003,15,3,Hawaii,Honolulu County,32003,32.0,3.0,Nevada,Clark County,82,73,HI
+15009,15,9,Hawaii,Maui County,32031,32.0,31.0,Nevada,Washoe County,15,21,HI
+15001,15,1,Hawaii,Hawaii County,33009,33.0,9.0,New Hampshire,Grafton County,5,8,HI
+15003,15,3,Hawaii,Honolulu County,34013,34.0,13.0,New Jersey,Essex County,21,25,HI
+15003,15,3,Hawaii,Honolulu County,36005,36.0,5.0,New York,Bronx County,6,15,HI
+15001,15,1,Hawaii,Hawaii County,36047,36.0,47.0,New York,Kings County,21,34,HI
+15003,15,3,Hawaii,Honolulu County,36047,36.0,47.0,New York,Kings County,8,12,HI
+15001,15,1,Hawaii,Hawaii County,36055,36.0,55.0,New York,Monroe County,3,7,HI
+15003,15,3,Hawaii,Honolulu County,36061,36.0,61.0,New York,New York County,18,21,HI
+15003,15,3,Hawaii,Honolulu County,36081,36.0,81.0,New York,Queens County,29,22,HI
+15003,15,3,Hawaii,Honolulu County,37051,37.0,51.0,North Carolina,Cumberland County,9,20,HI
+15003,15,3,Hawaii,Honolulu County,37067,37.0,67.0,North Carolina,Forsyth County,7,11,HI
+15003,15,3,Hawaii,Honolulu County,37133,37.0,133.0,North Carolina,Onslow County,7,11,HI
+15003,15,3,Hawaii,Honolulu County,37183,37.0,183.0,North Carolina,Wake County,23,37,HI
+15003,15,3,Hawaii,Honolulu County,38101,38.0,101.0,North Dakota,Ward County,16,25,HI
+15009,15,9,Hawaii,Maui County,39035,39.0,35.0,Ohio,Cuyahoga County,7,12,HI
+15003,15,3,Hawaii,Honolulu County,39081,39.0,81.0,Ohio,Jefferson County,3,12,HI
+15003,15,3,Hawaii,Honolulu County,40101,40.0,101.0,Oklahoma,Muskogee County,57,61,HI
+15009,15,9,Hawaii,Maui County,40109,40.0,109.0,Oklahoma,Oklahoma County,8,13,HI
+15003,15,3,Hawaii,Honolulu County,41005,41.0,5.0,Oregon,Clackamas County,7,12,HI
+15001,15,1,Hawaii,Hawaii County,41011,41.0,11.0,Oregon,Coos County,3,5,HI
+15003,15,3,Hawaii,Honolulu County,41015,41.0,15.0,Oregon,Curry County,11,16,HI
+15009,15,9,Hawaii,Maui County,41047,41.0,47.0,Oregon,Marion County,10,18,HI
+15003,15,3,Hawaii,Honolulu County,41051,41.0,51.0,Oregon,Multnomah County,27,36,HI
+15001,15,1,Hawaii,Hawaii County,41067,41.0,67.0,Oregon,Washington County,8,14,HI
+15009,15,9,Hawaii,Maui County,44009,44.0,9.0,Rhode Island,Washington County,11,17,HI
+15003,15,3,Hawaii,Honolulu County,45079,45.0,79.0,South Carolina,Richland County,34,32,HI
+15003,15,3,Hawaii,Honolulu County,47187,47.0,187.0,Tennessee,Williamson County,10,15,HI
+15003,15,3,Hawaii,Honolulu County,48027,48.0,27.0,Texas,Bell County,4,10,HI
+15003,15,3,Hawaii,Honolulu County,48029,48.0,29.0,Texas,Bexar County,6,12,HI
+15003,15,3,Hawaii,Honolulu County,48113,48.0,113.0,Texas,Dallas County,16,18,HI
+15003,15,3,Hawaii,Honolulu County,48121,48.0,121.0,Texas,Denton County,5,8,HI
+15003,15,3,Hawaii,Honolulu County,48201,48.0,201.0,Texas,Harris County,11,15,HI
+15003,15,3,Hawaii,Honolulu County,48333,48.0,333.0,Texas,Mills County,6,11,HI
+15003,15,3,Hawaii,Honolulu County,48355,48.0,355.0,Texas,Nueces County,7,10,HI
+15003,15,3,Hawaii,Honolulu County,48439,48.0,439.0,Texas,Tarrant County,17,18,HI
+15009,15,9,Hawaii,Maui County,48469,48.0,469.0,Texas,Victoria County,12,20,HI
+15001,15,1,Hawaii,Hawaii County,49035,49.0,35.0,Utah,Salt Lake County,21,27,HI
+15003,15,3,Hawaii,Honolulu County,49035,49.0,35.0,Utah,Salt Lake County,8,13,HI
+15009,15,9,Hawaii,Maui County,49035,49.0,35.0,Utah,Salt Lake County,15,18,HI
+15009,15,9,Hawaii,Maui County,51013,51.0,13.0,Virginia,Arlington County,15,23,HI
+15003,15,3,Hawaii,Honolulu County,51059,51.0,59.0,Virginia,Fairfax County,4,8,HI
+15003,15,3,Hawaii,Honolulu County,51107,51.0,107.0,Virginia,Loudoun County,5,7,HI
+15003,15,3,Hawaii,Honolulu County,51177,51.0,177.0,Virginia,Spotsylvania County,9,13,HI
+15003,15,3,Hawaii,Honolulu County,51610,51.0,610.0,Virginia,Falls Church city,6,9,HI
+15001,15,1,Hawaii,Hawaii County,53033,53.0,33.0,Washington,King County,34,41,HI
+15003,15,3,Hawaii,Honolulu County,53033,53.0,33.0,Washington,King County,50,31,HI
+15009,15,9,Hawaii,Maui County,53033,53.0,33.0,Washington,King County,99,95,HI
+15009,15,9,Hawaii,Maui County,53035,53.0,35.0,Washington,Kitsap County,14,16,HI
+15003,15,3,Hawaii,Honolulu County,53053,53.0,53.0,Washington,Pierce County,29,35,HI
+15003,15,3,Hawaii,Honolulu County,53063,53.0,63.0,Washington,Spokane County,6,11,HI
+15003,15,3,Hawaii,Honolulu County,53075,53.0,75.0,Washington,Whitman County,18,22,HI
+15003,15,3,Hawaii,Honolulu County,301000,301.0,,Canada,,13,19,HI
+15009,15,9,Hawaii,Maui County,301000,301.0,,Canada,,10,13,HI
+15009,15,9,Hawaii,Maui County,303000,303.0,,Mexico,,20,31,HI
+15001,15,1,Hawaii,Hawaii County,-1,,,Other workplace outside of the U.S.,,14,20,HI
+15003,15,3,Hawaii,Honolulu County,-1,,,Other workplace outside of the U.S.,,882,212,HI
+15007,15,7,Hawaii,Kauai County,-1,,,Other workplace outside of the U.S.,,18,30,HI
+15009,15,9,Hawaii,Maui County,-1,,,Other workplace outside of the U.S.,,3,4,HI

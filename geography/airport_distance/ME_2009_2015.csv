@@ -1,0 +1,757 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+23019,23,19,Maine,Penobscot County,1045,1.0,45.0,Alabama,Dale County,9,15,ME
+23005,23,5,Maine,Cumberland County,1089,1.0,89.0,Alabama,Madison County,7,11,ME
+23015,23,15,Maine,Lincoln County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,6,10,ME
+23005,23,5,Maine,Cumberland County,4013,4.0,13.0,Arizona,Maricopa County,17,28,ME
+23011,23,11,Maine,Kennebec County,4013,4.0,13.0,Arizona,Maricopa County,26,35,ME
+23019,23,19,Maine,Penobscot County,4013,4.0,13.0,Arizona,Maricopa County,8,13,ME
+23031,23,31,Maine,York County,4013,4.0,13.0,Arizona,Maricopa County,11,18,ME
+23005,23,5,Maine,Cumberland County,4019,4.0,19.0,Arizona,Pima County,25,28,ME
+23027,23,27,Maine,Waldo County,4019,4.0,19.0,Arizona,Pima County,29,45,ME
+23021,23,21,Maine,Piscataquis County,5007,5.0,7.0,Arkansas,Benton County,3,4,ME
+23005,23,5,Maine,Cumberland County,5053,5.0,53.0,Arkansas,Grant County,9,13,ME
+23029,23,29,Maine,Washington County,6001,6.0,1.0,California,Alameda County,2,4,ME
+23005,23,5,Maine,Cumberland County,6013,6.0,13.0,California,Contra Costa County,14,23,ME
+23005,23,5,Maine,Cumberland County,6037,6.0,37.0,California,Los Angeles County,44,50,ME
+23009,23,9,Maine,Hancock County,6037,6.0,37.0,California,Los Angeles County,1,3,ME
+23023,23,23,Maine,Sagadahoc County,6037,6.0,37.0,California,Los Angeles County,3,4,ME
+23029,23,29,Maine,Washington County,6037,6.0,37.0,California,Los Angeles County,1,5,ME
+23003,23,3,Maine,Aroostook County,6059,6.0,59.0,California,Orange County,4,6,ME
+23005,23,5,Maine,Cumberland County,6073,6.0,73.0,California,San Diego County,9,14,ME
+23009,23,9,Maine,Hancock County,6073,6.0,73.0,California,San Diego County,2,3,ME
+23011,23,11,Maine,Kennebec County,6073,6.0,73.0,California,San Diego County,12,12,ME
+23019,23,19,Maine,Penobscot County,6073,6.0,73.0,California,San Diego County,3,4,ME
+23023,23,23,Maine,Sagadahoc County,6073,6.0,73.0,California,San Diego County,5,8,ME
+23027,23,27,Maine,Waldo County,6075,6.0,75.0,California,San Francisco County,3,4,ME
+23005,23,5,Maine,Cumberland County,6085,6.0,85.0,California,Santa Clara County,8,13,ME
+23019,23,19,Maine,Penobscot County,6103,6.0,103.0,California,Tehama County,4,6,ME
+23031,23,31,Maine,York County,8041,8.0,41.0,Colorado,El Paso County,18,29,ME
+23005,23,5,Maine,Cumberland County,9001,9.0,1.0,Connecticut,Fairfield County,52,47,ME
+23007,23,7,Maine,Franklin County,9001,9.0,1.0,Connecticut,Fairfield County,3,4,ME
+23013,23,13,Maine,Knox County,9001,9.0,1.0,Connecticut,Fairfield County,8,8,ME
+23015,23,15,Maine,Lincoln County,9001,9.0,1.0,Connecticut,Fairfield County,2,3,ME
+23025,23,25,Maine,Somerset County,9001,9.0,1.0,Connecticut,Fairfield County,3,4,ME
+23029,23,29,Maine,Washington County,9001,9.0,1.0,Connecticut,Fairfield County,3,5,ME
+23031,23,31,Maine,York County,9001,9.0,1.0,Connecticut,Fairfield County,16,18,ME
+23003,23,3,Maine,Aroostook County,9003,9.0,3.0,Connecticut,Hartford County,4,7,ME
+23005,23,5,Maine,Cumberland County,9003,9.0,3.0,Connecticut,Hartford County,9,15,ME
+23009,23,9,Maine,Hancock County,9003,9.0,3.0,Connecticut,Hartford County,29,30,ME
+23011,23,11,Maine,Kennebec County,9003,9.0,3.0,Connecticut,Hartford County,7,9,ME
+23013,23,13,Maine,Knox County,9003,9.0,3.0,Connecticut,Hartford County,3,4,ME
+23015,23,15,Maine,Lincoln County,9003,9.0,3.0,Connecticut,Hartford County,9,14,ME
+23017,23,17,Maine,Oxford County,9003,9.0,3.0,Connecticut,Hartford County,9,13,ME
+23025,23,25,Maine,Somerset County,9003,9.0,3.0,Connecticut,Hartford County,4,5,ME
+23031,23,31,Maine,York County,9003,9.0,3.0,Connecticut,Hartford County,8,13,ME
+23005,23,5,Maine,Cumberland County,9007,9.0,7.0,Connecticut,Middlesex County,23,34,ME
+23019,23,19,Maine,Penobscot County,9007,9.0,7.0,Connecticut,Middlesex County,5,7,ME
+23031,23,31,Maine,York County,9007,9.0,7.0,Connecticut,Middlesex County,10,15,ME
+23001,23,1,Maine,Androscoggin County,9009,9.0,9.0,Connecticut,New Haven County,4,6,ME
+23005,23,5,Maine,Cumberland County,9009,9.0,9.0,Connecticut,New Haven County,30,35,ME
+23015,23,15,Maine,Lincoln County,9009,9.0,9.0,Connecticut,New Haven County,5,7,ME
+23017,23,17,Maine,Oxford County,9009,9.0,9.0,Connecticut,New Haven County,2,3,ME
+23021,23,21,Maine,Piscataquis County,9009,9.0,9.0,Connecticut,New Haven County,2,4,ME
+23027,23,27,Maine,Waldo County,9009,9.0,9.0,Connecticut,New Haven County,9,16,ME
+23005,23,5,Maine,Cumberland County,9011,9.0,11.0,Connecticut,New London County,17,26,ME
+23009,23,9,Maine,Hancock County,9011,9.0,11.0,Connecticut,New London County,7,10,ME
+23031,23,31,Maine,York County,9011,9.0,11.0,Connecticut,New London County,26,45,ME
+23011,23,11,Maine,Kennebec County,9013,9.0,13.0,Connecticut,Tolland County,16,22,ME
+23017,23,17,Maine,Oxford County,9013,9.0,13.0,Connecticut,Tolland County,5,6,ME
+23007,23,7,Maine,Franklin County,10003,10.0,3.0,Delaware,New Castle County,4,5,ME
+23031,23,31,Maine,York County,10005,10.0,5.0,Delaware,Sussex County,8,14,ME
+23005,23,5,Maine,Cumberland County,11001,11.0,1.0,District of Columbia,District of Columbia,19,21,ME
+23009,23,9,Maine,Hancock County,11001,11.0,1.0,District of Columbia,District of Columbia,3,4,ME
+23017,23,17,Maine,Oxford County,11001,11.0,1.0,District of Columbia,District of Columbia,2,3,ME
+23019,23,19,Maine,Penobscot County,11001,11.0,1.0,District of Columbia,District of Columbia,6,10,ME
+23021,23,21,Maine,Piscataquis County,11001,11.0,1.0,District of Columbia,District of Columbia,2,3,ME
+23031,23,31,Maine,York County,12009,12.0,9.0,Florida,Brevard County,3,5,ME
+23007,23,7,Maine,Franklin County,12011,12.0,11.0,Florida,Broward County,3,5,ME
+23015,23,15,Maine,Lincoln County,12011,12.0,11.0,Florida,Broward County,5,8,ME
+23005,23,5,Maine,Cumberland County,12021,12.0,21.0,Florida,Collier County,6,11,ME
+23009,23,9,Maine,Hancock County,12021,12.0,21.0,Florida,Collier County,3,6,ME
+23011,23,11,Maine,Kennebec County,12021,12.0,21.0,Florida,Collier County,25,42,ME
+23005,23,5,Maine,Cumberland County,12031,12.0,31.0,Florida,Duval County,9,14,ME
+23009,23,9,Maine,Hancock County,12031,12.0,31.0,Florida,Duval County,19,23,ME
+23031,23,31,Maine,York County,12031,12.0,31.0,Florida,Duval County,11,17,ME
+23023,23,23,Maine,Sagadahoc County,12055,12.0,55.0,Florida,Highlands County,9,14,ME
+23009,23,9,Maine,Hancock County,12057,12.0,57.0,Florida,Hillsborough County,2,4,ME
+23013,23,13,Maine,Knox County,12057,12.0,57.0,Florida,Hillsborough County,3,4,ME
+23015,23,15,Maine,Lincoln County,12057,12.0,57.0,Florida,Hillsborough County,5,9,ME
+23031,23,31,Maine,York County,12075,12.0,75.0,Florida,Levy County,16,27,ME
+23003,23,3,Maine,Aroostook County,12083,12.0,83.0,Florida,Marion County,2,2,ME
+23031,23,31,Maine,York County,12083,12.0,83.0,Florida,Marion County,4,5,ME
+23001,23,1,Maine,Androscoggin County,12086,12.0,86.0,Florida,Miami-Dade County,15,19,ME
+23027,23,27,Maine,Waldo County,12086,12.0,86.0,Florida,Miami-Dade County,14,23,ME
+23005,23,5,Maine,Cumberland County,12095,12.0,95.0,Florida,Orange County,27,33,ME
+23025,23,25,Maine,Somerset County,12099,12.0,99.0,Florida,Palm Beach County,7,5,ME
+23027,23,27,Maine,Waldo County,12099,12.0,99.0,Florida,Palm Beach County,3,4,ME
+23005,23,5,Maine,Cumberland County,12103,12.0,103.0,Florida,Pinellas County,9,13,ME
+23005,23,5,Maine,Cumberland County,12107,12.0,107.0,Florida,Putnam County,8,13,ME
+23009,23,9,Maine,Hancock County,12107,12.0,107.0,Florida,Putnam County,8,14,ME
+23013,23,13,Maine,Knox County,12117,12.0,117.0,Florida,Seminole County,3,4,ME
+23023,23,23,Maine,Sagadahoc County,12123,12.0,123.0,Florida,Taylor County,4,6,ME
+23023,23,23,Maine,Sagadahoc County,12127,12.0,127.0,Florida,Volusia County,8,14,ME
+23029,23,29,Maine,Washington County,13033,13.0,33.0,Georgia,Burke County,4,5,ME
+23005,23,5,Maine,Cumberland County,13053,13.0,53.0,Georgia,Chattahoochee County,15,23,ME
+23029,23,29,Maine,Washington County,13067,13.0,67.0,Georgia,Cobb County,2,3,ME
+23031,23,31,Maine,York County,13089,13.0,89.0,Georgia,DeKalb County,27,35,ME
+23019,23,19,Maine,Penobscot County,13103,13.0,103.0,Georgia,Effingham County,15,23,ME
+23005,23,5,Maine,Cumberland County,13121,13.0,121.0,Georgia,Fulton County,12,18,ME
+23019,23,19,Maine,Penobscot County,13121,13.0,121.0,Georgia,Fulton County,5,7,ME
+23023,23,23,Maine,Sagadahoc County,13135,13.0,135.0,Georgia,Gwinnett County,3,5,ME
+23011,23,11,Maine,Kennebec County,13245,13.0,245.0,Georgia,Richmond County,5,8,ME
+23015,23,15,Maine,Lincoln County,13245,13.0,245.0,Georgia,Richmond County,3,5,ME
+23009,23,9,Maine,Hancock County,15003,15.0,3.0,Hawaii,Honolulu County,2,4,ME
+23011,23,11,Maine,Kennebec County,15003,15.0,3.0,Hawaii,Honolulu County,3,5,ME
+23031,23,31,Maine,York County,15003,15.0,3.0,Hawaii,Honolulu County,12,25,ME
+23001,23,1,Maine,Androscoggin County,17031,17.0,31.0,Illinois,Cook County,37,42,ME
+23009,23,9,Maine,Hancock County,17031,17.0,31.0,Illinois,Cook County,3,6,ME
+23019,23,19,Maine,Penobscot County,17043,17.0,43.0,Illinois,DuPage County,9,14,ME
+23025,23,25,Maine,Somerset County,17043,17.0,43.0,Illinois,DuPage County,24,35,ME
+23001,23,1,Maine,Androscoggin County,17097,17.0,97.0,Illinois,Lake County,9,14,ME
+23003,23,3,Maine,Aroostook County,18039,18.0,39.0,Indiana,Elkhart County,2,3,ME
+23009,23,9,Maine,Hancock County,18087,18.0,87.0,Indiana,LaGrange County,4,4,ME
+23031,23,31,Maine,York County,18141,18.0,141.0,Indiana,St. Joseph County,5,8,ME
+23011,23,11,Maine,Kennebec County,19005,19.0,5.0,Iowa,Allamakee County,12,18,ME
+23031,23,31,Maine,York County,19139,19.0,139.0,Iowa,Muscatine County,3,4,ME
+23005,23,5,Maine,Cumberland County,19153,19.0,153.0,Iowa,Polk County,7,12,ME
+23013,23,13,Maine,Knox County,19163,19.0,163.0,Iowa,Scott County,11,19,ME
+23003,23,3,Maine,Aroostook County,19193,19.0,193.0,Iowa,Woodbury County,9,14,ME
+23031,23,31,Maine,York County,20035,20.0,35.0,Kansas,Cowley County,11,18,ME
+23003,23,3,Maine,Aroostook County,20091,20.0,91.0,Kansas,Johnson County,9,14,ME
+23003,23,3,Maine,Aroostook County,21041,21.0,41.0,Kentucky,Carroll County,7,12,ME
+23019,23,19,Maine,Penobscot County,22005,22.0,5.0,Louisiana,Ascension Parish,3,4,ME
+23021,23,21,Maine,Piscataquis County,22007,22.0,7.0,Louisiana,Assumption Parish,2,4,ME
+23031,23,31,Maine,York County,22025,22.0,25.0,Louisiana,Catahoula Parish,11,12,ME
+23009,23,9,Maine,Hancock County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,18,25,ME
+23015,23,15,Maine,Lincoln County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,18,27,ME
+23019,23,19,Maine,Penobscot County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,3,5,ME
+23001,23,1,Maine,Androscoggin County,22057,22.0,57.0,Louisiana,Lafourche Parish,22,32,ME
+23011,23,11,Maine,Kennebec County,22057,22.0,57.0,Louisiana,Lafourche Parish,7,11,ME
+23027,23,27,Maine,Waldo County,22057,22.0,57.0,Louisiana,Lafourche Parish,6,9,ME
+23031,23,31,Maine,York County,22057,22.0,57.0,Louisiana,Lafourche Parish,66,101,ME
+23005,23,5,Maine,Cumberland County,22071,22.0,71.0,Louisiana,Orleans Parish,25,39,ME
+23009,23,9,Maine,Hancock County,22071,22.0,71.0,Louisiana,Orleans Parish,20,20,ME
+23019,23,19,Maine,Penobscot County,22071,22.0,71.0,Louisiana,Orleans Parish,17,28,ME
+23031,23,31,Maine,York County,22071,22.0,71.0,Louisiana,Orleans Parish,34,38,ME
+23013,23,13,Maine,Knox County,22075,22.0,75.0,Louisiana,Plaquemines Parish,3,4,ME
+23001,23,1,Maine,Androscoggin County,22109,22.0,109.0,Louisiana,Terrebonne Parish,16,26,ME
+23001,23,1,Maine,Androscoggin County,23001,23.0,1.0,Maine,Androscoggin County,36779,794,ME
+23003,23,3,Maine,Aroostook County,23001,23.0,1.0,Maine,Androscoggin County,11,12,ME
+23005,23,5,Maine,Cumberland County,23001,23.0,1.0,Maine,Androscoggin County,3388,397,ME
+23007,23,7,Maine,Franklin County,23001,23.0,1.0,Maine,Androscoggin County,825,203,ME
+23009,23,9,Maine,Hancock County,23001,23.0,1.0,Maine,Androscoggin County,33,31,ME
+23011,23,11,Maine,Kennebec County,23001,23.0,1.0,Maine,Androscoggin County,2708,324,ME
+23013,23,13,Maine,Knox County,23001,23.0,1.0,Maine,Androscoggin County,12,16,ME
+23015,23,15,Maine,Lincoln County,23001,23.0,1.0,Maine,Androscoggin County,52,21,ME
+23017,23,17,Maine,Oxford County,23001,23.0,1.0,Maine,Androscoggin County,3521,372,ME
+23019,23,19,Maine,Penobscot County,23001,23.0,1.0,Maine,Androscoggin County,79,44,ME
+23021,23,21,Maine,Piscataquis County,23001,23.0,1.0,Maine,Androscoggin County,39,37,ME
+23023,23,23,Maine,Sagadahoc County,23001,23.0,1.0,Maine,Androscoggin County,898,226,ME
+23025,23,25,Maine,Somerset County,23001,23.0,1.0,Maine,Androscoggin County,108,63,ME
+23027,23,27,Maine,Waldo County,23001,23.0,1.0,Maine,Androscoggin County,7,6,ME
+23029,23,29,Maine,Washington County,23001,23.0,1.0,Maine,Androscoggin County,12,22,ME
+23031,23,31,Maine,York County,23001,23.0,1.0,Maine,Androscoggin County,377,147,ME
+23001,23,1,Maine,Androscoggin County,23003,23.0,3.0,Maine,Aroostook County,4,6,ME
+23003,23,3,Maine,Aroostook County,23003,23.0,3.0,Maine,Aroostook County,28757,577,ME
+23005,23,5,Maine,Cumberland County,23003,23.0,3.0,Maine,Aroostook County,62,77,ME
+23009,23,9,Maine,Hancock County,23003,23.0,3.0,Maine,Aroostook County,4,6,ME
+23011,23,11,Maine,Kennebec County,23003,23.0,3.0,Maine,Aroostook County,5,7,ME
+23013,23,13,Maine,Knox County,23003,23.0,3.0,Maine,Aroostook County,4,7,ME
+23019,23,19,Maine,Penobscot County,23003,23.0,3.0,Maine,Aroostook County,449,102,ME
+23021,23,21,Maine,Piscataquis County,23003,23.0,3.0,Maine,Aroostook County,12,11,ME
+23025,23,25,Maine,Somerset County,23003,23.0,3.0,Maine,Aroostook County,5,8,ME
+23027,23,27,Maine,Waldo County,23003,23.0,3.0,Maine,Aroostook County,5,6,ME
+23029,23,29,Maine,Washington County,23003,23.0,3.0,Maine,Aroostook County,29,10,ME
+23031,23,31,Maine,York County,23003,23.0,3.0,Maine,Aroostook County,3,4,ME
+23001,23,1,Maine,Androscoggin County,23005,23.0,5.0,Maine,Cumberland County,7710,523,ME
+23003,23,3,Maine,Aroostook County,23005,23.0,5.0,Maine,Cumberland County,122,67,ME
+23005,23,5,Maine,Cumberland County,23005,23.0,5.0,Maine,Cumberland County,132038,1461,ME
+23007,23,7,Maine,Franklin County,23005,23.0,5.0,Maine,Cumberland County,200,77,ME
+23009,23,9,Maine,Hancock County,23005,23.0,5.0,Maine,Cumberland County,42,25,ME
+23011,23,11,Maine,Kennebec County,23005,23.0,5.0,Maine,Cumberland County,1970,290,ME
+23013,23,13,Maine,Knox County,23005,23.0,5.0,Maine,Cumberland County,87,46,ME
+23015,23,15,Maine,Lincoln County,23005,23.0,5.0,Maine,Cumberland County,716,121,ME
+23017,23,17,Maine,Oxford County,23005,23.0,5.0,Maine,Cumberland County,2560,324,ME
+23019,23,19,Maine,Penobscot County,23005,23.0,5.0,Maine,Cumberland County,224,91,ME
+23021,23,21,Maine,Piscataquis County,23005,23.0,5.0,Maine,Cumberland County,41,50,ME
+23023,23,23,Maine,Sagadahoc County,23005,23.0,5.0,Maine,Cumberland County,6151,457,ME
+23025,23,25,Maine,Somerset County,23005,23.0,5.0,Maine,Cumberland County,166,58,ME
+23027,23,27,Maine,Waldo County,23005,23.0,5.0,Maine,Cumberland County,136,74,ME
+23029,23,29,Maine,Washington County,23005,23.0,5.0,Maine,Cumberland County,8,8,ME
+23031,23,31,Maine,York County,23005,23.0,5.0,Maine,Cumberland County,22811,1008,ME
+23001,23,1,Maine,Androscoggin County,23007,23.0,7.0,Maine,Franklin County,635,132,ME
+23005,23,5,Maine,Cumberland County,23007,23.0,7.0,Maine,Franklin County,66,60,ME
+23007,23,7,Maine,Franklin County,23007,23.0,7.0,Maine,Franklin County,10832,458,ME
+23009,23,9,Maine,Hancock County,23007,23.0,7.0,Maine,Franklin County,3,7,ME
+23011,23,11,Maine,Kennebec County,23007,23.0,7.0,Maine,Franklin County,511,120,ME
+23013,23,13,Maine,Knox County,23007,23.0,7.0,Maine,Franklin County,16,18,ME
+23015,23,15,Maine,Lincoln County,23007,23.0,7.0,Maine,Franklin County,8,13,ME
+23017,23,17,Maine,Oxford County,23007,23.0,7.0,Maine,Franklin County,531,113,ME
+23019,23,19,Maine,Penobscot County,23007,23.0,7.0,Maine,Franklin County,77,70,ME
+23021,23,21,Maine,Piscataquis County,23007,23.0,7.0,Maine,Franklin County,1,3,ME
+23025,23,25,Maine,Somerset County,23007,23.0,7.0,Maine,Franklin County,589,96,ME
+23027,23,27,Maine,Waldo County,23007,23.0,7.0,Maine,Franklin County,15,20,ME
+23029,23,29,Maine,Washington County,23007,23.0,7.0,Maine,Franklin County,32,37,ME
+23031,23,31,Maine,York County,23007,23.0,7.0,Maine,Franklin County,2,10,ME
+23001,23,1,Maine,Androscoggin County,23009,23.0,9.0,Maine,Hancock County,42,61,ME
+23003,23,3,Maine,Aroostook County,23009,23.0,9.0,Maine,Hancock County,40,19,ME
+23005,23,5,Maine,Cumberland County,23009,23.0,9.0,Maine,Hancock County,76,45,ME
+23007,23,7,Maine,Franklin County,23009,23.0,9.0,Maine,Hancock County,29,37,ME
+23009,23,9,Maine,Hancock County,23009,23.0,9.0,Maine,Hancock County,22250,544,ME
+23011,23,11,Maine,Kennebec County,23009,23.0,9.0,Maine,Hancock County,6,8,ME
+23013,23,13,Maine,Knox County,23009,23.0,9.0,Maine,Hancock County,5,6,ME
+23015,23,15,Maine,Lincoln County,23009,23.0,9.0,Maine,Hancock County,16,13,ME
+23017,23,17,Maine,Oxford County,23009,23.0,9.0,Maine,Hancock County,10,9,ME
+23019,23,19,Maine,Penobscot County,23009,23.0,9.0,Maine,Hancock County,1378,214,ME
+23021,23,21,Maine,Piscataquis County,23009,23.0,9.0,Maine,Hancock County,7,7,ME
+23023,23,23,Maine,Sagadahoc County,23009,23.0,9.0,Maine,Hancock County,10,10,ME
+23025,23,25,Maine,Somerset County,23009,23.0,9.0,Maine,Hancock County,12,11,ME
+23027,23,27,Maine,Waldo County,23009,23.0,9.0,Maine,Hancock County,604,162,ME
+23029,23,29,Maine,Washington County,23009,23.0,9.0,Maine,Hancock County,508,84,ME
+23031,23,31,Maine,York County,23009,23.0,9.0,Maine,Hancock County,8,13,ME
+23001,23,1,Maine,Androscoggin County,23011,23.0,11.0,Maine,Kennebec County,2071,288,ME
+23003,23,3,Maine,Aroostook County,23011,23.0,11.0,Maine,Kennebec County,174,83,ME
+23005,23,5,Maine,Cumberland County,23011,23.0,11.0,Maine,Kennebec County,1281,230,ME
+23007,23,7,Maine,Franklin County,23011,23.0,11.0,Maine,Kennebec County,766,150,ME
+23009,23,9,Maine,Hancock County,23011,23.0,11.0,Maine,Kennebec County,77,44,ME
+23011,23,11,Maine,Kennebec County,23011,23.0,11.0,Maine,Kennebec County,45040,1218,ME
+23013,23,13,Maine,Knox County,23011,23.0,11.0,Maine,Kennebec County,274,73,ME
+23015,23,15,Maine,Lincoln County,23011,23.0,11.0,Maine,Kennebec County,1485,188,ME
+23017,23,17,Maine,Oxford County,23011,23.0,11.0,Maine,Kennebec County,290,82,ME
+23019,23,19,Maine,Penobscot County,23011,23.0,11.0,Maine,Kennebec County,635,140,ME
+23021,23,21,Maine,Piscataquis County,23011,23.0,11.0,Maine,Kennebec County,38,22,ME
+23023,23,23,Maine,Sagadahoc County,23011,23.0,11.0,Maine,Kennebec County,1116,216,ME
+23025,23,25,Maine,Somerset County,23011,23.0,11.0,Maine,Kennebec County,4575,469,ME
+23027,23,27,Maine,Waldo County,23011,23.0,11.0,Maine,Kennebec County,1400,121,ME
+23029,23,29,Maine,Washington County,23011,23.0,11.0,Maine,Kennebec County,4,5,ME
+23031,23,31,Maine,York County,23011,23.0,11.0,Maine,Kennebec County,161,84,ME
+23001,23,1,Maine,Androscoggin County,23013,23.0,13.0,Maine,Knox County,99,79,ME
+23005,23,5,Maine,Cumberland County,23013,23.0,13.0,Maine,Knox County,134,101,ME
+23007,23,7,Maine,Franklin County,23013,23.0,13.0,Maine,Knox County,5,6,ME
+23009,23,9,Maine,Hancock County,23013,23.0,13.0,Maine,Knox County,45,27,ME
+23011,23,11,Maine,Kennebec County,23013,23.0,13.0,Maine,Knox County,322,128,ME
+23013,23,13,Maine,Knox County,23013,23.0,13.0,Maine,Knox County,16540,525,ME
+23015,23,15,Maine,Lincoln County,23013,23.0,13.0,Maine,Knox County,1419,247,ME
+23017,23,17,Maine,Oxford County,23013,23.0,13.0,Maine,Knox County,13,16,ME
+23019,23,19,Maine,Penobscot County,23013,23.0,13.0,Maine,Knox County,110,64,ME
+23021,23,21,Maine,Piscataquis County,23013,23.0,13.0,Maine,Knox County,13,14,ME
+23023,23,23,Maine,Sagadahoc County,23013,23.0,13.0,Maine,Knox County,37,35,ME
+23025,23,25,Maine,Somerset County,23013,23.0,13.0,Maine,Knox County,29,34,ME
+23027,23,27,Maine,Waldo County,23013,23.0,13.0,Maine,Knox County,1662,209,ME
+23029,23,29,Maine,Washington County,23013,23.0,13.0,Maine,Knox County,36,28,ME
+23031,23,31,Maine,York County,23013,23.0,13.0,Maine,Knox County,38,35,ME
+23001,23,1,Maine,Androscoggin County,23015,23.0,15.0,Maine,Lincoln County,37,39,ME
+23005,23,5,Maine,Cumberland County,23015,23.0,15.0,Maine,Lincoln County,217,83,ME
+23007,23,7,Maine,Franklin County,23015,23.0,15.0,Maine,Lincoln County,20,37,ME
+23009,23,9,Maine,Hancock County,23015,23.0,15.0,Maine,Lincoln County,5,8,ME
+23011,23,11,Maine,Kennebec County,23015,23.0,15.0,Maine,Lincoln County,523,147,ME
+23013,23,13,Maine,Knox County,23015,23.0,15.0,Maine,Lincoln County,811,181,ME
+23015,23,15,Maine,Lincoln County,23015,23.0,15.0,Maine,Lincoln County,10480,415,ME
+23017,23,17,Maine,Oxford County,23015,23.0,15.0,Maine,Lincoln County,14,11,ME
+23019,23,19,Maine,Penobscot County,23015,23.0,15.0,Maine,Lincoln County,41,38,ME
+23023,23,23,Maine,Sagadahoc County,23015,23.0,15.0,Maine,Lincoln County,599,134,ME
+23025,23,25,Maine,Somerset County,23015,23.0,15.0,Maine,Lincoln County,9,9,ME
+23027,23,27,Maine,Waldo County,23015,23.0,15.0,Maine,Lincoln County,123,64,ME
+23031,23,31,Maine,York County,23015,23.0,15.0,Maine,Lincoln County,23,37,ME
+23001,23,1,Maine,Androscoggin County,23017,23.0,17.0,Maine,Oxford County,1293,305,ME
+23005,23,5,Maine,Cumberland County,23017,23.0,17.0,Maine,Oxford County,985,183,ME
+23007,23,7,Maine,Franklin County,23017,23.0,17.0,Maine,Oxford County,607,156,ME
+23011,23,11,Maine,Kennebec County,23017,23.0,17.0,Maine,Oxford County,134,60,ME
+23017,23,17,Maine,Oxford County,23017,23.0,17.0,Maine,Oxford County,15056,613,ME
+23019,23,19,Maine,Penobscot County,23017,23.0,17.0,Maine,Oxford County,40,34,ME
+23025,23,25,Maine,Somerset County,23017,23.0,17.0,Maine,Oxford County,76,51,ME
+23027,23,27,Maine,Waldo County,23017,23.0,17.0,Maine,Oxford County,3,5,ME
+23031,23,31,Maine,York County,23017,23.0,17.0,Maine,Oxford County,183,55,ME
+23001,23,1,Maine,Androscoggin County,23019,23.0,19.0,Maine,Penobscot County,39,34,ME
+23003,23,3,Maine,Aroostook County,23019,23.0,19.0,Maine,Penobscot County,501,105,ME
+23005,23,5,Maine,Cumberland County,23019,23.0,19.0,Maine,Penobscot County,128,91,ME
+23007,23,7,Maine,Franklin County,23019,23.0,19.0,Maine,Penobscot County,68,47,ME
+23009,23,9,Maine,Hancock County,23019,23.0,19.0,Maine,Penobscot County,2350,319,ME
+23011,23,11,Maine,Kennebec County,23019,23.0,19.0,Maine,Penobscot County,445,133,ME
+23013,23,13,Maine,Knox County,23019,23.0,19.0,Maine,Penobscot County,74,43,ME
+23015,23,15,Maine,Lincoln County,23019,23.0,19.0,Maine,Penobscot County,100,80,ME
+23017,23,17,Maine,Oxford County,23019,23.0,19.0,Maine,Penobscot County,15,11,ME
+23019,23,19,Maine,Penobscot County,23019,23.0,19.0,Maine,Penobscot County,63909,996,ME
+23021,23,21,Maine,Piscataquis County,23019,23.0,19.0,Maine,Penobscot County,1131,140,ME
+23023,23,23,Maine,Sagadahoc County,23019,23.0,19.0,Maine,Penobscot County,3,4,ME
+23025,23,25,Maine,Somerset County,23019,23.0,19.0,Maine,Penobscot County,1665,218,ME
+23027,23,27,Maine,Waldo County,23019,23.0,19.0,Maine,Penobscot County,2421,246,ME
+23029,23,29,Maine,Washington County,23019,23.0,19.0,Maine,Penobscot County,170,49,ME
+23031,23,31,Maine,York County,23019,23.0,19.0,Maine,Penobscot County,129,106,ME
+23003,23,3,Maine,Aroostook County,23021,23.0,21.0,Maine,Piscataquis County,2,6,ME
+23007,23,7,Maine,Franklin County,23021,23.0,21.0,Maine,Piscataquis County,2,3,ME
+23009,23,9,Maine,Hancock County,23021,23.0,21.0,Maine,Piscataquis County,42,54,ME
+23011,23,11,Maine,Kennebec County,23021,23.0,21.0,Maine,Piscataquis County,36,29,ME
+23019,23,19,Maine,Penobscot County,23021,23.0,21.0,Maine,Piscataquis County,976,162,ME
+23021,23,21,Maine,Piscataquis County,23021,23.0,21.0,Maine,Piscataquis County,4848,266,ME
+23025,23,25,Maine,Somerset County,23021,23.0,21.0,Maine,Piscataquis County,264,64,ME
+23027,23,27,Maine,Waldo County,23021,23.0,21.0,Maine,Piscataquis County,29,23,ME
+23031,23,31,Maine,York County,23021,23.0,21.0,Maine,Piscataquis County,10,20,ME
+23001,23,1,Maine,Androscoggin County,23023,23.0,23.0,Maine,Sagadahoc County,1888,345,ME
+23003,23,3,Maine,Aroostook County,23023,23.0,23.0,Maine,Sagadahoc County,26,35,ME
+23005,23,5,Maine,Cumberland County,23023,23.0,23.0,Maine,Sagadahoc County,2940,322,ME
+23007,23,7,Maine,Franklin County,23023,23.0,23.0,Maine,Sagadahoc County,19,18,ME
+23011,23,11,Maine,Kennebec County,23023,23.0,23.0,Maine,Sagadahoc County,1222,196,ME
+23013,23,13,Maine,Knox County,23023,23.0,23.0,Maine,Sagadahoc County,104,55,ME
+23015,23,15,Maine,Lincoln County,23023,23.0,23.0,Maine,Sagadahoc County,1330,170,ME
+23017,23,17,Maine,Oxford County,23023,23.0,23.0,Maine,Sagadahoc County,89,56,ME
+23019,23,19,Maine,Penobscot County,23023,23.0,23.0,Maine,Sagadahoc County,46,36,ME
+23021,23,21,Maine,Piscataquis County,23023,23.0,23.0,Maine,Sagadahoc County,6,9,ME
+23023,23,23,Maine,Sagadahoc County,23023,23.0,23.0,Maine,Sagadahoc County,8134,476,ME
+23025,23,25,Maine,Somerset County,23023,23.0,23.0,Maine,Sagadahoc County,94,57,ME
+23027,23,27,Maine,Waldo County,23023,23.0,23.0,Maine,Sagadahoc County,67,39,ME
+23029,23,29,Maine,Washington County,23023,23.0,23.0,Maine,Sagadahoc County,5,5,ME
+23031,23,31,Maine,York County,23023,23.0,23.0,Maine,Sagadahoc County,307,238,ME
+23001,23,1,Maine,Androscoggin County,23025,23.0,25.0,Maine,Somerset County,81,42,ME
+23003,23,3,Maine,Aroostook County,23025,23.0,25.0,Maine,Somerset County,9,9,ME
+23005,23,5,Maine,Cumberland County,23025,23.0,25.0,Maine,Somerset County,81,49,ME
+23007,23,7,Maine,Franklin County,23025,23.0,25.0,Maine,Somerset County,477,124,ME
+23009,23,9,Maine,Hancock County,23025,23.0,25.0,Maine,Somerset County,51,50,ME
+23011,23,11,Maine,Kennebec County,23025,23.0,25.0,Maine,Somerset County,2484,305,ME
+23013,23,13,Maine,Knox County,23025,23.0,25.0,Maine,Somerset County,15,11,ME
+23015,23,15,Maine,Lincoln County,23025,23.0,25.0,Maine,Somerset County,22,23,ME
+23017,23,17,Maine,Oxford County,23025,23.0,25.0,Maine,Somerset County,32,18,ME
+23019,23,19,Maine,Penobscot County,23025,23.0,25.0,Maine,Somerset County,1513,240,ME
+23021,23,21,Maine,Piscataquis County,23025,23.0,25.0,Maine,Somerset County,204,58,ME
+23023,23,23,Maine,Sagadahoc County,23025,23.0,25.0,Maine,Somerset County,103,83,ME
+23025,23,25,Maine,Somerset County,23025,23.0,25.0,Maine,Somerset County,13768,584,ME
+23027,23,27,Maine,Waldo County,23025,23.0,25.0,Maine,Somerset County,414,82,ME
+23029,23,29,Maine,Washington County,23025,23.0,25.0,Maine,Somerset County,6,5,ME
+23031,23,31,Maine,York County,23025,23.0,25.0,Maine,Somerset County,3,4,ME
+23001,23,1,Maine,Androscoggin County,23027,23.0,27.0,Maine,Waldo County,8,16,ME
+23005,23,5,Maine,Cumberland County,23027,23.0,27.0,Maine,Waldo County,35,46,ME
+23009,23,9,Maine,Hancock County,23027,23.0,27.0,Maine,Waldo County,340,106,ME
+23011,23,11,Maine,Kennebec County,23027,23.0,27.0,Maine,Waldo County,451,133,ME
+23013,23,13,Maine,Knox County,23027,23.0,27.0,Maine,Waldo County,681,149,ME
+23015,23,15,Maine,Lincoln County,23027,23.0,27.0,Maine,Waldo County,110,58,ME
+23017,23,17,Maine,Oxford County,23027,23.0,27.0,Maine,Waldo County,9,14,ME
+23019,23,19,Maine,Penobscot County,23027,23.0,27.0,Maine,Waldo County,602,166,ME
+23021,23,21,Maine,Piscataquis County,23027,23.0,27.0,Maine,Waldo County,22,17,ME
+23025,23,25,Maine,Somerset County,23027,23.0,27.0,Maine,Waldo County,251,111,ME
+23027,23,27,Maine,Waldo County,23027,23.0,27.0,Maine,Waldo County,10635,514,ME
+23029,23,29,Maine,Washington County,23027,23.0,27.0,Maine,Waldo County,4,6,ME
+23001,23,1,Maine,Androscoggin County,23029,23.0,29.0,Maine,Washington County,13,16,ME
+23003,23,3,Maine,Aroostook County,23029,23.0,29.0,Maine,Washington County,76,21,ME
+23005,23,5,Maine,Cumberland County,23029,23.0,29.0,Maine,Washington County,36,41,ME
+23009,23,9,Maine,Hancock County,23029,23.0,29.0,Maine,Washington County,223,55,ME
+23011,23,11,Maine,Kennebec County,23029,23.0,29.0,Maine,Washington County,10,17,ME
+23019,23,19,Maine,Penobscot County,23029,23.0,29.0,Maine,Washington County,122,52,ME
+23025,23,25,Maine,Somerset County,23029,23.0,29.0,Maine,Washington County,5,8,ME
+23027,23,27,Maine,Waldo County,23029,23.0,29.0,Maine,Washington County,34,25,ME
+23029,23,29,Maine,Washington County,23029,23.0,29.0,Maine,Washington County,11597,360,ME
+23031,23,31,Maine,York County,23029,23.0,29.0,Maine,Washington County,5,7,ME
+23001,23,1,Maine,Androscoggin County,23031,23.0,31.0,Maine,York County,268,80,ME
+23003,23,3,Maine,Aroostook County,23031,23.0,31.0,Maine,York County,31,29,ME
+23005,23,5,Maine,Cumberland County,23031,23.0,31.0,Maine,York County,4945,507,ME
+23007,23,7,Maine,Franklin County,23031,23.0,31.0,Maine,York County,28,25,ME
+23009,23,9,Maine,Hancock County,23031,23.0,31.0,Maine,York County,9,7,ME
+23011,23,11,Maine,Kennebec County,23031,23.0,31.0,Maine,York County,119,84,ME
+23013,23,13,Maine,Knox County,23031,23.0,31.0,Maine,York County,18,16,ME
+23015,23,15,Maine,Lincoln County,23031,23.0,31.0,Maine,York County,5,5,ME
+23017,23,17,Maine,Oxford County,23031,23.0,31.0,Maine,York County,471,98,ME
+23019,23,19,Maine,Penobscot County,23031,23.0,31.0,Maine,York County,118,85,ME
+23021,23,21,Maine,Piscataquis County,23031,23.0,31.0,Maine,York County,6,5,ME
+23023,23,23,Maine,Sagadahoc County,23031,23.0,31.0,Maine,York County,144,77,ME
+23025,23,25,Maine,Somerset County,23031,23.0,31.0,Maine,York County,30,32,ME
+23027,23,27,Maine,Waldo County,23031,23.0,31.0,Maine,York County,14,31,ME
+23029,23,29,Maine,Washington County,23031,23.0,31.0,Maine,York County,3,4,ME
+23031,23,31,Maine,York County,23031,23.0,31.0,Maine,York County,59834,1365,ME
+23005,23,5,Maine,Cumberland County,24003,24.0,3.0,Maryland,Anne Arundel County,21,25,ME
+23015,23,15,Maine,Lincoln County,24003,24.0,3.0,Maryland,Anne Arundel County,10,15,ME
+23003,23,3,Maine,Aroostook County,24005,24.0,5.0,Maryland,Baltimore County,2,3,ME
+23027,23,27,Maine,Waldo County,24021,24.0,21.0,Maryland,Frederick County,2,4,ME
+23013,23,13,Maine,Knox County,24027,24.0,27.0,Maryland,Howard County,5,7,ME
+23007,23,7,Maine,Franklin County,24031,24.0,31.0,Maryland,Montgomery County,5,7,ME
+23031,23,31,Maine,York County,24033,24.0,33.0,Maryland,Prince George's County,15,22,ME
+23001,23,1,Maine,Androscoggin County,24037,24.0,37.0,Maryland,St. Mary's County,10,14,ME
+23019,23,19,Maine,Penobscot County,24037,24.0,37.0,Maryland,St. Mary's County,16,23,ME
+23023,23,23,Maine,Sagadahoc County,24037,24.0,37.0,Maryland,St. Mary's County,7,13,ME
+23005,23,5,Maine,Cumberland County,24510,24.0,510.0,Maryland,Baltimore city,4,8,ME
+23031,23,31,Maine,York County,24510,24.0,510.0,Maryland,Baltimore city,8,13,ME
+23005,23,5,Maine,Cumberland County,25001,25.0,1.0,Massachusetts,Barnstable County,7,12,ME
+23023,23,23,Maine,Sagadahoc County,25001,25.0,1.0,Massachusetts,Barnstable County,16,26,ME
+23029,23,29,Maine,Washington County,25003,25.0,3.0,Massachusetts,Berkshire County,2,4,ME
+23031,23,31,Maine,York County,25003,25.0,3.0,Massachusetts,Berkshire County,31,41,ME
+23005,23,5,Maine,Cumberland County,25005,25.0,5.0,Massachusetts,Bristol County,41,41,ME
+23009,23,9,Maine,Hancock County,25005,25.0,5.0,Massachusetts,Bristol County,9,15,ME
+23013,23,13,Maine,Knox County,25005,25.0,5.0,Massachusetts,Bristol County,3,7,ME
+23015,23,15,Maine,Lincoln County,25005,25.0,5.0,Massachusetts,Bristol County,13,21,ME
+23001,23,1,Maine,Androscoggin County,25009,25.0,9.0,Massachusetts,Essex County,10,13,ME
+23003,23,3,Maine,Aroostook County,25009,25.0,9.0,Massachusetts,Essex County,4,6,ME
+23005,23,5,Maine,Cumberland County,25009,25.0,9.0,Massachusetts,Essex County,83,64,ME
+23007,23,7,Maine,Franklin County,25009,25.0,9.0,Massachusetts,Essex County,6,5,ME
+23013,23,13,Maine,Knox County,25009,25.0,9.0,Massachusetts,Essex County,15,16,ME
+23015,23,15,Maine,Lincoln County,25009,25.0,9.0,Massachusetts,Essex County,15,13,ME
+23017,23,17,Maine,Oxford County,25009,25.0,9.0,Massachusetts,Essex County,23,14,ME
+23019,23,19,Maine,Penobscot County,25009,25.0,9.0,Massachusetts,Essex County,44,33,ME
+23025,23,25,Maine,Somerset County,25009,25.0,9.0,Massachusetts,Essex County,9,9,ME
+23027,23,27,Maine,Waldo County,25009,25.0,9.0,Massachusetts,Essex County,3,4,ME
+23031,23,31,Maine,York County,25009,25.0,9.0,Massachusetts,Essex County,1028,257,ME
+23005,23,5,Maine,Cumberland County,25011,25.0,11.0,Massachusetts,Franklin County,19,31,ME
+23017,23,17,Maine,Oxford County,25011,25.0,11.0,Massachusetts,Franklin County,5,7,ME
+23015,23,15,Maine,Lincoln County,25013,25.0,13.0,Massachusetts,Hampden County,13,20,ME
+23017,23,17,Maine,Oxford County,25013,25.0,13.0,Massachusetts,Hampden County,1,3,ME
+23031,23,31,Maine,York County,25013,25.0,13.0,Massachusetts,Hampden County,19,30,ME
+23011,23,11,Maine,Kennebec County,25015,25.0,15.0,Massachusetts,Hampshire County,3,4,ME
+23001,23,1,Maine,Androscoggin County,25017,25.0,17.0,Massachusetts,Middlesex County,53,49,ME
+23005,23,5,Maine,Cumberland County,25017,25.0,17.0,Massachusetts,Middlesex County,350,117,ME
+23007,23,7,Maine,Franklin County,25017,25.0,17.0,Massachusetts,Middlesex County,27,25,ME
+23009,23,9,Maine,Hancock County,25017,25.0,17.0,Massachusetts,Middlesex County,8,8,ME
+23011,23,11,Maine,Kennebec County,25017,25.0,17.0,Massachusetts,Middlesex County,66,59,ME
+23013,23,13,Maine,Knox County,25017,25.0,17.0,Massachusetts,Middlesex County,17,18,ME
+23015,23,15,Maine,Lincoln County,25017,25.0,17.0,Massachusetts,Middlesex County,16,14,ME
+23017,23,17,Maine,Oxford County,25017,25.0,17.0,Massachusetts,Middlesex County,98,68,ME
+23019,23,19,Maine,Penobscot County,25017,25.0,17.0,Massachusetts,Middlesex County,11,11,ME
+23023,23,23,Maine,Sagadahoc County,25017,25.0,17.0,Massachusetts,Middlesex County,5,9,ME
+23025,23,25,Maine,Somerset County,25017,25.0,17.0,Massachusetts,Middlesex County,7,8,ME
+23027,23,27,Maine,Waldo County,25017,25.0,17.0,Massachusetts,Middlesex County,11,16,ME
+23031,23,31,Maine,York County,25017,25.0,17.0,Massachusetts,Middlesex County,928,200,ME
+23007,23,7,Maine,Franklin County,25019,25.0,19.0,Massachusetts,Nantucket County,3,4,ME
+23003,23,3,Maine,Aroostook County,25021,25.0,21.0,Massachusetts,Norfolk County,2,3,ME
+23005,23,5,Maine,Cumberland County,25021,25.0,21.0,Massachusetts,Norfolk County,33,50,ME
+23007,23,7,Maine,Franklin County,25021,25.0,21.0,Massachusetts,Norfolk County,3,4,ME
+23011,23,11,Maine,Kennebec County,25021,25.0,21.0,Massachusetts,Norfolk County,36,35,ME
+23015,23,15,Maine,Lincoln County,25021,25.0,21.0,Massachusetts,Norfolk County,11,11,ME
+23017,23,17,Maine,Oxford County,25021,25.0,21.0,Massachusetts,Norfolk County,22,32,ME
+23021,23,21,Maine,Piscataquis County,25021,25.0,21.0,Massachusetts,Norfolk County,1,3,ME
+23023,23,23,Maine,Sagadahoc County,25021,25.0,21.0,Massachusetts,Norfolk County,4,7,ME
+23031,23,31,Maine,York County,25021,25.0,21.0,Massachusetts,Norfolk County,118,83,ME
+23003,23,3,Maine,Aroostook County,25023,25.0,23.0,Massachusetts,Plymouth County,5,5,ME
+23005,23,5,Maine,Cumberland County,25023,25.0,23.0,Massachusetts,Plymouth County,11,16,ME
+23007,23,7,Maine,Franklin County,25023,25.0,23.0,Massachusetts,Plymouth County,2,5,ME
+23023,23,23,Maine,Sagadahoc County,25023,25.0,23.0,Massachusetts,Plymouth County,25,36,ME
+23029,23,29,Maine,Washington County,25023,25.0,23.0,Massachusetts,Plymouth County,16,26,ME
+23031,23,31,Maine,York County,25023,25.0,23.0,Massachusetts,Plymouth County,20,24,ME
+23001,23,1,Maine,Androscoggin County,25025,25.0,25.0,Massachusetts,Suffolk County,12,13,ME
+23005,23,5,Maine,Cumberland County,25025,25.0,25.0,Massachusetts,Suffolk County,468,145,ME
+23007,23,7,Maine,Franklin County,25025,25.0,25.0,Massachusetts,Suffolk County,2,3,ME
+23009,23,9,Maine,Hancock County,25025,25.0,25.0,Massachusetts,Suffolk County,9,11,ME
+23011,23,11,Maine,Kennebec County,25025,25.0,25.0,Massachusetts,Suffolk County,34,37,ME
+23015,23,15,Maine,Lincoln County,25025,25.0,25.0,Massachusetts,Suffolk County,42,39,ME
+23017,23,17,Maine,Oxford County,25025,25.0,25.0,Massachusetts,Suffolk County,13,13,ME
+23019,23,19,Maine,Penobscot County,25025,25.0,25.0,Massachusetts,Suffolk County,40,43,ME
+23023,23,23,Maine,Sagadahoc County,25025,25.0,25.0,Massachusetts,Suffolk County,43,32,ME
+23025,23,25,Maine,Somerset County,25025,25.0,25.0,Massachusetts,Suffolk County,46,55,ME
+23031,23,31,Maine,York County,25025,25.0,25.0,Massachusetts,Suffolk County,770,204,ME
+23005,23,5,Maine,Cumberland County,25027,25.0,27.0,Massachusetts,Worcester County,76,62,ME
+23007,23,7,Maine,Franklin County,25027,25.0,27.0,Massachusetts,Worcester County,11,16,ME
+23009,23,9,Maine,Hancock County,25027,25.0,27.0,Massachusetts,Worcester County,3,6,ME
+23017,23,17,Maine,Oxford County,25027,25.0,27.0,Massachusetts,Worcester County,2,3,ME
+23019,23,19,Maine,Penobscot County,25027,25.0,27.0,Massachusetts,Worcester County,12,15,ME
+23031,23,31,Maine,York County,25027,25.0,27.0,Massachusetts,Worcester County,108,75,ME
+23001,23,1,Maine,Androscoggin County,26017,26.0,17.0,Michigan,Bay County,2,6,ME
+23005,23,5,Maine,Cumberland County,26037,26.0,37.0,Michigan,Clinton County,17,19,ME
+23031,23,31,Maine,York County,26077,26.0,77.0,Michigan,Kalamazoo County,9,14,ME
+23031,23,31,Maine,York County,26115,26.0,115.0,Michigan,Monroe County,6,8,ME
+23005,23,5,Maine,Cumberland County,26163,26.0,163.0,Michigan,Wayne County,3,5,ME
+23031,23,31,Maine,York County,26163,26.0,163.0,Michigan,Wayne County,16,18,ME
+23019,23,19,Maine,Penobscot County,27053,27.0,53.0,Minnesota,Hennepin County,12,12,ME
+23031,23,31,Maine,York County,27053,27.0,53.0,Minnesota,Hennepin County,26,30,ME
+23029,23,29,Maine,Washington County,27079,27.0,79.0,Minnesota,Le Sueur County,2,2,ME
+23015,23,15,Maine,Lincoln County,27081,27.0,81.0,Minnesota,Lincoln County,11,11,ME
+23025,23,25,Maine,Somerset County,27137,27.0,137.0,Minnesota,St. Louis County,6,10,ME
+23001,23,1,Maine,Androscoggin County,27169,27.0,169.0,Minnesota,Winona County,7,11,ME
+23017,23,17,Maine,Oxford County,28049,28.0,49.0,Mississippi,Hinds County,16,27,ME
+23023,23,23,Maine,Sagadahoc County,29019,29.0,19.0,Missouri,Boone County,3,4,ME
+23009,23,9,Maine,Hancock County,29095,29.0,95.0,Missouri,Jackson County,8,14,ME
+23001,23,1,Maine,Androscoggin County,29169,29.0,169.0,Missouri,Pulaski County,8,14,ME
+23005,23,5,Maine,Cumberland County,29169,29.0,169.0,Missouri,Pulaski County,19,25,ME
+23005,23,5,Maine,Cumberland County,29189,29.0,189.0,Missouri,St. Louis County,12,19,ME
+23019,23,19,Maine,Penobscot County,30063,30.0,63.0,Montana,Missoula County,3,4,ME
+23005,23,5,Maine,Cumberland County,31051,31.0,51.0,Nebraska,Dixon County,18,29,ME
+23005,23,5,Maine,Cumberland County,31079,31.0,79.0,Nebraska,Hall County,5,6,ME
+23017,23,17,Maine,Oxford County,31133,31.0,133.0,Nebraska,Pawnee County,3,4,ME
+23009,23,9,Maine,Hancock County,31161,31.0,161.0,Nebraska,Sheridan County,2,3,ME
+23005,23,5,Maine,Cumberland County,33001,33.0,1.0,New Hampshire,Belknap County,10,14,ME
+23019,23,19,Maine,Penobscot County,33001,33.0,1.0,New Hampshire,Belknap County,5,11,ME
+23025,23,25,Maine,Somerset County,33001,33.0,1.0,New Hampshire,Belknap County,6,8,ME
+23029,23,29,Maine,Washington County,33001,33.0,1.0,New Hampshire,Belknap County,3,4,ME
+23031,23,31,Maine,York County,33001,33.0,1.0,New Hampshire,Belknap County,48,39,ME
+23003,23,3,Maine,Aroostook County,33003,33.0,3.0,New Hampshire,Carroll County,1,2,ME
+23005,23,5,Maine,Cumberland County,33003,33.0,3.0,New Hampshire,Carroll County,331,171,ME
+23011,23,11,Maine,Kennebec County,33003,33.0,3.0,New Hampshire,Carroll County,6,10,ME
+23015,23,15,Maine,Lincoln County,33003,33.0,3.0,New Hampshire,Carroll County,7,11,ME
+23017,23,17,Maine,Oxford County,33003,33.0,3.0,New Hampshire,Carroll County,1404,193,ME
+23025,23,25,Maine,Somerset County,33003,33.0,3.0,New Hampshire,Carroll County,3,4,ME
+23031,23,31,Maine,York County,33003,33.0,3.0,New Hampshire,Carroll County,386,101,ME
+23001,23,1,Maine,Androscoggin County,33005,33.0,5.0,New Hampshire,Cheshire County,6,9,ME
+23005,23,5,Maine,Cumberland County,33005,33.0,5.0,New Hampshire,Cheshire County,13,21,ME
+23005,23,5,Maine,Cumberland County,33007,33.0,7.0,New Hampshire,Coos County,23,24,ME
+23007,23,7,Maine,Franklin County,33007,33.0,7.0,New Hampshire,Coos County,6,8,ME
+23011,23,11,Maine,Kennebec County,33007,33.0,7.0,New Hampshire,Coos County,6,9,ME
+23017,23,17,Maine,Oxford County,33007,33.0,7.0,New Hampshire,Coos County,66,30,ME
+23019,23,19,Maine,Penobscot County,33007,33.0,7.0,New Hampshire,Coos County,5,5,ME
+23027,23,27,Maine,Waldo County,33007,33.0,7.0,New Hampshire,Coos County,5,8,ME
+23001,23,1,Maine,Androscoggin County,33009,33.0,9.0,New Hampshire,Grafton County,9,14,ME
+23011,23,11,Maine,Kennebec County,33009,33.0,9.0,New Hampshire,Grafton County,10,13,ME
+23015,23,15,Maine,Lincoln County,33009,33.0,9.0,New Hampshire,Grafton County,2,3,ME
+23031,23,31,Maine,York County,33009,33.0,9.0,New Hampshire,Grafton County,8,14,ME
+23005,23,5,Maine,Cumberland County,33011,33.0,11.0,New Hampshire,Hillsborough County,225,94,ME
+23007,23,7,Maine,Franklin County,33011,33.0,11.0,New Hampshire,Hillsborough County,6,7,ME
+23009,23,9,Maine,Hancock County,33011,33.0,11.0,New Hampshire,Hillsborough County,11,16,ME
+23011,23,11,Maine,Kennebec County,33011,33.0,11.0,New Hampshire,Hillsborough County,9,14,ME
+23017,23,17,Maine,Oxford County,33011,33.0,11.0,New Hampshire,Hillsborough County,6,7,ME
+23019,23,19,Maine,Penobscot County,33011,33.0,11.0,New Hampshire,Hillsborough County,39,59,ME
+23021,23,21,Maine,Piscataquis County,33011,33.0,11.0,New Hampshire,Hillsborough County,5,6,ME
+23025,23,25,Maine,Somerset County,33011,33.0,11.0,New Hampshire,Hillsborough County,21,23,ME
+23027,23,27,Maine,Waldo County,33011,33.0,11.0,New Hampshire,Hillsborough County,5,6,ME
+23029,23,29,Maine,Washington County,33011,33.0,11.0,New Hampshire,Hillsborough County,6,6,ME
+23031,23,31,Maine,York County,33011,33.0,11.0,New Hampshire,Hillsborough County,326,118,ME
+23001,23,1,Maine,Androscoggin County,33013,33.0,13.0,New Hampshire,Merrimack County,37,44,ME
+23003,23,3,Maine,Aroostook County,33013,33.0,13.0,New Hampshire,Merrimack County,8,9,ME
+23005,23,5,Maine,Cumberland County,33013,33.0,13.0,New Hampshire,Merrimack County,69,51,ME
+23011,23,11,Maine,Kennebec County,33013,33.0,13.0,New Hampshire,Merrimack County,67,54,ME
+23013,23,13,Maine,Knox County,33013,33.0,13.0,New Hampshire,Merrimack County,18,29,ME
+23017,23,17,Maine,Oxford County,33013,33.0,13.0,New Hampshire,Merrimack County,26,20,ME
+23027,23,27,Maine,Waldo County,33013,33.0,13.0,New Hampshire,Merrimack County,4,4,ME
+23031,23,31,Maine,York County,33013,33.0,13.0,New Hampshire,Merrimack County,238,126,ME
+23001,23,1,Maine,Androscoggin County,33015,33.0,15.0,New Hampshire,Rockingham County,119,103,ME
+23005,23,5,Maine,Cumberland County,33015,33.0,15.0,New Hampshire,Rockingham County,413,143,ME
+23009,23,9,Maine,Hancock County,33015,33.0,15.0,New Hampshire,Rockingham County,1,3,ME
+23011,23,11,Maine,Kennebec County,33015,33.0,15.0,New Hampshire,Rockingham County,19,29,ME
+23013,23,13,Maine,Knox County,33015,33.0,15.0,New Hampshire,Rockingham County,1,3,ME
+23015,23,15,Maine,Lincoln County,33015,33.0,15.0,New Hampshire,Rockingham County,7,7,ME
+23017,23,17,Maine,Oxford County,33015,33.0,15.0,New Hampshire,Rockingham County,25,25,ME
+23019,23,19,Maine,Penobscot County,33015,33.0,15.0,New Hampshire,Rockingham County,10,16,ME
+23023,23,23,Maine,Sagadahoc County,33015,33.0,15.0,New Hampshire,Rockingham County,24,29,ME
+23025,23,25,Maine,Somerset County,33015,33.0,15.0,New Hampshire,Rockingham County,18,30,ME
+23027,23,27,Maine,Waldo County,33015,33.0,15.0,New Hampshire,Rockingham County,11,10,ME
+23029,23,29,Maine,Washington County,33015,33.0,15.0,New Hampshire,Rockingham County,10,11,ME
+23031,23,31,Maine,York County,33015,33.0,15.0,New Hampshire,Rockingham County,6718,549,ME
+23001,23,1,Maine,Androscoggin County,33017,33.0,17.0,New Hampshire,Strafford County,12,20,ME
+23005,23,5,Maine,Cumberland County,33017,33.0,17.0,New Hampshire,Strafford County,190,110,ME
+23011,23,11,Maine,Kennebec County,33017,33.0,17.0,New Hampshire,Strafford County,10,14,ME
+23017,23,17,Maine,Oxford County,33017,33.0,17.0,New Hampshire,Strafford County,22,16,ME
+23019,23,19,Maine,Penobscot County,33017,33.0,17.0,New Hampshire,Strafford County,15,21,ME
+23025,23,25,Maine,Somerset County,33017,33.0,17.0,New Hampshire,Strafford County,6,10,ME
+23029,23,29,Maine,Washington County,33017,33.0,17.0,New Hampshire,Strafford County,1,2,ME
+23031,23,31,Maine,York County,33017,33.0,17.0,New Hampshire,Strafford County,6042,586,ME
+23003,23,3,Maine,Aroostook County,33019,33.0,19.0,New Hampshire,Sullivan County,2,3,ME
+23017,23,17,Maine,Oxford County,33019,33.0,19.0,New Hampshire,Sullivan County,14,14,ME
+23025,23,25,Maine,Somerset County,33019,33.0,19.0,New Hampshire,Sullivan County,3,5,ME
+23003,23,3,Maine,Aroostook County,34003,34.0,3.0,New Jersey,Bergen County,8,12,ME
+23011,23,11,Maine,Kennebec County,34003,34.0,3.0,New Jersey,Bergen County,3,5,ME
+23013,23,13,Maine,Knox County,34003,34.0,3.0,New Jersey,Bergen County,12,13,ME
+23031,23,31,Maine,York County,34003,34.0,3.0,New Jersey,Bergen County,15,20,ME
+23015,23,15,Maine,Lincoln County,34005,34.0,5.0,New Jersey,Burlington County,11,18,ME
+23005,23,5,Maine,Cumberland County,34013,34.0,13.0,New Jersey,Essex County,81,98,ME
+23009,23,9,Maine,Hancock County,34013,34.0,13.0,New Jersey,Essex County,3,6,ME
+23029,23,29,Maine,Washington County,34013,34.0,13.0,New Jersey,Essex County,3,4,ME
+23031,23,31,Maine,York County,34013,34.0,13.0,New Jersey,Essex County,51,52,ME
+23009,23,9,Maine,Hancock County,34017,34.0,17.0,New Jersey,Hudson County,9,11,ME
+23031,23,31,Maine,York County,34017,34.0,17.0,New Jersey,Hudson County,13,15,ME
+23009,23,9,Maine,Hancock County,34021,34.0,21.0,New Jersey,Mercer County,3,4,ME
+23031,23,31,Maine,York County,34025,34.0,25.0,New Jersey,Monmouth County,8,13,ME
+23005,23,5,Maine,Cumberland County,34027,34.0,27.0,New Jersey,Morris County,7,11,ME
+23011,23,11,Maine,Kennebec County,34029,34.0,29.0,New Jersey,Ocean County,10,16,ME
+23025,23,25,Maine,Somerset County,34029,34.0,29.0,New Jersey,Ocean County,8,12,ME
+23019,23,19,Maine,Penobscot County,34035,34.0,35.0,New Jersey,Somerset County,4,6,ME
+23027,23,27,Maine,Waldo County,34035,34.0,35.0,New Jersey,Somerset County,4,5,ME
+23021,23,21,Maine,Piscataquis County,34039,34.0,39.0,New Jersey,Union County,2,2,ME
+23023,23,23,Maine,Sagadahoc County,36001,36.0,1.0,New York,Albany County,6,10,ME
+23029,23,29,Maine,Washington County,36001,36.0,1.0,New York,Albany County,3,4,ME
+23031,23,31,Maine,York County,36001,36.0,1.0,New York,Albany County,29,35,ME
+23019,23,19,Maine,Penobscot County,36005,36.0,5.0,New York,Bronx County,3,4,ME
+23029,23,29,Maine,Washington County,36005,36.0,5.0,New York,Bronx County,8,7,ME
+23031,23,31,Maine,York County,36007,36.0,7.0,New York,Broome County,12,19,ME
+23031,23,31,Maine,York County,36027,36.0,27.0,New York,Dutchess County,16,25,ME
+23021,23,21,Maine,Piscataquis County,36029,36.0,29.0,New York,Erie County,3,4,ME
+23027,23,27,Maine,Waldo County,36029,36.0,29.0,New York,Erie County,3,5,ME
+23031,23,31,Maine,York County,36029,36.0,29.0,New York,Erie County,3,6,ME
+23019,23,19,Maine,Penobscot County,36031,36.0,31.0,New York,Essex County,5,8,ME
+23005,23,5,Maine,Cumberland County,36033,36.0,33.0,New York,Franklin County,15,24,ME
+23001,23,1,Maine,Androscoggin County,36047,36.0,47.0,New York,Kings County,15,25,ME
+23003,23,3,Maine,Aroostook County,36047,36.0,47.0,New York,Kings County,9,13,ME
+23011,23,11,Maine,Kennebec County,36047,36.0,47.0,New York,Kings County,25,34,ME
+23015,23,15,Maine,Lincoln County,36047,36.0,47.0,New York,Kings County,3,4,ME
+23023,23,23,Maine,Sagadahoc County,36047,36.0,47.0,New York,Kings County,3,4,ME
+23027,23,27,Maine,Waldo County,36047,36.0,47.0,New York,Kings County,3,4,ME
+23031,23,31,Maine,York County,36047,36.0,47.0,New York,Kings County,3,4,ME
+23005,23,5,Maine,Cumberland County,36055,36.0,55.0,New York,Monroe County,12,15,ME
+23029,23,29,Maine,Washington County,36055,36.0,55.0,New York,Monroe County,3,4,ME
+23017,23,17,Maine,Oxford County,36059,36.0,59.0,New York,Nassau County,9,10,ME
+23019,23,19,Maine,Penobscot County,36059,36.0,59.0,New York,Nassau County,3,4,ME
+23023,23,23,Maine,Sagadahoc County,36059,36.0,59.0,New York,Nassau County,7,12,ME
+23003,23,3,Maine,Aroostook County,36061,36.0,61.0,New York,New York County,2,2,ME
+23005,23,5,Maine,Cumberland County,36061,36.0,61.0,New York,New York County,31,24,ME
+23007,23,7,Maine,Franklin County,36061,36.0,61.0,New York,New York County,12,18,ME
+23013,23,13,Maine,Knox County,36061,36.0,61.0,New York,New York County,7,10,ME
+23015,23,15,Maine,Lincoln County,36061,36.0,61.0,New York,New York County,29,27,ME
+23023,23,23,Maine,Sagadahoc County,36061,36.0,61.0,New York,New York County,4,6,ME
+23025,23,25,Maine,Somerset County,36061,36.0,61.0,New York,New York County,2,2,ME
+23031,23,31,Maine,York County,36061,36.0,61.0,New York,New York County,81,103,ME
+23005,23,5,Maine,Cumberland County,36065,36.0,65.0,New York,Oneida County,20,31,ME
+23027,23,27,Maine,Waldo County,36065,36.0,65.0,New York,Oneida County,13,21,ME
+23029,23,29,Maine,Washington County,36067,36.0,67.0,New York,Onondaga County,1,3,ME
+23001,23,1,Maine,Androscoggin County,36071,36.0,71.0,New York,Orange County,23,36,ME
+23019,23,19,Maine,Penobscot County,36071,36.0,71.0,New York,Orange County,4,7,ME
+23031,23,31,Maine,York County,36071,36.0,71.0,New York,Orange County,5,7,ME
+23005,23,5,Maine,Cumberland County,36081,36.0,81.0,New York,Queens County,95,59,ME
+23031,23,31,Maine,York County,36081,36.0,81.0,New York,Queens County,21,23,ME
+23015,23,15,Maine,Lincoln County,36083,36.0,83.0,New York,Rensselaer County,11,19,ME
+23001,23,1,Maine,Androscoggin County,36085,36.0,85.0,New York,Richmond County,6,11,ME
+23005,23,5,Maine,Cumberland County,36085,36.0,85.0,New York,Richmond County,9,15,ME
+23025,23,25,Maine,Somerset County,36085,36.0,85.0,New York,Richmond County,1,3,ME
+23027,23,27,Maine,Waldo County,36085,36.0,85.0,New York,Richmond County,17,14,ME
+23031,23,31,Maine,York County,36085,36.0,85.0,New York,Richmond County,2,4,ME
+23031,23,31,Maine,York County,36091,36.0,91.0,New York,Saratoga County,7,12,ME
+23009,23,9,Maine,Hancock County,36093,36.0,93.0,New York,Schenectady County,3,4,ME
+23007,23,7,Maine,Franklin County,36097,36.0,97.0,New York,Schuyler County,3,4,ME
+23005,23,5,Maine,Cumberland County,36103,36.0,103.0,New York,Suffolk County,10,17,ME
+23011,23,11,Maine,Kennebec County,36103,36.0,103.0,New York,Suffolk County,4,5,ME
+23027,23,27,Maine,Waldo County,36103,36.0,103.0,New York,Suffolk County,3,4,ME
+23015,23,15,Maine,Lincoln County,36109,36.0,109.0,New York,Tompkins County,2,5,ME
+23027,23,27,Maine,Waldo County,36109,36.0,109.0,New York,Tompkins County,8,12,ME
+23017,23,17,Maine,Oxford County,36113,36.0,113.0,New York,Warren County,3,4,ME
+23011,23,11,Maine,Kennebec County,36119,36.0,119.0,New York,Westchester County,6,8,ME
+23005,23,5,Maine,Cumberland County,37047,37.0,47.0,North Carolina,Columbus County,15,23,ME
+23015,23,15,Maine,Lincoln County,37063,37.0,63.0,North Carolina,Durham County,19,22,ME
+23029,23,29,Maine,Washington County,37063,37.0,63.0,North Carolina,Durham County,2,3,ME
+23031,23,31,Maine,York County,37081,37.0,81.0,North Carolina,Guilford County,16,24,ME
+23011,23,11,Maine,Kennebec County,37119,37.0,119.0,North Carolina,Mecklenburg County,9,13,ME
+23013,23,13,Maine,Knox County,37119,37.0,119.0,North Carolina,Mecklenburg County,6,6,ME
+23029,23,29,Maine,Washington County,37119,37.0,119.0,North Carolina,Mecklenburg County,3,4,ME
+23003,23,3,Maine,Aroostook County,37163,37.0,163.0,North Carolina,Sampson County,1,2,ME
+23015,23,15,Maine,Lincoln County,37183,37.0,183.0,North Carolina,Wake County,3,4,ME
+23031,23,31,Maine,York County,38101,38.0,101.0,North Dakota,Ward County,3,5,ME
+23011,23,11,Maine,Kennebec County,39023,39.0,23.0,Ohio,Clark County,9,16,ME
+23003,23,3,Maine,Aroostook County,39035,39.0,35.0,Ohio,Cuyahoga County,3,4,ME
+23031,23,31,Maine,York County,39035,39.0,35.0,Ohio,Cuyahoga County,10,15,ME
+23015,23,15,Maine,Lincoln County,39153,39.0,153.0,Ohio,Summit County,9,15,ME
+23023,23,23,Maine,Sagadahoc County,39169,39.0,169.0,Ohio,Wayne County,2,3,ME
+23021,23,21,Maine,Piscataquis County,40143,40.0,143.0,Oklahoma,Tulsa County,2,3,ME
+23017,23,17,Maine,Oxford County,41007,41.0,7.0,Oregon,Clatsop County,3,4,ME
+23025,23,25,Maine,Somerset County,41039,41.0,39.0,Oregon,Lane County,3,5,ME
+23005,23,5,Maine,Cumberland County,42003,42.0,3.0,Pennsylvania,Allegheny County,9,14,ME
+23031,23,31,Maine,York County,42003,42.0,3.0,Pennsylvania,Allegheny County,31,37,ME
+23017,23,17,Maine,Oxford County,42013,42.0,13.0,Pennsylvania,Blair County,4,4,ME
+23011,23,11,Maine,Kennebec County,42017,42.0,17.0,Pennsylvania,Bucks County,3,4,ME
+23005,23,5,Maine,Cumberland County,42027,42.0,27.0,Pennsylvania,Centre County,4,7,ME
+23009,23,9,Maine,Hancock County,42027,42.0,27.0,Pennsylvania,Centre County,3,6,ME
+23009,23,9,Maine,Hancock County,42029,42.0,29.0,Pennsylvania,Chester County,15,23,ME
+23013,23,13,Maine,Knox County,42029,42.0,29.0,Pennsylvania,Chester County,13,21,ME
+23019,23,19,Maine,Penobscot County,42029,42.0,29.0,Pennsylvania,Chester County,4,6,ME
+23007,23,7,Maine,Franklin County,42037,42.0,37.0,Pennsylvania,Columbia County,3,4,ME
+23001,23,1,Maine,Androscoggin County,42041,42.0,41.0,Pennsylvania,Cumberland County,9,13,ME
+23017,23,17,Maine,Oxford County,42063,42.0,63.0,Pennsylvania,Indiana County,1,3,ME
+23011,23,11,Maine,Kennebec County,42071,42.0,71.0,Pennsylvania,Lancaster County,12,18,ME
+23005,23,5,Maine,Cumberland County,42077,42.0,77.0,Pennsylvania,Lehigh County,22,35,ME
+23007,23,7,Maine,Franklin County,42077,42.0,77.0,Pennsylvania,Lehigh County,2,3,ME
+23011,23,11,Maine,Kennebec County,42077,42.0,77.0,Pennsylvania,Lehigh County,11,17,ME
+23005,23,5,Maine,Cumberland County,42089,42.0,89.0,Pennsylvania,Monroe County,5,6,ME
+23013,23,13,Maine,Knox County,42091,42.0,91.0,Pennsylvania,Montgomery County,12,20,ME
+23015,23,15,Maine,Lincoln County,42091,42.0,91.0,Pennsylvania,Montgomery County,4,6,ME
+23017,23,17,Maine,Oxford County,42091,42.0,91.0,Pennsylvania,Montgomery County,3,5,ME
+23009,23,9,Maine,Hancock County,42095,42.0,95.0,Pennsylvania,Northampton County,8,12,ME
+23009,23,9,Maine,Hancock County,42101,42.0,101.0,Pennsylvania,Philadelphia County,7,10,ME
+23019,23,19,Maine,Penobscot County,42101,42.0,101.0,Pennsylvania,Philadelphia County,20,32,ME
+23027,23,27,Maine,Waldo County,42101,42.0,101.0,Pennsylvania,Philadelphia County,7,10,ME
+23031,23,31,Maine,York County,42101,42.0,101.0,Pennsylvania,Philadelphia County,5,8,ME
+23005,23,5,Maine,Cumberland County,44003,44.0,3.0,Rhode Island,Kent County,10,17,ME
+23025,23,25,Maine,Somerset County,44003,44.0,3.0,Rhode Island,Kent County,6,8,ME
+23029,23,29,Maine,Washington County,44005,44.0,5.0,Rhode Island,Newport County,2,2,ME
+23031,23,31,Maine,York County,44005,44.0,5.0,Rhode Island,Newport County,8,15,ME
+23005,23,5,Maine,Cumberland County,44007,44.0,7.0,Rhode Island,Providence County,6,11,ME
+23011,23,11,Maine,Kennebec County,44007,44.0,7.0,Rhode Island,Providence County,2,5,ME
+23019,23,19,Maine,Penobscot County,44007,44.0,7.0,Rhode Island,Providence County,4,5,ME
+23025,23,25,Maine,Somerset County,44007,44.0,7.0,Rhode Island,Providence County,3,4,ME
+23031,23,31,Maine,York County,44007,44.0,7.0,Rhode Island,Providence County,15,17,ME
+23001,23,1,Maine,Androscoggin County,44009,44.0,9.0,Rhode Island,Washington County,11,18,ME
+23005,23,5,Maine,Cumberland County,44009,44.0,9.0,Rhode Island,Washington County,29,47,ME
+23017,23,17,Maine,Oxford County,44009,44.0,9.0,Rhode Island,Washington County,45,52,ME
+23025,23,25,Maine,Somerset County,44009,44.0,9.0,Rhode Island,Washington County,3,4,ME
+23029,23,29,Maine,Washington County,45019,45.0,19.0,South Carolina,Charleston County,2,3,ME
+23007,23,7,Maine,Franklin County,45045,45.0,45.0,South Carolina,Greenville County,53,64,ME
+23001,23,1,Maine,Androscoggin County,45079,45.0,79.0,South Carolina,Richland County,10,15,ME
+23031,23,31,Maine,York County,45079,45.0,79.0,South Carolina,Richland County,10,17,ME
+23013,23,13,Maine,Knox County,45091,45.0,91.0,South Carolina,York County,15,22,ME
+23019,23,19,Maine,Penobscot County,46029,46.0,29.0,South Dakota,Codington County,5,12,ME
+23019,23,19,Maine,Penobscot County,46035,46.0,35.0,South Dakota,Davison County,6,13,ME
+23005,23,5,Maine,Cumberland County,47037,47.0,37.0,Tennessee,Davidson County,2,3,ME
+23011,23,11,Maine,Kennebec County,47037,47.0,37.0,Tennessee,Davidson County,15,23,ME
+23001,23,1,Maine,Androscoggin County,47157,47.0,157.0,Tennessee,Shelby County,5,7,ME
+23019,23,19,Maine,Penobscot County,48027,48.0,27.0,Texas,Bell County,20,30,ME
+23013,23,13,Maine,Knox County,48113,48.0,113.0,Texas,Dallas County,6,6,ME
+23009,23,9,Maine,Hancock County,48167,48.0,167.0,Texas,Galveston County,6,8,ME
+23001,23,1,Maine,Androscoggin County,48201,48.0,201.0,Texas,Harris County,9,15,ME
+23005,23,5,Maine,Cumberland County,48201,48.0,201.0,Texas,Harris County,20,21,ME
+23009,23,9,Maine,Hancock County,48201,48.0,201.0,Texas,Harris County,6,7,ME
+23015,23,15,Maine,Lincoln County,48201,48.0,201.0,Texas,Harris County,9,15,ME
+23017,23,17,Maine,Oxford County,48201,48.0,201.0,Texas,Harris County,9,16,ME
+23019,23,19,Maine,Penobscot County,48201,48.0,201.0,Texas,Harris County,3,4,ME
+23021,23,21,Maine,Piscataquis County,48201,48.0,201.0,Texas,Harris County,3,5,ME
+23025,23,25,Maine,Somerset County,48201,48.0,201.0,Texas,Harris County,14,23,ME
+23027,23,27,Maine,Waldo County,48201,48.0,201.0,Texas,Harris County,18,21,ME
+23031,23,31,Maine,York County,48201,48.0,201.0,Texas,Harris County,42,50,ME
+23019,23,19,Maine,Penobscot County,48485,48.0,485.0,Texas,Wichita County,4,7,ME
+23031,23,31,Maine,York County,49035,49.0,35.0,Utah,Salt Lake County,9,15,ME
+23001,23,1,Maine,Androscoggin County,50001,50.0,1.0,Vermont,Addison County,2,5,ME
+23005,23,5,Maine,Cumberland County,50007,50.0,7.0,Vermont,Chittenden County,10,13,ME
+23017,23,17,Maine,Oxford County,50007,50.0,7.0,Vermont,Chittenden County,14,15,ME
+23019,23,19,Maine,Penobscot County,50007,50.0,7.0,Vermont,Chittenden County,15,24,ME
+23031,23,31,Maine,York County,50007,50.0,7.0,Vermont,Chittenden County,104,106,ME
+23017,23,17,Maine,Oxford County,50009,50.0,9.0,Vermont,Essex County,9,11,ME
+23007,23,7,Maine,Franklin County,50011,50.0,11.0,Vermont,Franklin County,3,4,ME
+23009,23,9,Maine,Hancock County,50017,50.0,17.0,Vermont,Orange County,4,6,ME
+23029,23,29,Maine,Washington County,50017,50.0,17.0,Vermont,Orange County,3,6,ME
+23005,23,5,Maine,Cumberland County,50021,50.0,21.0,Vermont,Rutland County,60,75,ME
+23019,23,19,Maine,Penobscot County,50021,50.0,21.0,Vermont,Rutland County,12,18,ME
+23031,23,31,Maine,York County,50021,50.0,21.0,Vermont,Rutland County,40,45,ME
+23001,23,1,Maine,Androscoggin County,50023,50.0,23.0,Vermont,Washington County,10,16,ME
+23027,23,27,Maine,Waldo County,50023,50.0,23.0,Vermont,Washington County,3,4,ME
+23031,23,31,Maine,York County,50023,50.0,23.0,Vermont,Washington County,12,21,ME
+23005,23,5,Maine,Cumberland County,50025,50.0,25.0,Vermont,Windham County,10,15,ME
+23011,23,11,Maine,Kennebec County,50025,50.0,25.0,Vermont,Windham County,3,4,ME
+23015,23,15,Maine,Lincoln County,50025,50.0,25.0,Vermont,Windham County,15,20,ME
+23017,23,17,Maine,Oxford County,50025,50.0,25.0,Vermont,Windham County,3,4,ME
+23015,23,15,Maine,Lincoln County,50027,50.0,27.0,Vermont,Windsor County,25,38,ME
+23017,23,17,Maine,Oxford County,50027,50.0,27.0,Vermont,Windsor County,8,10,ME
+23019,23,19,Maine,Penobscot County,51003,51.0,3.0,Virginia,Albemarle County,3,6,ME
+23027,23,27,Maine,Waldo County,51003,51.0,3.0,Virginia,Albemarle County,4,5,ME
+23005,23,5,Maine,Cumberland County,51013,51.0,13.0,Virginia,Arlington County,19,23,ME
+23001,23,1,Maine,Androscoggin County,51031,51.0,31.0,Virginia,Campbell County,4,6,ME
+23011,23,11,Maine,Kennebec County,51041,51.0,41.0,Virginia,Chesterfield County,34,38,ME
+23005,23,5,Maine,Cumberland County,51059,51.0,59.0,Virginia,Fairfax County,1,3,ME
+23009,23,9,Maine,Hancock County,51059,51.0,59.0,Virginia,Fairfax County,2,3,ME
+23023,23,23,Maine,Sagadahoc County,51059,51.0,59.0,Virginia,Fairfax County,8,13,ME
+23005,23,5,Maine,Cumberland County,51087,51.0,87.0,Virginia,Henrico County,3,6,ME
+23019,23,19,Maine,Penobscot County,51153,51.0,153.0,Virginia,Prince William County,9,15,ME
+23005,23,5,Maine,Cumberland County,51181,51.0,181.0,Virginia,Surry County,14,21,ME
+23019,23,19,Maine,Penobscot County,51181,51.0,181.0,Virginia,Surry County,3,6,ME
+23009,23,9,Maine,Hancock County,51510,51.0,510.0,Virginia,Alexandria city,6,8,ME
+23029,23,29,Maine,Washington County,51550,51.0,550.0,Virginia,Chesapeake city,2,2,ME
+23005,23,5,Maine,Cumberland County,51740,51.0,740.0,Virginia,Portsmouth city,3,7,ME
+23005,23,5,Maine,Cumberland County,51760,51.0,760.0,Virginia,Richmond city,10,15,ME
+23015,23,15,Maine,Lincoln County,53033,53.0,33.0,Washington,King County,9,14,ME
+23019,23,19,Maine,Penobscot County,53033,53.0,33.0,Washington,King County,14,18,ME
+23021,23,21,Maine,Piscataquis County,53033,53.0,33.0,Washington,King County,4,6,ME
+23029,23,29,Maine,Washington County,53033,53.0,33.0,Washington,King County,3,4,ME
+23029,23,29,Maine,Washington County,53053,53.0,53.0,Washington,Pierce County,7,8,ME
+23031,23,31,Maine,York County,53057,53.0,57.0,Washington,Skagit County,11,17,ME
+23001,23,1,Maine,Androscoggin County,54055,54.0,55.0,West Virginia,Mercer County,10,15,ME
+23019,23,19,Maine,Penobscot County,55009,55.0,9.0,Wisconsin,Brown County,6,8,ME
+23005,23,5,Maine,Cumberland County,55025,55.0,25.0,Wisconsin,Dane County,1,3,ME
+23017,23,17,Maine,Oxford County,55073,55.0,73.0,Wisconsin,Marathon County,3,4,ME
+23013,23,13,Maine,Knox County,55075,55.0,75.0,Wisconsin,Marinette County,7,11,ME
+23023,23,23,Maine,Sagadahoc County,55075,55.0,75.0,Wisconsin,Marinette County,3,5,ME
+23001,23,1,Maine,Androscoggin County,55079,55.0,79.0,Wisconsin,Milwaukee County,25,39,ME
+23023,23,23,Maine,Sagadahoc County,55079,55.0,79.0,Wisconsin,Milwaukee County,1,2,ME
+23005,23,5,Maine,Cumberland County,72127,72.0,127.0,Puerto Rico,San Juan Municipio,9,15,ME
+23003,23,3,Maine,Aroostook County,301000,301.0,,Canada,,49,37,ME
+23005,23,5,Maine,Cumberland County,301000,301.0,,Canada,,24,28,ME
+23009,23,9,Maine,Hancock County,301000,301.0,,Canada,,4,5,ME
+23011,23,11,Maine,Kennebec County,301000,301.0,,Canada,,8,13,ME
+23013,23,13,Maine,Knox County,301000,301.0,,Canada,,3,4,ME
+23015,23,15,Maine,Lincoln County,301000,301.0,,Canada,,9,13,ME
+23025,23,25,Maine,Somerset County,301000,301.0,,Canada,,4,6,ME
+23029,23,29,Maine,Washington County,301000,301.0,,Canada,,44,20,ME
+23031,23,31,Maine,York County,301000,301.0,,Canada,,8,14,ME
+23005,23,5,Maine,Cumberland County,-1,,,Other workplace outside of the U.S.,,77,52,ME
+23007,23,7,Maine,Franklin County,-1,,,Other workplace outside of the U.S.,,3,4,ME
+23009,23,9,Maine,Hancock County,-1,,,Other workplace outside of the U.S.,,16,12,ME
+23011,23,11,Maine,Kennebec County,-1,,,Other workplace outside of the U.S.,,23,26,ME
+23015,23,15,Maine,Lincoln County,-1,,,Other workplace outside of the U.S.,,12,20,ME
+23017,23,17,Maine,Oxford County,-1,,,Other workplace outside of the U.S.,,4,5,ME
+23019,23,19,Maine,Penobscot County,-1,,,Other workplace outside of the U.S.,,32,43,ME
+23029,23,29,Maine,Washington County,-1,,,Other workplace outside of the U.S.,,3,6,ME
+23031,23,31,Maine,York County,-1,,,Other workplace outside of the U.S.,,44,45,ME

@@ -1,0 +1,1827 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+54053,54,53,West Virginia,Mason County,1015,1.0,15.0,Alabama,Calhoun County,7,13,WV
+54033,54,33,West Virginia,Harrison County,1073,1.0,73.0,Alabama,Jefferson County,3,5,WV
+54027,54,27,West Virginia,Hampshire County,1089,1.0,89.0,Alabama,Madison County,5,9,WV
+54039,54,39,West Virginia,Kanawha County,5119,5.0,119.0,Arkansas,Pulaski County,9,15,WV
+54061,54,61,West Virginia,Monongalia County,6001,6.0,1.0,California,Alameda County,73,101,WV
+54079,54,79,West Virginia,Putnam County,6037,6.0,37.0,California,Los Angeles County,30,50,WV
+54087,54,87,West Virginia,Roane County,6073,6.0,73.0,California,San Diego County,7,11,WV
+54069,54,69,West Virginia,Ohio County,6087,6.0,87.0,California,Santa Cruz County,17,27,WV
+54099,54,99,West Virginia,Wayne County,6115,6.0,115.0,California,Yuba County,10,16,WV
+54001,54,1,West Virginia,Barbour County,8041,8.0,41.0,Colorado,El Paso County,14,21,WV
+54085,54,85,West Virginia,Ritchie County,8077,8.0,77.0,Colorado,Mesa County,10,14,WV
+54033,54,33,West Virginia,Harrison County,9001,9.0,1.0,Connecticut,Fairfield County,8,13,WV
+54039,54,39,West Virginia,Kanawha County,9001,9.0,1.0,Connecticut,Fairfield County,16,27,WV
+54061,54,61,West Virginia,Monongalia County,9001,9.0,1.0,Connecticut,Fairfield County,14,22,WV
+54079,54,79,West Virginia,Putnam County,9001,9.0,1.0,Connecticut,Fairfield County,3,5,WV
+54039,54,39,West Virginia,Kanawha County,9003,9.0,3.0,Connecticut,Hartford County,7,17,WV
+54011,54,11,West Virginia,Cabell County,9009,9.0,9.0,Connecticut,New Haven County,18,27,WV
+54069,54,69,West Virginia,Ohio County,10003,10.0,3.0,Delaware,New Castle County,4,5,WV
+54003,54,3,West Virginia,Berkeley County,11001,11.0,1.0,District of Columbia,District of Columbia,695,297,WV
+54031,54,31,West Virginia,Hardy County,11001,11.0,1.0,District of Columbia,District of Columbia,55,53,WV
+54037,54,37,West Virginia,Jefferson County,11001,11.0,1.0,District of Columbia,District of Columbia,777,153,WV
+54049,54,49,West Virginia,Marion County,11001,11.0,1.0,District of Columbia,District of Columbia,15,20,WV
+54061,54,61,West Virginia,Monongalia County,11001,11.0,1.0,District of Columbia,District of Columbia,15,20,WV
+54065,54,65,West Virginia,Morgan County,11001,11.0,1.0,District of Columbia,District of Columbia,19,22,WV
+54069,54,69,West Virginia,Ohio County,11001,11.0,1.0,District of Columbia,District of Columbia,23,25,WV
+54071,54,71,West Virginia,Pendleton County,11001,11.0,1.0,District of Columbia,District of Columbia,9,13,WV
+54081,54,81,West Virginia,Raleigh County,11001,11.0,1.0,District of Columbia,District of Columbia,12,19,WV
+54087,54,87,West Virginia,Roane County,11001,11.0,1.0,District of Columbia,District of Columbia,7,12,WV
+54025,54,25,West Virginia,Greenbrier County,12031,12.0,31.0,Florida,Duval County,22,33,WV
+54089,54,89,West Virginia,Summers County,12031,12.0,31.0,Florida,Duval County,15,21,WV
+54039,54,39,West Virginia,Kanawha County,12057,12.0,57.0,Florida,Hillsborough County,21,29,WV
+54069,54,69,West Virginia,Ohio County,12071,12.0,71.0,Florida,Lee County,14,21,WV
+54095,54,95,West Virginia,Tyler County,12071,12.0,71.0,Florida,Lee County,4,6,WV
+54079,54,79,West Virginia,Putnam County,12095,12.0,95.0,Florida,Orange County,19,29,WV
+54063,54,63,West Virginia,Monroe County,12099,12.0,99.0,Florida,Palm Beach County,2,5,WV
+54077,54,77,West Virginia,Preston County,12101,12.0,101.0,Florida,Pasco County,25,36,WV
+54087,54,87,West Virginia,Roane County,12115,12.0,115.0,Florida,Sarasota County,39,35,WV
+54045,54,45,West Virginia,Logan County,12127,12.0,127.0,Florida,Volusia County,1,2,WV
+54017,54,17,West Virginia,Doddridge County,13067,13.0,67.0,Georgia,Cobb County,9,15,WV
+54075,54,75,West Virginia,Pocahontas County,13089,13.0,89.0,Georgia,DeKalb County,7,11,WV
+54061,54,61,West Virginia,Monongalia County,13121,13.0,121.0,Georgia,Fulton County,6,10,WV
+54071,54,71,West Virginia,Pendleton County,13121,13.0,121.0,Georgia,Fulton County,9,14,WV
+54075,54,75,West Virginia,Pocahontas County,13121,13.0,121.0,Georgia,Fulton County,9,14,WV
+54077,54,77,West Virginia,Preston County,13121,13.0,121.0,Georgia,Fulton County,9,16,WV
+54091,54,91,West Virginia,Taylor County,13139,13.0,139.0,Georgia,Hall County,16,25,WV
+54011,54,11,West Virginia,Cabell County,13185,13.0,185.0,Georgia,Lowndes County,10,16,WV
+54001,54,1,West Virginia,Barbour County,17031,17.0,31.0,Illinois,Cook County,6,12,WV
+54011,54,11,West Virginia,Cabell County,17031,17.0,31.0,Illinois,Cook County,15,25,WV
+54029,54,29,West Virginia,Hancock County,17031,17.0,31.0,Illinois,Cook County,16,26,WV
+54033,54,33,West Virginia,Harrison County,17031,17.0,31.0,Illinois,Cook County,16,28,WV
+54039,54,39,West Virginia,Kanawha County,17031,17.0,31.0,Illinois,Cook County,8,9,WV
+54051,54,51,West Virginia,Marshall County,17031,17.0,31.0,Illinois,Cook County,44,60,WV
+54055,54,55,West Virginia,Mercer County,17031,17.0,31.0,Illinois,Cook County,8,13,WV
+54085,54,85,West Virginia,Ritchie County,17031,17.0,31.0,Illinois,Cook County,2,3,WV
+54099,54,99,West Virginia,Wayne County,17031,17.0,31.0,Illinois,Cook County,11,18,WV
+54107,54,107,West Virginia,Wood County,17043,17.0,43.0,Illinois,DuPage County,8,13,WV
+54061,54,61,West Virginia,Monongalia County,17089,17.0,89.0,Illinois,Kane County,4,8,WV
+54081,54,81,West Virginia,Raleigh County,17089,17.0,89.0,Illinois,Kane County,9,19,WV
+54035,54,35,West Virginia,Jackson County,17199,17.0,199.0,Illinois,Williamson County,33,47,WV
+54061,54,61,West Virginia,Monongalia County,18011,18.0,11.0,Indiana,Boone County,7,15,WV
+54039,54,39,West Virginia,Kanawha County,18019,18.0,19.0,Indiana,Clark County,15,24,WV
+54005,54,5,West Virginia,Boone County,18067,18.0,67.0,Indiana,Howard County,8,12,WV
+54001,54,1,West Virginia,Barbour County,18097,18.0,97.0,Indiana,Marion County,6,11,WV
+54005,54,5,West Virginia,Boone County,18097,18.0,97.0,Indiana,Marion County,25,39,WV
+54009,54,9,West Virginia,Brooke County,18097,18.0,97.0,Indiana,Marion County,25,38,WV
+54029,54,29,West Virginia,Hancock County,18097,18.0,97.0,Indiana,Marion County,35,41,WV
+54037,54,37,West Virginia,Jefferson County,18097,18.0,97.0,Indiana,Marion County,6,11,WV
+54069,54,69,West Virginia,Ohio County,18097,18.0,97.0,Indiana,Marion County,19,28,WV
+54091,54,91,West Virginia,Taylor County,18097,18.0,97.0,Indiana,Marion County,26,40,WV
+54057,54,57,West Virginia,Mineral County,19103,19.0,103.0,Iowa,Johnson County,12,18,WV
+54107,54,107,West Virginia,Wood County,19113,19.0,113.0,Iowa,Linn County,22,24,WV
+54003,54,3,West Virginia,Berkeley County,19153,19.0,153.0,Iowa,Polk County,20,33,WV
+54069,54,69,West Virginia,Ohio County,19153,19.0,153.0,Iowa,Polk County,9,14,WV
+54093,54,93,West Virginia,Tucker County,19153,19.0,153.0,Iowa,Polk County,16,24,WV
+54069,54,69,West Virginia,Ohio County,20091,20.0,91.0,Kansas,Johnson County,5,7,WV
+54039,54,39,West Virginia,Kanawha County,20103,20.0,103.0,Kansas,Leavenworth County,14,23,WV
+54039,54,39,West Virginia,Kanawha County,20159,20.0,159.0,Kansas,Rice County,11,18,WV
+54079,54,79,West Virginia,Putnam County,21015,21.0,15.0,Kentucky,Boone County,4,8,WV
+54011,54,11,West Virginia,Cabell County,21019,21.0,19.0,Kentucky,Boyd County,1063,246,WV
+54039,54,39,West Virginia,Kanawha County,21019,21.0,19.0,Kentucky,Boyd County,8,13,WV
+54053,54,53,West Virginia,Mason County,21019,21.0,19.0,Kentucky,Boyd County,43,41,WV
+54067,54,67,West Virginia,Nicholas County,21019,21.0,19.0,Kentucky,Boyd County,30,35,WV
+54079,54,79,West Virginia,Putnam County,21019,21.0,19.0,Kentucky,Boyd County,54,47,WV
+54081,54,81,West Virginia,Raleigh County,21019,21.0,19.0,Kentucky,Boyd County,22,35,WV
+54099,54,99,West Virginia,Wayne County,21019,21.0,19.0,Kentucky,Boyd County,761,185,WV
+54059,54,59,West Virginia,Mingo County,21025,21.0,25.0,Kentucky,Breathitt County,9,14,WV
+54087,54,87,West Virginia,Roane County,21025,21.0,25.0,Kentucky,Breathitt County,10,17,WV
+54007,54,7,West Virginia,Braxton County,21037,21.0,37.0,Kentucky,Campbell County,4,6,WV
+54081,54,81,West Virginia,Raleigh County,21037,21.0,37.0,Kentucky,Campbell County,15,24,WV
+54011,54,11,West Virginia,Cabell County,21043,21.0,43.0,Kentucky,Carter County,14,17,WV
+54035,54,35,West Virginia,Jackson County,21043,21.0,43.0,Kentucky,Carter County,8,14,WV
+54097,54,97,West Virginia,Upshur County,21043,21.0,43.0,Kentucky,Carter County,11,18,WV
+54099,54,99,West Virginia,Wayne County,21043,21.0,43.0,Kentucky,Carter County,32,35,WV
+54107,54,107,West Virginia,Wood County,21043,21.0,43.0,Kentucky,Carter County,43,69,WV
+54011,54,11,West Virginia,Cabell County,21049,21.0,49.0,Kentucky,Clark County,5,12,WV
+54099,54,99,West Virginia,Wayne County,21051,21.0,51.0,Kentucky,Clay County,21,22,WV
+54011,54,11,West Virginia,Cabell County,21067,21.0,67.0,Kentucky,Fayette County,12,18,WV
+54039,54,39,West Virginia,Kanawha County,21067,21.0,67.0,Kentucky,Fayette County,13,19,WV
+54069,54,69,West Virginia,Ohio County,21067,21.0,67.0,Kentucky,Fayette County,12,20,WV
+54079,54,79,West Virginia,Putnam County,21067,21.0,67.0,Kentucky,Fayette County,7,11,WV
+54011,54,11,West Virginia,Cabell County,21071,21.0,71.0,Kentucky,Floyd County,16,28,WV
+54059,54,59,West Virginia,Mingo County,21071,21.0,71.0,Kentucky,Floyd County,28,34,WV
+54107,54,107,West Virginia,Wood County,21073,21.0,73.0,Kentucky,Franklin County,6,11,WV
+54011,54,11,West Virginia,Cabell County,21089,21.0,89.0,Kentucky,Greenup County,42,42,WV
+54043,54,43,West Virginia,Lincoln County,21089,21.0,89.0,Kentucky,Greenup County,144,138,WV
+54089,54,89,West Virginia,Summers County,21089,21.0,89.0,Kentucky,Greenup County,12,20,WV
+54099,54,99,West Virginia,Wayne County,21089,21.0,89.0,Kentucky,Greenup County,92,56,WV
+54011,54,11,West Virginia,Cabell County,21097,21.0,97.0,Kentucky,Harrison County,19,24,WV
+54099,54,99,West Virginia,Wayne County,21107,21.0,107.0,Kentucky,Hopkins County,15,24,WV
+54025,54,25,West Virginia,Greenbrier County,21111,21.0,111.0,Kentucky,Jefferson County,18,28,WV
+54045,54,45,West Virginia,Logan County,21111,21.0,111.0,Kentucky,Jefferson County,10,12,WV
+54049,54,49,West Virginia,Marion County,21111,21.0,111.0,Kentucky,Jefferson County,12,19,WV
+54063,54,63,West Virginia,Monroe County,21111,21.0,111.0,Kentucky,Jefferson County,8,15,WV
+54065,54,65,West Virginia,Morgan County,21111,21.0,111.0,Kentucky,Jefferson County,2,3,WV
+54081,54,81,West Virginia,Raleigh County,21111,21.0,111.0,Kentucky,Jefferson County,7,12,WV
+54109,54,109,West Virginia,Wyoming County,21113,21.0,113.0,Kentucky,Jessamine County,4,7,WV
+54045,54,45,West Virginia,Logan County,21115,21.0,115.0,Kentucky,Johnson County,3,6,WV
+54059,54,59,West Virginia,Mingo County,21115,21.0,115.0,Kentucky,Johnson County,24,24,WV
+54099,54,99,West Virginia,Wayne County,21115,21.0,115.0,Kentucky,Johnson County,26,26,WV
+54011,54,11,West Virginia,Cabell County,21127,21.0,127.0,Kentucky,Lawrence County,34,27,WV
+54059,54,59,West Virginia,Mingo County,21127,21.0,127.0,Kentucky,Lawrence County,20,15,WV
+54099,54,99,West Virginia,Wayne County,21127,21.0,127.0,Kentucky,Lawrence County,223,80,WV
+54019,54,19,West Virginia,Fayette County,21145,21.0,145.0,Kentucky,McCracken County,13,20,WV
+54091,54,91,West Virginia,Taylor County,21145,21.0,145.0,Kentucky,McCracken County,9,13,WV
+54011,54,11,West Virginia,Cabell County,21151,21.0,151.0,Kentucky,Madison County,12,20,WV
+54011,54,11,West Virginia,Cabell County,21159,21.0,159.0,Kentucky,Martin County,26,25,WV
+54045,54,45,West Virginia,Logan County,21159,21.0,159.0,Kentucky,Martin County,17,28,WV
+54059,54,59,West Virginia,Mingo County,21159,21.0,159.0,Kentucky,Martin County,90,55,WV
+54099,54,99,West Virginia,Wayne County,21159,21.0,159.0,Kentucky,Martin County,22,34,WV
+54107,54,107,West Virginia,Wood County,21161,21.0,161.0,Kentucky,Mason County,9,14,WV
+54045,54,45,West Virginia,Logan County,21193,21.0,193.0,Kentucky,Perry County,10,16,WV
+54011,54,11,West Virginia,Cabell County,21195,21.0,195.0,Kentucky,Pike County,24,26,WV
+54015,54,15,West Virginia,Clay County,21195,21.0,195.0,Kentucky,Pike County,12,20,WV
+54019,54,19,West Virginia,Fayette County,21195,21.0,195.0,Kentucky,Pike County,8,13,WV
+54045,54,45,West Virginia,Logan County,21195,21.0,195.0,Kentucky,Pike County,46,40,WV
+54059,54,59,West Virginia,Mingo County,21195,21.0,195.0,Kentucky,Pike County,1193,231,WV
+54099,54,99,West Virginia,Wayne County,21195,21.0,195.0,Kentucky,Pike County,54,61,WV
+54107,54,107,West Virginia,Wood County,21205,21.0,205.0,Kentucky,Rowan County,17,26,WV
+54011,54,11,West Virginia,Cabell County,21207,21.0,207.0,Kentucky,Russell County,10,15,WV
+54079,54,79,West Virginia,Putnam County,21217,21.0,217.0,Kentucky,Taylor County,39,37,WV
+54033,54,33,West Virginia,Harrison County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,21,32,WV
+54061,54,61,West Virginia,Monongalia County,22055,22.0,55.0,Louisiana,Lafayette Parish,4,6,WV
+54077,54,77,West Virginia,Preston County,22055,22.0,55.0,Louisiana,Lafayette Parish,7,11,WV
+54003,54,3,West Virginia,Berkeley County,24001,24.0,1.0,Maryland,Allegany County,39,43,WV
+54013,54,13,West Virginia,Calhoun County,24001,24.0,1.0,Maryland,Allegany County,10,16,WV
+54023,54,23,West Virginia,Grant County,24001,24.0,1.0,Maryland,Allegany County,133,99,WV
+54027,54,27,West Virginia,Hampshire County,24001,24.0,1.0,Maryland,Allegany County,218,89,WV
+54037,54,37,West Virginia,Jefferson County,24001,24.0,1.0,Maryland,Allegany County,1,3,WV
+54057,54,57,West Virginia,Mineral County,24001,24.0,1.0,Maryland,Allegany County,3775,390,WV
+54061,54,61,West Virginia,Monongalia County,24001,24.0,1.0,Maryland,Allegany County,5,8,WV
+54065,54,65,West Virginia,Morgan County,24001,24.0,1.0,Maryland,Allegany County,96,76,WV
+54077,54,77,West Virginia,Preston County,24001,24.0,1.0,Maryland,Allegany County,43,46,WV
+54091,54,91,West Virginia,Taylor County,24001,24.0,1.0,Maryland,Allegany County,8,12,WV
+54003,54,3,West Virginia,Berkeley County,24003,24.0,3.0,Maryland,Anne Arundel County,54,43,WV
+54027,54,27,West Virginia,Hampshire County,24003,24.0,3.0,Maryland,Anne Arundel County,12,18,WV
+54037,54,37,West Virginia,Jefferson County,24003,24.0,3.0,Maryland,Anne Arundel County,31,33,WV
+54061,54,61,West Virginia,Monongalia County,24003,24.0,3.0,Maryland,Anne Arundel County,8,12,WV
+54065,54,65,West Virginia,Morgan County,24003,24.0,3.0,Maryland,Anne Arundel County,17,20,WV
+54083,54,83,West Virginia,Randolph County,24003,24.0,3.0,Maryland,Anne Arundel County,5,9,WV
+54001,54,1,West Virginia,Barbour County,24005,24.0,5.0,Maryland,Baltimore County,5,9,WV
+54027,54,27,West Virginia,Hampshire County,24005,24.0,5.0,Maryland,Baltimore County,7,11,WV
+54037,54,37,West Virginia,Jefferson County,24005,24.0,5.0,Maryland,Baltimore County,73,49,WV
+54077,54,77,West Virginia,Preston County,24005,24.0,5.0,Maryland,Baltimore County,19,28,WV
+54003,54,3,West Virginia,Berkeley County,24013,24.0,13.0,Maryland,Carroll County,17,29,WV
+54023,54,23,West Virginia,Grant County,24013,24.0,13.0,Maryland,Carroll County,3,6,WV
+54037,54,37,West Virginia,Jefferson County,24013,24.0,13.0,Maryland,Carroll County,42,46,WV
+54039,54,39,West Virginia,Kanawha County,24013,24.0,13.0,Maryland,Carroll County,12,27,WV
+54001,54,1,West Virginia,Barbour County,24017,24.0,17.0,Maryland,Charles County,9,12,WV
+54003,54,3,West Virginia,Berkeley County,24017,24.0,17.0,Maryland,Charles County,11,18,WV
+54003,54,3,West Virginia,Berkeley County,24021,24.0,21.0,Maryland,Frederick County,1255,287,WV
+54027,54,27,West Virginia,Hampshire County,24021,24.0,21.0,Maryland,Frederick County,29,33,WV
+54037,54,37,West Virginia,Jefferson County,24021,24.0,21.0,Maryland,Frederick County,1829,298,WV
+54039,54,39,West Virginia,Kanawha County,24021,24.0,21.0,Maryland,Frederick County,16,26,WV
+54057,54,57,West Virginia,Mineral County,24021,24.0,21.0,Maryland,Frederick County,35,41,WV
+54065,54,65,West Virginia,Morgan County,24021,24.0,21.0,Maryland,Frederick County,240,231,WV
+54067,54,67,West Virginia,Nicholas County,24021,24.0,21.0,Maryland,Frederick County,17,35,WV
+54107,54,107,West Virginia,Wood County,24021,24.0,21.0,Maryland,Frederick County,10,16,WV
+54023,54,23,West Virginia,Grant County,24023,24.0,23.0,Maryland,Garrett County,131,69,WV
+54049,54,49,West Virginia,Marion County,24023,24.0,23.0,Maryland,Garrett County,13,14,WV
+54057,54,57,West Virginia,Mineral County,24023,24.0,23.0,Maryland,Garrett County,191,89,WV
+54061,54,61,West Virginia,Monongalia County,24023,24.0,23.0,Maryland,Garrett County,46,41,WV
+54077,54,77,West Virginia,Preston County,24023,24.0,23.0,Maryland,Garrett County,1012,225,WV
+54091,54,91,West Virginia,Taylor County,24023,24.0,23.0,Maryland,Garrett County,13,21,WV
+54093,54,93,West Virginia,Tucker County,24023,24.0,23.0,Maryland,Garrett County,58,29,WV
+54027,54,27,West Virginia,Hampshire County,24025,24.0,25.0,Maryland,Harford County,6,10,WV
+54003,54,3,West Virginia,Berkeley County,24027,24.0,27.0,Maryland,Howard County,102,94,WV
+54019,54,19,West Virginia,Fayette County,24027,24.0,27.0,Maryland,Howard County,16,25,WV
+54023,54,23,West Virginia,Grant County,24027,24.0,27.0,Maryland,Howard County,29,42,WV
+54037,54,37,West Virginia,Jefferson County,24027,24.0,27.0,Maryland,Howard County,87,53,WV
+54039,54,39,West Virginia,Kanawha County,24027,24.0,27.0,Maryland,Howard County,9,16,WV
+54065,54,65,West Virginia,Morgan County,24027,24.0,27.0,Maryland,Howard County,16,25,WV
+54075,54,75,West Virginia,Pocahontas County,24027,24.0,27.0,Maryland,Howard County,9,14,WV
+54077,54,77,West Virginia,Preston County,24027,24.0,27.0,Maryland,Howard County,9,14,WV
+54081,54,81,West Virginia,Raleigh County,24027,24.0,27.0,Maryland,Howard County,10,17,WV
+54003,54,3,West Virginia,Berkeley County,24031,24.0,31.0,Maryland,Montgomery County,1146,227,WV
+54009,54,9,West Virginia,Brooke County,24031,24.0,31.0,Maryland,Montgomery County,8,16,WV
+54019,54,19,West Virginia,Fayette County,24031,24.0,31.0,Maryland,Montgomery County,9,15,WV
+54037,54,37,West Virginia,Jefferson County,24031,24.0,31.0,Maryland,Montgomery County,1455,288,WV
+54039,54,39,West Virginia,Kanawha County,24031,24.0,31.0,Maryland,Montgomery County,21,26,WV
+54049,54,49,West Virginia,Marion County,24031,24.0,31.0,Maryland,Montgomery County,13,24,WV
+54051,54,51,West Virginia,Marshall County,24031,24.0,31.0,Maryland,Montgomery County,54,87,WV
+54057,54,57,West Virginia,Mineral County,24031,24.0,31.0,Maryland,Montgomery County,10,17,WV
+54061,54,61,West Virginia,Monongalia County,24031,24.0,31.0,Maryland,Montgomery County,4,8,WV
+54065,54,65,West Virginia,Morgan County,24031,24.0,31.0,Maryland,Montgomery County,80,50,WV
+54067,54,67,West Virginia,Nicholas County,24031,24.0,31.0,Maryland,Montgomery County,6,12,WV
+54071,54,71,West Virginia,Pendleton County,24031,24.0,31.0,Maryland,Montgomery County,2,4,WV
+54099,54,99,West Virginia,Wayne County,24031,24.0,31.0,Maryland,Montgomery County,2,4,WV
+54003,54,3,West Virginia,Berkeley County,24033,24.0,33.0,Maryland,Prince George's County,285,138,WV
+54023,54,23,West Virginia,Grant County,24033,24.0,33.0,Maryland,Prince George's County,6,11,WV
+54031,54,31,West Virginia,Hardy County,24033,24.0,33.0,Maryland,Prince George's County,27,29,WV
+54037,54,37,West Virginia,Jefferson County,24033,24.0,33.0,Maryland,Prince George's County,102,56,WV
+54065,54,65,West Virginia,Morgan County,24033,24.0,33.0,Maryland,Prince George's County,32,34,WV
+54067,54,67,West Virginia,Nicholas County,24033,24.0,33.0,Maryland,Prince George's County,22,31,WV
+54069,54,69,West Virginia,Ohio County,24033,24.0,33.0,Maryland,Prince George's County,2,4,WV
+54085,54,85,West Virginia,Ritchie County,24033,24.0,33.0,Maryland,Prince George's County,2,4,WV
+54099,54,99,West Virginia,Wayne County,24033,24.0,33.0,Maryland,Prince George's County,18,27,WV
+54083,54,83,West Virginia,Randolph County,24037,24.0,37.0,Maryland,St. Mary's County,10,14,WV
+54003,54,3,West Virginia,Berkeley County,24043,24.0,43.0,Maryland,Washington County,7119,666,WV
+54007,54,7,West Virginia,Braxton County,24043,24.0,43.0,Maryland,Washington County,13,19,WV
+54037,54,37,West Virginia,Jefferson County,24043,24.0,43.0,Maryland,Washington County,415,125,WV
+54057,54,57,West Virginia,Mineral County,24043,24.0,43.0,Maryland,Washington County,2,4,WV
+54065,54,65,West Virginia,Morgan County,24043,24.0,43.0,Maryland,Washington County,873,210,WV
+54003,54,3,West Virginia,Berkeley County,24510,24.0,510.0,Maryland,Baltimore city,54,58,WV
+54019,54,19,West Virginia,Fayette County,24510,24.0,510.0,Maryland,Baltimore city,33,40,WV
+54021,54,21,West Virginia,Gilmer County,24510,24.0,510.0,Maryland,Baltimore city,6,10,WV
+54037,54,37,West Virginia,Jefferson County,24510,24.0,510.0,Maryland,Baltimore city,84,55,WV
+54051,54,51,West Virginia,Marshall County,24510,24.0,510.0,Maryland,Baltimore city,4,6,WV
+54065,54,65,West Virginia,Morgan County,24510,24.0,510.0,Maryland,Baltimore city,25,30,WV
+54031,54,31,West Virginia,Hardy County,25009,25.0,9.0,Massachusetts,Essex County,5,8,WV
+54035,54,35,West Virginia,Jackson County,25017,25.0,17.0,Massachusetts,Middlesex County,24,38,WV
+54037,54,37,West Virginia,Jefferson County,25017,25.0,17.0,Massachusetts,Middlesex County,16,17,WV
+54065,54,65,West Virginia,Morgan County,25017,25.0,17.0,Massachusetts,Middlesex County,9,15,WV
+54071,54,71,West Virginia,Pendleton County,25017,25.0,17.0,Massachusetts,Middlesex County,18,28,WV
+54103,54,103,West Virginia,Wetzel County,25025,25.0,25.0,Massachusetts,Suffolk County,6,10,WV
+54107,54,107,West Virginia,Wood County,25025,25.0,25.0,Massachusetts,Suffolk County,13,21,WV
+54011,54,11,West Virginia,Cabell County,26005,26.0,5.0,Michigan,Allegan County,17,29,WV
+54107,54,107,West Virginia,Wood County,26043,26.0,43.0,Michigan,Dickinson County,5,7,WV
+54107,54,107,West Virginia,Wood County,26111,26.0,111.0,Michigan,Midland County,14,22,WV
+54007,54,7,West Virginia,Braxton County,26115,26.0,115.0,Michigan,Monroe County,9,13,WV
+54065,54,65,West Virginia,Morgan County,26125,26.0,125.0,Michigan,Oakland County,3,6,WV
+54011,54,11,West Virginia,Cabell County,26163,26.0,163.0,Michigan,Wayne County,13,22,WV
+54017,54,17,West Virginia,Doddridge County,27037,27.0,37.0,Minnesota,Dakota County,3,7,WV
+54081,54,81,West Virginia,Raleigh County,27037,27.0,37.0,Minnesota,Dakota County,24,33,WV
+54107,54,107,West Virginia,Wood County,27053,27.0,53.0,Minnesota,Hennepin County,16,25,WV
+54079,54,79,West Virginia,Putnam County,27123,27.0,123.0,Minnesota,Ramsey County,50,72,WV
+54107,54,107,West Virginia,Wood County,28049,28.0,49.0,Mississippi,Hinds County,24,39,WV
+54005,54,5,West Virginia,Boone County,29077,29.0,77.0,Missouri,Greene County,19,29,WV
+54063,54,63,West Virginia,Monroe County,29095,29.0,95.0,Missouri,Jackson County,3,5,WV
+54099,54,99,West Virginia,Wayne County,29097,29.0,97.0,Missouri,Jasper County,13,19,WV
+54079,54,79,West Virginia,Putnam County,29169,29.0,169.0,Missouri,Pulaski County,17,30,WV
+54005,54,5,West Virginia,Boone County,29189,29.0,189.0,Missouri,St. Louis County,2,4,WV
+54089,54,89,West Virginia,Summers County,29189,29.0,189.0,Missouri,St. Louis County,13,19,WV
+54075,54,75,West Virginia,Pocahontas County,30111,30.0,111.0,Montana,Yellowstone County,3,5,WV
+54029,54,29,West Virginia,Hancock County,31055,31.0,55.0,Nebraska,Douglas County,6,9,WV
+54039,54,39,West Virginia,Kanawha County,31157,31.0,157.0,Nebraska,Scotts Bluff County,9,14,WV
+54077,54,77,West Virginia,Preston County,32007,32.0,7.0,Nevada,Elko County,11,17,WV
+54039,54,39,West Virginia,Kanawha County,33001,33.0,1.0,New Hampshire,Belknap County,16,26,WV
+54039,54,39,West Virginia,Kanawha County,33011,33.0,11.0,New Hampshire,Hillsborough County,3,4,WV
+54051,54,51,West Virginia,Marshall County,34003,34.0,3.0,New Jersey,Bergen County,14,23,WV
+54095,54,95,West Virginia,Tyler County,34003,34.0,3.0,New Jersey,Bergen County,3,5,WV
+54107,54,107,West Virginia,Wood County,34003,34.0,3.0,New Jersey,Bergen County,7,11,WV
+54075,54,75,West Virginia,Pocahontas County,34013,34.0,13.0,New Jersey,Essex County,2,4,WV
+54003,54,3,West Virginia,Berkeley County,34017,34.0,17.0,New Jersey,Hudson County,15,23,WV
+54011,54,11,West Virginia,Cabell County,34021,34.0,21.0,New Jersey,Mercer County,10,16,WV
+54055,54,55,West Virginia,Mercer County,34021,34.0,21.0,New Jersey,Mercer County,10,14,WV
+54095,54,95,West Virginia,Tyler County,34025,34.0,25.0,New Jersey,Monmouth County,5,7,WV
+54081,54,81,West Virginia,Raleigh County,34027,34.0,27.0,New Jersey,Morris County,4,10,WV
+54075,54,75,West Virginia,Pocahontas County,34031,34.0,31.0,New Jersey,Passaic County,16,21,WV
+54009,54,9,West Virginia,Brooke County,34035,34.0,35.0,New Jersey,Somerset County,48,70,WV
+54081,54,81,West Virginia,Raleigh County,34035,34.0,35.0,New Jersey,Somerset County,9,14,WV
+54077,54,77,West Virginia,Preston County,36015,36.0,15.0,New York,Chemung County,4,6,WV
+54051,54,51,West Virginia,Marshall County,36047,36.0,47.0,New York,Kings County,3,4,WV
+54061,54,61,West Virginia,Monongalia County,36047,36.0,47.0,New York,Kings County,9,16,WV
+54103,54,103,West Virginia,Wetzel County,36047,36.0,47.0,New York,Kings County,20,22,WV
+54107,54,107,West Virginia,Wood County,36047,36.0,47.0,New York,Kings County,13,21,WV
+54061,54,61,West Virginia,Monongalia County,36053,36.0,53.0,New York,Madison County,13,21,WV
+54061,54,61,West Virginia,Monongalia County,36055,36.0,55.0,New York,Monroe County,19,31,WV
+54039,54,39,West Virginia,Kanawha County,36061,36.0,61.0,New York,New York County,10,16,WV
+54077,54,77,West Virginia,Preston County,36081,36.0,81.0,New York,Queens County,14,16,WV
+54077,54,77,West Virginia,Preston County,36109,36.0,109.0,New York,Tompkins County,27,28,WV
+54089,54,89,West Virginia,Summers County,37001,37.0,1.0,North Carolina,Alamance County,38,59,WV
+54081,54,81,West Virginia,Raleigh County,37019,37.0,19.0,North Carolina,Brunswick County,15,23,WV
+54033,54,33,West Virginia,Harrison County,37035,37.0,35.0,North Carolina,Catawba County,9,13,WV
+54025,54,25,West Virginia,Greenbrier County,37053,37.0,53.0,North Carolina,Currituck County,22,36,WV
+54011,54,11,West Virginia,Cabell County,37055,37.0,55.0,North Carolina,Dare County,27,43,WV
+54019,54,19,West Virginia,Fayette County,37067,37.0,67.0,North Carolina,Forsyth County,1,2,WV
+54039,54,39,West Virginia,Kanawha County,37067,37.0,67.0,North Carolina,Forsyth County,9,14,WV
+54055,54,55,West Virginia,Mercer County,37081,37.0,81.0,North Carolina,Guilford County,7,10,WV
+54087,54,87,West Virginia,Roane County,37097,37.0,97.0,North Carolina,Iredell County,5,8,WV
+54033,54,33,West Virginia,Harrison County,37101,37.0,101.0,North Carolina,Johnston County,6,7,WV
+54033,54,33,West Virginia,Harrison County,37109,37.0,109.0,North Carolina,Lincoln County,24,28,WV
+54035,54,35,West Virginia,Jackson County,37109,37.0,109.0,North Carolina,Lincoln County,40,53,WV
+54009,54,9,West Virginia,Brooke County,37119,37.0,119.0,North Carolina,Mecklenburg County,4,7,WV
+54011,54,11,West Virginia,Cabell County,37119,37.0,119.0,North Carolina,Mecklenburg County,5,9,WV
+54039,54,39,West Virginia,Kanawha County,37119,37.0,119.0,North Carolina,Mecklenburg County,9,16,WV
+54069,54,69,West Virginia,Ohio County,37119,37.0,119.0,North Carolina,Mecklenburg County,1,4,WV
+54019,54,19,West Virginia,Fayette County,37127,37.0,127.0,North Carolina,Nash County,7,11,WV
+54021,54,21,West Virginia,Gilmer County,37141,37.0,141.0,North Carolina,Pender County,13,20,WV
+54007,54,7,West Virginia,Braxton County,37147,37.0,147.0,North Carolina,Pitt County,4,6,WV
+54083,54,83,West Virginia,Randolph County,37151,37.0,151.0,North Carolina,Randolph County,2,3,WV
+54055,54,55,West Virginia,Mercer County,37171,37.0,171.0,North Carolina,Surry County,16,26,WV
+54079,54,79,West Virginia,Putnam County,37171,37.0,171.0,North Carolina,Surry County,7,11,WV
+54081,54,81,West Virginia,Raleigh County,37171,37.0,171.0,North Carolina,Surry County,24,26,WV
+54031,54,31,West Virginia,Hardy County,37183,37.0,183.0,North Carolina,Wake County,12,20,WV
+54039,54,39,West Virginia,Kanawha County,37183,37.0,183.0,North Carolina,Wake County,19,27,WV
+54081,54,81,West Virginia,Raleigh County,37183,37.0,183.0,North Carolina,Wake County,48,65,WV
+54099,54,99,West Virginia,Wayne County,38017,38.0,17.0,North Dakota,Cass County,9,17,WV
+54107,54,107,West Virginia,Wood County,38061,38.0,61.0,North Dakota,Mountrail County,6,9,WV
+54053,54,53,West Virginia,Mason County,39001,39.0,1.0,Ohio,Adams County,4,7,WV
+54039,54,39,West Virginia,Kanawha County,39003,39.0,3.0,Ohio,Allen County,12,19,WV
+54107,54,107,West Virginia,Wood County,39003,39.0,3.0,Ohio,Allen County,2,4,WV
+54011,54,11,West Virginia,Cabell County,39009,39.0,9.0,Ohio,Athens County,5,8,WV
+54039,54,39,West Virginia,Kanawha County,39009,39.0,9.0,Ohio,Athens County,10,16,WV
+54043,54,43,West Virginia,Lincoln County,39009,39.0,9.0,Ohio,Athens County,8,14,WV
+54053,54,53,West Virginia,Mason County,39009,39.0,9.0,Ohio,Athens County,139,88,WV
+54079,54,79,West Virginia,Putnam County,39009,39.0,9.0,Ohio,Athens County,3,6,WV
+54107,54,107,West Virginia,Wood County,39009,39.0,9.0,Ohio,Athens County,147,82,WV
+54005,54,5,West Virginia,Boone County,39013,39.0,13.0,Ohio,Belmont County,14,24,WV
+54009,54,9,West Virginia,Brooke County,39013,39.0,13.0,Ohio,Belmont County,161,97,WV
+54019,54,19,West Virginia,Fayette County,39013,39.0,13.0,Ohio,Belmont County,11,18,WV
+54029,54,29,West Virginia,Hancock County,39013,39.0,13.0,Ohio,Belmont County,45,34,WV
+54037,54,37,West Virginia,Jefferson County,39013,39.0,13.0,Ohio,Belmont County,19,31,WV
+54039,54,39,West Virginia,Kanawha County,39013,39.0,13.0,Ohio,Belmont County,8,14,WV
+54051,54,51,West Virginia,Marshall County,39013,39.0,13.0,Ohio,Belmont County,849,184,WV
+54053,54,53,West Virginia,Mason County,39013,39.0,13.0,Ohio,Belmont County,9,15,WV
+54061,54,61,West Virginia,Monongalia County,39013,39.0,13.0,Ohio,Belmont County,11,18,WV
+54069,54,69,West Virginia,Ohio County,39013,39.0,13.0,Ohio,Belmont County,1364,183,WV
+54095,54,95,West Virginia,Tyler County,39013,39.0,13.0,Ohio,Belmont County,22,23,WV
+54103,54,103,West Virginia,Wetzel County,39013,39.0,13.0,Ohio,Belmont County,16,15,WV
+54107,54,107,West Virginia,Wood County,39013,39.0,13.0,Ohio,Belmont County,8,13,WV
+54051,54,51,West Virginia,Marshall County,39017,39.0,17.0,Ohio,Butler County,12,18,WV
+54053,54,53,West Virginia,Mason County,39017,39.0,17.0,Ohio,Butler County,34,40,WV
+54107,54,107,West Virginia,Wood County,39017,39.0,17.0,Ohio,Butler County,20,23,WV
+54033,54,33,West Virginia,Harrison County,39019,39.0,19.0,Ohio,Carroll County,6,9,WV
+54061,54,61,West Virginia,Monongalia County,39019,39.0,19.0,Ohio,Carroll County,8,13,WV
+54011,54,11,West Virginia,Cabell County,39023,39.0,23.0,Ohio,Clark County,19,25,WV
+54039,54,39,West Virginia,Kanawha County,39023,39.0,23.0,Ohio,Clark County,3,6,WV
+54079,54,79,West Virginia,Putnam County,39025,39.0,25.0,Ohio,Clermont County,4,8,WV
+54009,54,9,West Virginia,Brooke County,39029,39.0,29.0,Ohio,Columbiana County,58,40,WV
+54029,54,29,West Virginia,Hancock County,39029,39.0,29.0,Ohio,Columbiana County,538,180,WV
+54069,54,69,West Virginia,Ohio County,39029,39.0,29.0,Ohio,Columbiana County,4,7,WV
+54085,54,85,West Virginia,Ritchie County,39029,39.0,29.0,Ohio,Columbiana County,6,11,WV
+54103,54,103,West Virginia,Wetzel County,39029,39.0,29.0,Ohio,Columbiana County,10,16,WV
+54097,54,97,West Virginia,Upshur County,39031,39.0,31.0,Ohio,Coshocton County,10,17,WV
+54001,54,1,West Virginia,Barbour County,39035,39.0,35.0,Ohio,Cuyahoga County,8,14,WV
+54005,54,5,West Virginia,Boone County,39035,39.0,35.0,Ohio,Cuyahoga County,5,8,WV
+54011,54,11,West Virginia,Cabell County,39035,39.0,35.0,Ohio,Cuyahoga County,20,23,WV
+54019,54,19,West Virginia,Fayette County,39035,39.0,35.0,Ohio,Cuyahoga County,16,25,WV
+54039,54,39,West Virginia,Kanawha County,39035,39.0,35.0,Ohio,Cuyahoga County,45,72,WV
+54049,54,49,West Virginia,Marion County,39035,39.0,35.0,Ohio,Cuyahoga County,32,56,WV
+54061,54,61,West Virginia,Monongalia County,39035,39.0,35.0,Ohio,Cuyahoga County,21,31,WV
+54079,54,79,West Virginia,Putnam County,39035,39.0,35.0,Ohio,Cuyahoga County,16,27,WV
+54081,54,81,West Virginia,Raleigh County,39035,39.0,35.0,Ohio,Cuyahoga County,31,38,WV
+54083,54,83,West Virginia,Randolph County,39035,39.0,35.0,Ohio,Cuyahoga County,29,31,WV
+54089,54,89,West Virginia,Summers County,39035,39.0,35.0,Ohio,Cuyahoga County,13,20,WV
+54091,54,91,West Virginia,Taylor County,39035,39.0,35.0,Ohio,Cuyahoga County,29,44,WV
+54001,54,1,West Virginia,Barbour County,39041,39.0,41.0,Ohio,Delaware County,5,8,WV
+54053,54,53,West Virginia,Mason County,39041,39.0,41.0,Ohio,Delaware County,17,28,WV
+54061,54,61,West Virginia,Monongalia County,39041,39.0,41.0,Ohio,Delaware County,4,8,WV
+54011,54,11,West Virginia,Cabell County,39045,39.0,45.0,Ohio,Fairfield County,19,31,WV
+54051,54,51,West Virginia,Marshall County,39045,39.0,45.0,Ohio,Fairfield County,3,6,WV
+54053,54,53,West Virginia,Mason County,39045,39.0,45.0,Ohio,Fairfield County,16,28,WV
+54099,54,99,West Virginia,Wayne County,39045,39.0,45.0,Ohio,Fairfield County,15,27,WV
+54007,54,7,West Virginia,Braxton County,39049,39.0,49.0,Ohio,Franklin County,10,10,WV
+54009,54,9,West Virginia,Brooke County,39049,39.0,49.0,Ohio,Franklin County,8,14,WV
+54011,54,11,West Virginia,Cabell County,39049,39.0,49.0,Ohio,Franklin County,37,48,WV
+54015,54,15,West Virginia,Clay County,39049,39.0,49.0,Ohio,Franklin County,34,37,WV
+54023,54,23,West Virginia,Grant County,39049,39.0,49.0,Ohio,Franklin County,11,18,WV
+54039,54,39,West Virginia,Kanawha County,39049,39.0,49.0,Ohio,Franklin County,27,42,WV
+54045,54,45,West Virginia,Logan County,39049,39.0,49.0,Ohio,Franklin County,37,57,WV
+54053,54,53,West Virginia,Mason County,39049,39.0,49.0,Ohio,Franklin County,7,10,WV
+54061,54,61,West Virginia,Monongalia County,39049,39.0,49.0,Ohio,Franklin County,6,10,WV
+54063,54,63,West Virginia,Monroe County,39049,39.0,49.0,Ohio,Franklin County,20,29,WV
+54079,54,79,West Virginia,Putnam County,39049,39.0,49.0,Ohio,Franklin County,2,4,WV
+54089,54,89,West Virginia,Summers County,39049,39.0,49.0,Ohio,Franklin County,28,43,WV
+54103,54,103,West Virginia,Wetzel County,39049,39.0,49.0,Ohio,Franklin County,12,13,WV
+54107,54,107,West Virginia,Wood County,39049,39.0,49.0,Ohio,Franklin County,20,21,WV
+54011,54,11,West Virginia,Cabell County,39053,39.0,53.0,Ohio,Gallia County,60,63,WV
+54035,54,35,West Virginia,Jackson County,39053,39.0,53.0,Ohio,Gallia County,9,13,WV
+54053,54,53,West Virginia,Mason County,39053,39.0,53.0,Ohio,Gallia County,1144,236,WV
+54079,54,79,West Virginia,Putnam County,39053,39.0,53.0,Ohio,Gallia County,88,91,WV
+54087,54,87,West Virginia,Roane County,39053,39.0,53.0,Ohio,Gallia County,8,12,WV
+54099,54,99,West Virginia,Wayne County,39057,39.0,57.0,Ohio,Greene County,3,5,WV
+54007,54,7,West Virginia,Braxton County,39059,39.0,59.0,Ohio,Guernsey County,18,19,WV
+54009,54,9,West Virginia,Brooke County,39059,39.0,59.0,Ohio,Guernsey County,30,47,WV
+54051,54,51,West Virginia,Marshall County,39059,39.0,59.0,Ohio,Guernsey County,21,32,WV
+54069,54,69,West Virginia,Ohio County,39059,39.0,59.0,Ohio,Guernsey County,9,13,WV
+54107,54,107,West Virginia,Wood County,39059,39.0,59.0,Ohio,Guernsey County,15,22,WV
+54039,54,39,West Virginia,Kanawha County,39061,39.0,61.0,Ohio,Hamilton County,28,33,WV
+54053,54,53,West Virginia,Mason County,39061,39.0,61.0,Ohio,Hamilton County,34,51,WV
+54069,54,69,West Virginia,Ohio County,39061,39.0,61.0,Ohio,Hamilton County,14,15,WV
+54009,54,9,West Virginia,Brooke County,39067,39.0,67.0,Ohio,Harrison County,12,13,WV
+54051,54,51,West Virginia,Marshall County,39067,39.0,67.0,Ohio,Harrison County,28,43,WV
+54069,54,69,West Virginia,Ohio County,39067,39.0,67.0,Ohio,Harrison County,55,42,WV
+54103,54,103,West Virginia,Wetzel County,39067,39.0,67.0,Ohio,Harrison County,7,11,WV
+54107,54,107,West Virginia,Wood County,39067,39.0,67.0,Ohio,Harrison County,16,18,WV
+54053,54,53,West Virginia,Mason County,39079,39.0,79.0,Ohio,Jackson County,36,45,WV
+54001,54,1,West Virginia,Barbour County,39081,39.0,81.0,Ohio,Jefferson County,13,20,WV
+54009,54,9,West Virginia,Brooke County,39081,39.0,81.0,Ohio,Jefferson County,821,170,WV
+54029,54,29,West Virginia,Hancock County,39081,39.0,81.0,Ohio,Jefferson County,1128,207,WV
+54051,54,51,West Virginia,Marshall County,39081,39.0,81.0,Ohio,Jefferson County,51,37,WV
+54069,54,69,West Virginia,Ohio County,39081,39.0,81.0,Ohio,Jefferson County,280,102,WV
+54077,54,77,West Virginia,Preston County,39081,39.0,81.0,Ohio,Jefferson County,8,13,WV
+54079,54,79,West Virginia,Putnam County,39081,39.0,81.0,Ohio,Jefferson County,14,21,WV
+54081,54,81,West Virginia,Raleigh County,39081,39.0,81.0,Ohio,Jefferson County,8,18,WV
+54107,54,107,West Virginia,Wood County,39081,39.0,81.0,Ohio,Jefferson County,13,18,WV
+54053,54,53,West Virginia,Mason County,39083,39.0,83.0,Ohio,Knox County,12,21,WV
+54011,54,11,West Virginia,Cabell County,39087,39.0,87.0,Ohio,Lawrence County,612,158,WV
+54039,54,39,West Virginia,Kanawha County,39087,39.0,87.0,Ohio,Lawrence County,11,16,WV
+54043,54,43,West Virginia,Lincoln County,39087,39.0,87.0,Ohio,Lawrence County,54,48,WV
+54053,54,53,West Virginia,Mason County,39087,39.0,87.0,Ohio,Lawrence County,12,19,WV
+54079,54,79,West Virginia,Putnam County,39087,39.0,87.0,Ohio,Lawrence County,99,88,WV
+54099,54,99,West Virginia,Wayne County,39087,39.0,87.0,Ohio,Lawrence County,509,149,WV
+54033,54,33,West Virginia,Harrison County,39089,39.0,89.0,Ohio,Licking County,17,18,WV
+54073,54,73,West Virginia,Pleasants County,39089,39.0,89.0,Ohio,Licking County,7,12,WV
+54107,54,107,West Virginia,Wood County,39095,39.0,95.0,Ohio,Lucas County,7,13,WV
+54009,54,9,West Virginia,Brooke County,39099,39.0,99.0,Ohio,Mahoning County,19,23,WV
+54029,54,29,West Virginia,Hancock County,39099,39.0,99.0,Ohio,Mahoning County,73,77,WV
+54051,54,51,West Virginia,Marshall County,39099,39.0,99.0,Ohio,Mahoning County,36,56,WV
+54061,54,61,West Virginia,Monongalia County,39099,39.0,99.0,Ohio,Mahoning County,11,18,WV
+54087,54,87,West Virginia,Roane County,39099,39.0,99.0,Ohio,Mahoning County,8,12,WV
+54073,54,73,West Virginia,Pleasants County,39101,39.0,101.0,Ohio,Marion County,10,15,WV
+54009,54,9,West Virginia,Brooke County,39103,39.0,103.0,Ohio,Medina County,4,7,WV
+54053,54,53,West Virginia,Mason County,39105,39.0,105.0,Ohio,Meigs County,177,110,WV
+54107,54,107,West Virginia,Wood County,39105,39.0,105.0,Ohio,Meigs County,7,13,WV
+54103,54,103,West Virginia,Wetzel County,39107,39.0,107.0,Ohio,Mercer County,6,10,WV
+54009,54,9,West Virginia,Brooke County,39111,39.0,111.0,Ohio,Monroe County,22,32,WV
+54031,54,31,West Virginia,Hardy County,39111,39.0,111.0,Ohio,Monroe County,1,2,WV
+54033,54,33,West Virginia,Harrison County,39111,39.0,111.0,Ohio,Monroe County,13,21,WV
+54039,54,39,West Virginia,Kanawha County,39111,39.0,111.0,Ohio,Monroe County,52,76,WV
+54051,54,51,West Virginia,Marshall County,39111,39.0,111.0,Ohio,Monroe County,100,69,WV
+54069,54,69,West Virginia,Ohio County,39111,39.0,111.0,Ohio,Monroe County,28,20,WV
+54087,54,87,West Virginia,Roane County,39111,39.0,111.0,Ohio,Monroe County,9,14,WV
+54095,54,95,West Virginia,Tyler County,39111,39.0,111.0,Ohio,Monroe County,107,58,WV
+54103,54,103,West Virginia,Wetzel County,39111,39.0,111.0,Ohio,Monroe County,194,68,WV
+54107,54,107,West Virginia,Wood County,39111,39.0,111.0,Ohio,Monroe County,12,12,WV
+54047,54,47,West Virginia,McDowell County,39113,39.0,113.0,Ohio,Montgomery County,3,5,WV
+54069,54,69,West Virginia,Ohio County,39113,39.0,113.0,Ohio,Montgomery County,6,9,WV
+54085,54,85,West Virginia,Ritchie County,39113,39.0,113.0,Ohio,Montgomery County,6,9,WV
+54035,54,35,West Virginia,Jackson County,39119,39.0,119.0,Ohio,Muskingum County,30,49,WV
+54039,54,39,West Virginia,Kanawha County,39119,39.0,119.0,Ohio,Muskingum County,17,23,WV
+54051,54,51,West Virginia,Marshall County,39119,39.0,119.0,Ohio,Muskingum County,27,31,WV
+54069,54,69,West Virginia,Ohio County,39119,39.0,119.0,Ohio,Muskingum County,10,16,WV
+54107,54,107,West Virginia,Wood County,39119,39.0,119.0,Ohio,Muskingum County,36,43,WV
+54013,54,13,West Virginia,Calhoun County,39121,39.0,121.0,Ohio,Noble County,25,37,WV
+54083,54,83,West Virginia,Randolph County,39121,39.0,121.0,Ohio,Noble County,15,24,WV
+54097,54,97,West Virginia,Upshur County,39121,39.0,121.0,Ohio,Noble County,10,17,WV
+54107,54,107,West Virginia,Wood County,39121,39.0,121.0,Ohio,Noble County,85,70,WV
+54107,54,107,West Virginia,Wood County,39123,39.0,123.0,Ohio,Ottawa County,7,10,WV
+54061,54,61,West Virginia,Monongalia County,39127,39.0,127.0,Ohio,Perry County,18,27,WV
+54067,54,67,West Virginia,Nicholas County,39129,39.0,129.0,Ohio,Pickaway County,18,25,WV
+54041,54,41,West Virginia,Lewis County,39133,39.0,133.0,Ohio,Portage County,11,14,WV
+54077,54,77,West Virginia,Preston County,39133,39.0,133.0,Ohio,Portage County,7,10,WV
+54105,54,105,West Virginia,Wirt County,39133,39.0,133.0,Ohio,Portage County,27,42,WV
+54021,54,21,West Virginia,Gilmer County,39139,39.0,139.0,Ohio,Richland County,13,20,WV
+54107,54,107,West Virginia,Wood County,39139,39.0,139.0,Ohio,Richland County,7,14,WV
+54007,54,7,West Virginia,Braxton County,39141,39.0,141.0,Ohio,Ross County,12,15,WV
+54055,54,55,West Virginia,Mercer County,39141,39.0,141.0,Ohio,Ross County,15,21,WV
+54099,54,99,West Virginia,Wayne County,39141,39.0,141.0,Ohio,Ross County,7,11,WV
+54011,54,11,West Virginia,Cabell County,39145,39.0,145.0,Ohio,Scioto County,6,11,WV
+54053,54,53,West Virginia,Mason County,39145,39.0,145.0,Ohio,Scioto County,47,60,WV
+54059,54,59,West Virginia,Mingo County,39145,39.0,145.0,Ohio,Scioto County,17,21,WV
+54083,54,83,West Virginia,Randolph County,39145,39.0,145.0,Ohio,Scioto County,4,8,WV
+54099,54,99,West Virginia,Wayne County,39145,39.0,145.0,Ohio,Scioto County,14,27,WV
+54005,54,5,West Virginia,Boone County,39151,39.0,151.0,Ohio,Stark County,10,15,WV
+54009,54,9,West Virginia,Brooke County,39151,39.0,151.0,Ohio,Stark County,17,27,WV
+54039,54,39,West Virginia,Kanawha County,39151,39.0,151.0,Ohio,Stark County,21,22,WV
+54061,54,61,West Virginia,Monongalia County,39151,39.0,151.0,Ohio,Stark County,20,32,WV
+54091,54,91,West Virginia,Taylor County,39151,39.0,151.0,Ohio,Stark County,21,30,WV
+54107,54,107,West Virginia,Wood County,39151,39.0,151.0,Ohio,Stark County,26,39,WV
+54029,54,29,West Virginia,Hancock County,39155,39.0,155.0,Ohio,Trumbull County,24,37,WV
+54013,54,13,West Virginia,Calhoun County,39157,39.0,157.0,Ohio,Tuscarawas County,15,16,WV
+54049,54,49,West Virginia,Marion County,39157,39.0,157.0,Ohio,Tuscarawas County,6,8,WV
+54069,54,69,West Virginia,Ohio County,39157,39.0,157.0,Ohio,Tuscarawas County,14,23,WV
+54085,54,85,West Virginia,Ritchie County,39157,39.0,157.0,Ohio,Tuscarawas County,2,4,WV
+54079,54,79,West Virginia,Putnam County,39163,39.0,163.0,Ohio,Vinton County,19,31,WV
+54053,54,53,West Virginia,Mason County,39165,39.0,165.0,Ohio,Warren County,6,8,WV
+54019,54,19,West Virginia,Fayette County,39167,39.0,167.0,Ohio,Washington County,16,29,WV
+54033,54,33,West Virginia,Harrison County,39167,39.0,167.0,Ohio,Washington County,14,19,WV
+54035,54,35,West Virginia,Jackson County,39167,39.0,167.0,Ohio,Washington County,38,35,WV
+54053,54,53,West Virginia,Mason County,39167,39.0,167.0,Ohio,Washington County,19,23,WV
+54055,54,55,West Virginia,Mercer County,39167,39.0,167.0,Ohio,Washington County,57,70,WV
+54073,54,73,West Virginia,Pleasants County,39167,39.0,167.0,Ohio,Washington County,381,121,WV
+54081,54,81,West Virginia,Raleigh County,39167,39.0,167.0,Ohio,Washington County,14,25,WV
+54085,54,85,West Virginia,Ritchie County,39167,39.0,167.0,Ohio,Washington County,53,34,WV
+54087,54,87,West Virginia,Roane County,39167,39.0,167.0,Ohio,Washington County,39,42,WV
+54093,54,93,West Virginia,Tucker County,39167,39.0,167.0,Ohio,Washington County,13,18,WV
+54095,54,95,West Virginia,Tyler County,39167,39.0,167.0,Ohio,Washington County,43,30,WV
+54103,54,103,West Virginia,Wetzel County,39167,39.0,167.0,Ohio,Washington County,20,27,WV
+54105,54,105,West Virginia,Wirt County,39167,39.0,167.0,Ohio,Washington County,85,49,WV
+54107,54,107,West Virginia,Wood County,39167,39.0,167.0,Ohio,Washington County,3670,362,WV
+54035,54,35,West Virginia,Jackson County,39173,39.0,173.0,Ohio,Wood County,18,29,WV
+54053,54,53,West Virginia,Mason County,39173,39.0,173.0,Ohio,Wood County,2,4,WV
+54107,54,107,West Virginia,Wood County,39173,39.0,173.0,Ohio,Wood County,33,37,WV
+54025,54,25,West Virginia,Greenbrier County,39175,39.0,175.0,Ohio,Wyandot County,25,40,WV
+54061,54,61,West Virginia,Monongalia County,40017,40.0,17.0,Oklahoma,Canadian County,10,15,WV
+54051,54,51,West Virginia,Marshall County,40133,40.0,133.0,Oklahoma,Seminole County,7,12,WV
+54087,54,87,West Virginia,Roane County,40143,40.0,143.0,Oklahoma,Tulsa County,32,46,WV
+54101,54,101,West Virginia,Webster County,41029,41.0,29.0,Oregon,Jackson County,15,24,WV
+54037,54,37,West Virginia,Jefferson County,42001,42.0,1.0,Pennsylvania,Adams County,10,15,WV
+54001,54,1,West Virginia,Barbour County,42003,42.0,3.0,Pennsylvania,Allegheny County,10,16,WV
+54003,54,3,West Virginia,Berkeley County,42003,42.0,3.0,Pennsylvania,Allegheny County,60,92,WV
+54009,54,9,West Virginia,Brooke County,42003,42.0,3.0,Pennsylvania,Allegheny County,1065,215,WV
+54011,54,11,West Virginia,Cabell County,42003,42.0,3.0,Pennsylvania,Allegheny County,11,13,WV
+54019,54,19,West Virginia,Fayette County,42003,42.0,3.0,Pennsylvania,Allegheny County,29,33,WV
+54021,54,21,West Virginia,Gilmer County,42003,42.0,3.0,Pennsylvania,Allegheny County,5,8,WV
+54029,54,29,West Virginia,Hancock County,42003,42.0,3.0,Pennsylvania,Allegheny County,2255,277,WV
+54033,54,33,West Virginia,Harrison County,42003,42.0,3.0,Pennsylvania,Allegheny County,6,9,WV
+54035,54,35,West Virginia,Jackson County,42003,42.0,3.0,Pennsylvania,Allegheny County,10,17,WV
+54041,54,41,West Virginia,Lewis County,42003,42.0,3.0,Pennsylvania,Allegheny County,6,9,WV
+54049,54,49,West Virginia,Marion County,42003,42.0,3.0,Pennsylvania,Allegheny County,56,53,WV
+54051,54,51,West Virginia,Marshall County,42003,42.0,3.0,Pennsylvania,Allegheny County,37,30,WV
+54053,54,53,West Virginia,Mason County,42003,42.0,3.0,Pennsylvania,Allegheny County,2,3,WV
+54055,54,55,West Virginia,Mercer County,42003,42.0,3.0,Pennsylvania,Allegheny County,9,17,WV
+54057,54,57,West Virginia,Mineral County,42003,42.0,3.0,Pennsylvania,Allegheny County,34,37,WV
+54061,54,61,West Virginia,Monongalia County,42003,42.0,3.0,Pennsylvania,Allegheny County,261,234,WV
+54069,54,69,West Virginia,Ohio County,42003,42.0,3.0,Pennsylvania,Allegheny County,417,128,WV
+54073,54,73,West Virginia,Pleasants County,42003,42.0,3.0,Pennsylvania,Allegheny County,2,3,WV
+54075,54,75,West Virginia,Pocahontas County,42003,42.0,3.0,Pennsylvania,Allegheny County,5,8,WV
+54077,54,77,West Virginia,Preston County,42003,42.0,3.0,Pennsylvania,Allegheny County,28,31,WV
+54091,54,91,West Virginia,Taylor County,42003,42.0,3.0,Pennsylvania,Allegheny County,19,31,WV
+54103,54,103,West Virginia,Wetzel County,42003,42.0,3.0,Pennsylvania,Allegheny County,15,20,WV
+54107,54,107,West Virginia,Wood County,42003,42.0,3.0,Pennsylvania,Allegheny County,34,30,WV
+54061,54,61,West Virginia,Monongalia County,42005,42.0,5.0,Pennsylvania,Armstrong County,20,31,WV
+54009,54,9,West Virginia,Brooke County,42007,42.0,7.0,Pennsylvania,Beaver County,94,53,WV
+54029,54,29,West Virginia,Hancock County,42007,42.0,7.0,Pennsylvania,Beaver County,377,130,WV
+54051,54,51,West Virginia,Marshall County,42007,42.0,7.0,Pennsylvania,Beaver County,16,23,WV
+54053,54,53,West Virginia,Mason County,42007,42.0,7.0,Pennsylvania,Beaver County,8,14,WV
+54069,54,69,West Virginia,Ohio County,42007,42.0,7.0,Pennsylvania,Beaver County,35,29,WV
+54077,54,77,West Virginia,Preston County,42007,42.0,7.0,Pennsylvania,Beaver County,50,49,WV
+54049,54,49,West Virginia,Marion County,42009,42.0,9.0,Pennsylvania,Bedford County,6,10,WV
+54057,54,57,West Virginia,Mineral County,42009,42.0,9.0,Pennsylvania,Bedford County,35,38,WV
+54065,54,65,West Virginia,Morgan County,42009,42.0,9.0,Pennsylvania,Bedford County,10,16,WV
+54049,54,49,West Virginia,Marion County,42011,42.0,11.0,Pennsylvania,Berks County,1,2,WV
+54097,54,97,West Virginia,Upshur County,42011,42.0,11.0,Pennsylvania,Berks County,26,37,WV
+54033,54,33,West Virginia,Harrison County,42013,42.0,13.0,Pennsylvania,Blair County,16,18,WV
+54049,54,49,West Virginia,Marion County,42013,42.0,13.0,Pennsylvania,Blair County,20,28,WV
+54057,54,57,West Virginia,Mineral County,42013,42.0,13.0,Pennsylvania,Blair County,17,26,WV
+54087,54,87,West Virginia,Roane County,42013,42.0,13.0,Pennsylvania,Blair County,26,38,WV
+54041,54,41,West Virginia,Lewis County,42015,42.0,15.0,Pennsylvania,Bradford County,11,18,WV
+54107,54,107,West Virginia,Wood County,42015,42.0,15.0,Pennsylvania,Bradford County,12,20,WV
+54061,54,61,West Virginia,Monongalia County,42017,42.0,17.0,Pennsylvania,Bucks County,18,22,WV
+54029,54,29,West Virginia,Hancock County,42019,42.0,19.0,Pennsylvania,Butler County,41,32,WV
+54033,54,33,West Virginia,Harrison County,42019,42.0,19.0,Pennsylvania,Butler County,7,10,WV
+54051,54,51,West Virginia,Marshall County,42019,42.0,19.0,Pennsylvania,Butler County,23,35,WV
+54061,54,61,West Virginia,Monongalia County,42019,42.0,19.0,Pennsylvania,Butler County,20,32,WV
+54063,54,63,West Virginia,Monroe County,42019,42.0,19.0,Pennsylvania,Butler County,4,7,WV
+54069,54,69,West Virginia,Ohio County,42019,42.0,19.0,Pennsylvania,Butler County,39,40,WV
+54073,54,73,West Virginia,Pleasants County,42019,42.0,19.0,Pennsylvania,Butler County,7,10,WV
+54077,54,77,West Virginia,Preston County,42019,42.0,19.0,Pennsylvania,Butler County,18,19,WV
+54087,54,87,West Virginia,Roane County,42019,42.0,19.0,Pennsylvania,Butler County,35,53,WV
+54103,54,103,West Virginia,Wetzel County,42019,42.0,19.0,Pennsylvania,Butler County,2,3,WV
+54001,54,1,West Virginia,Barbour County,42021,42.0,21.0,Pennsylvania,Cambria County,10,14,WV
+54057,54,57,West Virginia,Mineral County,42021,42.0,21.0,Pennsylvania,Cambria County,10,33,WV
+54091,54,91,West Virginia,Taylor County,42021,42.0,21.0,Pennsylvania,Cambria County,8,15,WV
+54107,54,107,West Virginia,Wood County,42021,42.0,21.0,Pennsylvania,Cambria County,13,20,WV
+54003,54,3,West Virginia,Berkeley County,42027,42.0,27.0,Pennsylvania,Centre County,19,30,WV
+54019,54,19,West Virginia,Fayette County,42027,42.0,27.0,Pennsylvania,Centre County,6,9,WV
+54057,54,57,West Virginia,Mineral County,42029,42.0,29.0,Pennsylvania,Chester County,19,30,WV
+54071,54,71,West Virginia,Pendleton County,42029,42.0,29.0,Pennsylvania,Chester County,8,14,WV
+54107,54,107,West Virginia,Wood County,42029,42.0,29.0,Pennsylvania,Chester County,13,23,WV
+54051,54,51,West Virginia,Marshall County,42031,42.0,31.0,Pennsylvania,Clarion County,11,18,WV
+54039,54,39,West Virginia,Kanawha County,42033,42.0,33.0,Pennsylvania,Clearfield County,7,10,WV
+54061,54,61,West Virginia,Monongalia County,42033,42.0,33.0,Pennsylvania,Clearfield County,11,14,WV
+54087,54,87,West Virginia,Roane County,42033,42.0,33.0,Pennsylvania,Clearfield County,10,16,WV
+54017,54,17,West Virginia,Doddridge County,42035,42.0,35.0,Pennsylvania,Clinton County,1,2,WV
+54041,54,41,West Virginia,Lewis County,42039,42.0,39.0,Pennsylvania,Crawford County,10,16,WV
+54003,54,3,West Virginia,Berkeley County,42041,42.0,41.0,Pennsylvania,Cumberland County,11,18,WV
+54007,54,7,West Virginia,Braxton County,42041,42.0,41.0,Pennsylvania,Cumberland County,9,14,WV
+54019,54,19,West Virginia,Fayette County,42041,42.0,41.0,Pennsylvania,Cumberland County,50,50,WV
+54027,54,27,West Virginia,Hampshire County,42041,42.0,41.0,Pennsylvania,Cumberland County,18,29,WV
+54033,54,33,West Virginia,Harrison County,42041,42.0,41.0,Pennsylvania,Cumberland County,6,8,WV
+54039,54,39,West Virginia,Kanawha County,42041,42.0,41.0,Pennsylvania,Cumberland County,25,24,WV
+54069,54,69,West Virginia,Ohio County,42041,42.0,41.0,Pennsylvania,Cumberland County,6,10,WV
+54061,54,61,West Virginia,Monongalia County,42047,42.0,47.0,Pennsylvania,Elk County,15,23,WV
+54041,54,41,West Virginia,Lewis County,42049,42.0,49.0,Pennsylvania,Erie County,4,7,WV
+54061,54,61,West Virginia,Monongalia County,42049,42.0,49.0,Pennsylvania,Erie County,13,23,WV
+54035,54,35,West Virginia,Jackson County,42051,42.0,51.0,Pennsylvania,Fayette County,8,14,WV
+54049,54,49,West Virginia,Marion County,42051,42.0,51.0,Pennsylvania,Fayette County,20,20,WV
+54051,54,51,West Virginia,Marshall County,42051,42.0,51.0,Pennsylvania,Fayette County,8,13,WV
+54055,54,55,West Virginia,Mercer County,42051,42.0,51.0,Pennsylvania,Fayette County,11,21,WV
+54061,54,61,West Virginia,Monongalia County,42051,42.0,51.0,Pennsylvania,Fayette County,338,139,WV
+54067,54,67,West Virginia,Nicholas County,42051,42.0,51.0,Pennsylvania,Fayette County,14,23,WV
+54069,54,69,West Virginia,Ohio County,42051,42.0,51.0,Pennsylvania,Fayette County,2,3,WV
+54077,54,77,West Virginia,Preston County,42051,42.0,51.0,Pennsylvania,Fayette County,134,70,WV
+54003,54,3,West Virginia,Berkeley County,42055,42.0,55.0,Pennsylvania,Franklin County,336,158,WV
+54027,54,27,West Virginia,Hampshire County,42055,42.0,55.0,Pennsylvania,Franklin County,7,11,WV
+54033,54,33,West Virginia,Harrison County,42055,42.0,55.0,Pennsylvania,Franklin County,9,13,WV
+54037,54,37,West Virginia,Jefferson County,42055,42.0,55.0,Pennsylvania,Franklin County,48,39,WV
+54065,54,65,West Virginia,Morgan County,42055,42.0,55.0,Pennsylvania,Franklin County,107,61,WV
+54003,54,3,West Virginia,Berkeley County,42057,42.0,57.0,Pennsylvania,Fulton County,13,21,WV
+54065,54,65,West Virginia,Morgan County,42057,42.0,57.0,Pennsylvania,Fulton County,7,12,WV
+54001,54,1,West Virginia,Barbour County,42059,42.0,59.0,Pennsylvania,Greene County,7,11,WV
+54005,54,5,West Virginia,Boone County,42059,42.0,59.0,Pennsylvania,Greene County,22,32,WV
+54007,54,7,West Virginia,Braxton County,42059,42.0,59.0,Pennsylvania,Greene County,49,51,WV
+54009,54,9,West Virginia,Brooke County,42059,42.0,59.0,Pennsylvania,Greene County,77,58,WV
+54011,54,11,West Virginia,Cabell County,42059,42.0,59.0,Pennsylvania,Greene County,15,25,WV
+54013,54,13,West Virginia,Calhoun County,42059,42.0,59.0,Pennsylvania,Greene County,48,54,WV
+54029,54,29,West Virginia,Hancock County,42059,42.0,59.0,Pennsylvania,Greene County,8,15,WV
+54033,54,33,West Virginia,Harrison County,42059,42.0,59.0,Pennsylvania,Greene County,64,36,WV
+54041,54,41,West Virginia,Lewis County,42059,42.0,59.0,Pennsylvania,Greene County,13,21,WV
+54045,54,45,West Virginia,Logan County,42059,42.0,59.0,Pennsylvania,Greene County,4,6,WV
+54049,54,49,West Virginia,Marion County,42059,42.0,59.0,Pennsylvania,Greene County,193,75,WV
+54051,54,51,West Virginia,Marshall County,42059,42.0,59.0,Pennsylvania,Greene County,150,71,WV
+54061,54,61,West Virginia,Monongalia County,42059,42.0,59.0,Pennsylvania,Greene County,722,171,WV
+54067,54,67,West Virginia,Nicholas County,42059,42.0,59.0,Pennsylvania,Greene County,27,32,WV
+54069,54,69,West Virginia,Ohio County,42059,42.0,59.0,Pennsylvania,Greene County,100,67,WV
+54077,54,77,West Virginia,Preston County,42059,42.0,59.0,Pennsylvania,Greene County,111,53,WV
+54091,54,91,West Virginia,Taylor County,42059,42.0,59.0,Pennsylvania,Greene County,77,58,WV
+54095,54,95,West Virginia,Tyler County,42059,42.0,59.0,Pennsylvania,Greene County,9,10,WV
+54097,54,97,West Virginia,Upshur County,42059,42.0,59.0,Pennsylvania,Greene County,100,82,WV
+54103,54,103,West Virginia,Wetzel County,42059,42.0,59.0,Pennsylvania,Greene County,75,64,WV
+54107,54,107,West Virginia,Wood County,42059,42.0,59.0,Pennsylvania,Greene County,10,16,WV
+54009,54,9,West Virginia,Brooke County,42063,42.0,63.0,Pennsylvania,Indiana County,16,19,WV
+54013,54,13,West Virginia,Calhoun County,42063,42.0,63.0,Pennsylvania,Indiana County,6,10,WV
+54029,54,29,West Virginia,Hancock County,42063,42.0,63.0,Pennsylvania,Indiana County,9,11,WV
+54085,54,85,West Virginia,Ritchie County,42063,42.0,63.0,Pennsylvania,Indiana County,9,14,WV
+54107,54,107,West Virginia,Wood County,42063,42.0,63.0,Pennsylvania,Indiana County,10,16,WV
+54057,54,57,West Virginia,Mineral County,42069,42.0,69.0,Pennsylvania,Lackawanna County,26,42,WV
+54083,54,83,West Virginia,Randolph County,42071,42.0,71.0,Pennsylvania,Lancaster County,7,11,WV
+54103,54,103,West Virginia,Wetzel County,42071,42.0,71.0,Pennsylvania,Lancaster County,5,8,WV
+54107,54,107,West Virginia,Wood County,42073,42.0,73.0,Pennsylvania,Lawrence County,10,17,WV
+54065,54,65,West Virginia,Morgan County,42075,42.0,75.0,Pennsylvania,Lebanon County,8,12,WV
+54003,54,3,West Virginia,Berkeley County,42077,42.0,77.0,Pennsylvania,Lehigh County,37,37,WV
+54051,54,51,West Virginia,Marshall County,42077,42.0,77.0,Pennsylvania,Lehigh County,21,27,WV
+54077,54,77,West Virginia,Preston County,42077,42.0,77.0,Pennsylvania,Lehigh County,20,23,WV
+54051,54,51,West Virginia,Marshall County,42079,42.0,79.0,Pennsylvania,Luzerne County,8,12,WV
+54077,54,77,West Virginia,Preston County,42079,42.0,79.0,Pennsylvania,Luzerne County,9,14,WV
+54103,54,103,West Virginia,Wetzel County,42079,42.0,79.0,Pennsylvania,Luzerne County,3,5,WV
+54051,54,51,West Virginia,Marshall County,42081,42.0,81.0,Pennsylvania,Lycoming County,23,36,WV
+54107,54,107,West Virginia,Wood County,42081,42.0,81.0,Pennsylvania,Lycoming County,12,18,WV
+54051,54,51,West Virginia,Marshall County,42089,42.0,89.0,Pennsylvania,Monroe County,7,7,WV
+54007,54,7,West Virginia,Braxton County,42091,42.0,91.0,Pennsylvania,Montgomery County,21,28,WV
+54015,54,15,West Virginia,Clay County,42091,42.0,91.0,Pennsylvania,Montgomery County,5,7,WV
+54019,54,19,West Virginia,Fayette County,42091,42.0,91.0,Pennsylvania,Montgomery County,3,5,WV
+54035,54,35,West Virginia,Jackson County,42091,42.0,91.0,Pennsylvania,Montgomery County,9,16,WV
+54049,54,49,West Virginia,Marion County,42091,42.0,91.0,Pennsylvania,Montgomery County,16,25,WV
+54065,54,65,West Virginia,Morgan County,42091,42.0,91.0,Pennsylvania,Montgomery County,7,12,WV
+54077,54,77,West Virginia,Preston County,42091,42.0,91.0,Pennsylvania,Montgomery County,4,6,WV
+54081,54,81,West Virginia,Raleigh County,42091,42.0,91.0,Pennsylvania,Montgomery County,12,21,WV
+54083,54,83,West Virginia,Randolph County,42091,42.0,91.0,Pennsylvania,Montgomery County,25,29,WV
+54099,54,99,West Virginia,Wayne County,42091,42.0,91.0,Pennsylvania,Montgomery County,54,57,WV
+54107,54,107,West Virginia,Wood County,42091,42.0,91.0,Pennsylvania,Montgomery County,9,13,WV
+54003,54,3,West Virginia,Berkeley County,42095,42.0,95.0,Pennsylvania,Northampton County,34,52,WV
+54069,54,69,West Virginia,Ohio County,42095,42.0,95.0,Pennsylvania,Northampton County,2,3,WV
+54013,54,13,West Virginia,Calhoun County,42101,42.0,101.0,Pennsylvania,Philadelphia County,59,65,WV
+54063,54,63,West Virginia,Monroe County,42101,42.0,101.0,Pennsylvania,Philadelphia County,12,18,WV
+54075,54,75,West Virginia,Pocahontas County,42101,42.0,101.0,Pennsylvania,Philadelphia County,7,12,WV
+54081,54,81,West Virginia,Raleigh County,42101,42.0,101.0,Pennsylvania,Philadelphia County,37,45,WV
+54101,54,101,West Virginia,Webster County,42101,42.0,101.0,Pennsylvania,Philadelphia County,3,4,WV
+54103,54,103,West Virginia,Wetzel County,42101,42.0,101.0,Pennsylvania,Philadelphia County,3,5,WV
+54105,54,105,West Virginia,Wirt County,42101,42.0,101.0,Pennsylvania,Philadelphia County,7,13,WV
+54109,54,109,West Virginia,Wyoming County,42101,42.0,101.0,Pennsylvania,Philadelphia County,4,7,WV
+54077,54,77,West Virginia,Preston County,42103,42.0,103.0,Pennsylvania,Pike County,11,19,WV
+54011,54,11,West Virginia,Cabell County,42105,42.0,105.0,Pennsylvania,Potter County,17,26,WV
+54037,54,37,West Virginia,Jefferson County,42107,42.0,107.0,Pennsylvania,Schuylkill County,13,23,WV
+54019,54,19,West Virginia,Fayette County,42111,42.0,111.0,Pennsylvania,Somerset County,4,6,WV
+54057,54,57,West Virginia,Mineral County,42111,42.0,111.0,Pennsylvania,Somerset County,14,20,WV
+54037,54,37,West Virginia,Jefferson County,42117,42.0,117.0,Pennsylvania,Tioga County,4,5,WV
+54029,54,29,West Virginia,Hancock County,42121,42.0,121.0,Pennsylvania,Venango County,15,23,WV
+54009,54,9,West Virginia,Brooke County,42125,42.0,125.0,Pennsylvania,Washington County,509,157,WV
+54017,54,17,West Virginia,Doddridge County,42125,42.0,125.0,Pennsylvania,Washington County,7,10,WV
+54029,54,29,West Virginia,Hancock County,42125,42.0,125.0,Pennsylvania,Washington County,428,143,WV
+54033,54,33,West Virginia,Harrison County,42125,42.0,125.0,Pennsylvania,Washington County,61,62,WV
+54035,54,35,West Virginia,Jackson County,42125,42.0,125.0,Pennsylvania,Washington County,46,55,WV
+54039,54,39,West Virginia,Kanawha County,42125,42.0,125.0,Pennsylvania,Washington County,3,5,WV
+54045,54,45,West Virginia,Logan County,42125,42.0,125.0,Pennsylvania,Washington County,11,16,WV
+54049,54,49,West Virginia,Marion County,42125,42.0,125.0,Pennsylvania,Washington County,45,33,WV
+54051,54,51,West Virginia,Marshall County,42125,42.0,125.0,Pennsylvania,Washington County,288,114,WV
+54061,54,61,West Virginia,Monongalia County,42125,42.0,125.0,Pennsylvania,Washington County,92,52,WV
+54069,54,69,West Virginia,Ohio County,42125,42.0,125.0,Pennsylvania,Washington County,615,137,WV
+54077,54,77,West Virginia,Preston County,42125,42.0,125.0,Pennsylvania,Washington County,110,65,WV
+54087,54,87,West Virginia,Roane County,42125,42.0,125.0,Pennsylvania,Washington County,5,9,WV
+54091,54,91,West Virginia,Taylor County,42125,42.0,125.0,Pennsylvania,Washington County,46,34,WV
+54095,54,95,West Virginia,Tyler County,42125,42.0,125.0,Pennsylvania,Washington County,7,7,WV
+54097,54,97,West Virginia,Upshur County,42125,42.0,125.0,Pennsylvania,Washington County,15,16,WV
+54103,54,103,West Virginia,Wetzel County,42125,42.0,125.0,Pennsylvania,Washington County,69,37,WV
+54001,54,1,West Virginia,Barbour County,42127,42.0,127.0,Pennsylvania,Wayne County,8,13,WV
+54009,54,9,West Virginia,Brooke County,42129,42.0,129.0,Pennsylvania,Westmoreland County,49,38,WV
+54029,54,29,West Virginia,Hancock County,42129,42.0,129.0,Pennsylvania,Westmoreland County,20,21,WV
+54035,54,35,West Virginia,Jackson County,42129,42.0,129.0,Pennsylvania,Westmoreland County,42,64,WV
+54049,54,49,West Virginia,Marion County,42129,42.0,129.0,Pennsylvania,Westmoreland County,13,19,WV
+54051,54,51,West Virginia,Marshall County,42129,42.0,129.0,Pennsylvania,Westmoreland County,2,4,WV
+54069,54,69,West Virginia,Ohio County,42129,42.0,129.0,Pennsylvania,Westmoreland County,27,28,WV
+54077,54,77,West Virginia,Preston County,42129,42.0,129.0,Pennsylvania,Westmoreland County,11,15,WV
+54083,54,83,West Virginia,Randolph County,42129,42.0,129.0,Pennsylvania,Westmoreland County,6,11,WV
+54085,54,85,West Virginia,Ritchie County,42129,42.0,129.0,Pennsylvania,Westmoreland County,33,46,WV
+54091,54,91,West Virginia,Taylor County,42129,42.0,129.0,Pennsylvania,Westmoreland County,5,9,WV
+54095,54,95,West Virginia,Tyler County,42129,42.0,129.0,Pennsylvania,Westmoreland County,8,11,WV
+54103,54,103,West Virginia,Wetzel County,42129,42.0,129.0,Pennsylvania,Westmoreland County,8,14,WV
+54107,54,107,West Virginia,Wood County,42129,42.0,129.0,Pennsylvania,Westmoreland County,24,25,WV
+54003,54,3,West Virginia,Berkeley County,42133,42.0,133.0,Pennsylvania,York County,68,77,WV
+54033,54,33,West Virginia,Harrison County,42133,42.0,133.0,Pennsylvania,York County,16,17,WV
+54037,54,37,West Virginia,Jefferson County,42133,42.0,133.0,Pennsylvania,York County,11,18,WV
+54045,54,45,West Virginia,Logan County,42133,42.0,133.0,Pennsylvania,York County,3,4,WV
+54069,54,69,West Virginia,Ohio County,42133,42.0,133.0,Pennsylvania,York County,14,22,WV
+54097,54,97,West Virginia,Upshur County,42133,42.0,133.0,Pennsylvania,York County,8,14,WV
+54037,54,37,West Virginia,Jefferson County,45015,45.0,15.0,South Carolina,Berkeley County,9,15,WV
+54011,54,11,West Virginia,Cabell County,45045,45.0,45.0,South Carolina,Greenville County,8,13,WV
+54025,54,25,West Virginia,Greenbrier County,45051,45.0,51.0,South Carolina,Horry County,4,6,WV
+54061,54,61,West Virginia,Monongalia County,45067,45.0,67.0,South Carolina,Marion County,14,21,WV
+54003,54,3,West Virginia,Berkeley County,45083,45.0,83.0,South Carolina,Spartanburg County,12,20,WV
+54003,54,3,West Virginia,Berkeley County,46019,46.0,19.0,South Dakota,Butte County,21,34,WV
+54007,54,7,West Virginia,Braxton County,46065,46.0,65.0,South Dakota,Hughes County,9,16,WV
+54035,54,35,West Virginia,Jackson County,47027,47.0,27.0,Tennessee,Clay County,12,19,WV
+54069,54,69,West Virginia,Ohio County,47037,47.0,37.0,Tennessee,Davidson County,12,18,WV
+54109,54,109,West Virginia,Wyoming County,47037,47.0,37.0,Tennessee,Davidson County,3,5,WV
+54007,54,7,West Virginia,Braxton County,47059,47.0,59.0,Tennessee,Greene County,35,41,WV
+54019,54,19,West Virginia,Fayette County,47065,47.0,65.0,Tennessee,Hamilton County,5,9,WV
+54039,54,39,West Virginia,Kanawha County,47065,47.0,65.0,Tennessee,Hamilton County,30,31,WV
+54103,54,103,West Virginia,Wetzel County,47065,47.0,65.0,Tennessee,Hamilton County,6,11,WV
+54007,54,7,West Virginia,Braxton County,47157,47.0,157.0,Tennessee,Shelby County,23,37,WV
+54059,54,59,West Virginia,Mingo County,47157,47.0,157.0,Tennessee,Shelby County,3,4,WV
+54099,54,99,West Virginia,Wayne County,47157,47.0,157.0,Tennessee,Shelby County,26,39,WV
+54013,54,13,West Virginia,Calhoun County,47163,47.0,163.0,Tennessee,Sullivan County,9,17,WV
+54019,54,19,West Virginia,Fayette County,47163,47.0,163.0,Tennessee,Sullivan County,8,12,WV
+54079,54,79,West Virginia,Putnam County,47163,47.0,163.0,Tennessee,Sullivan County,8,20,WV
+54025,54,25,West Virginia,Greenbrier County,47179,47.0,179.0,Tennessee,Washington County,4,7,WV
+54081,54,81,West Virginia,Raleigh County,47179,47.0,179.0,Tennessee,Washington County,9,13,WV
+54097,54,97,West Virginia,Upshur County,47179,47.0,179.0,Tennessee,Washington County,15,18,WV
+54013,54,13,West Virginia,Calhoun County,47187,47.0,187.0,Tennessee,Williamson County,27,37,WV
+54055,54,55,West Virginia,Mercer County,47189,47.0,189.0,Tennessee,Wilson County,9,13,WV
+54077,54,77,West Virginia,Preston County,48027,48.0,27.0,Texas,Bell County,28,42,WV
+54003,54,3,West Virginia,Berkeley County,48029,48.0,29.0,Texas,Bexar County,8,12,WV
+54065,54,65,West Virginia,Morgan County,48029,48.0,29.0,Texas,Bexar County,14,23,WV
+54069,54,69,West Virginia,Ohio County,48029,48.0,29.0,Texas,Bexar County,12,20,WV
+54101,54,101,West Virginia,Webster County,48029,48.0,29.0,Texas,Bexar County,3,4,WV
+54029,54,29,West Virginia,Hancock County,48037,48.0,37.0,Texas,Bowie County,26,37,WV
+54037,54,37,West Virginia,Jefferson County,48113,48.0,113.0,Texas,Dallas County,10,16,WV
+54039,54,39,West Virginia,Kanawha County,48113,48.0,113.0,Texas,Dallas County,9,13,WV
+54095,54,95,West Virginia,Tyler County,48113,48.0,113.0,Texas,Dallas County,2,6,WV
+54079,54,79,West Virginia,Putnam County,48183,48.0,183.0,Texas,Gregg County,16,26,WV
+54009,54,9,West Virginia,Brooke County,48201,48.0,201.0,Texas,Harris County,4,8,WV
+54017,54,17,West Virginia,Doddridge County,48201,48.0,201.0,Texas,Harris County,45,67,WV
+54035,54,35,West Virginia,Jackson County,48201,48.0,201.0,Texas,Harris County,10,17,WV
+54037,54,37,West Virginia,Jefferson County,48201,48.0,201.0,Texas,Harris County,13,15,WV
+54073,54,73,West Virginia,Pleasants County,48201,48.0,201.0,Texas,Harris County,8,14,WV
+54095,54,95,West Virginia,Tyler County,48201,48.0,201.0,Texas,Harris County,3,5,WV
+54039,54,39,West Virginia,Kanawha County,48227,48.0,227.0,Texas,Howard County,14,23,WV
+54011,54,11,West Virginia,Cabell County,48239,48.0,239.0,Texas,Jackson County,9,14,WV
+54073,54,73,West Virginia,Pleasants County,48355,48.0,355.0,Texas,Nueces County,14,17,WV
+54095,54,95,West Virginia,Tyler County,48439,48.0,439.0,Texas,Tarrant County,1,3,WV
+54083,54,83,West Virginia,Randolph County,48441,48.0,441.0,Texas,Taylor County,2,3,WV
+54107,54,107,West Virginia,Wood County,48485,48.0,485.0,Texas,Wichita County,14,22,WV
+54061,54,61,West Virginia,Monongalia County,49035,49.0,35.0,Utah,Salt Lake County,3,5,WV
+54011,54,11,West Virginia,Cabell County,50021,50.0,21.0,Vermont,Rutland County,14,22,WV
+54055,54,55,West Virginia,Mercer County,51003,51.0,3.0,Virginia,Albemarle County,57,69,WV
+54025,54,25,West Virginia,Greenbrier County,51005,51.0,5.0,Virginia,Alleghany County,307,124,WV
+54063,54,63,West Virginia,Monroe County,51005,51.0,5.0,Virginia,Alleghany County,61,43,WV
+54065,54,65,West Virginia,Morgan County,51005,51.0,5.0,Virginia,Alleghany County,4,6,WV
+54075,54,75,West Virginia,Pocahontas County,51005,51.0,5.0,Virginia,Alleghany County,6,9,WV
+54089,54,89,West Virginia,Summers County,51005,51.0,5.0,Virginia,Alleghany County,22,24,WV
+54003,54,3,West Virginia,Berkeley County,51013,51.0,13.0,Virginia,Arlington County,117,71,WV
+54011,54,11,West Virginia,Cabell County,51013,51.0,13.0,Virginia,Arlington County,8,13,WV
+54027,54,27,West Virginia,Hampshire County,51013,51.0,13.0,Virginia,Arlington County,24,35,WV
+54037,54,37,West Virginia,Jefferson County,51013,51.0,13.0,Virginia,Arlington County,316,128,WV
+54065,54,65,West Virginia,Morgan County,51013,51.0,13.0,Virginia,Arlington County,31,48,WV
+54003,54,3,West Virginia,Berkeley County,51015,51.0,15.0,Virginia,Augusta County,40,64,WV
+54057,54,57,West Virginia,Mineral County,51015,51.0,15.0,Virginia,Augusta County,54,74,WV
+54071,54,71,West Virginia,Pendleton County,51015,51.0,15.0,Virginia,Augusta County,25,21,WV
+54025,54,25,West Virginia,Greenbrier County,51017,51.0,17.0,Virginia,Bath County,30,36,WV
+54075,54,75,West Virginia,Pocahontas County,51017,51.0,17.0,Virginia,Bath County,25,20,WV
+54047,54,47,West Virginia,McDowell County,51021,51.0,21.0,Virginia,Bland County,13,14,WV
+54055,54,55,West Virginia,Mercer County,51021,51.0,21.0,Virginia,Bland County,393,147,WV
+54081,54,81,West Virginia,Raleigh County,51021,51.0,21.0,Virginia,Bland County,27,45,WV
+54109,54,109,West Virginia,Wyoming County,51021,51.0,21.0,Virginia,Bland County,21,30,WV
+54019,54,19,West Virginia,Fayette County,51023,51.0,23.0,Virginia,Botetourt County,2,3,WV
+54025,54,25,West Virginia,Greenbrier County,51023,51.0,23.0,Virginia,Botetourt County,14,18,WV
+54055,54,55,West Virginia,Mercer County,51023,51.0,23.0,Virginia,Botetourt County,11,17,WV
+54047,54,47,West Virginia,McDowell County,51027,51.0,27.0,Virginia,Buchanan County,368,158,WV
+54055,54,55,West Virginia,Mercer County,51027,51.0,27.0,Virginia,Buchanan County,104,88,WV
+54059,54,59,West Virginia,Mingo County,51027,51.0,27.0,Virginia,Buchanan County,26,30,WV
+54073,54,73,West Virginia,Pleasants County,51027,51.0,27.0,Virginia,Buchanan County,6,12,WV
+54093,54,93,West Virginia,Tucker County,51031,51.0,31.0,Virginia,Campbell County,5,7,WV
+54039,54,39,West Virginia,Kanawha County,51041,51.0,41.0,Virginia,Chesterfield County,30,30,WV
+54061,54,61,West Virginia,Monongalia County,51041,51.0,41.0,Virginia,Chesterfield County,19,32,WV
+54075,54,75,West Virginia,Pocahontas County,51041,51.0,41.0,Virginia,Chesterfield County,8,13,WV
+54101,54,101,West Virginia,Webster County,51041,51.0,41.0,Virginia,Chesterfield County,25,38,WV
+54003,54,3,West Virginia,Berkeley County,51043,51.0,43.0,Virginia,Clarke County,250,133,WV
+54027,54,27,West Virginia,Hampshire County,51043,51.0,43.0,Virginia,Clarke County,50,43,WV
+54037,54,37,West Virginia,Jefferson County,51043,51.0,43.0,Virginia,Clarke County,226,104,WV
+54065,54,65,West Virginia,Morgan County,51043,51.0,43.0,Virginia,Clarke County,24,29,WV
+54003,54,3,West Virginia,Berkeley County,51047,51.0,47.0,Virginia,Culpeper County,42,64,WV
+54025,54,25,West Virginia,Greenbrier County,51047,51.0,47.0,Virginia,Culpeper County,17,29,WV
+54027,54,27,West Virginia,Hampshire County,51047,51.0,47.0,Virginia,Culpeper County,13,21,WV
+54019,54,19,West Virginia,Fayette County,51053,51.0,53.0,Virginia,Dinwiddie County,9,17,WV
+54003,54,3,West Virginia,Berkeley County,51059,51.0,59.0,Virginia,Fairfax County,997,278,WV
+54023,54,23,West Virginia,Grant County,51059,51.0,59.0,Virginia,Fairfax County,28,26,WV
+54027,54,27,West Virginia,Hampshire County,51059,51.0,59.0,Virginia,Fairfax County,121,104,WV
+54031,54,31,West Virginia,Hardy County,51059,51.0,59.0,Virginia,Fairfax County,59,62,WV
+54037,54,37,West Virginia,Jefferson County,51059,51.0,59.0,Virginia,Fairfax County,1396,235,WV
+54039,54,39,West Virginia,Kanawha County,51059,51.0,59.0,Virginia,Fairfax County,6,10,WV
+54055,54,55,West Virginia,Mercer County,51059,51.0,59.0,Virginia,Fairfax County,14,24,WV
+54057,54,57,West Virginia,Mineral County,51059,51.0,59.0,Virginia,Fairfax County,46,45,WV
+54061,54,61,West Virginia,Monongalia County,51059,51.0,59.0,Virginia,Fairfax County,79,69,WV
+54063,54,63,West Virginia,Monroe County,51059,51.0,59.0,Virginia,Fairfax County,11,16,WV
+54065,54,65,West Virginia,Morgan County,51059,51.0,59.0,Virginia,Fairfax County,24,26,WV
+54069,54,69,West Virginia,Ohio County,51059,51.0,59.0,Virginia,Fairfax County,12,18,WV
+54075,54,75,West Virginia,Pocahontas County,51059,51.0,59.0,Virginia,Fairfax County,6,11,WV
+54077,54,77,West Virginia,Preston County,51059,51.0,59.0,Virginia,Fairfax County,9,15,WV
+54079,54,79,West Virginia,Putnam County,51059,51.0,59.0,Virginia,Fairfax County,18,26,WV
+54089,54,89,West Virginia,Summers County,51059,51.0,59.0,Virginia,Fairfax County,8,13,WV
+54107,54,107,West Virginia,Wood County,51059,51.0,59.0,Virginia,Fairfax County,8,12,WV
+54003,54,3,West Virginia,Berkeley County,51061,51.0,61.0,Virginia,Fauquier County,14,21,WV
+54037,54,37,West Virginia,Jefferson County,51061,51.0,61.0,Virginia,Fauquier County,33,35,WV
+54057,54,57,West Virginia,Mineral County,51061,51.0,61.0,Virginia,Fauquier County,7,11,WV
+54003,54,3,West Virginia,Berkeley County,51069,51.0,69.0,Virginia,Frederick County,2630,382,WV
+54027,54,27,West Virginia,Hampshire County,51069,51.0,69.0,Virginia,Frederick County,1810,268,WV
+54031,54,31,West Virginia,Hardy County,51069,51.0,69.0,Virginia,Frederick County,376,157,WV
+54037,54,37,West Virginia,Jefferson County,51069,51.0,69.0,Virginia,Frederick County,618,183,WV
+54049,54,49,West Virginia,Marion County,51069,51.0,69.0,Virginia,Frederick County,10,15,WV
+54057,54,57,West Virginia,Mineral County,51069,51.0,69.0,Virginia,Frederick County,122,79,WV
+54061,54,61,West Virginia,Monongalia County,51069,51.0,69.0,Virginia,Frederick County,1,3,WV
+54065,54,65,West Virginia,Morgan County,51069,51.0,69.0,Virginia,Frederick County,737,195,WV
+54025,54,25,West Virginia,Greenbrier County,51071,51.0,71.0,Virginia,Giles County,2,4,WV
+54055,54,55,West Virginia,Mercer County,51071,51.0,71.0,Virginia,Giles County,227,104,WV
+54063,54,63,West Virginia,Monroe County,51071,51.0,71.0,Virginia,Giles County,877,226,WV
+54081,54,81,West Virginia,Raleigh County,51071,51.0,71.0,Virginia,Giles County,24,27,WV
+54089,54,89,West Virginia,Summers County,51071,51.0,71.0,Virginia,Giles County,17,24,WV
+54019,54,19,West Virginia,Fayette County,51075,51.0,75.0,Virginia,Goochland County,14,16,WV
+54071,54,71,West Virginia,Pendleton County,51079,51.0,79.0,Virginia,Greene County,5,7,WV
+54049,54,49,West Virginia,Marion County,51085,51.0,85.0,Virginia,Hanover County,5,8,WV
+54081,54,81,West Virginia,Raleigh County,51087,51.0,87.0,Virginia,Henrico County,22,22,WV
+54101,54,101,West Virginia,Webster County,51087,51.0,87.0,Virginia,Henrico County,8,13,WV
+54087,54,87,West Virginia,Roane County,51089,51.0,89.0,Virginia,Henry County,10,16,WV
+54071,54,71,West Virginia,Pendleton County,51091,51.0,91.0,Virginia,Highland County,31,28,WV
+54081,54,81,West Virginia,Raleigh County,51099,51.0,99.0,Virginia,King George County,22,33,WV
+54003,54,3,West Virginia,Berkeley County,51107,51.0,107.0,Virginia,Loudoun County,1601,355,WV
+54011,54,11,West Virginia,Cabell County,51107,51.0,107.0,Virginia,Loudoun County,13,24,WV
+54027,54,27,West Virginia,Hampshire County,51107,51.0,107.0,Virginia,Loudoun County,80,49,WV
+54031,54,31,West Virginia,Hardy County,51107,51.0,107.0,Virginia,Loudoun County,18,24,WV
+54037,54,37,West Virginia,Jefferson County,51107,51.0,107.0,Virginia,Loudoun County,4282,467,WV
+54057,54,57,West Virginia,Mineral County,51107,51.0,107.0,Virginia,Loudoun County,16,32,WV
+54061,54,61,West Virginia,Monongalia County,51107,51.0,107.0,Virginia,Loudoun County,23,28,WV
+54065,54,65,West Virginia,Morgan County,51107,51.0,107.0,Virginia,Loudoun County,41,34,WV
+54075,54,75,West Virginia,Pocahontas County,51107,51.0,107.0,Virginia,Loudoun County,13,21,WV
+54081,54,81,West Virginia,Raleigh County,51107,51.0,107.0,Virginia,Loudoun County,21,28,WV
+54075,54,75,West Virginia,Pocahontas County,51109,51.0,109.0,Virginia,Louisa County,11,18,WV
+54093,54,93,West Virginia,Tucker County,51109,51.0,109.0,Virginia,Louisa County,3,5,WV
+54025,54,25,West Virginia,Greenbrier County,51121,51.0,121.0,Virginia,Montgomery County,18,26,WV
+54055,54,55,West Virginia,Mercer County,51121,51.0,121.0,Virginia,Montgomery County,56,41,WV
+54063,54,63,West Virginia,Monroe County,51121,51.0,121.0,Virginia,Montgomery County,154,84,WV
+54089,54,89,West Virginia,Summers County,51121,51.0,121.0,Virginia,Montgomery County,71,87,WV
+54003,54,3,West Virginia,Berkeley County,51153,51.0,153.0,Virginia,Prince William County,98,72,WV
+54019,54,19,West Virginia,Fayette County,51153,51.0,153.0,Virginia,Prince William County,3,5,WV
+54023,54,23,West Virginia,Grant County,51153,51.0,153.0,Virginia,Prince William County,10,15,WV
+54025,54,25,West Virginia,Greenbrier County,51153,51.0,153.0,Virginia,Prince William County,6,10,WV
+54031,54,31,West Virginia,Hardy County,51153,51.0,153.0,Virginia,Prince William County,32,40,WV
+54037,54,37,West Virginia,Jefferson County,51153,51.0,153.0,Virginia,Prince William County,97,74,WV
+54049,54,49,West Virginia,Marion County,51153,51.0,153.0,Virginia,Prince William County,5,8,WV
+54057,54,57,West Virginia,Mineral County,51153,51.0,153.0,Virginia,Prince William County,10,13,WV
+54065,54,65,West Virginia,Morgan County,51153,51.0,153.0,Virginia,Prince William County,39,47,WV
+54019,54,19,West Virginia,Fayette County,51155,51.0,155.0,Virginia,Pulaski County,30,40,WV
+54055,54,55,West Virginia,Mercer County,51155,51.0,155.0,Virginia,Pulaski County,58,47,WV
+54063,54,63,West Virginia,Monroe County,51155,51.0,155.0,Virginia,Pulaski County,66,51,WV
+54089,54,89,West Virginia,Summers County,51155,51.0,155.0,Virginia,Pulaski County,4,8,WV
+54019,54,19,West Virginia,Fayette County,51161,51.0,161.0,Virginia,Roanoke County,25,39,WV
+54025,54,25,West Virginia,Greenbrier County,51161,51.0,161.0,Virginia,Roanoke County,16,16,WV
+54055,54,55,West Virginia,Mercer County,51161,51.0,161.0,Virginia,Roanoke County,6,11,WV
+54063,54,63,West Virginia,Monroe County,51161,51.0,161.0,Virginia,Roanoke County,2,4,WV
+54075,54,75,West Virginia,Pocahontas County,51161,51.0,161.0,Virginia,Roanoke County,23,33,WV
+54081,54,81,West Virginia,Raleigh County,51161,51.0,161.0,Virginia,Roanoke County,14,22,WV
+54107,54,107,West Virginia,Wood County,51161,51.0,161.0,Virginia,Roanoke County,22,34,WV
+54025,54,25,West Virginia,Greenbrier County,51163,51.0,163.0,Virginia,Rockbridge County,47,73,WV
+54079,54,79,West Virginia,Putnam County,51163,51.0,163.0,Virginia,Rockbridge County,23,39,WV
+54093,54,93,West Virginia,Tucker County,51163,51.0,163.0,Virginia,Rockbridge County,2,3,WV
+54003,54,3,West Virginia,Berkeley County,51165,51.0,165.0,Virginia,Rockingham County,19,25,WV
+54027,54,27,West Virginia,Hampshire County,51165,51.0,165.0,Virginia,Rockingham County,10,15,WV
+54031,54,31,West Virginia,Hardy County,51165,51.0,165.0,Virginia,Rockingham County,164,80,WV
+54067,54,67,West Virginia,Nicholas County,51165,51.0,165.0,Virginia,Rockingham County,3,5,WV
+54071,54,71,West Virginia,Pendleton County,51165,51.0,165.0,Virginia,Rockingham County,241,82,WV
+54081,54,81,West Virginia,Raleigh County,51165,51.0,165.0,Virginia,Rockingham County,7,9,WV
+54047,54,47,West Virginia,McDowell County,51167,51.0,167.0,Virginia,Russell County,31,47,WV
+54055,54,55,West Virginia,Mercer County,51167,51.0,167.0,Virginia,Russell County,9,13,WV
+54059,54,59,West Virginia,Mingo County,51169,51.0,169.0,Virginia,Scott County,9,13,WV
+54003,54,3,West Virginia,Berkeley County,51171,51.0,171.0,Virginia,Shenandoah County,87,73,WV
+54025,54,25,West Virginia,Greenbrier County,51171,51.0,171.0,Virginia,Shenandoah County,83,102,WV
+54027,54,27,West Virginia,Hampshire County,51171,51.0,171.0,Virginia,Shenandoah County,5,16,WV
+54031,54,31,West Virginia,Hardy County,51171,51.0,171.0,Virginia,Shenandoah County,283,140,WV
+54037,54,37,West Virginia,Jefferson County,51171,51.0,171.0,Virginia,Shenandoah County,7,11,WV
+54055,54,55,West Virginia,Mercer County,51173,51.0,173.0,Virginia,Smyth County,8,13,WV
+54037,54,37,West Virginia,Jefferson County,51179,51.0,179.0,Virginia,Stafford County,21,35,WV
+54047,54,47,West Virginia,McDowell County,51185,51.0,185.0,Virginia,Tazewell County,144,61,WV
+54055,54,55,West Virginia,Mercer County,51185,51.0,185.0,Virginia,Tazewell County,2378,364,WV
+54063,54,63,West Virginia,Monroe County,51185,51.0,185.0,Virginia,Tazewell County,40,43,WV
+54081,54,81,West Virginia,Raleigh County,51185,51.0,185.0,Virginia,Tazewell County,21,25,WV
+54089,54,89,West Virginia,Summers County,51185,51.0,185.0,Virginia,Tazewell County,12,19,WV
+54003,54,3,West Virginia,Berkeley County,51187,51.0,187.0,Virginia,Warren County,195,111,WV
+54009,54,9,West Virginia,Brooke County,51187,51.0,187.0,Virginia,Warren County,7,12,WV
+54027,54,27,West Virginia,Hampshire County,51187,51.0,187.0,Virginia,Warren County,16,20,WV
+54031,54,31,West Virginia,Hardy County,51187,51.0,187.0,Virginia,Warren County,11,12,WV
+54037,54,37,West Virginia,Jefferson County,51187,51.0,187.0,Virginia,Warren County,22,35,WV
+54049,54,49,West Virginia,Marion County,51187,51.0,187.0,Virginia,Warren County,7,12,WV
+54055,54,55,West Virginia,Mercer County,51187,51.0,187.0,Virginia,Warren County,26,30,WV
+54065,54,65,West Virginia,Morgan County,51187,51.0,187.0,Virginia,Warren County,13,22,WV
+54039,54,39,West Virginia,Kanawha County,51191,51.0,191.0,Virginia,Washington County,52,81,WV
+54055,54,55,West Virginia,Mercer County,51195,51.0,195.0,Virginia,Wise County,28,33,WV
+54099,54,99,West Virginia,Wayne County,51195,51.0,195.0,Virginia,Wise County,11,16,WV
+54019,54,19,West Virginia,Fayette County,51197,51.0,197.0,Virginia,Wythe County,8,13,WV
+54055,54,55,West Virginia,Mercer County,51197,51.0,197.0,Virginia,Wythe County,84,53,WV
+54011,54,11,West Virginia,Cabell County,51199,51.0,199.0,Virginia,York County,5,8,WV
+54037,54,37,West Virginia,Jefferson County,51199,51.0,199.0,Virginia,York County,7,11,WV
+54055,54,55,West Virginia,Mercer County,51199,51.0,199.0,Virginia,York County,6,10,WV
+54003,54,3,West Virginia,Berkeley County,51510,51.0,510.0,Virginia,Alexandria city,7,12,WV
+54027,54,27,West Virginia,Hampshire County,51510,51.0,510.0,Virginia,Alexandria city,5,9,WV
+54037,54,37,West Virginia,Jefferson County,51510,51.0,510.0,Virginia,Alexandria city,85,51,WV
+54061,54,61,West Virginia,Monongalia County,51510,51.0,510.0,Virginia,Alexandria city,3,6,WV
+54025,54,25,West Virginia,Greenbrier County,51520,51.0,520.0,Virginia,Bristol city,6,10,WV
+54003,54,3,West Virginia,Berkeley County,51540,51.0,540.0,Virginia,Charlottesville city,12,19,WV
+54027,54,27,West Virginia,Hampshire County,51540,51.0,540.0,Virginia,Charlottesville city,29,44,WV
+54065,54,65,West Virginia,Morgan County,51540,51.0,540.0,Virginia,Charlottesville city,5,8,WV
+54007,54,7,West Virginia,Braxton County,51550,51.0,550.0,Virginia,Chesapeake city,14,19,WV
+54027,54,27,West Virginia,Hampshire County,51550,51.0,550.0,Virginia,Chesapeake city,12,19,WV
+54055,54,55,West Virginia,Mercer County,51550,51.0,550.0,Virginia,Chesapeake city,31,29,WV
+54025,54,25,West Virginia,Greenbrier County,51580,51.0,580.0,Virginia,Covington city,74,51,WV
+54003,54,3,West Virginia,Berkeley County,51600,51.0,600.0,Virginia,Fairfax city,45,42,WV
+54037,54,37,West Virginia,Jefferson County,51600,51.0,600.0,Virginia,Fairfax city,53,38,WV
+54107,54,107,West Virginia,Wood County,51600,51.0,600.0,Virginia,Fairfax city,41,46,WV
+54037,54,37,West Virginia,Jefferson County,51610,51.0,610.0,Virginia,Falls Church city,14,22,WV
+54065,54,65,West Virginia,Morgan County,51610,51.0,610.0,Virginia,Falls Church city,22,26,WV
+54055,54,55,West Virginia,Mercer County,51630,51.0,630.0,Virginia,Fredericksburg city,5,9,WV
+54077,54,77,West Virginia,Preston County,51630,51.0,630.0,Virginia,Fredericksburg city,20,24,WV
+54003,54,3,West Virginia,Berkeley County,51660,51.0,660.0,Virginia,Harrisonburg city,16,27,WV
+54005,54,5,West Virginia,Boone County,51660,51.0,660.0,Virginia,Harrisonburg city,10,15,WV
+54023,54,23,West Virginia,Grant County,51660,51.0,660.0,Virginia,Harrisonburg city,6,10,WV
+54031,54,31,West Virginia,Hardy County,51660,51.0,660.0,Virginia,Harrisonburg city,86,71,WV
+54071,54,71,West Virginia,Pendleton County,51660,51.0,660.0,Virginia,Harrisonburg city,163,55,WV
+54083,54,83,West Virginia,Randolph County,51660,51.0,660.0,Virginia,Harrisonburg city,7,12,WV
+54031,54,31,West Virginia,Hardy County,51678,51.0,678.0,Virginia,Lexington city,5,9,WV
+54003,54,3,West Virginia,Berkeley County,51683,51.0,683.0,Virginia,Manassas city,30,36,WV
+54027,54,27,West Virginia,Hampshire County,51683,51.0,683.0,Virginia,Manassas city,6,10,WV
+54037,54,37,West Virginia,Jefferson County,51683,51.0,683.0,Virginia,Manassas city,25,30,WV
+54099,54,99,West Virginia,Wayne County,51683,51.0,683.0,Virginia,Manassas city,12,18,WV
+54027,54,27,West Virginia,Hampshire County,51685,51.0,685.0,Virginia,Manassas Park city,35,59,WV
+54075,54,75,West Virginia,Pocahontas County,51730,51.0,730.0,Virginia,Petersburg city,9,13,WV
+54069,54,69,West Virginia,Ohio County,51740,51.0,740.0,Virginia,Portsmouth city,3,5,WV
+54025,54,25,West Virginia,Greenbrier County,51750,51.0,750.0,Virginia,Radford city,10,16,WV
+54019,54,19,West Virginia,Fayette County,51760,51.0,760.0,Virginia,Richmond city,51,78,WV
+54023,54,23,West Virginia,Grant County,51760,51.0,760.0,Virginia,Richmond city,58,65,WV
+54043,54,43,West Virginia,Lincoln County,51760,51.0,760.0,Virginia,Richmond city,8,15,WV
+54081,54,81,West Virginia,Raleigh County,51760,51.0,760.0,Virginia,Richmond city,14,25,WV
+54019,54,19,West Virginia,Fayette County,51770,51.0,770.0,Virginia,Roanoke city,46,69,WV
+54025,54,25,West Virginia,Greenbrier County,51770,51.0,770.0,Virginia,Roanoke city,48,65,WV
+54039,54,39,West Virginia,Kanawha County,51770,51.0,770.0,Virginia,Roanoke city,14,22,WV
+54055,54,55,West Virginia,Mercer County,51770,51.0,770.0,Virginia,Roanoke city,39,37,WV
+54063,54,63,West Virginia,Monroe County,51770,51.0,770.0,Virginia,Roanoke city,10,20,WV
+54081,54,81,West Virginia,Raleigh County,51770,51.0,770.0,Virginia,Roanoke city,26,27,WV
+54089,54,89,West Virginia,Summers County,51770,51.0,770.0,Virginia,Roanoke city,11,17,WV
+54099,54,99,West Virginia,Wayne County,51770,51.0,770.0,Virginia,Roanoke city,34,40,WV
+54025,54,25,West Virginia,Greenbrier County,51775,51.0,775.0,Virginia,Salem city,15,25,WV
+54023,54,23,West Virginia,Grant County,51820,51.0,820.0,Virginia,Waynesboro city,9,15,WV
+54031,54,31,West Virginia,Hardy County,51820,51.0,820.0,Virginia,Waynesboro city,12,21,WV
+54071,54,71,West Virginia,Pendleton County,51820,51.0,820.0,Virginia,Waynesboro city,16,22,WV
+54003,54,3,West Virginia,Berkeley County,51840,51.0,840.0,Virginia,Winchester city,1400,271,WV
+54023,54,23,West Virginia,Grant County,51840,51.0,840.0,Virginia,Winchester city,12,18,WV
+54027,54,27,West Virginia,Hampshire County,51840,51.0,840.0,Virginia,Winchester city,1564,283,WV
+54031,54,31,West Virginia,Hardy County,51840,51.0,840.0,Virginia,Winchester city,205,106,WV
+54037,54,37,West Virginia,Jefferson County,51840,51.0,840.0,Virginia,Winchester city,284,101,WV
+54057,54,57,West Virginia,Mineral County,51840,51.0,840.0,Virginia,Winchester city,58,44,WV
+54061,54,61,West Virginia,Monongalia County,51840,51.0,840.0,Virginia,Winchester city,22,36,WV
+54065,54,65,West Virginia,Morgan County,51840,51.0,840.0,Virginia,Winchester city,335,123,WV
+54075,54,75,West Virginia,Pocahontas County,51840,51.0,840.0,Virginia,Winchester city,13,22,WV
+54077,54,77,West Virginia,Preston County,51840,51.0,840.0,Virginia,Winchester city,9,14,WV
+54099,54,99,West Virginia,Wayne County,51840,51.0,840.0,Virginia,Winchester city,8,13,WV
+54023,54,23,West Virginia,Grant County,53025,53.0,25.0,Washington,Grant County,4,7,WV
+54003,54,3,West Virginia,Berkeley County,53033,53.0,33.0,Washington,King County,14,23,WV
+54001,54,1,West Virginia,Barbour County,54001,54.0,1.0,West Virginia,Barbour County,2887,357,WV
+54007,54,7,West Virginia,Braxton County,54001,54.0,1.0,West Virginia,Barbour County,9,17,WV
+54015,54,15,West Virginia,Clay County,54001,54.0,1.0,West Virginia,Barbour County,8,13,WV
+54023,54,23,West Virginia,Grant County,54001,54.0,1.0,West Virginia,Barbour County,6,10,WV
+54033,54,33,West Virginia,Harrison County,54001,54.0,1.0,West Virginia,Barbour County,60,42,WV
+54041,54,41,West Virginia,Lewis County,54001,54.0,1.0,West Virginia,Barbour County,23,26,WV
+54049,54,49,West Virginia,Marion County,54001,54.0,1.0,West Virginia,Barbour County,47,60,WV
+54061,54,61,West Virginia,Monongalia County,54001,54.0,1.0,West Virginia,Barbour County,18,24,WV
+54071,54,71,West Virginia,Pendleton County,54001,54.0,1.0,West Virginia,Barbour County,4,6,WV
+54077,54,77,West Virginia,Preston County,54001,54.0,1.0,West Virginia,Barbour County,34,27,WV
+54083,54,83,West Virginia,Randolph County,54001,54.0,1.0,West Virginia,Barbour County,134,74,WV
+54091,54,91,West Virginia,Taylor County,54001,54.0,1.0,West Virginia,Barbour County,24,20,WV
+54093,54,93,West Virginia,Tucker County,54001,54.0,1.0,West Virginia,Barbour County,72,39,WV
+54097,54,97,West Virginia,Upshur County,54001,54.0,1.0,West Virginia,Barbour County,128,67,WV
+54101,54,101,West Virginia,Webster County,54001,54.0,1.0,West Virginia,Barbour County,3,5,WV
+54003,54,3,West Virginia,Berkeley County,54003,54.0,3.0,West Virginia,Berkeley County,25307,1082,WV
+54009,54,9,West Virginia,Brooke County,54003,54.0,3.0,West Virginia,Berkeley County,3,7,WV
+54019,54,19,West Virginia,Fayette County,54003,54.0,3.0,West Virginia,Berkeley County,5,10,WV
+54021,54,21,West Virginia,Gilmer County,54003,54.0,3.0,West Virginia,Berkeley County,3,5,WV
+54027,54,27,West Virginia,Hampshire County,54003,54.0,3.0,West Virginia,Berkeley County,119,155,WV
+54031,54,31,West Virginia,Hardy County,54003,54.0,3.0,West Virginia,Berkeley County,60,62,WV
+54033,54,33,West Virginia,Harrison County,54003,54.0,3.0,West Virginia,Berkeley County,32,48,WV
+54037,54,37,West Virginia,Jefferson County,54003,54.0,3.0,West Virginia,Berkeley County,1955,257,WV
+54049,54,49,West Virginia,Marion County,54003,54.0,3.0,West Virginia,Berkeley County,22,29,WV
+54055,54,55,West Virginia,Mercer County,54003,54.0,3.0,West Virginia,Berkeley County,12,17,WV
+54057,54,57,West Virginia,Mineral County,54003,54.0,3.0,West Virginia,Berkeley County,6,14,WV
+54061,54,61,West Virginia,Monongalia County,54003,54.0,3.0,West Virginia,Berkeley County,11,18,WV
+54065,54,65,West Virginia,Morgan County,54003,54.0,3.0,West Virginia,Berkeley County,959,230,WV
+54079,54,79,West Virginia,Putnam County,54003,54.0,3.0,West Virginia,Berkeley County,20,30,WV
+54081,54,81,West Virginia,Raleigh County,54003,54.0,3.0,West Virginia,Berkeley County,15,24,WV
+54107,54,107,West Virginia,Wood County,54003,54.0,3.0,West Virginia,Berkeley County,45,72,WV
+54005,54,5,West Virginia,Boone County,54005,54.0,5.0,West Virginia,Boone County,4267,355,WV
+54011,54,11,West Virginia,Cabell County,54005,54.0,5.0,West Virginia,Boone County,33,42,WV
+54015,54,15,West Virginia,Clay County,54005,54.0,5.0,West Virginia,Boone County,16,27,WV
+54019,54,19,West Virginia,Fayette County,54005,54.0,5.0,West Virginia,Boone County,112,66,WV
+54035,54,35,West Virginia,Jackson County,54005,54.0,5.0,West Virginia,Boone County,24,32,WV
+54037,54,37,West Virginia,Jefferson County,54005,54.0,5.0,West Virginia,Boone County,14,23,WV
+54039,54,39,West Virginia,Kanawha County,54005,54.0,5.0,West Virginia,Boone County,892,210,WV
+54043,54,43,West Virginia,Lincoln County,54005,54.0,5.0,West Virginia,Boone County,605,199,WV
+54045,54,45,West Virginia,Logan County,54005,54.0,5.0,West Virginia,Boone County,801,204,WV
+54055,54,55,West Virginia,Mercer County,54005,54.0,5.0,West Virginia,Boone County,47,49,WV
+54059,54,59,West Virginia,Mingo County,54005,54.0,5.0,West Virginia,Boone County,197,82,WV
+54075,54,75,West Virginia,Pocahontas County,54005,54.0,5.0,West Virginia,Boone County,11,16,WV
+54079,54,79,West Virginia,Putnam County,54005,54.0,5.0,West Virginia,Boone County,17,20,WV
+54081,54,81,West Virginia,Raleigh County,54005,54.0,5.0,West Virginia,Boone County,1026,257,WV
+54083,54,83,West Virginia,Randolph County,54005,54.0,5.0,West Virginia,Boone County,7,12,WV
+54087,54,87,West Virginia,Roane County,54005,54.0,5.0,West Virginia,Boone County,11,17,WV
+54089,54,89,West Virginia,Summers County,54005,54.0,5.0,West Virginia,Boone County,15,27,WV
+54101,54,101,West Virginia,Webster County,54005,54.0,5.0,West Virginia,Boone County,4,7,WV
+54109,54,109,West Virginia,Wyoming County,54005,54.0,5.0,West Virginia,Boone County,228,83,WV
+54007,54,7,West Virginia,Braxton County,54007,54.0,7.0,West Virginia,Braxton County,3587,345,WV
+54013,54,13,West Virginia,Calhoun County,54007,54.0,7.0,West Virginia,Braxton County,53,46,WV
+54015,54,15,West Virginia,Clay County,54007,54.0,7.0,West Virginia,Braxton County,92,69,WV
+54021,54,21,West Virginia,Gilmer County,54007,54.0,7.0,West Virginia,Braxton County,198,72,WV
+54033,54,33,West Virginia,Harrison County,54007,54.0,7.0,West Virginia,Braxton County,2,4,WV
+54041,54,41,West Virginia,Lewis County,54007,54.0,7.0,West Virginia,Braxton County,61,40,WV
+54047,54,47,West Virginia,McDowell County,54007,54.0,7.0,West Virginia,Braxton County,7,11,WV
+54067,54,67,West Virginia,Nicholas County,54007,54.0,7.0,West Virginia,Braxton County,256,103,WV
+54083,54,83,West Virginia,Randolph County,54007,54.0,7.0,West Virginia,Braxton County,7,12,WV
+54085,54,85,West Virginia,Ritchie County,54007,54.0,7.0,West Virginia,Braxton County,2,4,WV
+54087,54,87,West Virginia,Roane County,54007,54.0,7.0,West Virginia,Braxton County,13,21,WV
+54089,54,89,West Virginia,Summers County,54007,54.0,7.0,West Virginia,Braxton County,9,13,WV
+54097,54,97,West Virginia,Upshur County,54007,54.0,7.0,West Virginia,Braxton County,63,40,WV
+54101,54,101,West Virginia,Webster County,54007,54.0,7.0,West Virginia,Braxton County,138,69,WV
+54107,54,107,West Virginia,Wood County,54007,54.0,7.0,West Virginia,Braxton County,8,13,WV
+54009,54,9,West Virginia,Brooke County,54009,54.0,9.0,West Virginia,Brooke County,4637,378,WV
+54029,54,29,West Virginia,Hancock County,54009,54.0,9.0,West Virginia,Brooke County,1187,189,WV
+54051,54,51,West Virginia,Marshall County,54009,54.0,9.0,West Virginia,Brooke County,47,29,WV
+54069,54,69,West Virginia,Ohio County,54009,54.0,9.0,West Virginia,Brooke County,228,76,WV
+54103,54,103,West Virginia,Wetzel County,54009,54.0,9.0,West Virginia,Brooke County,6,9,WV
+54005,54,5,West Virginia,Boone County,54011,54.0,11.0,West Virginia,Cabell County,23,24,WV
+54011,54,11,West Virginia,Cabell County,54011,54.0,11.0,West Virginia,Cabell County,29966,961,WV
+54021,54,21,West Virginia,Gilmer County,54011,54.0,11.0,West Virginia,Cabell County,12,15,WV
+54035,54,35,West Virginia,Jackson County,54011,54.0,11.0,West Virginia,Cabell County,6,9,WV
+54039,54,39,West Virginia,Kanawha County,54011,54.0,11.0,West Virginia,Cabell County,677,177,WV
+54043,54,43,West Virginia,Lincoln County,54011,54.0,11.0,West Virginia,Cabell County,819,227,WV
+54045,54,45,West Virginia,Logan County,54011,54.0,11.0,West Virginia,Cabell County,15,21,WV
+54053,54,53,West Virginia,Mason County,54011,54.0,11.0,West Virginia,Cabell County,699,195,WV
+54055,54,55,West Virginia,Mercer County,54011,54.0,11.0,West Virginia,Cabell County,11,13,WV
+54059,54,59,West Virginia,Mingo County,54011,54.0,11.0,West Virginia,Cabell County,20,21,WV
+54061,54,61,West Virginia,Monongalia County,54011,54.0,11.0,West Virginia,Cabell County,40,63,WV
+54063,54,63,West Virginia,Monroe County,54011,54.0,11.0,West Virginia,Cabell County,2,5,WV
+54067,54,67,West Virginia,Nicholas County,54011,54.0,11.0,West Virginia,Cabell County,5,8,WV
+54079,54,79,West Virginia,Putnam County,54011,54.0,11.0,West Virginia,Cabell County,1802,280,WV
+54081,54,81,West Virginia,Raleigh County,54011,54.0,11.0,West Virginia,Cabell County,14,22,WV
+54087,54,87,West Virginia,Roane County,54011,54.0,11.0,West Virginia,Cabell County,18,27,WV
+54089,54,89,West Virginia,Summers County,54011,54.0,11.0,West Virginia,Cabell County,8,13,WV
+54097,54,97,West Virginia,Upshur County,54011,54.0,11.0,West Virginia,Cabell County,30,48,WV
+54099,54,99,West Virginia,Wayne County,54011,54.0,11.0,West Virginia,Cabell County,5908,508,WV
+54107,54,107,West Virginia,Wood County,54011,54.0,11.0,West Virginia,Cabell County,44,65,WV
+54007,54,7,West Virginia,Braxton County,54013,54.0,13.0,West Virginia,Calhoun County,32,30,WV
+54011,54,11,West Virginia,Cabell County,54013,54.0,13.0,West Virginia,Calhoun County,50,65,WV
+54013,54,13,West Virginia,Calhoun County,54013,54.0,13.0,West Virginia,Calhoun County,1290,229,WV
+54015,54,15,West Virginia,Clay County,54013,54.0,13.0,West Virginia,Calhoun County,39,55,WV
+54019,54,19,West Virginia,Fayette County,54013,54.0,13.0,West Virginia,Calhoun County,2,3,WV
+54021,54,21,West Virginia,Gilmer County,54013,54.0,13.0,West Virginia,Calhoun County,75,60,WV
+54085,54,85,West Virginia,Ritchie County,54013,54.0,13.0,West Virginia,Calhoun County,50,46,WV
+54087,54,87,West Virginia,Roane County,54013,54.0,13.0,West Virginia,Calhoun County,7,10,WV
+54099,54,99,West Virginia,Wayne County,54013,54.0,13.0,West Virginia,Calhoun County,31,45,WV
+54105,54,105,West Virginia,Wirt County,54013,54.0,13.0,West Virginia,Calhoun County,53,67,WV
+54107,54,107,West Virginia,Wood County,54013,54.0,13.0,West Virginia,Calhoun County,69,61,WV
+54007,54,7,West Virginia,Braxton County,54015,54.0,15.0,West Virginia,Clay County,83,55,WV
+54013,54,13,West Virginia,Calhoun County,54015,54.0,15.0,West Virginia,Clay County,23,24,WV
+54015,54,15,West Virginia,Clay County,54015,54.0,15.0,West Virginia,Clay County,1294,243,WV
+54033,54,33,West Virginia,Harrison County,54015,54.0,15.0,West Virginia,Clay County,26,42,WV
+54039,54,39,West Virginia,Kanawha County,54015,54.0,15.0,West Virginia,Clay County,42,38,WV
+54067,54,67,West Virginia,Nicholas County,54015,54.0,15.0,West Virginia,Clay County,136,94,WV
+54087,54,87,West Virginia,Roane County,54015,54.0,15.0,West Virginia,Clay County,28,17,WV
+54095,54,95,West Virginia,Tyler County,54015,54.0,15.0,West Virginia,Clay County,6,9,WV
+54101,54,101,West Virginia,Webster County,54015,54.0,15.0,West Virginia,Clay County,11,12,WV
+54017,54,17,West Virginia,Doddridge County,54017,54.0,17.0,West Virginia,Doddridge County,986,169,WV
+54021,54,21,West Virginia,Gilmer County,54017,54.0,17.0,West Virginia,Doddridge County,23,21,WV
+54031,54,31,West Virginia,Hardy County,54017,54.0,17.0,West Virginia,Doddridge County,8,12,WV
+54033,54,33,West Virginia,Harrison County,54017,54.0,17.0,West Virginia,Doddridge County,170,62,WV
+54039,54,39,West Virginia,Kanawha County,54017,54.0,17.0,West Virginia,Doddridge County,59,58,WV
+54041,54,41,West Virginia,Lewis County,54017,54.0,17.0,West Virginia,Doddridge County,32,27,WV
+54043,54,43,West Virginia,Lincoln County,54017,54.0,17.0,West Virginia,Doddridge County,7,14,WV
+54049,54,49,West Virginia,Marion County,54017,54.0,17.0,West Virginia,Doddridge County,23,25,WV
+54055,54,55,West Virginia,Mercer County,54017,54.0,17.0,West Virginia,Doddridge County,16,26,WV
+54061,54,61,West Virginia,Monongalia County,54017,54.0,17.0,West Virginia,Doddridge County,23,26,WV
+54073,54,73,West Virginia,Pleasants County,54017,54.0,17.0,West Virginia,Doddridge County,20,22,WV
+54085,54,85,West Virginia,Ritchie County,54017,54.0,17.0,West Virginia,Doddridge County,139,65,WV
+54091,54,91,West Virginia,Taylor County,54017,54.0,17.0,West Virginia,Doddridge County,8,12,WV
+54095,54,95,West Virginia,Tyler County,54017,54.0,17.0,West Virginia,Doddridge County,14,13,WV
+54107,54,107,West Virginia,Wood County,54017,54.0,17.0,West Virginia,Doddridge County,24,21,WV
+54005,54,5,West Virginia,Boone County,54019,54.0,19.0,West Virginia,Fayette County,66,59,WV
+54007,54,7,West Virginia,Braxton County,54019,54.0,19.0,West Virginia,Fayette County,11,13,WV
+54015,54,15,West Virginia,Clay County,54019,54.0,19.0,West Virginia,Fayette County,140,70,WV
+54019,54,19,West Virginia,Fayette County,54019,54.0,19.0,West Virginia,Fayette County,8642,519,WV
+54021,54,21,West Virginia,Gilmer County,54019,54.0,19.0,West Virginia,Fayette County,7,9,WV
+54025,54,25,West Virginia,Greenbrier County,54019,54.0,19.0,West Virginia,Fayette County,38,25,WV
+54035,54,35,West Virginia,Jackson County,54019,54.0,19.0,West Virginia,Fayette County,34,53,WV
+54039,54,39,West Virginia,Kanawha County,54019,54.0,19.0,West Virginia,Fayette County,768,180,WV
+54045,54,45,West Virginia,Logan County,54019,54.0,19.0,West Virginia,Fayette County,6,9,WV
+54055,54,55,West Virginia,Mercer County,54019,54.0,19.0,West Virginia,Fayette County,39,36,WV
+54059,54,59,West Virginia,Mingo County,54019,54.0,19.0,West Virginia,Fayette County,14,23,WV
+54061,54,61,West Virginia,Monongalia County,54019,54.0,19.0,West Virginia,Fayette County,7,11,WV
+54063,54,63,West Virginia,Monroe County,54019,54.0,19.0,West Virginia,Fayette County,18,29,WV
+54067,54,67,West Virginia,Nicholas County,54019,54.0,19.0,West Virginia,Fayette County,478,141,WV
+54073,54,73,West Virginia,Pleasants County,54019,54.0,19.0,West Virginia,Fayette County,6,9,WV
+54075,54,75,West Virginia,Pocahontas County,54019,54.0,19.0,West Virginia,Fayette County,8,12,WV
+54079,54,79,West Virginia,Putnam County,54019,54.0,19.0,West Virginia,Fayette County,3,5,WV
+54081,54,81,West Virginia,Raleigh County,54019,54.0,19.0,West Virginia,Fayette County,1000,248,WV
+54087,54,87,West Virginia,Roane County,54019,54.0,19.0,West Virginia,Fayette County,16,15,WV
+54089,54,89,West Virginia,Summers County,54019,54.0,19.0,West Virginia,Fayette County,111,65,WV
+54101,54,101,West Virginia,Webster County,54019,54.0,19.0,West Virginia,Fayette County,3,6,WV
+54109,54,109,West Virginia,Wyoming County,54019,54.0,19.0,West Virginia,Fayette County,68,50,WV
+54003,54,3,West Virginia,Berkeley County,54021,54.0,21.0,West Virginia,Gilmer County,59,93,WV
+54007,54,7,West Virginia,Braxton County,54021,54.0,21.0,West Virginia,Gilmer County,235,96,WV
+54013,54,13,West Virginia,Calhoun County,54021,54.0,21.0,West Virginia,Gilmer County,127,57,WV
+54015,54,15,West Virginia,Clay County,54021,54.0,21.0,West Virginia,Gilmer County,18,22,WV
+54019,54,19,West Virginia,Fayette County,54021,54.0,21.0,West Virginia,Gilmer County,31,36,WV
+54021,54,21,West Virginia,Gilmer County,54021,54.0,21.0,West Virginia,Gilmer County,1860,280,WV
+54033,54,33,West Virginia,Harrison County,54021,54.0,21.0,West Virginia,Gilmer County,113,77,WV
+54035,54,35,West Virginia,Jackson County,54021,54.0,21.0,West Virginia,Gilmer County,12,21,WV
+54041,54,41,West Virginia,Lewis County,54021,54.0,21.0,West Virginia,Gilmer County,58,43,WV
+54067,54,67,West Virginia,Nicholas County,54021,54.0,21.0,West Virginia,Gilmer County,88,89,WV
+54071,54,71,West Virginia,Pendleton County,54021,54.0,21.0,West Virginia,Gilmer County,7,11,WV
+54085,54,85,West Virginia,Ritchie County,54021,54.0,21.0,West Virginia,Gilmer County,50,41,WV
+54087,54,87,West Virginia,Roane County,54021,54.0,21.0,West Virginia,Gilmer County,15,16,WV
+54097,54,97,West Virginia,Upshur County,54021,54.0,21.0,West Virginia,Gilmer County,94,54,WV
+54101,54,101,West Virginia,Webster County,54021,54.0,21.0,West Virginia,Gilmer County,6,9,WV
+54105,54,105,West Virginia,Wirt County,54021,54.0,21.0,West Virginia,Gilmer County,2,5,WV
+54107,54,107,West Virginia,Wood County,54021,54.0,21.0,West Virginia,Gilmer County,12,20,WV
+54001,54,1,West Virginia,Barbour County,54023,54.0,23.0,West Virginia,Grant County,16,21,WV
+54023,54,23,West Virginia,Grant County,54023,54.0,23.0,West Virginia,Grant County,3065,321,WV
+54027,54,27,West Virginia,Hampshire County,54023,54.0,23.0,West Virginia,Grant County,29,28,WV
+54031,54,31,West Virginia,Hardy County,54023,54.0,23.0,West Virginia,Grant County,346,111,WV
+54041,54,41,West Virginia,Lewis County,54023,54.0,23.0,West Virginia,Grant County,9,14,WV
+54057,54,57,West Virginia,Mineral County,54023,54.0,23.0,West Virginia,Grant County,155,92,WV
+54071,54,71,West Virginia,Pendleton County,54023,54.0,23.0,West Virginia,Grant County,145,47,WV
+54075,54,75,West Virginia,Pocahontas County,54023,54.0,23.0,West Virginia,Grant County,15,23,WV
+54077,54,77,West Virginia,Preston County,54023,54.0,23.0,West Virginia,Grant County,75,78,WV
+54083,54,83,West Virginia,Randolph County,54023,54.0,23.0,West Virginia,Grant County,59,55,WV
+54089,54,89,West Virginia,Summers County,54023,54.0,23.0,West Virginia,Grant County,3,7,WV
+54093,54,93,West Virginia,Tucker County,54023,54.0,23.0,West Virginia,Grant County,88,42,WV
+54003,54,3,West Virginia,Berkeley County,54025,54.0,25.0,West Virginia,Greenbrier County,10,16,WV
+54011,54,11,West Virginia,Cabell County,54025,54.0,25.0,West Virginia,Greenbrier County,8,12,WV
+54015,54,15,West Virginia,Clay County,54025,54.0,25.0,West Virginia,Greenbrier County,29,43,WV
+54019,54,19,West Virginia,Fayette County,54025,54.0,25.0,West Virginia,Greenbrier County,304,105,WV
+54025,54,25,West Virginia,Greenbrier County,54025,54.0,25.0,West Virginia,Greenbrier County,11721,621,WV
+54055,54,55,West Virginia,Mercer County,54025,54.0,25.0,West Virginia,Greenbrier County,4,8,WV
+54063,54,63,West Virginia,Monroe County,54025,54.0,25.0,West Virginia,Greenbrier County,1185,234,WV
+54067,54,67,West Virginia,Nicholas County,54025,54.0,25.0,West Virginia,Greenbrier County,264,118,WV
+54075,54,75,West Virginia,Pocahontas County,54025,54.0,25.0,West Virginia,Greenbrier County,212,65,WV
+54081,54,81,West Virginia,Raleigh County,54025,54.0,25.0,West Virginia,Greenbrier County,199,117,WV
+54089,54,89,West Virginia,Summers County,54025,54.0,25.0,West Virginia,Greenbrier County,705,198,WV
+54101,54,101,West Virginia,Webster County,54025,54.0,25.0,West Virginia,Greenbrier County,62,36,WV
+54003,54,3,West Virginia,Berkeley County,54027,54.0,27.0,West Virginia,Hampshire County,17,29,WV
+54023,54,23,West Virginia,Grant County,54027,54.0,27.0,West Virginia,Hampshire County,27,31,WV
+54027,54,27,West Virginia,Hampshire County,54027,54.0,27.0,West Virginia,Hampshire County,3742,429,WV
+54031,54,31,West Virginia,Hardy County,54027,54.0,27.0,West Virginia,Hampshire County,184,92,WV
+54049,54,49,West Virginia,Marion County,54027,54.0,27.0,West Virginia,Hampshire County,14,17,WV
+54057,54,57,West Virginia,Mineral County,54027,54.0,27.0,West Virginia,Hampshire County,291,102,WV
+54065,54,65,West Virginia,Morgan County,54027,54.0,27.0,West Virginia,Hampshire County,16,22,WV
+54071,54,71,West Virginia,Pendleton County,54027,54.0,27.0,West Virginia,Hampshire County,13,15,WV
+54083,54,83,West Virginia,Randolph County,54027,54.0,27.0,West Virginia,Hampshire County,9,15,WV
+54091,54,91,West Virginia,Taylor County,54027,54.0,27.0,West Virginia,Hampshire County,12,18,WV
+54009,54,9,West Virginia,Brooke County,54029,54.0,29.0,West Virginia,Hancock County,1242,212,WV
+54029,54,29,West Virginia,Hancock County,54029,54.0,29.0,West Virginia,Hancock County,6378,482,WV
+54033,54,33,West Virginia,Harrison County,54029,54.0,29.0,West Virginia,Hancock County,3,4,WV
+54049,54,49,West Virginia,Marion County,54029,54.0,29.0,West Virginia,Hancock County,8,12,WV
+54051,54,51,West Virginia,Marshall County,54029,54.0,29.0,West Virginia,Hancock County,6,9,WV
+54055,54,55,West Virginia,Mercer County,54029,54.0,29.0,West Virginia,Hancock County,4,6,WV
+54061,54,61,West Virginia,Monongalia County,54029,54.0,29.0,West Virginia,Hancock County,16,23,WV
+54069,54,69,West Virginia,Ohio County,54029,54.0,29.0,West Virginia,Hancock County,158,72,WV
+54079,54,79,West Virginia,Putnam County,54029,54.0,29.0,West Virginia,Hancock County,13,21,WV
+54095,54,95,West Virginia,Tyler County,54029,54.0,29.0,West Virginia,Hancock County,3,4,WV
+54107,54,107,West Virginia,Wood County,54029,54.0,29.0,West Virginia,Hancock County,9,15,WV
+54003,54,3,West Virginia,Berkeley County,54031,54.0,31.0,West Virginia,Hardy County,52,82,WV
+54023,54,23,West Virginia,Grant County,54031,54.0,31.0,West Virginia,Hardy County,952,215,WV
+54027,54,27,West Virginia,Hampshire County,54031,54.0,31.0,West Virginia,Hardy County,513,156,WV
+54031,54,31,West Virginia,Hardy County,54031,54.0,31.0,West Virginia,Hardy County,3989,348,WV
+54037,54,37,West Virginia,Jefferson County,54031,54.0,31.0,West Virginia,Hardy County,3,8,WV
+54057,54,57,West Virginia,Mineral County,54031,54.0,31.0,West Virginia,Hardy County,229,99,WV
+54067,54,67,West Virginia,Nicholas County,54031,54.0,31.0,West Virginia,Hardy County,13,15,WV
+54069,54,69,West Virginia,Ohio County,54031,54.0,31.0,West Virginia,Hardy County,2,3,WV
+54071,54,71,West Virginia,Pendleton County,54031,54.0,31.0,West Virginia,Hardy County,108,64,WV
+54001,54,1,West Virginia,Barbour County,54033,54.0,33.0,West Virginia,Harrison County,974,178,WV
+54003,54,3,West Virginia,Berkeley County,54033,54.0,33.0,West Virginia,Harrison County,17,26,WV
+54007,54,7,West Virginia,Braxton County,54033,54.0,33.0,West Virginia,Harrison County,94,67,WV
+54013,54,13,West Virginia,Calhoun County,54033,54.0,33.0,West Virginia,Harrison County,61,49,WV
+54015,54,15,West Virginia,Clay County,54033,54.0,33.0,West Virginia,Harrison County,30,39,WV
+54017,54,17,West Virginia,Doddridge County,54033,54.0,33.0,West Virginia,Harrison County,1112,202,WV
+54021,54,21,West Virginia,Gilmer County,54033,54.0,33.0,West Virginia,Harrison County,56,45,WV
+54023,54,23,West Virginia,Grant County,54033,54.0,33.0,West Virginia,Harrison County,16,18,WV
+54025,54,25,West Virginia,Greenbrier County,54033,54.0,33.0,West Virginia,Harrison County,12,17,WV
+54033,54,33,West Virginia,Harrison County,54033,54.0,33.0,West Virginia,Harrison County,23798,635,WV
+54035,54,35,West Virginia,Jackson County,54033,54.0,33.0,West Virginia,Harrison County,13,21,WV
+54039,54,39,West Virginia,Kanawha County,54033,54.0,33.0,West Virginia,Harrison County,66,45,WV
+54041,54,41,West Virginia,Lewis County,54033,54.0,33.0,West Virginia,Harrison County,926,158,WV
+54049,54,49,West Virginia,Marion County,54033,54.0,33.0,West Virginia,Harrison County,3903,433,WV
+54061,54,61,West Virginia,Monongalia County,54033,54.0,33.0,West Virginia,Harrison County,917,219,WV
+54063,54,63,West Virginia,Monroe County,54033,54.0,33.0,West Virginia,Harrison County,31,51,WV
+54067,54,67,West Virginia,Nicholas County,54033,54.0,33.0,West Virginia,Harrison County,40,53,WV
+54069,54,69,West Virginia,Ohio County,54033,54.0,33.0,West Virginia,Harrison County,8,12,WV
+54073,54,73,West Virginia,Pleasants County,54033,54.0,33.0,West Virginia,Harrison County,5,9,WV
+54077,54,77,West Virginia,Preston County,54033,54.0,33.0,West Virginia,Harrison County,296,95,WV
+54083,54,83,West Virginia,Randolph County,54033,54.0,33.0,West Virginia,Harrison County,179,68,WV
+54085,54,85,West Virginia,Ritchie County,54033,54.0,33.0,West Virginia,Harrison County,209,82,WV
+54087,54,87,West Virginia,Roane County,54033,54.0,33.0,West Virginia,Harrison County,23,25,WV
+54091,54,91,West Virginia,Taylor County,54033,54.0,33.0,West Virginia,Harrison County,2118,241,WV
+54093,54,93,West Virginia,Tucker County,54033,54.0,33.0,West Virginia,Harrison County,59,47,WV
+54095,54,95,West Virginia,Tyler County,54033,54.0,33.0,West Virginia,Harrison County,100,48,WV
+54097,54,97,West Virginia,Upshur County,54033,54.0,33.0,West Virginia,Harrison County,618,152,WV
+54099,54,99,West Virginia,Wayne County,54033,54.0,33.0,West Virginia,Harrison County,15,23,WV
+54101,54,101,West Virginia,Webster County,54033,54.0,33.0,West Virginia,Harrison County,8,13,WV
+54103,54,103,West Virginia,Wetzel County,54033,54.0,33.0,West Virginia,Harrison County,169,56,WV
+54105,54,105,West Virginia,Wirt County,54033,54.0,33.0,West Virginia,Harrison County,29,44,WV
+54107,54,107,West Virginia,Wood County,54033,54.0,33.0,West Virginia,Harrison County,35,30,WV
+54017,54,17,West Virginia,Doddridge County,54035,54.0,35.0,West Virginia,Jackson County,14,14,WV
+54033,54,33,West Virginia,Harrison County,54035,54.0,35.0,West Virginia,Jackson County,9,16,WV
+54035,54,35,West Virginia,Jackson County,54035,54.0,35.0,West Virginia,Jackson County,6150,595,WV
+54039,54,39,West Virginia,Kanawha County,54035,54.0,35.0,West Virginia,Jackson County,195,113,WV
+54053,54,53,West Virginia,Mason County,54035,54.0,35.0,West Virginia,Jackson County,345,128,WV
+54073,54,73,West Virginia,Pleasants County,54035,54.0,35.0,West Virginia,Jackson County,24,23,WV
+54079,54,79,West Virginia,Putnam County,54035,54.0,35.0,West Virginia,Jackson County,187,103,WV
+54081,54,81,West Virginia,Raleigh County,54035,54.0,35.0,West Virginia,Jackson County,13,21,WV
+54085,54,85,West Virginia,Ritchie County,54035,54.0,35.0,West Virginia,Jackson County,17,22,WV
+54087,54,87,West Virginia,Roane County,54035,54.0,35.0,West Virginia,Jackson County,252,119,WV
+54103,54,103,West Virginia,Wetzel County,54035,54.0,35.0,West Virginia,Jackson County,4,7,WV
+54105,54,105,West Virginia,Wirt County,54035,54.0,35.0,West Virginia,Jackson County,44,43,WV
+54107,54,107,West Virginia,Wood County,54035,54.0,35.0,West Virginia,Jackson County,512,152,WV
+54003,54,3,West Virginia,Berkeley County,54037,54.0,37.0,West Virginia,Jefferson County,4013,459,WV
+54027,54,27,West Virginia,Hampshire County,54037,54.0,37.0,West Virginia,Jefferson County,16,27,WV
+54037,54,37,West Virginia,Jefferson County,54037,54.0,37.0,West Virginia,Jefferson County,11227,502,WV
+54039,54,39,West Virginia,Kanawha County,54037,54.0,37.0,West Virginia,Jefferson County,4,5,WV
+54065,54,65,West Virginia,Morgan County,54037,54.0,37.0,West Virginia,Jefferson County,73,50,WV
+54081,54,81,West Virginia,Raleigh County,54037,54.0,37.0,West Virginia,Jefferson County,7,12,WV
+54083,54,83,West Virginia,Randolph County,54037,54.0,37.0,West Virginia,Jefferson County,1,3,WV
+54005,54,5,West Virginia,Boone County,54039,54.0,39.0,West Virginia,Kanawha County,1890,299,WV
+54007,54,7,West Virginia,Braxton County,54039,54.0,39.0,West Virginia,Kanawha County,310,89,WV
+54009,54,9,West Virginia,Brooke County,54039,54.0,39.0,West Virginia,Kanawha County,17,23,WV
+54011,54,11,West Virginia,Cabell County,54039,54.0,39.0,West Virginia,Kanawha County,1994,320,WV
+54013,54,13,West Virginia,Calhoun County,54039,54.0,39.0,West Virginia,Kanawha County,107,64,WV
+54015,54,15,West Virginia,Clay County,54039,54.0,39.0,West Virginia,Kanawha County,707,156,WV
+54019,54,19,West Virginia,Fayette County,54039,54.0,39.0,West Virginia,Kanawha County,1828,253,WV
+54021,54,21,West Virginia,Gilmer County,54039,54.0,39.0,West Virginia,Kanawha County,32,25,WV
+54025,54,25,West Virginia,Greenbrier County,54039,54.0,39.0,West Virginia,Kanawha County,46,39,WV
+54029,54,29,West Virginia,Hancock County,54039,54.0,39.0,West Virginia,Kanawha County,5,9,WV
+54031,54,31,West Virginia,Hardy County,54039,54.0,39.0,West Virginia,Kanawha County,4,8,WV
+54033,54,33,West Virginia,Harrison County,54039,54.0,39.0,West Virginia,Kanawha County,78,75,WV
+54035,54,35,West Virginia,Jackson County,54039,54.0,39.0,West Virginia,Kanawha County,2812,478,WV
+54037,54,37,West Virginia,Jefferson County,54039,54.0,39.0,West Virginia,Kanawha County,6,11,WV
+54039,54,39,West Virginia,Kanawha County,54039,54.0,39.0,West Virginia,Kanawha County,73747,1186,WV
+54041,54,41,West Virginia,Lewis County,54039,54.0,39.0,West Virginia,Kanawha County,108,70,WV
+54043,54,43,West Virginia,Lincoln County,54039,54.0,39.0,West Virginia,Kanawha County,1966,320,WV
+54045,54,45,West Virginia,Logan County,54039,54.0,39.0,West Virginia,Kanawha County,643,161,WV
+54047,54,47,West Virginia,McDowell County,54039,54.0,39.0,West Virginia,Kanawha County,20,24,WV
+54049,54,49,West Virginia,Marion County,54039,54.0,39.0,West Virginia,Kanawha County,78,69,WV
+54051,54,51,West Virginia,Marshall County,54039,54.0,39.0,West Virginia,Kanawha County,36,44,WV
+54053,54,53,West Virginia,Mason County,54039,54.0,39.0,West Virginia,Kanawha County,601,235,WV
+54055,54,55,West Virginia,Mercer County,54039,54.0,39.0,West Virginia,Kanawha County,99,80,WV
+54059,54,59,West Virginia,Mingo County,54039,54.0,39.0,West Virginia,Kanawha County,156,71,WV
+54061,54,61,West Virginia,Monongalia County,54039,54.0,39.0,West Virginia,Kanawha County,31,26,WV
+54063,54,63,West Virginia,Monroe County,54039,54.0,39.0,West Virginia,Kanawha County,12,20,WV
+54065,54,65,West Virginia,Morgan County,54039,54.0,39.0,West Virginia,Kanawha County,12,20,WV
+54067,54,67,West Virginia,Nicholas County,54039,54.0,39.0,West Virginia,Kanawha County,276,108,WV
+54069,54,69,West Virginia,Ohio County,54039,54.0,39.0,West Virginia,Kanawha County,37,32,WV
+54077,54,77,West Virginia,Preston County,54039,54.0,39.0,West Virginia,Kanawha County,32,27,WV
+54079,54,79,West Virginia,Putnam County,54039,54.0,39.0,West Virginia,Kanawha County,9932,517,WV
+54081,54,81,West Virginia,Raleigh County,54039,54.0,39.0,West Virginia,Kanawha County,788,188,WV
+54083,54,83,West Virginia,Randolph County,54039,54.0,39.0,West Virginia,Kanawha County,43,35,WV
+54085,54,85,West Virginia,Ritchie County,54039,54.0,39.0,West Virginia,Kanawha County,19,20,WV
+54087,54,87,West Virginia,Roane County,54039,54.0,39.0,West Virginia,Kanawha County,1084,200,WV
+54089,54,89,West Virginia,Summers County,54039,54.0,39.0,West Virginia,Kanawha County,80,66,WV
+54091,54,91,West Virginia,Taylor County,54039,54.0,39.0,West Virginia,Kanawha County,10,15,WV
+54093,54,93,West Virginia,Tucker County,54039,54.0,39.0,West Virginia,Kanawha County,4,7,WV
+54095,54,95,West Virginia,Tyler County,54039,54.0,39.0,West Virginia,Kanawha County,22,27,WV
+54097,54,97,West Virginia,Upshur County,54039,54.0,39.0,West Virginia,Kanawha County,50,36,WV
+54099,54,99,West Virginia,Wayne County,54039,54.0,39.0,West Virginia,Kanawha County,167,105,WV
+54101,54,101,West Virginia,Webster County,54039,54.0,39.0,West Virginia,Kanawha County,31,46,WV
+54103,54,103,West Virginia,Wetzel County,54039,54.0,39.0,West Virginia,Kanawha County,19,23,WV
+54105,54,105,West Virginia,Wirt County,54039,54.0,39.0,West Virginia,Kanawha County,4,7,WV
+54107,54,107,West Virginia,Wood County,54039,54.0,39.0,West Virginia,Kanawha County,212,143,WV
+54109,54,109,West Virginia,Wyoming County,54039,54.0,39.0,West Virginia,Kanawha County,48,42,WV
+54001,54,1,West Virginia,Barbour County,54041,54.0,41.0,West Virginia,Lewis County,113,58,WV
+54007,54,7,West Virginia,Braxton County,54041,54.0,41.0,West Virginia,Lewis County,221,104,WV
+54015,54,15,West Virginia,Clay County,54041,54.0,41.0,West Virginia,Lewis County,15,17,WV
+54017,54,17,West Virginia,Doddridge County,54041,54.0,41.0,West Virginia,Lewis County,93,63,WV
+54019,54,19,West Virginia,Fayette County,54041,54.0,41.0,West Virginia,Lewis County,32,43,WV
+54021,54,21,West Virginia,Gilmer County,54041,54.0,41.0,West Virginia,Lewis County,234,88,WV
+54033,54,33,West Virginia,Harrison County,54041,54.0,41.0,West Virginia,Lewis County,752,189,WV
+54035,54,35,West Virginia,Jackson County,54041,54.0,41.0,West Virginia,Lewis County,6,10,WV
+54041,54,41,West Virginia,Lewis County,54041,54.0,41.0,West Virginia,Lewis County,4120,322,WV
+54047,54,47,West Virginia,McDowell County,54041,54.0,41.0,West Virginia,Lewis County,2,4,WV
+54049,54,49,West Virginia,Marion County,54041,54.0,41.0,West Virginia,Lewis County,6,8,WV
+54055,54,55,West Virginia,Mercer County,54041,54.0,41.0,West Virginia,Lewis County,8,12,WV
+54061,54,61,West Virginia,Monongalia County,54041,54.0,41.0,West Virginia,Lewis County,66,54,WV
+54063,54,63,West Virginia,Monroe County,54041,54.0,41.0,West Virginia,Lewis County,25,44,WV
+54067,54,67,West Virginia,Nicholas County,54041,54.0,41.0,West Virginia,Lewis County,37,58,WV
+54075,54,75,West Virginia,Pocahontas County,54041,54.0,41.0,West Virginia,Lewis County,11,12,WV
+54083,54,83,West Virginia,Randolph County,54041,54.0,41.0,West Virginia,Lewis County,44,30,WV
+54085,54,85,West Virginia,Ritchie County,54041,54.0,41.0,West Virginia,Lewis County,2,4,WV
+54087,54,87,West Virginia,Roane County,54041,54.0,41.0,West Virginia,Lewis County,10,11,WV
+54091,54,91,West Virginia,Taylor County,54041,54.0,41.0,West Virginia,Lewis County,75,55,WV
+54095,54,95,West Virginia,Tyler County,54041,54.0,41.0,West Virginia,Lewis County,23,36,WV
+54097,54,97,West Virginia,Upshur County,54041,54.0,41.0,West Virginia,Lewis County,658,169,WV
+54101,54,101,West Virginia,Webster County,54041,54.0,41.0,West Virginia,Lewis County,21,18,WV
+54005,54,5,West Virginia,Boone County,54043,54.0,43.0,West Virginia,Lincoln County,36,43,WV
+54011,54,11,West Virginia,Cabell County,54043,54.0,43.0,West Virginia,Lincoln County,227,126,WV
+54039,54,39,West Virginia,Kanawha County,54043,54.0,43.0,West Virginia,Lincoln County,212,144,WV
+54043,54,43,West Virginia,Lincoln County,54043,54.0,43.0,West Virginia,Lincoln County,2441,336,WV
+54045,54,45,West Virginia,Logan County,54043,54.0,43.0,West Virginia,Lincoln County,64,50,WV
+54049,54,49,West Virginia,Marion County,54043,54.0,43.0,West Virginia,Lincoln County,15,24,WV
+54059,54,59,West Virginia,Mingo County,54043,54.0,43.0,West Virginia,Lincoln County,9,15,WV
+54079,54,79,West Virginia,Putnam County,54043,54.0,43.0,West Virginia,Lincoln County,36,36,WV
+54005,54,5,West Virginia,Boone County,54045,54.0,45.0,West Virginia,Logan County,610,172,WV
+54007,54,7,West Virginia,Braxton County,54045,54.0,45.0,West Virginia,Logan County,3,5,WV
+54011,54,11,West Virginia,Cabell County,54045,54.0,45.0,West Virginia,Logan County,8,12,WV
+54015,54,15,West Virginia,Clay County,54045,54.0,45.0,West Virginia,Logan County,44,37,WV
+54035,54,35,West Virginia,Jackson County,54045,54.0,45.0,West Virginia,Logan County,72,79,WV
+54039,54,39,West Virginia,Kanawha County,54045,54.0,45.0,West Virginia,Logan County,258,126,WV
+54043,54,43,West Virginia,Lincoln County,54045,54.0,45.0,West Virginia,Logan County,429,165,WV
+54045,54,45,West Virginia,Logan County,54045,54.0,45.0,West Virginia,Logan County,8804,530,WV
+54047,54,47,West Virginia,McDowell County,54045,54.0,45.0,West Virginia,Logan County,15,16,WV
+54053,54,53,West Virginia,Mason County,54045,54.0,45.0,West Virginia,Logan County,5,9,WV
+54059,54,59,West Virginia,Mingo County,54045,54.0,45.0,West Virginia,Logan County,1259,215,WV
+54077,54,77,West Virginia,Preston County,54045,54.0,45.0,West Virginia,Logan County,4,6,WV
+54079,54,79,West Virginia,Putnam County,54045,54.0,45.0,West Virginia,Logan County,23,24,WV
+54081,54,81,West Virginia,Raleigh County,54045,54.0,45.0,West Virginia,Logan County,32,40,WV
+54091,54,91,West Virginia,Taylor County,54045,54.0,45.0,West Virginia,Logan County,7,12,WV
+54099,54,99,West Virginia,Wayne County,54045,54.0,45.0,West Virginia,Logan County,7,12,WV
+54107,54,107,West Virginia,Wood County,54045,54.0,45.0,West Virginia,Logan County,11,18,WV
+54109,54,109,West Virginia,Wyoming County,54045,54.0,45.0,West Virginia,Logan County,357,136,WV
+54011,54,11,West Virginia,Cabell County,54047,54.0,47.0,West Virginia,McDowell County,11,17,WV
+54025,54,25,West Virginia,Greenbrier County,54047,54.0,47.0,West Virginia,McDowell County,21,33,WV
+54039,54,39,West Virginia,Kanawha County,54047,54.0,47.0,West Virginia,McDowell County,19,21,WV
+54045,54,45,West Virginia,Logan County,54047,54.0,47.0,West Virginia,McDowell County,49,56,WV
+54047,54,47,West Virginia,McDowell County,54047,54.0,47.0,West Virginia,McDowell County,3444,329,WV
+54055,54,55,West Virginia,Mercer County,54047,54.0,47.0,West Virginia,McDowell County,413,189,WV
+54059,54,59,West Virginia,Mingo County,54047,54.0,47.0,West Virginia,McDowell County,41,35,WV
+54063,54,63,West Virginia,Monroe County,54047,54.0,47.0,West Virginia,McDowell County,8,13,WV
+54081,54,81,West Virginia,Raleigh County,54047,54.0,47.0,West Virginia,McDowell County,130,74,WV
+54101,54,101,West Virginia,Webster County,54047,54.0,47.0,West Virginia,McDowell County,3,6,WV
+54109,54,109,West Virginia,Wyoming County,54047,54.0,47.0,West Virginia,McDowell County,286,143,WV
+54001,54,1,West Virginia,Barbour County,54049,54.0,49.0,West Virginia,Marion County,147,72,WV
+54009,54,9,West Virginia,Brooke County,54049,54.0,49.0,West Virginia,Marion County,5,9,WV
+54015,54,15,West Virginia,Clay County,54049,54.0,49.0,West Virginia,Marion County,5,8,WV
+54017,54,17,West Virginia,Doddridge County,54049,54.0,49.0,West Virginia,Marion County,5,7,WV
+54021,54,21,West Virginia,Gilmer County,54049,54.0,49.0,West Virginia,Marion County,2,3,WV
+54023,54,23,West Virginia,Grant County,54049,54.0,49.0,West Virginia,Marion County,22,24,WV
+54033,54,33,West Virginia,Harrison County,54049,54.0,49.0,West Virginia,Marion County,1414,228,WV
+54037,54,37,West Virginia,Jefferson County,54049,54.0,49.0,West Virginia,Marion County,6,12,WV
+54039,54,39,West Virginia,Kanawha County,54049,54.0,49.0,West Virginia,Marion County,30,36,WV
+54041,54,41,West Virginia,Lewis County,54049,54.0,49.0,West Virginia,Marion County,69,45,WV
+54049,54,49,West Virginia,Marion County,54049,54.0,49.0,West Virginia,Marion County,15428,685,WV
+54051,54,51,West Virginia,Marshall County,54049,54.0,49.0,West Virginia,Marion County,23,30,WV
+54061,54,61,West Virginia,Monongalia County,54049,54.0,49.0,West Virginia,Marion County,1655,303,WV
+54067,54,67,West Virginia,Nicholas County,54049,54.0,49.0,West Virginia,Marion County,14,24,WV
+54077,54,77,West Virginia,Preston County,54049,54.0,49.0,West Virginia,Marion County,175,68,WV
+54079,54,79,West Virginia,Putnam County,54049,54.0,49.0,West Virginia,Marion County,22,36,WV
+54083,54,83,West Virginia,Randolph County,54049,54.0,49.0,West Virginia,Marion County,29,27,WV
+54085,54,85,West Virginia,Ritchie County,54049,54.0,49.0,West Virginia,Marion County,15,24,WV
+54091,54,91,West Virginia,Taylor County,54049,54.0,49.0,West Virginia,Marion County,679,142,WV
+54093,54,93,West Virginia,Tucker County,54049,54.0,49.0,West Virginia,Marion County,59,41,WV
+54095,54,95,West Virginia,Tyler County,54049,54.0,49.0,West Virginia,Marion County,7,11,WV
+54097,54,97,West Virginia,Upshur County,54049,54.0,49.0,West Virginia,Marion County,63,39,WV
+54103,54,103,West Virginia,Wetzel County,54049,54.0,49.0,West Virginia,Marion County,92,57,WV
+54005,54,5,West Virginia,Boone County,54051,54.0,51.0,West Virginia,Marshall County,16,17,WV
+54009,54,9,West Virginia,Brooke County,54051,54.0,51.0,West Virginia,Marshall County,184,93,WV
+54013,54,13,West Virginia,Calhoun County,54051,54.0,51.0,West Virginia,Marshall County,22,26,WV
+54015,54,15,West Virginia,Clay County,54051,54.0,51.0,West Virginia,Marshall County,6,10,WV
+54019,54,19,West Virginia,Fayette County,54051,54.0,51.0,West Virginia,Marshall County,13,22,WV
+54021,54,21,West Virginia,Gilmer County,54051,54.0,51.0,West Virginia,Marshall County,9,18,WV
+54029,54,29,West Virginia,Hancock County,54051,54.0,51.0,West Virginia,Marshall County,135,87,WV
+54035,54,35,West Virginia,Jackson County,54051,54.0,51.0,West Virginia,Marshall County,44,58,WV
+54047,54,47,West Virginia,McDowell County,54051,54.0,51.0,West Virginia,Marshall County,3,4,WV
+54049,54,49,West Virginia,Marion County,54051,54.0,51.0,West Virginia,Marshall County,17,25,WV
+54051,54,51,West Virginia,Marshall County,54051,54.0,51.0,West Virginia,Marshall County,6786,425,WV
+54053,54,53,West Virginia,Mason County,54051,54.0,51.0,West Virginia,Marshall County,14,24,WV
+54061,54,61,West Virginia,Monongalia County,54051,54.0,51.0,West Virginia,Marshall County,20,22,WV
+54069,54,69,West Virginia,Ohio County,54051,54.0,51.0,West Virginia,Marshall County,1102,184,WV
+54073,54,73,West Virginia,Pleasants County,54051,54.0,51.0,West Virginia,Marshall County,9,15,WV
+54075,54,75,West Virginia,Pocahontas County,54051,54.0,51.0,West Virginia,Marshall County,10,15,WV
+54087,54,87,West Virginia,Roane County,54051,54.0,51.0,West Virginia,Marshall County,4,7,WV
+54095,54,95,West Virginia,Tyler County,54051,54.0,51.0,West Virginia,Marshall County,142,59,WV
+54097,54,97,West Virginia,Upshur County,54051,54.0,51.0,West Virginia,Marshall County,5,11,WV
+54103,54,103,West Virginia,Wetzel County,54051,54.0,51.0,West Virginia,Marshall County,399,124,WV
+54011,54,11,West Virginia,Cabell County,54053,54.0,53.0,West Virginia,Mason County,263,127,WV
+54025,54,25,West Virginia,Greenbrier County,54053,54.0,53.0,West Virginia,Mason County,13,20,WV
+54035,54,35,West Virginia,Jackson County,54053,54.0,53.0,West Virginia,Mason County,205,96,WV
+54039,54,39,West Virginia,Kanawha County,54053,54.0,53.0,West Virginia,Mason County,64,54,WV
+54043,54,43,West Virginia,Lincoln County,54053,54.0,53.0,West Virginia,Mason County,7,10,WV
+54053,54,53,West Virginia,Mason County,54053,54.0,53.0,West Virginia,Mason County,4633,472,WV
+54057,54,57,West Virginia,Mineral County,54053,54.0,53.0,West Virginia,Mason County,9,14,WV
+54079,54,79,West Virginia,Putnam County,54053,54.0,53.0,West Virginia,Mason County,130,95,WV
+54081,54,81,West Virginia,Raleigh County,54053,54.0,53.0,West Virginia,Mason County,18,20,WV
+54087,54,87,West Virginia,Roane County,54053,54.0,53.0,West Virginia,Mason County,14,18,WV
+54089,54,89,West Virginia,Summers County,54053,54.0,53.0,West Virginia,Mason County,12,17,WV
+54099,54,99,West Virginia,Wayne County,54053,54.0,53.0,West Virginia,Mason County,57,70,WV
+54107,54,107,West Virginia,Wood County,54053,54.0,53.0,West Virginia,Mason County,112,75,WV
+54011,54,11,West Virginia,Cabell County,54055,54.0,55.0,West Virginia,Mercer County,6,9,WV
+54019,54,19,West Virginia,Fayette County,54055,54.0,55.0,West Virginia,Mercer County,46,40,WV
+54025,54,25,West Virginia,Greenbrier County,54055,54.0,55.0,West Virginia,Mercer County,32,31,WV
+54039,54,39,West Virginia,Kanawha County,54055,54.0,55.0,West Virginia,Mercer County,99,77,WV
+54047,54,47,West Virginia,McDowell County,54055,54.0,55.0,West Virginia,Mercer County,198,70,WV
+54055,54,55,West Virginia,Mercer County,54055,54.0,55.0,West Virginia,Mercer County,17692,770,WV
+54059,54,59,West Virginia,Mingo County,54055,54.0,55.0,West Virginia,Mercer County,12,18,WV
+54061,54,61,West Virginia,Monongalia County,54055,54.0,55.0,West Virginia,Mercer County,7,15,WV
+54063,54,63,West Virginia,Monroe County,54055,54.0,55.0,West Virginia,Mercer County,434,132,WV
+54067,54,67,West Virginia,Nicholas County,54055,54.0,55.0,West Virginia,Mercer County,6,10,WV
+54081,54,81,West Virginia,Raleigh County,54055,54.0,55.0,West Virginia,Mercer County,226,102,WV
+54089,54,89,West Virginia,Summers County,54055,54.0,55.0,West Virginia,Mercer County,336,142,WV
+54107,54,107,West Virginia,Wood County,54055,54.0,55.0,West Virginia,Mercer County,8,9,WV
+54109,54,109,West Virginia,Wyoming County,54055,54.0,55.0,West Virginia,Mercer County,82,68,WV
+54023,54,23,West Virginia,Grant County,54057,54.0,57.0,West Virginia,Mineral County,156,70,WV
+54027,54,27,West Virginia,Hampshire County,54057,54.0,57.0,West Virginia,Mineral County,205,81,WV
+54031,54,31,West Virginia,Hardy County,54057,54.0,57.0,West Virginia,Mineral County,56,41,WV
+54033,54,33,West Virginia,Harrison County,54057,54.0,57.0,West Virginia,Mineral County,20,22,WV
+54049,54,49,West Virginia,Marion County,54057,54.0,57.0,West Virginia,Mineral County,34,43,WV
+54057,54,57,West Virginia,Mineral County,54057,54.0,57.0,West Virginia,Mineral County,5223,514,WV
+54083,54,83,West Virginia,Randolph County,54057,54.0,57.0,West Virginia,Mineral County,4,6,WV
+54093,54,93,West Virginia,Tucker County,54057,54.0,57.0,West Virginia,Mineral County,20,23,WV
+54005,54,5,West Virginia,Boone County,54059,54.0,59.0,West Virginia,Mingo County,60,55,WV
+54015,54,15,West Virginia,Clay County,54059,54.0,59.0,West Virginia,Mingo County,21,24,WV
+54039,54,39,West Virginia,Kanawha County,54059,54.0,59.0,West Virginia,Mingo County,70,41,WV
+54043,54,43,West Virginia,Lincoln County,54059,54.0,59.0,West Virginia,Mingo County,59,54,WV
+54045,54,45,West Virginia,Logan County,54059,54.0,59.0,West Virginia,Mingo County,339,131,WV
+54047,54,47,West Virginia,McDowell County,54059,54.0,59.0,West Virginia,Mingo County,77,39,WV
+54049,54,49,West Virginia,Marion County,54059,54.0,59.0,West Virginia,Mingo County,5,7,WV
+54055,54,55,West Virginia,Mercer County,54059,54.0,59.0,West Virginia,Mingo County,14,21,WV
+54059,54,59,West Virginia,Mingo County,54059,54.0,59.0,West Virginia,Mingo County,3768,342,WV
+54079,54,79,West Virginia,Putnam County,54059,54.0,59.0,West Virginia,Mingo County,12,20,WV
+54099,54,99,West Virginia,Wayne County,54059,54.0,59.0,West Virginia,Mingo County,255,107,WV
+54107,54,107,West Virginia,Wood County,54059,54.0,59.0,West Virginia,Mingo County,7,11,WV
+54109,54,109,West Virginia,Wyoming County,54059,54.0,59.0,West Virginia,Mingo County,221,73,WV
+54001,54,1,West Virginia,Barbour County,54061,54.0,61.0,West Virginia,Monongalia County,225,109,WV
+54003,54,3,West Virginia,Berkeley County,54061,54.0,61.0,West Virginia,Monongalia County,95,92,WV
+54007,54,7,West Virginia,Braxton County,54061,54.0,61.0,West Virginia,Monongalia County,21,31,WV
+54009,54,9,West Virginia,Brooke County,54061,54.0,61.0,West Virginia,Monongalia County,39,47,WV
+54011,54,11,West Virginia,Cabell County,54061,54.0,61.0,West Virginia,Monongalia County,12,19,WV
+54015,54,15,West Virginia,Clay County,54061,54.0,61.0,West Virginia,Monongalia County,18,21,WV
+54017,54,17,West Virginia,Doddridge County,54061,54.0,61.0,West Virginia,Monongalia County,20,20,WV
+54021,54,21,West Virginia,Gilmer County,54061,54.0,61.0,West Virginia,Monongalia County,2,5,WV
+54023,54,23,West Virginia,Grant County,54061,54.0,61.0,West Virginia,Monongalia County,22,24,WV
+54025,54,25,West Virginia,Greenbrier County,54061,54.0,61.0,West Virginia,Monongalia County,14,17,WV
+54027,54,27,West Virginia,Hampshire County,54061,54.0,61.0,West Virginia,Monongalia County,26,27,WV
+54029,54,29,West Virginia,Hancock County,54061,54.0,61.0,West Virginia,Monongalia County,7,12,WV
+54033,54,33,West Virginia,Harrison County,54061,54.0,61.0,West Virginia,Monongalia County,1229,220,WV
+54035,54,35,West Virginia,Jackson County,54061,54.0,61.0,West Virginia,Monongalia County,33,49,WV
+54037,54,37,West Virginia,Jefferson County,54061,54.0,61.0,West Virginia,Monongalia County,18,31,WV
+54039,54,39,West Virginia,Kanawha County,54061,54.0,61.0,West Virginia,Monongalia County,30,27,WV
+54041,54,41,West Virginia,Lewis County,54061,54.0,61.0,West Virginia,Monongalia County,43,32,WV
+54049,54,49,West Virginia,Marion County,54061,54.0,61.0,West Virginia,Monongalia County,4426,404,WV
+54051,54,51,West Virginia,Marshall County,54061,54.0,61.0,West Virginia,Monongalia County,44,63,WV
+54053,54,53,West Virginia,Mason County,54061,54.0,61.0,West Virginia,Monongalia County,14,29,WV
+54057,54,57,West Virginia,Mineral County,54061,54.0,61.0,West Virginia,Monongalia County,78,78,WV
+54061,54,61,West Virginia,Monongalia County,54061,54.0,61.0,West Virginia,Monongalia County,41541,1050,WV
+54065,54,65,West Virginia,Morgan County,54061,54.0,61.0,West Virginia,Monongalia County,4,6,WV
+54067,54,67,West Virginia,Nicholas County,54061,54.0,61.0,West Virginia,Monongalia County,29,32,WV
+54069,54,69,West Virginia,Ohio County,54061,54.0,61.0,West Virginia,Monongalia County,61,33,WV
+54073,54,73,West Virginia,Pleasants County,54061,54.0,61.0,West Virginia,Monongalia County,6,8,WV
+54077,54,77,West Virginia,Preston County,54061,54.0,61.0,West Virginia,Monongalia County,3925,473,WV
+54079,54,79,West Virginia,Putnam County,54061,54.0,61.0,West Virginia,Monongalia County,43,59,WV
+54083,54,83,West Virginia,Randolph County,54061,54.0,61.0,West Virginia,Monongalia County,130,83,WV
+54085,54,85,West Virginia,Ritchie County,54061,54.0,61.0,West Virginia,Monongalia County,2,3,WV
+54087,54,87,West Virginia,Roane County,54061,54.0,61.0,West Virginia,Monongalia County,6,9,WV
+54091,54,91,West Virginia,Taylor County,54061,54.0,61.0,West Virginia,Monongalia County,976,229,WV
+54093,54,93,West Virginia,Tucker County,54061,54.0,61.0,West Virginia,Monongalia County,32,22,WV
+54095,54,95,West Virginia,Tyler County,54061,54.0,61.0,West Virginia,Monongalia County,4,7,WV
+54097,54,97,West Virginia,Upshur County,54061,54.0,61.0,West Virginia,Monongalia County,68,53,WV
+54103,54,103,West Virginia,Wetzel County,54061,54.0,61.0,West Virginia,Monongalia County,154,70,WV
+54105,54,105,West Virginia,Wirt County,54061,54.0,61.0,West Virginia,Monongalia County,23,34,WV
+54107,54,107,West Virginia,Wood County,54061,54.0,61.0,West Virginia,Monongalia County,71,62,WV
+54109,54,109,West Virginia,Wyoming County,54061,54.0,61.0,West Virginia,Monongalia County,33,33,WV
+54003,54,3,West Virginia,Berkeley County,54063,54.0,63.0,West Virginia,Monroe County,39,45,WV
+54025,54,25,West Virginia,Greenbrier County,54063,54.0,63.0,West Virginia,Monroe County,431,156,WV
+54051,54,51,West Virginia,Marshall County,54063,54.0,63.0,West Virginia,Monroe County,22,26,WV
+54055,54,55,West Virginia,Mercer County,54063,54.0,63.0,West Virginia,Monroe County,9,12,WV
+54063,54,63,West Virginia,Monroe County,54063,54.0,63.0,West Virginia,Monroe County,1994,290,WV
+54075,54,75,West Virginia,Pocahontas County,54063,54.0,63.0,West Virginia,Monroe County,6,9,WV
+54089,54,89,West Virginia,Summers County,54063,54.0,63.0,West Virginia,Monroe County,73,50,WV
+54003,54,3,West Virginia,Berkeley County,54065,54.0,65.0,West Virginia,Morgan County,200,105,WV
+54027,54,27,West Virginia,Hampshire County,54065,54.0,65.0,West Virginia,Morgan County,9,15,WV
+54037,54,37,West Virginia,Jefferson County,54065,54.0,65.0,West Virginia,Morgan County,18,24,WV
+54065,54,65,West Virginia,Morgan County,54065,54.0,65.0,West Virginia,Morgan County,3079,360,WV
+54001,54,1,West Virginia,Barbour County,54067,54.0,67.0,West Virginia,Nicholas County,17,27,WV
+54007,54,7,West Virginia,Braxton County,54067,54.0,67.0,West Virginia,Nicholas County,195,76,WV
+54013,54,13,West Virginia,Calhoun County,54067,54.0,67.0,West Virginia,Nicholas County,18,29,WV
+54015,54,15,West Virginia,Clay County,54067,54.0,67.0,West Virginia,Nicholas County,216,82,WV
+54019,54,19,West Virginia,Fayette County,54067,54.0,67.0,West Virginia,Nicholas County,465,124,WV
+54021,54,21,West Virginia,Gilmer County,54067,54.0,67.0,West Virginia,Nicholas County,20,24,WV
+54025,54,25,West Virginia,Greenbrier County,54067,54.0,67.0,West Virginia,Nicholas County,180,105,WV
+54033,54,33,West Virginia,Harrison County,54067,54.0,67.0,West Virginia,Nicholas County,13,15,WV
+54039,54,39,West Virginia,Kanawha County,54067,54.0,67.0,West Virginia,Nicholas County,35,26,WV
+54045,54,45,West Virginia,Logan County,54067,54.0,67.0,West Virginia,Nicholas County,5,7,WV
+54067,54,67,West Virginia,Nicholas County,54067,54.0,67.0,West Virginia,Nicholas County,7256,471,WV
+54075,54,75,West Virginia,Pocahontas County,54067,54.0,67.0,West Virginia,Nicholas County,4,6,WV
+54081,54,81,West Virginia,Raleigh County,54067,54.0,67.0,West Virginia,Nicholas County,40,31,WV
+54087,54,87,West Virginia,Roane County,54067,54.0,67.0,West Virginia,Nicholas County,17,25,WV
+54101,54,101,West Virginia,Webster County,54067,54.0,67.0,West Virginia,Nicholas County,574,137,WV
+54109,54,109,West Virginia,Wyoming County,54067,54.0,67.0,West Virginia,Nicholas County,21,35,WV
+54001,54,1,West Virginia,Barbour County,54069,54.0,69.0,West Virginia,Ohio County,14,15,WV
+54009,54,9,West Virginia,Brooke County,54069,54.0,69.0,West Virginia,Ohio County,989,177,WV
+54011,54,11,West Virginia,Cabell County,54069,54.0,69.0,West Virginia,Ohio County,23,39,WV
+54019,54,19,West Virginia,Fayette County,54069,54.0,69.0,West Virginia,Ohio County,29,44,WV
+54029,54,29,West Virginia,Hancock County,54069,54.0,69.0,West Virginia,Ohio County,218,93,WV
+54033,54,33,West Virginia,Harrison County,54069,54.0,69.0,West Virginia,Ohio County,43,42,WV
+54035,54,35,West Virginia,Jackson County,54069,54.0,69.0,West Virginia,Ohio County,11,18,WV
+54039,54,39,West Virginia,Kanawha County,54069,54.0,69.0,West Virginia,Ohio County,24,37,WV
+54041,54,41,West Virginia,Lewis County,54069,54.0,69.0,West Virginia,Ohio County,10,15,WV
+54049,54,49,West Virginia,Marion County,54069,54.0,69.0,West Virginia,Ohio County,25,24,WV
+54051,54,51,West Virginia,Marshall County,54069,54.0,69.0,West Virginia,Ohio County,4089,400,WV
+54053,54,53,West Virginia,Mason County,54069,54.0,69.0,West Virginia,Ohio County,9,13,WV
+54061,54,61,West Virginia,Monongalia County,54069,54.0,69.0,West Virginia,Ohio County,69,67,WV
+54067,54,67,West Virginia,Nicholas County,54069,54.0,69.0,West Virginia,Ohio County,11,17,WV
+54069,54,69,West Virginia,Ohio County,54069,54.0,69.0,West Virginia,Ohio County,14861,443,WV
+54073,54,73,West Virginia,Pleasants County,54069,54.0,69.0,West Virginia,Ohio County,7,9,WV
+54077,54,77,West Virginia,Preston County,54069,54.0,69.0,West Virginia,Ohio County,18,18,WV
+54083,54,83,West Virginia,Randolph County,54069,54.0,69.0,West Virginia,Ohio County,18,25,WV
+54085,54,85,West Virginia,Ritchie County,54069,54.0,69.0,West Virginia,Ohio County,3,4,WV
+54087,54,87,West Virginia,Roane County,54069,54.0,69.0,West Virginia,Ohio County,18,19,WV
+54095,54,95,West Virginia,Tyler County,54069,54.0,69.0,West Virginia,Ohio County,30,22,WV
+54097,54,97,West Virginia,Upshur County,54069,54.0,69.0,West Virginia,Ohio County,12,18,WV
+54103,54,103,West Virginia,Wetzel County,54069,54.0,69.0,West Virginia,Ohio County,177,71,WV
+54107,54,107,West Virginia,Wood County,54069,54.0,69.0,West Virginia,Ohio County,28,33,WV
+54023,54,23,West Virginia,Grant County,54071,54.0,71.0,West Virginia,Pendleton County,72,55,WV
+54031,54,31,West Virginia,Hardy County,54071,54.0,71.0,West Virginia,Pendleton County,11,14,WV
+54033,54,33,West Virginia,Harrison County,54071,54.0,71.0,West Virginia,Pendleton County,13,21,WV
+54049,54,49,West Virginia,Marion County,54071,54.0,71.0,West Virginia,Pendleton County,3,9,WV
+54057,54,57,West Virginia,Mineral County,54071,54.0,71.0,West Virginia,Pendleton County,14,22,WV
+54071,54,71,West Virginia,Pendleton County,54071,54.0,71.0,West Virginia,Pendleton County,1988,169,WV
+54075,54,75,West Virginia,Pocahontas County,54071,54.0,71.0,West Virginia,Pendleton County,8,9,WV
+54083,54,83,West Virginia,Randolph County,54071,54.0,71.0,West Virginia,Pendleton County,7,12,WV
+54093,54,93,West Virginia,Tucker County,54071,54.0,71.0,West Virginia,Pendleton County,5,6,WV
+54007,54,7,West Virginia,Braxton County,54073,54.0,73.0,West Virginia,Pleasants County,5,8,WV
+54013,54,13,West Virginia,Calhoun County,54073,54.0,73.0,West Virginia,Pleasants County,25,24,WV
+54035,54,35,West Virginia,Jackson County,54073,54.0,73.0,West Virginia,Pleasants County,35,43,WV
+54039,54,39,West Virginia,Kanawha County,54073,54.0,73.0,West Virginia,Pleasants County,16,25,WV
+54069,54,69,West Virginia,Ohio County,54073,54.0,73.0,West Virginia,Pleasants County,19,16,WV
+54073,54,73,West Virginia,Pleasants County,54073,54.0,73.0,West Virginia,Pleasants County,1348,163,WV
+54085,54,85,West Virginia,Ritchie County,54073,54.0,73.0,West Virginia,Pleasants County,29,22,WV
+54095,54,95,West Virginia,Tyler County,54073,54.0,73.0,West Virginia,Pleasants County,231,87,WV
+54103,54,103,West Virginia,Wetzel County,54073,54.0,73.0,West Virginia,Pleasants County,70,46,WV
+54105,54,105,West Virginia,Wirt County,54073,54.0,73.0,West Virginia,Pleasants County,77,75,WV
+54107,54,107,West Virginia,Wood County,54073,54.0,73.0,West Virginia,Pleasants County,635,129,WV
+54025,54,25,West Virginia,Greenbrier County,54075,54.0,75.0,West Virginia,Pocahontas County,90,61,WV
+54057,54,57,West Virginia,Mineral County,54075,54.0,75.0,West Virginia,Pocahontas County,3,4,WV
+54067,54,67,West Virginia,Nicholas County,54075,54.0,75.0,West Virginia,Pocahontas County,14,23,WV
+54071,54,71,West Virginia,Pendleton County,54075,54.0,75.0,West Virginia,Pocahontas County,25,20,WV
+54075,54,75,West Virginia,Pocahontas County,54075,54.0,75.0,West Virginia,Pocahontas County,3082,237,WV
+54077,54,77,West Virginia,Preston County,54075,54.0,75.0,West Virginia,Pocahontas County,12,14,WV
+54083,54,83,West Virginia,Randolph County,54075,54.0,75.0,West Virginia,Pocahontas County,226,80,WV
+54089,54,89,West Virginia,Summers County,54075,54.0,75.0,West Virginia,Pocahontas County,10,15,WV
+54101,54,101,West Virginia,Webster County,54075,54.0,75.0,West Virginia,Pocahontas County,2,4,WV
+54001,54,1,West Virginia,Barbour County,54077,54.0,77.0,West Virginia,Preston County,38,35,WV
+54017,54,17,West Virginia,Doddridge County,54077,54.0,77.0,West Virginia,Preston County,18,28,WV
+54019,54,19,West Virginia,Fayette County,54077,54.0,77.0,West Virginia,Preston County,4,9,WV
+54023,54,23,West Virginia,Grant County,54077,54.0,77.0,West Virginia,Preston County,3,5,WV
+54031,54,31,West Virginia,Hardy County,54077,54.0,77.0,West Virginia,Preston County,12,20,WV
+54033,54,33,West Virginia,Harrison County,54077,54.0,77.0,West Virginia,Preston County,96,59,WV
+54049,54,49,West Virginia,Marion County,54077,54.0,77.0,West Virginia,Preston County,82,55,WV
+54057,54,57,West Virginia,Mineral County,54077,54.0,77.0,West Virginia,Preston County,20,25,WV
+54061,54,61,West Virginia,Monongalia County,54077,54.0,77.0,West Virginia,Preston County,711,201,WV
+54077,54,77,West Virginia,Preston County,54077,54.0,77.0,West Virginia,Preston County,6859,441,WV
+54083,54,83,West Virginia,Randolph County,54077,54.0,77.0,West Virginia,Preston County,14,17,WV
+54091,54,91,West Virginia,Taylor County,54077,54.0,77.0,West Virginia,Preston County,100,70,WV
+54093,54,93,West Virginia,Tucker County,54077,54.0,77.0,West Virginia,Preston County,34,21,WV
+54101,54,101,West Virginia,Webster County,54077,54.0,77.0,West Virginia,Preston County,3,5,WV
+54005,54,5,West Virginia,Boone County,54079,54.0,79.0,West Virginia,Putnam County,76,61,WV
+54007,54,7,West Virginia,Braxton County,54079,54.0,79.0,West Virginia,Putnam County,13,23,WV
+54011,54,11,West Virginia,Cabell County,54079,54.0,79.0,West Virginia,Putnam County,1982,327,WV
+54015,54,15,West Virginia,Clay County,54079,54.0,79.0,West Virginia,Putnam County,10,16,WV
+54019,54,19,West Virginia,Fayette County,54079,54.0,79.0,West Virginia,Putnam County,45,28,WV
+54035,54,35,West Virginia,Jackson County,54079,54.0,79.0,West Virginia,Putnam County,210,120,WV
+54039,54,39,West Virginia,Kanawha County,54079,54.0,79.0,West Virginia,Putnam County,3592,413,WV
+54043,54,43,West Virginia,Lincoln County,54079,54.0,79.0,West Virginia,Putnam County,360,183,WV
+54045,54,45,West Virginia,Logan County,54079,54.0,79.0,West Virginia,Putnam County,17,20,WV
+54053,54,53,West Virginia,Mason County,54079,54.0,79.0,West Virginia,Putnam County,789,207,WV
+54059,54,59,West Virginia,Mingo County,54079,54.0,79.0,West Virginia,Putnam County,50,50,WV
+54061,54,61,West Virginia,Monongalia County,54079,54.0,79.0,West Virginia,Putnam County,15,18,WV
+54063,54,63,West Virginia,Monroe County,54079,54.0,79.0,West Virginia,Putnam County,13,22,WV
+54079,54,79,West Virginia,Putnam County,54079,54.0,79.0,West Virginia,Putnam County,12716,819,WV
+54081,54,81,West Virginia,Raleigh County,54079,54.0,79.0,West Virginia,Putnam County,29,41,WV
+54085,54,85,West Virginia,Ritchie County,54079,54.0,79.0,West Virginia,Putnam County,6,10,WV
+54087,54,87,West Virginia,Roane County,54079,54.0,79.0,West Virginia,Putnam County,68,40,WV
+54091,54,91,West Virginia,Taylor County,54079,54.0,79.0,West Virginia,Putnam County,10,17,WV
+54099,54,99,West Virginia,Wayne County,54079,54.0,79.0,West Virginia,Putnam County,188,87,WV
+54101,54,101,West Virginia,Webster County,54079,54.0,79.0,West Virginia,Putnam County,6,8,WV
+54103,54,103,West Virginia,Wetzel County,54079,54.0,79.0,West Virginia,Putnam County,30,36,WV
+54105,54,105,West Virginia,Wirt County,54079,54.0,79.0,West Virginia,Putnam County,7,11,WV
+54107,54,107,West Virginia,Wood County,54079,54.0,79.0,West Virginia,Putnam County,34,32,WV
+54005,54,5,West Virginia,Boone County,54081,54.0,81.0,West Virginia,Raleigh County,109,62,WV
+54007,54,7,West Virginia,Braxton County,54081,54.0,81.0,West Virginia,Raleigh County,21,22,WV
+54011,54,11,West Virginia,Cabell County,54081,54.0,81.0,West Virginia,Raleigh County,22,28,WV
+54019,54,19,West Virginia,Fayette County,54081,54.0,81.0,West Virginia,Raleigh County,3517,373,WV
+54025,54,25,West Virginia,Greenbrier County,54081,54.0,81.0,West Virginia,Raleigh County,476,146,WV
+54033,54,33,West Virginia,Harrison County,54081,54.0,81.0,West Virginia,Raleigh County,10,18,WV
+54035,54,35,West Virginia,Jackson County,54081,54.0,81.0,West Virginia,Raleigh County,51,79,WV
+54039,54,39,West Virginia,Kanawha County,54081,54.0,81.0,West Virginia,Raleigh County,96,70,WV
+54043,54,43,West Virginia,Lincoln County,54081,54.0,81.0,West Virginia,Raleigh County,15,23,WV
+54045,54,45,West Virginia,Logan County,54081,54.0,81.0,West Virginia,Raleigh County,32,40,WV
+54047,54,47,West Virginia,McDowell County,54081,54.0,81.0,West Virginia,Raleigh County,26,20,WV
+54053,54,53,West Virginia,Mason County,54081,54.0,81.0,West Virginia,Raleigh County,16,25,WV
+54055,54,55,West Virginia,Mercer County,54081,54.0,81.0,West Virginia,Raleigh County,717,168,WV
+54063,54,63,West Virginia,Monroe County,54081,54.0,81.0,West Virginia,Raleigh County,61,49,WV
+54067,54,67,West Virginia,Nicholas County,54081,54.0,81.0,West Virginia,Raleigh County,222,99,WV
+54069,54,69,West Virginia,Ohio County,54081,54.0,81.0,West Virginia,Raleigh County,12,20,WV
+54079,54,79,West Virginia,Putnam County,54081,54.0,81.0,West Virginia,Raleigh County,19,30,WV
+54081,54,81,West Virginia,Raleigh County,54081,54.0,81.0,West Virginia,Raleigh County,23809,1107,WV
+54083,54,83,West Virginia,Randolph County,54081,54.0,81.0,West Virginia,Raleigh County,37,33,WV
+54087,54,87,West Virginia,Roane County,54081,54.0,81.0,West Virginia,Raleigh County,20,23,WV
+54089,54,89,West Virginia,Summers County,54081,54.0,81.0,West Virginia,Raleigh County,659,156,WV
+54101,54,101,West Virginia,Webster County,54081,54.0,81.0,West Virginia,Raleigh County,16,16,WV
+54109,54,109,West Virginia,Wyoming County,54081,54.0,81.0,West Virginia,Raleigh County,968,175,WV
+54001,54,1,West Virginia,Barbour County,54083,54.0,83.0,West Virginia,Randolph County,1066,239,WV
+54021,54,21,West Virginia,Gilmer County,54083,54.0,83.0,West Virginia,Randolph County,3,6,WV
+54031,54,31,West Virginia,Hardy County,54083,54.0,83.0,West Virginia,Randolph County,6,9,WV
+54033,54,33,West Virginia,Harrison County,54083,54.0,83.0,West Virginia,Randolph County,57,44,WV
+54035,54,35,West Virginia,Jackson County,54083,54.0,83.0,West Virginia,Randolph County,10,17,WV
+54041,54,41,West Virginia,Lewis County,54083,54.0,83.0,West Virginia,Randolph County,86,55,WV
+54045,54,45,West Virginia,Logan County,54083,54.0,83.0,West Virginia,Randolph County,13,20,WV
+54049,54,49,West Virginia,Marion County,54083,54.0,83.0,West Virginia,Randolph County,21,26,WV
+54067,54,67,West Virginia,Nicholas County,54083,54.0,83.0,West Virginia,Randolph County,12,20,WV
+54071,54,71,West Virginia,Pendleton County,54083,54.0,83.0,West Virginia,Randolph County,38,25,WV
+54075,54,75,West Virginia,Pocahontas County,54083,54.0,83.0,West Virginia,Randolph County,83,35,WV
+54077,54,77,West Virginia,Preston County,54083,54.0,83.0,West Virginia,Randolph County,38,27,WV
+54083,54,83,West Virginia,Randolph County,54083,54.0,83.0,West Virginia,Randolph County,9984,505,WV
+54091,54,91,West Virginia,Taylor County,54083,54.0,83.0,West Virginia,Randolph County,11,18,WV
+54093,54,93,West Virginia,Tucker County,54083,54.0,83.0,West Virginia,Randolph County,384,81,WV
+54097,54,97,West Virginia,Upshur County,54083,54.0,83.0,West Virginia,Randolph County,294,112,WV
+54101,54,101,West Virginia,Webster County,54083,54.0,83.0,West Virginia,Randolph County,18,27,WV
+54107,54,107,West Virginia,Wood County,54083,54.0,83.0,West Virginia,Randolph County,9,14,WV
+54007,54,7,West Virginia,Braxton County,54085,54.0,85.0,West Virginia,Ritchie County,9,15,WV
+54013,54,13,West Virginia,Calhoun County,54085,54.0,85.0,West Virginia,Ritchie County,93,75,WV
+54015,54,15,West Virginia,Clay County,54085,54.0,85.0,West Virginia,Ritchie County,8,14,WV
+54017,54,17,West Virginia,Doddridge County,54085,54.0,85.0,West Virginia,Ritchie County,347,119,WV
+54021,54,21,West Virginia,Gilmer County,54085,54.0,85.0,West Virginia,Ritchie County,10,16,WV
+54033,54,33,West Virginia,Harrison County,54085,54.0,85.0,West Virginia,Ritchie County,77,51,WV
+54035,54,35,West Virginia,Jackson County,54085,54.0,85.0,West Virginia,Ritchie County,68,75,WV
+54039,54,39,West Virginia,Kanawha County,54085,54.0,85.0,West Virginia,Ritchie County,10,15,WV
+54049,54,49,West Virginia,Marion County,54085,54.0,85.0,West Virginia,Ritchie County,36,60,WV
+54053,54,53,West Virginia,Mason County,54085,54.0,85.0,West Virginia,Ritchie County,11,16,WV
+54069,54,69,West Virginia,Ohio County,54085,54.0,85.0,West Virginia,Ritchie County,12,20,WV
+54073,54,73,West Virginia,Pleasants County,54085,54.0,85.0,West Virginia,Ritchie County,176,69,WV
+54083,54,83,West Virginia,Randolph County,54085,54.0,85.0,West Virginia,Ritchie County,16,22,WV
+54085,54,85,West Virginia,Ritchie County,54085,54.0,85.0,West Virginia,Ritchie County,2291,193,WV
+54091,54,91,West Virginia,Taylor County,54085,54.0,85.0,West Virginia,Ritchie County,11,17,WV
+54095,54,95,West Virginia,Tyler County,54085,54.0,85.0,West Virginia,Ritchie County,73,43,WV
+54097,54,97,West Virginia,Upshur County,54085,54.0,85.0,West Virginia,Ritchie County,43,61,WV
+54103,54,103,West Virginia,Wetzel County,54085,54.0,85.0,West Virginia,Ritchie County,24,35,WV
+54105,54,105,West Virginia,Wirt County,54085,54.0,85.0,West Virginia,Ritchie County,31,26,WV
+54107,54,107,West Virginia,Wood County,54085,54.0,85.0,West Virginia,Ritchie County,347,137,WV
+54007,54,7,West Virginia,Braxton County,54087,54.0,87.0,West Virginia,Roane County,10,15,WV
+54013,54,13,West Virginia,Calhoun County,54087,54.0,87.0,West Virginia,Roane County,251,101,WV
+54015,54,15,West Virginia,Clay County,54087,54.0,87.0,West Virginia,Roane County,14,16,WV
+54021,54,21,West Virginia,Gilmer County,54087,54.0,87.0,West Virginia,Roane County,19,20,WV
+54035,54,35,West Virginia,Jackson County,54087,54.0,87.0,West Virginia,Roane County,61,49,WV
+54039,54,39,West Virginia,Kanawha County,54087,54.0,87.0,West Virginia,Roane County,22,22,WV
+54043,54,43,West Virginia,Lincoln County,54087,54.0,87.0,West Virginia,Roane County,3,5,WV
+54049,54,49,West Virginia,Marion County,54087,54.0,87.0,West Virginia,Roane County,9,13,WV
+54079,54,79,West Virginia,Putnam County,54087,54.0,87.0,West Virginia,Roane County,2,6,WV
+54087,54,87,West Virginia,Roane County,54087,54.0,87.0,West Virginia,Roane County,2715,222,WV
+54105,54,105,West Virginia,Wirt County,54087,54.0,87.0,West Virginia,Roane County,91,65,WV
+54005,54,5,West Virginia,Boone County,54089,54.0,89.0,West Virginia,Summers County,15,26,WV
+54019,54,19,West Virginia,Fayette County,54089,54.0,89.0,West Virginia,Summers County,13,18,WV
+54025,54,25,West Virginia,Greenbrier County,54089,54.0,89.0,West Virginia,Summers County,59,45,WV
+54037,54,37,West Virginia,Jefferson County,54089,54.0,89.0,West Virginia,Summers County,11,14,WV
+54055,54,55,West Virginia,Mercer County,54089,54.0,89.0,West Virginia,Summers County,154,88,WV
+54063,54,63,West Virginia,Monroe County,54089,54.0,89.0,West Virginia,Summers County,94,75,WV
+54081,54,81,West Virginia,Raleigh County,54089,54.0,89.0,West Virginia,Summers County,233,144,WV
+54089,54,89,West Virginia,Summers County,54089,54.0,89.0,West Virginia,Summers County,2384,284,WV
+54001,54,1,West Virginia,Barbour County,54091,54.0,91.0,West Virginia,Taylor County,101,63,WV
+54007,54,7,West Virginia,Braxton County,54091,54.0,91.0,West Virginia,Taylor County,5,8,WV
+54021,54,21,West Virginia,Gilmer County,54091,54.0,91.0,West Virginia,Taylor County,6,6,WV
+54025,54,25,West Virginia,Greenbrier County,54091,54.0,91.0,West Virginia,Taylor County,5,7,WV
+54033,54,33,West Virginia,Harrison County,54091,54.0,91.0,West Virginia,Taylor County,232,85,WV
+54045,54,45,West Virginia,Logan County,54091,54.0,91.0,West Virginia,Taylor County,4,6,WV
+54049,54,49,West Virginia,Marion County,54091,54.0,91.0,West Virginia,Taylor County,191,83,WV
+54061,54,61,West Virginia,Monongalia County,54091,54.0,91.0,West Virginia,Taylor County,154,152,WV
+54077,54,77,West Virginia,Preston County,54091,54.0,91.0,West Virginia,Taylor County,193,73,WV
+54083,54,83,West Virginia,Randolph County,54091,54.0,91.0,West Virginia,Taylor County,15,22,WV
+54091,54,91,West Virginia,Taylor County,54091,54.0,91.0,West Virginia,Taylor County,2326,288,WV
+54093,54,93,West Virginia,Tucker County,54091,54.0,91.0,West Virginia,Taylor County,42,32,WV
+54097,54,97,West Virginia,Upshur County,54091,54.0,91.0,West Virginia,Taylor County,20,25,WV
+54001,54,1,West Virginia,Barbour County,54093,54.0,93.0,West Virginia,Tucker County,27,43,WV
+54007,54,7,West Virginia,Braxton County,54093,54.0,93.0,West Virginia,Tucker County,2,5,WV
+54023,54,23,West Virginia,Grant County,54093,54.0,93.0,West Virginia,Tucker County,30,27,WV
+54031,54,31,West Virginia,Hardy County,54093,54.0,93.0,West Virginia,Tucker County,39,55,WV
+54037,54,37,West Virginia,Jefferson County,54093,54.0,93.0,West Virginia,Tucker County,18,27,WV
+54057,54,57,West Virginia,Mineral County,54093,54.0,93.0,West Virginia,Tucker County,36,46,WV
+54061,54,61,West Virginia,Monongalia County,54093,54.0,93.0,West Virginia,Tucker County,33,28,WV
+54067,54,67,West Virginia,Nicholas County,54093,54.0,93.0,West Virginia,Tucker County,14,22,WV
+54071,54,71,West Virginia,Pendleton County,54093,54.0,93.0,West Virginia,Tucker County,13,15,WV
+54077,54,77,West Virginia,Preston County,54093,54.0,93.0,West Virginia,Tucker County,90,49,WV
+54083,54,83,West Virginia,Randolph County,54093,54.0,93.0,West Virginia,Tucker County,197,76,WV
+54093,54,93,West Virginia,Tucker County,54093,54.0,93.0,West Virginia,Tucker County,2117,172,WV
+54097,54,97,West Virginia,Upshur County,54093,54.0,93.0,West Virginia,Tucker County,9,14,WV
+54017,54,17,West Virginia,Doddridge County,54095,54.0,95.0,West Virginia,Tyler County,25,28,WV
+54033,54,33,West Virginia,Harrison County,54095,54.0,95.0,West Virginia,Tyler County,7,9,WV
+54041,54,41,West Virginia,Lewis County,54095,54.0,95.0,West Virginia,Tyler County,8,14,WV
+54051,54,51,West Virginia,Marshall County,54095,54.0,95.0,West Virginia,Tyler County,6,7,WV
+54069,54,69,West Virginia,Ohio County,54095,54.0,95.0,West Virginia,Tyler County,5,7,WV
+54073,54,73,West Virginia,Pleasants County,54095,54.0,95.0,West Virginia,Tyler County,120,51,WV
+54085,54,85,West Virginia,Ritchie County,54095,54.0,95.0,West Virginia,Tyler County,14,15,WV
+54087,54,87,West Virginia,Roane County,54095,54.0,95.0,West Virginia,Tyler County,12,18,WV
+54095,54,95,West Virginia,Tyler County,54095,54.0,95.0,West Virginia,Tyler County,1548,166,WV
+54103,54,103,West Virginia,Wetzel County,54095,54.0,95.0,West Virginia,Tyler County,241,79,WV
+54107,54,107,West Virginia,Wood County,54095,54.0,95.0,West Virginia,Tyler County,141,71,WV
+54001,54,1,West Virginia,Barbour County,54097,54.0,97.0,West Virginia,Upshur County,457,152,WV
+54005,54,5,West Virginia,Boone County,54097,54.0,97.0,West Virginia,Upshur County,8,13,WV
+54007,54,7,West Virginia,Braxton County,54097,54.0,97.0,West Virginia,Upshur County,50,40,WV
+54015,54,15,West Virginia,Clay County,54097,54.0,97.0,West Virginia,Upshur County,9,14,WV
+54021,54,21,West Virginia,Gilmer County,54097,54.0,97.0,West Virginia,Upshur County,48,34,WV
+54023,54,23,West Virginia,Grant County,54097,54.0,97.0,West Virginia,Upshur County,15,22,WV
+54025,54,25,West Virginia,Greenbrier County,54097,54.0,97.0,West Virginia,Upshur County,11,16,WV
+54033,54,33,West Virginia,Harrison County,54097,54.0,97.0,West Virginia,Upshur County,370,120,WV
+54039,54,39,West Virginia,Kanawha County,54097,54.0,97.0,West Virginia,Upshur County,14,16,WV
+54041,54,41,West Virginia,Lewis County,54097,54.0,97.0,West Virginia,Upshur County,505,141,WV
+54047,54,47,West Virginia,McDowell County,54097,54.0,97.0,West Virginia,Upshur County,7,12,WV
+54049,54,49,West Virginia,Marion County,54097,54.0,97.0,West Virginia,Upshur County,86,55,WV
+54061,54,61,West Virginia,Monongalia County,54097,54.0,97.0,West Virginia,Upshur County,61,53,WV
+54077,54,77,West Virginia,Preston County,54097,54.0,97.0,West Virginia,Upshur County,22,18,WV
+54083,54,83,West Virginia,Randolph County,54097,54.0,97.0,West Virginia,Upshur County,367,119,WV
+54091,54,91,West Virginia,Taylor County,54097,54.0,97.0,West Virginia,Upshur County,33,31,WV
+54093,54,93,West Virginia,Tucker County,54097,54.0,97.0,West Virginia,Upshur County,3,5,WV
+54097,54,97,West Virginia,Upshur County,54097,54.0,97.0,West Virginia,Upshur County,7088,413,WV
+54101,54,101,West Virginia,Webster County,54097,54.0,97.0,West Virginia,Upshur County,44,40,WV
+54011,54,11,West Virginia,Cabell County,54099,54.0,99.0,West Virginia,Wayne County,2167,346,WV
+54021,54,21,West Virginia,Gilmer County,54099,54.0,99.0,West Virginia,Wayne County,2,6,WV
+54033,54,33,West Virginia,Harrison County,54099,54.0,99.0,West Virginia,Wayne County,3,5,WV
+54039,54,39,West Virginia,Kanawha County,54099,54.0,99.0,West Virginia,Wayne County,62,42,WV
+54043,54,43,West Virginia,Lincoln County,54099,54.0,99.0,West Virginia,Wayne County,206,132,WV
+54045,54,45,West Virginia,Logan County,54099,54.0,99.0,West Virginia,Wayne County,76,62,WV
+54053,54,53,West Virginia,Mason County,54099,54.0,99.0,West Virginia,Wayne County,10,11,WV
+54055,54,55,West Virginia,Mercer County,54099,54.0,99.0,West Virginia,Wayne County,1,2,WV
+54059,54,59,West Virginia,Mingo County,54099,54.0,99.0,West Virginia,Wayne County,220,74,WV
+54061,54,61,West Virginia,Monongalia County,54099,54.0,99.0,West Virginia,Wayne County,8,12,WV
+54069,54,69,West Virginia,Ohio County,54099,54.0,99.0,West Virginia,Wayne County,6,12,WV
+54079,54,79,West Virginia,Putnam County,54099,54.0,99.0,West Virginia,Wayne County,122,71,WV
+54081,54,81,West Virginia,Raleigh County,54099,54.0,99.0,West Virginia,Wayne County,18,22,WV
+54099,54,99,West Virginia,Wayne County,54099,54.0,99.0,West Virginia,Wayne County,5664,507,WV
+54007,54,7,West Virginia,Braxton County,54101,54.0,101.0,West Virginia,Webster County,53,40,WV
+54015,54,15,West Virginia,Clay County,54101,54.0,101.0,West Virginia,Webster County,16,24,WV
+54019,54,19,West Virginia,Fayette County,54101,54.0,101.0,West Virginia,Webster County,5,9,WV
+54021,54,21,West Virginia,Gilmer County,54101,54.0,101.0,West Virginia,Webster County,49,57,WV
+54025,54,25,West Virginia,Greenbrier County,54101,54.0,101.0,West Virginia,Webster County,3,4,WV
+54041,54,41,West Virginia,Lewis County,54101,54.0,101.0,West Virginia,Webster County,8,13,WV
+54049,54,49,West Virginia,Marion County,54101,54.0,101.0,West Virginia,Webster County,9,13,WV
+54067,54,67,West Virginia,Nicholas County,54101,54.0,101.0,West Virginia,Webster County,269,96,WV
+54075,54,75,West Virginia,Pocahontas County,54101,54.0,101.0,West Virginia,Webster County,17,19,WV
+54087,54,87,West Virginia,Roane County,54101,54.0,101.0,West Virginia,Webster County,8,13,WV
+54097,54,97,West Virginia,Upshur County,54101,54.0,101.0,West Virginia,Webster County,56,60,WV
+54101,54,101,West Virginia,Webster County,54101,54.0,101.0,West Virginia,Webster County,1776,251,WV
+54013,54,13,West Virginia,Calhoun County,54103,54.0,103.0,West Virginia,Wetzel County,49,50,WV
+54017,54,17,West Virginia,Doddridge County,54103,54.0,103.0,West Virginia,Wetzel County,7,11,WV
+54021,54,21,West Virginia,Gilmer County,54103,54.0,103.0,West Virginia,Wetzel County,1,2,WV
+54033,54,33,West Virginia,Harrison County,54103,54.0,103.0,West Virginia,Wetzel County,57,40,WV
+54035,54,35,West Virginia,Jackson County,54103,54.0,103.0,West Virginia,Wetzel County,25,26,WV
+54037,54,37,West Virginia,Jefferson County,54103,54.0,103.0,West Virginia,Wetzel County,10,17,WV
+54041,54,41,West Virginia,Lewis County,54103,54.0,103.0,West Virginia,Wetzel County,5,10,WV
+54049,54,49,West Virginia,Marion County,54103,54.0,103.0,West Virginia,Wetzel County,42,31,WV
+54051,54,51,West Virginia,Marshall County,54103,54.0,103.0,West Virginia,Wetzel County,314,123,WV
+54069,54,69,West Virginia,Ohio County,54103,54.0,103.0,West Virginia,Wetzel County,45,32,WV
+54073,54,73,West Virginia,Pleasants County,54103,54.0,103.0,West Virginia,Wetzel County,53,30,WV
+54075,54,75,West Virginia,Pocahontas County,54103,54.0,103.0,West Virginia,Wetzel County,4,8,WV
+54083,54,83,West Virginia,Randolph County,54103,54.0,103.0,West Virginia,Wetzel County,17,23,WV
+54085,54,85,West Virginia,Ritchie County,54103,54.0,103.0,West Virginia,Wetzel County,17,14,WV
+54087,54,87,West Virginia,Roane County,54103,54.0,103.0,West Virginia,Wetzel County,66,54,WV
+54093,54,93,West Virginia,Tucker County,54103,54.0,103.0,West Virginia,Wetzel County,3,4,WV
+54095,54,95,West Virginia,Tyler County,54103,54.0,103.0,West Virginia,Wetzel County,729,118,WV
+54097,54,97,West Virginia,Upshur County,54103,54.0,103.0,West Virginia,Wetzel County,9,14,WV
+54101,54,101,West Virginia,Webster County,54103,54.0,103.0,West Virginia,Wetzel County,23,37,WV
+54103,54,103,West Virginia,Wetzel County,54103,54.0,103.0,West Virginia,Wetzel County,3559,263,WV
+54107,54,107,West Virginia,Wood County,54103,54.0,103.0,West Virginia,Wetzel County,81,67,WV
+54013,54,13,West Virginia,Calhoun County,54105,54.0,105.0,West Virginia,Wirt County,16,19,WV
+54019,54,19,West Virginia,Fayette County,54105,54.0,105.0,West Virginia,Wirt County,4,7,WV
+54073,54,73,West Virginia,Pleasants County,54105,54.0,105.0,West Virginia,Wirt County,2,3,WV
+54105,54,105,West Virginia,Wirt County,54105,54.0,105.0,West Virginia,Wirt County,738,149,WV
+54107,54,107,West Virginia,Wood County,54105,54.0,105.0,West Virginia,Wirt County,53,33,WV
+54005,54,5,West Virginia,Boone County,54107,54.0,107.0,West Virginia,Wood County,4,8,WV
+54007,54,7,West Virginia,Braxton County,54107,54.0,107.0,West Virginia,Wood County,4,6,WV
+54009,54,9,West Virginia,Brooke County,54107,54.0,107.0,West Virginia,Wood County,12,18,WV
+54011,54,11,West Virginia,Cabell County,54107,54.0,107.0,West Virginia,Wood County,24,39,WV
+54013,54,13,West Virginia,Calhoun County,54107,54.0,107.0,West Virginia,Wood County,85,60,WV
+54017,54,17,West Virginia,Doddridge County,54107,54.0,107.0,West Virginia,Wood County,120,78,WV
+54019,54,19,West Virginia,Fayette County,54107,54.0,107.0,West Virginia,Wood County,3,4,WV
+54021,54,21,West Virginia,Gilmer County,54107,54.0,107.0,West Virginia,Wood County,8,12,WV
+54025,54,25,West Virginia,Greenbrier County,54107,54.0,107.0,West Virginia,Wood County,15,21,WV
+54033,54,33,West Virginia,Harrison County,54107,54.0,107.0,West Virginia,Wood County,16,17,WV
+54035,54,35,West Virginia,Jackson County,54107,54.0,107.0,West Virginia,Wood County,553,136,WV
+54039,54,39,West Virginia,Kanawha County,54107,54.0,107.0,West Virginia,Wood County,220,113,WV
+54049,54,49,West Virginia,Marion County,54107,54.0,107.0,West Virginia,Wood County,7,12,WV
+54051,54,51,West Virginia,Marshall County,54107,54.0,107.0,West Virginia,Wood County,4,5,WV
+54053,54,53,West Virginia,Mason County,54107,54.0,107.0,West Virginia,Wood County,75,55,WV
+54061,54,61,West Virginia,Monongalia County,54107,54.0,107.0,West Virginia,Wood County,24,38,WV
+54063,54,63,West Virginia,Monroe County,54107,54.0,107.0,West Virginia,Wood County,17,21,WV
+54069,54,69,West Virginia,Ohio County,54107,54.0,107.0,West Virginia,Wood County,5,8,WV
+54073,54,73,West Virginia,Pleasants County,54107,54.0,107.0,West Virginia,Wood County,665,122,WV
+54079,54,79,West Virginia,Putnam County,54107,54.0,107.0,West Virginia,Wood County,13,20,WV
+54083,54,83,West Virginia,Randolph County,54107,54.0,107.0,West Virginia,Wood County,15,22,WV
+54085,54,85,West Virginia,Ritchie County,54107,54.0,107.0,West Virginia,Wood County,646,151,WV
+54087,54,87,West Virginia,Roane County,54107,54.0,107.0,West Virginia,Wood County,77,42,WV
+54095,54,95,West Virginia,Tyler County,54107,54.0,107.0,West Virginia,Wood County,96,51,WV
+54101,54,101,West Virginia,Webster County,54107,54.0,107.0,West Virginia,Wood County,28,32,WV
+54103,54,103,West Virginia,Wetzel County,54107,54.0,107.0,West Virginia,Wood County,21,27,WV
+54105,54,105,West Virginia,Wirt County,54107,54.0,107.0,West Virginia,Wood County,1018,183,WV
+54107,54,107,West Virginia,Wood County,54107,54.0,107.0,West Virginia,Wood County,29060,767,WV
+54005,54,5,West Virginia,Boone County,54109,54.0,109.0,West Virginia,Wyoming County,15,17,WV
+54019,54,19,West Virginia,Fayette County,54109,54.0,109.0,West Virginia,Wyoming County,16,18,WV
+54039,54,39,West Virginia,Kanawha County,54109,54.0,109.0,West Virginia,Wyoming County,24,26,WV
+54045,54,45,West Virginia,Logan County,54109,54.0,109.0,West Virginia,Wyoming County,89,51,WV
+54047,54,47,West Virginia,McDowell County,54109,54.0,109.0,West Virginia,Wyoming County,192,52,WV
+54055,54,55,West Virginia,Mercer County,54109,54.0,109.0,West Virginia,Wyoming County,207,94,WV
+54059,54,59,West Virginia,Mingo County,54109,54.0,109.0,West Virginia,Wyoming County,31,34,WV
+54067,54,67,West Virginia,Nicholas County,54109,54.0,109.0,West Virginia,Wyoming County,29,45,WV
+54079,54,79,West Virginia,Putnam County,54109,54.0,109.0,West Virginia,Wyoming County,9,15,WV
+54081,54,81,West Virginia,Raleigh County,54109,54.0,109.0,West Virginia,Wyoming County,456,157,WV
+54089,54,89,West Virginia,Summers County,54109,54.0,109.0,West Virginia,Wyoming County,40,39,WV
+54109,54,109,West Virginia,Wyoming County,54109,54.0,109.0,West Virginia,Wyoming County,3963,409,WV
+54039,54,39,West Virginia,Kanawha County,55025,55.0,25.0,Wisconsin,Dane County,20,31,WV
+54011,54,11,West Virginia,Cabell County,55079,55.0,79.0,Wisconsin,Milwaukee County,7,10,WV
+54039,54,39,West Virginia,Kanawha County,55081,55.0,81.0,Wisconsin,Monroe County,22,30,WV
+54033,54,33,West Virginia,Harrison County,56025,56.0,25.0,Wyoming,Natrona County,4,6,WV
+54045,54,45,West Virginia,Logan County,303000,303.0,,Mexico,,1,4,WV
+54003,54,3,West Virginia,Berkeley County,-1,,,Other workplace outside of the U.S.,,33,28,WV
+54037,54,37,West Virginia,Jefferson County,-1,,,Other workplace outside of the U.S.,,15,24,WV
+54039,54,39,West Virginia,Kanawha County,-1,,,Other workplace outside of the U.S.,,15,23,WV
+54061,54,61,West Virginia,Monongalia County,-1,,,Other workplace outside of the U.S.,,7,12,WV

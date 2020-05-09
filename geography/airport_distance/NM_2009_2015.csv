@@ -1,0 +1,812 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+35001,35,1,New Mexico,Bernalillo County,1073,1.0,73.0,Alabama,Jefferson County,1,10,NM
+35049,35,49,New Mexico,Santa Fe County,1089,1.0,89.0,Alabama,Madison County,2,3,NM
+35031,35,31,New Mexico,McKinley County,2180,2.0,180.0,Alaska,Nome Census Area,2,4,NM
+35001,35,1,New Mexico,Bernalillo County,2185,2.0,185.0,Alaska,North Slope Borough,17,27,NM
+35001,35,1,New Mexico,Bernalillo County,4001,4.0,1.0,Arizona,Apache County,28,28,NM
+35003,35,3,New Mexico,Catron County,4001,4.0,1.0,Arizona,Apache County,33,33,NM
+35006,35,6,New Mexico,Cibola County,4001,4.0,1.0,Arizona,Apache County,4,6,NM
+35031,35,31,New Mexico,McKinley County,4001,4.0,1.0,Arizona,Apache County,780,128,NM
+35045,35,45,New Mexico,San Juan County,4001,4.0,1.0,Arizona,Apache County,223,59,NM
+35001,35,1,New Mexico,Bernalillo County,4003,4.0,3.0,Arizona,Cochise County,9,14,NM
+35003,35,3,New Mexico,Catron County,4003,4.0,3.0,Arizona,Cochise County,15,25,NM
+35017,35,17,New Mexico,Grant County,4003,4.0,3.0,Arizona,Cochise County,41,53,NM
+35023,35,23,New Mexico,Hidalgo County,4003,4.0,3.0,Arizona,Cochise County,63,40,NM
+35029,35,29,New Mexico,Luna County,4003,4.0,3.0,Arizona,Cochise County,48,58,NM
+35061,35,61,New Mexico,Valencia County,4003,4.0,3.0,Arizona,Cochise County,14,24,NM
+35005,35,5,New Mexico,Chaves County,4005,4.0,5.0,Arizona,Coconino County,38,54,NM
+35013,35,13,New Mexico,Doña Ana County,4005,4.0,5.0,Arizona,Coconino County,3,6,NM
+35031,35,31,New Mexico,McKinley County,4005,4.0,5.0,Arizona,Coconino County,6,8,NM
+35045,35,45,New Mexico,San Juan County,4005,4.0,5.0,Arizona,Coconino County,2,3,NM
+35049,35,49,New Mexico,Santa Fe County,4005,4.0,5.0,Arizona,Coconino County,9,14,NM
+35061,35,61,New Mexico,Valencia County,4005,4.0,5.0,Arizona,Coconino County,7,12,NM
+35013,35,13,New Mexico,Doña Ana County,4007,4.0,7.0,Arizona,Gila County,17,26,NM
+35023,35,23,New Mexico,Hidalgo County,4009,4.0,9.0,Arizona,Graham County,10,10,NM
+35027,35,27,New Mexico,Lincoln County,4009,4.0,9.0,Arizona,Graham County,2,3,NM
+35029,35,29,New Mexico,Luna County,4009,4.0,9.0,Arizona,Graham County,43,33,NM
+35003,35,3,New Mexico,Catron County,4011,4.0,11.0,Arizona,Greenlee County,6,10,NM
+35017,35,17,New Mexico,Grant County,4011,4.0,11.0,Arizona,Greenlee County,20,23,NM
+35023,35,23,New Mexico,Hidalgo County,4011,4.0,11.0,Arizona,Greenlee County,158,71,NM
+35029,35,29,New Mexico,Luna County,4011,4.0,11.0,Arizona,Greenlee County,68,58,NM
+35031,35,31,New Mexico,McKinley County,4011,4.0,11.0,Arizona,Greenlee County,13,10,NM
+35045,35,45,New Mexico,San Juan County,4011,4.0,11.0,Arizona,Greenlee County,2,3,NM
+35061,35,61,New Mexico,Valencia County,4011,4.0,11.0,Arizona,Greenlee County,22,32,NM
+35001,35,1,New Mexico,Bernalillo County,4013,4.0,13.0,Arizona,Maricopa County,139,65,NM
+35013,35,13,New Mexico,Doña Ana County,4013,4.0,13.0,Arizona,Maricopa County,36,31,NM
+35017,35,17,New Mexico,Grant County,4013,4.0,13.0,Arizona,Maricopa County,16,22,NM
+35023,35,23,New Mexico,Hidalgo County,4013,4.0,13.0,Arizona,Maricopa County,7,10,NM
+35031,35,31,New Mexico,McKinley County,4013,4.0,13.0,Arizona,Maricopa County,12,13,NM
+35043,35,43,New Mexico,Sandoval County,4013,4.0,13.0,Arizona,Maricopa County,74,61,NM
+35045,35,45,New Mexico,San Juan County,4013,4.0,13.0,Arizona,Maricopa County,68,75,NM
+35049,35,49,New Mexico,Santa Fe County,4013,4.0,13.0,Arizona,Maricopa County,20,25,NM
+35055,35,55,New Mexico,Taos County,4013,4.0,13.0,Arizona,Maricopa County,1,4,NM
+35057,35,57,New Mexico,Torrance County,4013,4.0,13.0,Arizona,Maricopa County,17,26,NM
+35061,35,61,New Mexico,Valencia County,4013,4.0,13.0,Arizona,Maricopa County,64,56,NM
+35006,35,6,New Mexico,Cibola County,4015,4.0,15.0,Arizona,Mohave County,16,28,NM
+35031,35,31,New Mexico,McKinley County,4015,4.0,15.0,Arizona,Mohave County,2,3,NM
+35029,35,29,New Mexico,Luna County,4017,4.0,17.0,Arizona,Navajo County,6,10,NM
+35031,35,31,New Mexico,McKinley County,4017,4.0,17.0,Arizona,Navajo County,5,6,NM
+35045,35,45,New Mexico,San Juan County,4017,4.0,17.0,Arizona,Navajo County,4,5,NM
+35049,35,49,New Mexico,Santa Fe County,4017,4.0,17.0,Arizona,Navajo County,13,18,NM
+35061,35,61,New Mexico,Valencia County,4017,4.0,17.0,Arizona,Navajo County,9,17,NM
+35001,35,1,New Mexico,Bernalillo County,4019,4.0,19.0,Arizona,Pima County,5,8,NM
+35023,35,23,New Mexico,Hidalgo County,4019,4.0,19.0,Arizona,Pima County,11,12,NM
+35029,35,29,New Mexico,Luna County,4019,4.0,19.0,Arizona,Pima County,6,10,NM
+35035,35,35,New Mexico,Otero County,4019,4.0,19.0,Arizona,Pima County,11,16,NM
+35045,35,45,New Mexico,San Juan County,4019,4.0,19.0,Arizona,Pima County,28,43,NM
+35049,35,49,New Mexico,Santa Fe County,4019,4.0,19.0,Arizona,Pima County,6,9,NM
+35006,35,6,New Mexico,Cibola County,4021,4.0,21.0,Arizona,Pinal County,10,16,NM
+35029,35,29,New Mexico,Luna County,4021,4.0,21.0,Arizona,Pinal County,13,21,NM
+35031,35,31,New Mexico,McKinley County,4025,4.0,25.0,Arizona,Yavapai County,2,4,NM
+35009,35,9,New Mexico,Curry County,6001,6.0,1.0,California,Alameda County,11,16,NM
+35047,35,47,New Mexico,San Miguel County,6001,6.0,1.0,California,Alameda County,13,20,NM
+35055,35,55,New Mexico,Taos County,6013,6.0,13.0,California,Contra Costa County,21,34,NM
+35013,35,13,New Mexico,Doña Ana County,6019,6.0,19.0,California,Fresno County,31,33,NM
+35019,35,19,New Mexico,Guadalupe County,6029,6.0,29.0,California,Kern County,2,6,NM
+35045,35,45,New Mexico,San Juan County,6029,6.0,29.0,California,Kern County,3,5,NM
+35001,35,1,New Mexico,Bernalillo County,6037,6.0,37.0,California,Los Angeles County,112,99,NM
+35005,35,5,New Mexico,Chaves County,6037,6.0,37.0,California,Los Angeles County,3,4,NM
+35013,35,13,New Mexico,Doña Ana County,6037,6.0,37.0,California,Los Angeles County,12,20,NM
+35039,35,39,New Mexico,Rio Arriba County,6037,6.0,37.0,California,Los Angeles County,17,27,NM
+35043,35,43,New Mexico,Sandoval County,6037,6.0,37.0,California,Los Angeles County,67,74,NM
+35045,35,45,New Mexico,San Juan County,6037,6.0,37.0,California,Los Angeles County,2,5,NM
+35049,35,49,New Mexico,Santa Fe County,6037,6.0,37.0,California,Los Angeles County,48,47,NM
+35053,35,53,New Mexico,Socorro County,6037,6.0,37.0,California,Los Angeles County,7,11,NM
+35049,35,49,New Mexico,Santa Fe County,6059,6.0,59.0,California,Orange County,15,21,NM
+35001,35,1,New Mexico,Bernalillo County,6065,6.0,65.0,California,Riverside County,10,16,NM
+35005,35,5,New Mexico,Chaves County,6065,6.0,65.0,California,Riverside County,5,8,NM
+35013,35,13,New Mexico,Doña Ana County,6065,6.0,65.0,California,Riverside County,7,12,NM
+35045,35,45,New Mexico,San Juan County,6067,6.0,67.0,California,Sacramento County,28,39,NM
+35001,35,1,New Mexico,Bernalillo County,6071,6.0,71.0,California,San Bernardino County,21,35,NM
+35007,35,7,New Mexico,Colfax County,6071,6.0,71.0,California,San Bernardino County,8,13,NM
+35043,35,43,New Mexico,Sandoval County,6071,6.0,71.0,California,San Bernardino County,9,15,NM
+35001,35,1,New Mexico,Bernalillo County,6073,6.0,73.0,California,San Diego County,7,11,NM
+35013,35,13,New Mexico,Doña Ana County,6073,6.0,73.0,California,San Diego County,9,15,NM
+35053,35,53,New Mexico,Socorro County,6073,6.0,73.0,California,San Diego County,53,78,NM
+35001,35,1,New Mexico,Bernalillo County,6075,6.0,75.0,California,San Francisco County,12,18,NM
+35001,35,1,New Mexico,Bernalillo County,6077,6.0,77.0,California,San Joaquin County,9,14,NM
+35043,35,43,New Mexico,Sandoval County,6085,6.0,85.0,California,Santa Clara County,9,10,NM
+35049,35,49,New Mexico,Santa Fe County,6085,6.0,85.0,California,Santa Clara County,4,6,NM
+35005,35,5,New Mexico,Chaves County,6087,6.0,87.0,California,Santa Cruz County,42,63,NM
+35001,35,1,New Mexico,Bernalillo County,6113,6.0,113.0,California,Yolo County,11,17,NM
+35001,35,1,New Mexico,Bernalillo County,8001,8.0,1.0,Colorado,Adams County,7,10,NM
+35031,35,31,New Mexico,McKinley County,8001,8.0,1.0,Colorado,Adams County,22,24,NM
+35049,35,49,New Mexico,Santa Fe County,8001,8.0,1.0,Colorado,Adams County,5,7,NM
+35043,35,43,New Mexico,Sandoval County,8005,8.0,5.0,Colorado,Arapahoe County,8,13,NM
+35045,35,45,New Mexico,San Juan County,8005,8.0,5.0,Colorado,Arapahoe County,16,24,NM
+35049,35,49,New Mexico,Santa Fe County,8005,8.0,5.0,Colorado,Arapahoe County,17,27,NM
+35045,35,45,New Mexico,San Juan County,8007,8.0,7.0,Colorado,Archuleta County,7,9,NM
+35045,35,45,New Mexico,San Juan County,8029,8.0,29.0,Colorado,Delta County,13,23,NM
+35001,35,1,New Mexico,Bernalillo County,8031,8.0,31.0,Colorado,Denver County,103,77,NM
+35043,35,43,New Mexico,Sandoval County,8031,8.0,31.0,Colorado,Denver County,43,35,NM
+35045,35,45,New Mexico,San Juan County,8031,8.0,31.0,Colorado,Denver County,13,19,NM
+35047,35,47,New Mexico,San Miguel County,8031,8.0,31.0,Colorado,Denver County,22,36,NM
+35049,35,49,New Mexico,Santa Fe County,8031,8.0,31.0,Colorado,Denver County,1,3,NM
+35007,35,7,New Mexico,Colfax County,8035,8.0,35.0,Colorado,Douglas County,7,12,NM
+35001,35,1,New Mexico,Bernalillo County,8037,8.0,37.0,Colorado,Eagle County,27,43,NM
+35031,35,31,New Mexico,McKinley County,8037,8.0,37.0,Colorado,Eagle County,1,3,NM
+35029,35,29,New Mexico,Luna County,8041,8.0,41.0,Colorado,El Paso County,21,27,NM
+35031,35,31,New Mexico,McKinley County,8041,8.0,41.0,Colorado,El Paso County,2,3,NM
+35041,35,41,New Mexico,Roosevelt County,8041,8.0,41.0,Colorado,El Paso County,10,14,NM
+35049,35,49,New Mexico,Santa Fe County,8041,8.0,41.0,Colorado,El Paso County,32,31,NM
+35045,35,45,New Mexico,San Juan County,8045,8.0,45.0,Colorado,Garfield County,40,80,NM
+35001,35,1,New Mexico,Bernalillo County,8059,8.0,59.0,Colorado,Jefferson County,19,27,NM
+35031,35,31,New Mexico,McKinley County,8059,8.0,59.0,Colorado,Jefferson County,3,5,NM
+35001,35,1,New Mexico,Bernalillo County,8067,8.0,67.0,Colorado,La Plata County,5,8,NM
+35031,35,31,New Mexico,McKinley County,8067,8.0,67.0,Colorado,La Plata County,5,7,NM
+35043,35,43,New Mexico,Sandoval County,8067,8.0,67.0,Colorado,La Plata County,6,7,NM
+35045,35,45,New Mexico,San Juan County,8067,8.0,67.0,Colorado,La Plata County,1090,273,NM
+35049,35,49,New Mexico,Santa Fe County,8067,8.0,67.0,Colorado,La Plata County,8,12,NM
+35001,35,1,New Mexico,Bernalillo County,8069,8.0,69.0,Colorado,Larimer County,34,53,NM
+35045,35,45,New Mexico,San Juan County,8069,8.0,69.0,Colorado,Larimer County,27,42,NM
+35007,35,7,New Mexico,Colfax County,8071,8.0,71.0,Colorado,Las Animas County,276,110,NM
+35059,35,59,New Mexico,Union County,8071,8.0,71.0,Colorado,Las Animas County,5,6,NM
+35001,35,1,New Mexico,Bernalillo County,8077,8.0,77.0,Colorado,Mesa County,47,50,NM
+35031,35,31,New Mexico,McKinley County,8077,8.0,77.0,Colorado,Mesa County,3,4,NM
+35039,35,39,New Mexico,Rio Arriba County,8077,8.0,77.0,Colorado,Mesa County,15,23,NM
+35045,35,45,New Mexico,San Juan County,8077,8.0,77.0,Colorado,Mesa County,2,3,NM
+35006,35,6,New Mexico,Cibola County,8083,8.0,83.0,Colorado,Montezuma County,19,28,NM
+35045,35,45,New Mexico,San Juan County,8083,8.0,83.0,Colorado,Montezuma County,117,45,NM
+35061,35,61,New Mexico,Valencia County,8083,8.0,83.0,Colorado,Montezuma County,18,30,NM
+35013,35,13,New Mexico,Doña Ana County,8085,8.0,85.0,Colorado,Montrose County,31,43,NM
+35021,35,21,New Mexico,Harding County,8101,8.0,101.0,Colorado,Pueblo County,5,6,NM
+35045,35,45,New Mexico,San Juan County,8101,8.0,101.0,Colorado,Pueblo County,11,17,NM
+35043,35,43,New Mexico,Sandoval County,8105,8.0,105.0,Colorado,Rio Grande County,3,4,NM
+35059,35,59,New Mexico,Union County,8105,8.0,105.0,Colorado,Rio Grande County,7,11,NM
+35045,35,45,New Mexico,San Juan County,8123,8.0,123.0,Colorado,Weld County,16,24,NM
+35049,35,49,New Mexico,Santa Fe County,9003,9.0,3.0,Connecticut,Hartford County,10,17,NM
+35001,35,1,New Mexico,Bernalillo County,11001,11.0,1.0,District of Columbia,District of Columbia,24,23,NM
+35049,35,49,New Mexico,Santa Fe County,11001,11.0,1.0,District of Columbia,District of Columbia,9,14,NM
+35013,35,13,New Mexico,Doña Ana County,12009,12.0,9.0,Florida,Brevard County,6,15,NM
+35049,35,49,New Mexico,Santa Fe County,12081,12.0,81.0,Florida,Manatee County,23,24,NM
+35001,35,1,New Mexico,Bernalillo County,12091,12.0,91.0,Florida,Okaloosa County,10,15,NM
+35009,35,9,New Mexico,Curry County,12091,12.0,91.0,Florida,Okaloosa County,2,4,NM
+35001,35,1,New Mexico,Bernalillo County,12095,12.0,95.0,Florida,Orange County,4,6,NM
+35025,35,25,New Mexico,Lea County,12095,12.0,95.0,Florida,Orange County,13,26,NM
+35043,35,43,New Mexico,Sandoval County,12095,12.0,95.0,Florida,Orange County,12,19,NM
+35049,35,49,New Mexico,Santa Fe County,12095,12.0,95.0,Florida,Orange County,8,12,NM
+35059,35,59,New Mexico,Union County,12095,12.0,95.0,Florida,Orange County,14,23,NM
+35001,35,1,New Mexico,Bernalillo County,12103,12.0,103.0,Florida,Pinellas County,9,10,NM
+35043,35,43,New Mexico,Sandoval County,12109,12.0,109.0,Florida,St. Johns County,7,12,NM
+35055,35,55,New Mexico,Taos County,12117,12.0,117.0,Florida,Seminole County,57,77,NM
+35001,35,1,New Mexico,Bernalillo County,12127,12.0,127.0,Florida,Volusia County,6,9,NM
+35045,35,45,New Mexico,San Juan County,12127,12.0,127.0,Florida,Volusia County,14,21,NM
+35005,35,5,New Mexico,Chaves County,13053,13.0,53.0,Georgia,Chattahoochee County,33,51,NM
+35001,35,1,New Mexico,Bernalillo County,13067,13.0,67.0,Georgia,Cobb County,9,13,NM
+35043,35,43,New Mexico,Sandoval County,13089,13.0,89.0,Georgia,DeKalb County,24,37,NM
+35001,35,1,New Mexico,Bernalillo County,13121,13.0,121.0,Georgia,Fulton County,4,6,NM
+35043,35,43,New Mexico,Sandoval County,13121,13.0,121.0,Georgia,Fulton County,14,24,NM
+35031,35,31,New Mexico,McKinley County,16005,16.0,5.0,Idaho,Bannock County,8,8,NM
+35028,35,28,New Mexico,Los Alamos County,16013,16.0,13.0,Idaho,Blaine County,17,28,NM
+35017,35,17,New Mexico,Grant County,16029,16.0,29.0,Idaho,Caribou County,5,8,NM
+35001,35,1,New Mexico,Bernalillo County,17031,17.0,31.0,Illinois,Cook County,35,36,NM
+35043,35,43,New Mexico,Sandoval County,17031,17.0,31.0,Illinois,Cook County,17,19,NM
+35049,35,49,New Mexico,Santa Fe County,17031,17.0,31.0,Illinois,Cook County,5,9,NM
+35049,35,49,New Mexico,Santa Fe County,17043,17.0,43.0,Illinois,DuPage County,4,6,NM
+35061,35,61,New Mexico,Valencia County,17097,17.0,97.0,Illinois,Lake County,9,15,NM
+35001,35,1,New Mexico,Bernalillo County,17167,17.0,167.0,Illinois,Sangamon County,17,24,NM
+35013,35,13,New Mexico,Doña Ana County,18057,18.0,57.0,Indiana,Hamilton County,26,30,NM
+35009,35,9,New Mexico,Curry County,18097,18.0,97.0,Indiana,Marion County,3,5,NM
+35049,35,49,New Mexico,Santa Fe County,18141,18.0,141.0,Indiana,St. Joseph County,6,9,NM
+35049,35,49,New Mexico,Santa Fe County,19149,19.0,149.0,Iowa,Plymouth County,2,2,NM
+35001,35,1,New Mexico,Bernalillo County,19153,19.0,153.0,Iowa,Polk County,68,109,NM
+35039,35,39,New Mexico,Rio Arriba County,19153,19.0,153.0,Iowa,Polk County,11,16,NM
+35001,35,1,New Mexico,Bernalillo County,20045,20.0,45.0,Kansas,Douglas County,12,18,NM
+35045,35,45,New Mexico,San Juan County,20045,20.0,45.0,Kansas,Douglas County,3,4,NM
+35015,35,15,New Mexico,Eddy County,20091,20.0,91.0,Kansas,Johnson County,30,42,NM
+35045,35,45,New Mexico,San Juan County,20091,20.0,91.0,Kansas,Johnson County,5,7,NM
+35045,35,45,New Mexico,San Juan County,20151,20.0,151.0,Kansas,Pratt County,16,18,NM
+35029,35,29,New Mexico,Luna County,20169,20.0,169.0,Kansas,Saline County,20,30,NM
+35043,35,43,New Mexico,Sandoval County,20173,20.0,173.0,Kansas,Sedgwick County,19,22,NM
+35049,35,49,New Mexico,Santa Fe County,20173,20.0,173.0,Kansas,Sedgwick County,9,14,NM
+35045,35,45,New Mexico,San Juan County,21111,21.0,111.0,Kentucky,Jefferson County,5,6,NM
+35061,35,61,New Mexico,Valencia County,21111,21.0,111.0,Kentucky,Jefferson County,13,20,NM
+35013,35,13,New Mexico,Doña Ana County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,160,217,NM
+35027,35,27,New Mexico,Lincoln County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,17,22,NM
+35031,35,31,New Mexico,McKinley County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,15,11,NM
+35061,35,61,New Mexico,Valencia County,22055,22.0,55.0,Louisiana,Lafayette Parish,9,14,NM
+35001,35,1,New Mexico,Bernalillo County,22071,22.0,71.0,Louisiana,Orleans Parish,14,16,NM
+35027,35,27,New Mexico,Lincoln County,22071,22.0,71.0,Louisiana,Orleans Parish,17,28,NM
+35001,35,1,New Mexico,Bernalillo County,24027,24.0,27.0,Maryland,Howard County,9,13,NM
+35001,35,1,New Mexico,Bernalillo County,24037,24.0,37.0,Maryland,St. Mary's County,4,7,NM
+35001,35,1,New Mexico,Bernalillo County,24510,24.0,510.0,Maryland,Baltimore city,11,17,NM
+35001,35,1,New Mexico,Bernalillo County,25015,25.0,15.0,Massachusetts,Hampshire County,5,8,NM
+35049,35,49,New Mexico,Santa Fe County,25017,25.0,17.0,Massachusetts,Middlesex County,2,3,NM
+35001,35,1,New Mexico,Bernalillo County,25025,25.0,25.0,Massachusetts,Suffolk County,9,15,NM
+35049,35,49,New Mexico,Santa Fe County,26105,26.0,105.0,Michigan,Mason County,6,9,NM
+35001,35,1,New Mexico,Bernalillo County,26125,26.0,125.0,Michigan,Oakland County,8,12,NM
+35001,35,1,New Mexico,Bernalillo County,26135,26.0,135.0,Michigan,Oscoda County,7,11,NM
+35013,35,13,New Mexico,Doña Ana County,26161,26.0,161.0,Michigan,Washtenaw County,8,12,NM
+35031,35,31,New Mexico,McKinley County,27013,27.0,13.0,Minnesota,Blue Earth County,2,3,NM
+35001,35,1,New Mexico,Bernalillo County,27053,27.0,53.0,Minnesota,Hennepin County,5,8,NM
+35013,35,13,New Mexico,Doña Ana County,27053,27.0,53.0,Minnesota,Hennepin County,15,24,NM
+35043,35,43,New Mexico,Sandoval County,27053,27.0,53.0,Minnesota,Hennepin County,11,17,NM
+35049,35,49,New Mexico,Santa Fe County,27053,27.0,53.0,Minnesota,Hennepin County,9,15,NM
+35013,35,13,New Mexico,Doña Ana County,27089,27.0,89.0,Minnesota,Marshall County,29,46,NM
+35045,35,45,New Mexico,San Juan County,27123,27.0,123.0,Minnesota,Ramsey County,6,20,NM
+35025,35,25,New Mexico,Lea County,28105,28.0,105.0,Mississippi,Oktibbeha County,4,5,NM
+35039,35,39,New Mexico,Rio Arriba County,28115,28.0,115.0,Mississippi,Pontotoc County,3,5,NM
+35009,35,9,New Mexico,Curry County,29009,29.0,9.0,Missouri,Barry County,7,12,NM
+35001,35,1,New Mexico,Bernalillo County,29077,29.0,77.0,Missouri,Greene County,32,38,NM
+35013,35,13,New Mexico,Doña Ana County,29091,29.0,91.0,Missouri,Howell County,15,24,NM
+35049,35,49,New Mexico,Santa Fe County,29095,29.0,95.0,Missouri,Jackson County,12,19,NM
+35027,35,27,New Mexico,Lincoln County,29169,29.0,169.0,Missouri,Pulaski County,17,29,NM
+35043,35,43,New Mexico,Sandoval County,29169,29.0,169.0,Missouri,Pulaski County,5,7,NM
+35001,35,1,New Mexico,Bernalillo County,29189,29.0,189.0,Missouri,St. Louis County,14,24,NM
+35049,35,49,New Mexico,Santa Fe County,29189,29.0,189.0,Missouri,St. Louis County,5,8,NM
+35028,35,28,New Mexico,Los Alamos County,29510,29.0,510.0,Missouri,St. Louis city,16,24,NM
+35035,35,35,New Mexico,Otero County,30013,30.0,13.0,Montana,Cascade County,10,15,NM
+35043,35,43,New Mexico,Sandoval County,30013,30.0,13.0,Montana,Cascade County,20,33,NM
+35059,35,59,New Mexico,Union County,30029,30.0,29.0,Montana,Flathead County,2,3,NM
+35001,35,1,New Mexico,Bernalillo County,30067,30.0,67.0,Montana,Park County,13,26,NM
+35005,35,5,New Mexico,Chaves County,30067,30.0,67.0,Montana,Park County,5,8,NM
+35045,35,45,New Mexico,San Juan County,30111,30.0,111.0,Montana,Yellowstone County,8,10,NM
+35031,35,31,New Mexico,McKinley County,31055,31.0,55.0,Nebraska,Douglas County,18,10,NM
+35043,35,43,New Mexico,Sandoval County,31055,31.0,55.0,Nebraska,Douglas County,3,4,NM
+35045,35,45,New Mexico,San Juan County,31055,31.0,55.0,Nebraska,Douglas County,7,9,NM
+35049,35,49,New Mexico,Santa Fe County,31055,31.0,55.0,Nebraska,Douglas County,3,4,NM
+35013,35,13,New Mexico,Doña Ana County,31109,31.0,109.0,Nebraska,Lancaster County,9,14,NM
+35043,35,43,New Mexico,Sandoval County,31111,31.0,111.0,Nebraska,Lincoln County,2,3,NM
+35001,35,1,New Mexico,Bernalillo County,32003,32.0,3.0,Nevada,Clark County,60,61,NM
+35028,35,28,New Mexico,Los Alamos County,32003,32.0,3.0,Nevada,Clark County,3,8,NM
+35029,35,29,New Mexico,Luna County,32003,32.0,3.0,Nevada,Clark County,16,28,NM
+35035,35,35,New Mexico,Otero County,32003,32.0,3.0,Nevada,Clark County,16,27,NM
+35043,35,43,New Mexico,Sandoval County,32003,32.0,3.0,Nevada,Clark County,36,56,NM
+35045,35,45,New Mexico,San Juan County,32003,32.0,3.0,Nevada,Clark County,38,38,NM
+35047,35,47,New Mexico,San Miguel County,32003,32.0,3.0,Nevada,Clark County,11,16,NM
+35061,35,61,New Mexico,Valencia County,32003,32.0,3.0,Nevada,Clark County,23,37,NM
+35045,35,45,New Mexico,San Juan County,32007,32.0,7.0,Nevada,Elko County,2,3,NM
+35001,35,1,New Mexico,Bernalillo County,32510,32.0,510.0,Nevada,Carson City,9,12,NM
+35001,35,1,New Mexico,Bernalillo County,33009,33.0,9.0,New Hampshire,Grafton County,36,41,NM
+35055,35,55,New Mexico,Taos County,34013,34.0,13.0,New Jersey,Essex County,4,6,NM
+35049,35,49,New Mexico,Santa Fe County,34021,34.0,21.0,New Jersey,Mercer County,14,24,NM
+35061,35,61,New Mexico,Valencia County,34029,34.0,29.0,New Jersey,Ocean County,18,29,NM
+35001,35,1,New Mexico,Bernalillo County,35001,35.0,1.0,New Mexico,Bernalillo County,285077,3075,NM
+35005,35,5,New Mexico,Chaves County,35001,35.0,1.0,New Mexico,Bernalillo County,68,64,NM
+35006,35,6,New Mexico,Cibola County,35001,35.0,1.0,New Mexico,Bernalillo County,391,113,NM
+35007,35,7,New Mexico,Colfax County,35001,35.0,1.0,New Mexico,Bernalillo County,25,25,NM
+35009,35,9,New Mexico,Curry County,35001,35.0,1.0,New Mexico,Bernalillo County,6,13,NM
+35013,35,13,New Mexico,Doña Ana County,35001,35.0,1.0,New Mexico,Bernalillo County,152,97,NM
+35015,35,15,New Mexico,Eddy County,35001,35.0,1.0,New Mexico,Bernalillo County,45,57,NM
+35019,35,19,New Mexico,Guadalupe County,35001,35.0,1.0,New Mexico,Bernalillo County,8,11,NM
+35025,35,25,New Mexico,Lea County,35001,35.0,1.0,New Mexico,Bernalillo County,43,58,NM
+35027,35,27,New Mexico,Lincoln County,35001,35.0,1.0,New Mexico,Bernalillo County,43,47,NM
+35028,35,28,New Mexico,Los Alamos County,35001,35.0,1.0,New Mexico,Bernalillo County,60,54,NM
+35029,35,29,New Mexico,Luna County,35001,35.0,1.0,New Mexico,Bernalillo County,49,65,NM
+35031,35,31,New Mexico,McKinley County,35001,35.0,1.0,New Mexico,Bernalillo County,183,45,NM
+35035,35,35,New Mexico,Otero County,35001,35.0,1.0,New Mexico,Bernalillo County,25,28,NM
+35039,35,39,New Mexico,Rio Arriba County,35001,35.0,1.0,New Mexico,Bernalillo County,50,24,NM
+35041,35,41,New Mexico,Roosevelt County,35001,35.0,1.0,New Mexico,Bernalillo County,18,25,NM
+35043,35,43,New Mexico,Sandoval County,35001,35.0,1.0,New Mexico,Bernalillo County,27942,1050,NM
+35045,35,45,New Mexico,San Juan County,35001,35.0,1.0,New Mexico,Bernalillo County,121,84,NM
+35047,35,47,New Mexico,San Miguel County,35001,35.0,1.0,New Mexico,Bernalillo County,111,84,NM
+35049,35,49,New Mexico,Santa Fe County,35001,35.0,1.0,New Mexico,Bernalillo County,3991,406,NM
+35053,35,53,New Mexico,Socorro County,35001,35.0,1.0,New Mexico,Bernalillo County,159,82,NM
+35055,35,55,New Mexico,Taos County,35001,35.0,1.0,New Mexico,Bernalillo County,11,13,NM
+35057,35,57,New Mexico,Torrance County,35001,35.0,1.0,New Mexico,Bernalillo County,1899,250,NM
+35061,35,61,New Mexico,Valencia County,35001,35.0,1.0,New Mexico,Bernalillo County,11353,698,NM
+35003,35,3,New Mexico,Catron County,35003,35.0,3.0,New Mexico,Catron County,915,182,NM
+35013,35,13,New Mexico,Doña Ana County,35003,35.0,3.0,New Mexico,Catron County,5,14,NM
+35043,35,43,New Mexico,Sandoval County,35003,35.0,3.0,New Mexico,Catron County,4,5,NM
+35053,35,53,New Mexico,Socorro County,35003,35.0,3.0,New Mexico,Catron County,13,22,NM
+35061,35,61,New Mexico,Valencia County,35003,35.0,3.0,New Mexico,Catron County,2,9,NM
+35001,35,1,New Mexico,Bernalillo County,35005,35.0,5.0,New Mexico,Chaves County,11,16,NM
+35005,35,5,New Mexico,Chaves County,35005,35.0,5.0,New Mexico,Chaves County,22585,883,NM
+35009,35,9,New Mexico,Curry County,35005,35.0,5.0,New Mexico,Chaves County,17,22,NM
+35011,35,11,New Mexico,De Baca County,35005,35.0,5.0,New Mexico,Chaves County,16,23,NM
+35013,35,13,New Mexico,Doña Ana County,35005,35.0,5.0,New Mexico,Chaves County,65,67,NM
+35015,35,15,New Mexico,Eddy County,35005,35.0,5.0,New Mexico,Chaves County,179,83,NM
+35025,35,25,New Mexico,Lea County,35005,35.0,5.0,New Mexico,Chaves County,31,42,NM
+35027,35,27,New Mexico,Lincoln County,35005,35.0,5.0,New Mexico,Chaves County,146,83,NM
+35035,35,35,New Mexico,Otero County,35005,35.0,5.0,New Mexico,Chaves County,63,65,NM
+35037,35,37,New Mexico,Quay County,35005,35.0,5.0,New Mexico,Chaves County,10,13,NM
+35041,35,41,New Mexico,Roosevelt County,35005,35.0,5.0,New Mexico,Chaves County,5,9,NM
+35045,35,45,New Mexico,San Juan County,35005,35.0,5.0,New Mexico,Chaves County,23,32,NM
+35055,35,55,New Mexico,Taos County,35005,35.0,5.0,New Mexico,Chaves County,2,3,NM
+35057,35,57,New Mexico,Torrance County,35005,35.0,5.0,New Mexico,Chaves County,19,28,NM
+35061,35,61,New Mexico,Valencia County,35005,35.0,5.0,New Mexico,Chaves County,6,9,NM
+35001,35,1,New Mexico,Bernalillo County,35006,35.0,6.0,New Mexico,Cibola County,587,225,NM
+35006,35,6,New Mexico,Cibola County,35006,35.0,6.0,New Mexico,Cibola County,7901,501,NM
+35013,35,13,New Mexico,Doña Ana County,35006,35.0,6.0,New Mexico,Cibola County,94,126,NM
+35031,35,31,New Mexico,McKinley County,35006,35.0,6.0,New Mexico,Cibola County,521,129,NM
+35043,35,43,New Mexico,Sandoval County,35006,35.0,6.0,New Mexico,Cibola County,44,54,NM
+35045,35,45,New Mexico,San Juan County,35006,35.0,6.0,New Mexico,Cibola County,19,21,NM
+35049,35,49,New Mexico,Santa Fe County,35006,35.0,6.0,New Mexico,Cibola County,17,19,NM
+35061,35,61,New Mexico,Valencia County,35006,35.0,6.0,New Mexico,Cibola County,86,76,NM
+35001,35,1,New Mexico,Bernalillo County,35007,35.0,7.0,New Mexico,Colfax County,12,19,NM
+35007,35,7,New Mexico,Colfax County,35007,35.0,7.0,New Mexico,Colfax County,4439,310,NM
+35013,35,13,New Mexico,Doña Ana County,35007,35.0,7.0,New Mexico,Colfax County,6,12,NM
+35015,35,15,New Mexico,Eddy County,35007,35.0,7.0,New Mexico,Colfax County,24,38,NM
+35021,35,21,New Mexico,Harding County,35007,35.0,7.0,New Mexico,Colfax County,18,15,NM
+35025,35,25,New Mexico,Lea County,35007,35.0,7.0,New Mexico,Colfax County,10,16,NM
+35033,35,33,New Mexico,Mora County,35007,35.0,7.0,New Mexico,Colfax County,38,29,NM
+35037,35,37,New Mexico,Quay County,35007,35.0,7.0,New Mexico,Colfax County,7,6,NM
+35049,35,49,New Mexico,Santa Fe County,35007,35.0,7.0,New Mexico,Colfax County,3,5,NM
+35055,35,55,New Mexico,Taos County,35007,35.0,7.0,New Mexico,Colfax County,123,72,NM
+35059,35,59,New Mexico,Union County,35007,35.0,7.0,New Mexico,Colfax County,44,34,NM
+35061,35,61,New Mexico,Valencia County,35007,35.0,7.0,New Mexico,Colfax County,12,21,NM
+35001,35,1,New Mexico,Bernalillo County,35009,35.0,9.0,New Mexico,Curry County,30,25,NM
+35007,35,7,New Mexico,Colfax County,35009,35.0,9.0,New Mexico,Curry County,4,6,NM
+35009,35,9,New Mexico,Curry County,35009,35.0,9.0,New Mexico,Curry County,20438,694,NM
+35011,35,11,New Mexico,De Baca County,35009,35.0,9.0,New Mexico,Curry County,41,32,NM
+35013,35,13,New Mexico,Doña Ana County,35009,35.0,9.0,New Mexico,Curry County,57,52,NM
+35025,35,25,New Mexico,Lea County,35009,35.0,9.0,New Mexico,Curry County,46,48,NM
+35029,35,29,New Mexico,Luna County,35009,35.0,9.0,New Mexico,Curry County,24,34,NM
+35035,35,35,New Mexico,Otero County,35009,35.0,9.0,New Mexico,Curry County,24,40,NM
+35037,35,37,New Mexico,Quay County,35009,35.0,9.0,New Mexico,Curry County,57,55,NM
+35041,35,41,New Mexico,Roosevelt County,35009,35.0,9.0,New Mexico,Curry County,1875,291,NM
+35043,35,43,New Mexico,Sandoval County,35009,35.0,9.0,New Mexico,Curry County,4,6,NM
+35049,35,49,New Mexico,Santa Fe County,35009,35.0,9.0,New Mexico,Curry County,7,11,NM
+35053,35,53,New Mexico,Socorro County,35009,35.0,9.0,New Mexico,Curry County,7,14,NM
+35061,35,61,New Mexico,Valencia County,35009,35.0,9.0,New Mexico,Curry County,26,26,NM
+35009,35,9,New Mexico,Curry County,35011,35.0,11.0,New Mexico,De Baca County,13,11,NM
+35011,35,11,New Mexico,De Baca County,35011,35.0,11.0,New Mexico,De Baca County,507,135,NM
+35019,35,19,New Mexico,Guadalupe County,35011,35.0,11.0,New Mexico,De Baca County,14,24,NM
+35037,35,37,New Mexico,Quay County,35011,35.0,11.0,New Mexico,De Baca County,2,2,NM
+35041,35,41,New Mexico,Roosevelt County,35011,35.0,11.0,New Mexico,De Baca County,1,3,NM
+35061,35,61,New Mexico,Valencia County,35011,35.0,11.0,New Mexico,De Baca County,9,16,NM
+35001,35,1,New Mexico,Bernalillo County,35013,35.0,13.0,New Mexico,Doña Ana County,36,36,NM
+35005,35,5,New Mexico,Chaves County,35013,35.0,13.0,New Mexico,Doña Ana County,6,10,NM
+35006,35,6,New Mexico,Cibola County,35013,35.0,13.0,New Mexico,Doña Ana County,6,11,NM
+35009,35,9,New Mexico,Curry County,35013,35.0,13.0,New Mexico,Doña Ana County,27,34,NM
+35013,35,13,New Mexico,Doña Ana County,35013,35.0,13.0,New Mexico,Doña Ana County,72553,1330,NM
+35015,35,15,New Mexico,Eddy County,35013,35.0,13.0,New Mexico,Doña Ana County,6,10,NM
+35017,35,17,New Mexico,Grant County,35013,35.0,13.0,New Mexico,Doña Ana County,17,17,NM
+35023,35,23,New Mexico,Hidalgo County,35013,35.0,13.0,New Mexico,Doña Ana County,4,6,NM
+35027,35,27,New Mexico,Lincoln County,35013,35.0,13.0,New Mexico,Doña Ana County,67,72,NM
+35029,35,29,New Mexico,Luna County,35013,35.0,13.0,New Mexico,Doña Ana County,257,131,NM
+35031,35,31,New Mexico,McKinley County,35013,35.0,13.0,New Mexico,Doña Ana County,1,2,NM
+35035,35,35,New Mexico,Otero County,35013,35.0,13.0,New Mexico,Doña Ana County,655,188,NM
+35045,35,45,New Mexico,San Juan County,35013,35.0,13.0,New Mexico,Doña Ana County,7,11,NM
+35051,35,51,New Mexico,Sierra County,35013,35.0,13.0,New Mexico,Doña Ana County,64,44,NM
+35053,35,53,New Mexico,Socorro County,35013,35.0,13.0,New Mexico,Doña Ana County,83,101,NM
+35061,35,61,New Mexico,Valencia County,35013,35.0,13.0,New Mexico,Doña Ana County,66,54,NM
+35001,35,1,New Mexico,Bernalillo County,35015,35.0,15.0,New Mexico,Eddy County,117,95,NM
+35005,35,5,New Mexico,Chaves County,35015,35.0,15.0,New Mexico,Eddy County,2275,298,NM
+35013,35,13,New Mexico,Doña Ana County,35015,35.0,15.0,New Mexico,Eddy County,170,116,NM
+35015,35,15,New Mexico,Eddy County,35015,35.0,15.0,New Mexico,Eddy County,24487,682,NM
+35025,35,25,New Mexico,Lea County,35015,35.0,15.0,New Mexico,Eddy County,492,139,NM
+35027,35,27,New Mexico,Lincoln County,35015,35.0,15.0,New Mexico,Eddy County,45,49,NM
+35035,35,35,New Mexico,Otero County,35015,35.0,15.0,New Mexico,Eddy County,28,28,NM
+35037,35,37,New Mexico,Quay County,35015,35.0,15.0,New Mexico,Eddy County,1,5,NM
+35041,35,41,New Mexico,Roosevelt County,35015,35.0,15.0,New Mexico,Eddy County,2,3,NM
+35045,35,45,New Mexico,San Juan County,35015,35.0,15.0,New Mexico,Eddy County,17,16,NM
+35049,35,49,New Mexico,Santa Fe County,35015,35.0,15.0,New Mexico,Eddy County,22,37,NM
+35061,35,61,New Mexico,Valencia County,35015,35.0,15.0,New Mexico,Eddy County,7,11,NM
+35001,35,1,New Mexico,Bernalillo County,35017,35.0,17.0,New Mexico,Grant County,52,38,NM
+35005,35,5,New Mexico,Chaves County,35017,35.0,17.0,New Mexico,Grant County,23,28,NM
+35013,35,13,New Mexico,Doña Ana County,35017,35.0,17.0,New Mexico,Grant County,111,95,NM
+35017,35,17,New Mexico,Grant County,35017,35.0,17.0,New Mexico,Grant County,9916,568,NM
+35023,35,23,New Mexico,Hidalgo County,35017,35.0,17.0,New Mexico,Grant County,82,58,NM
+35029,35,29,New Mexico,Luna County,35017,35.0,17.0,New Mexico,Grant County,171,73,NM
+35039,35,39,New Mexico,Rio Arriba County,35017,35.0,17.0,New Mexico,Grant County,8,12,NM
+35049,35,49,New Mexico,Santa Fe County,35017,35.0,17.0,New Mexico,Grant County,1,2,NM
+35009,35,9,New Mexico,Curry County,35019,35.0,19.0,New Mexico,Guadalupe County,4,7,NM
+35019,35,19,New Mexico,Guadalupe County,35019,35.0,19.0,New Mexico,Guadalupe County,1185,213,NM
+35027,35,27,New Mexico,Lincoln County,35019,35.0,19.0,New Mexico,Guadalupe County,9,11,NM
+35037,35,37,New Mexico,Quay County,35019,35.0,19.0,New Mexico,Guadalupe County,11,18,NM
+35043,35,43,New Mexico,Sandoval County,35019,35.0,19.0,New Mexico,Guadalupe County,2,3,NM
+35047,35,47,New Mexico,San Miguel County,35019,35.0,19.0,New Mexico,Guadalupe County,16,19,NM
+35057,35,57,New Mexico,Torrance County,35019,35.0,19.0,New Mexico,Guadalupe County,20,24,NM
+35061,35,61,New Mexico,Valencia County,35019,35.0,19.0,New Mexico,Guadalupe County,30,51,NM
+35021,35,21,New Mexico,Harding County,35021,35.0,21.0,New Mexico,Harding County,161,45,NM
+35031,35,31,New Mexico,McKinley County,35021,35.0,21.0,New Mexico,Harding County,1,2,NM
+35037,35,37,New Mexico,Quay County,35021,35.0,21.0,New Mexico,Harding County,40,56,NM
+35047,35,47,New Mexico,San Miguel County,35021,35.0,21.0,New Mexico,Harding County,32,52,NM
+35001,35,1,New Mexico,Bernalillo County,35023,35.0,23.0,New Mexico,Hidalgo County,8,12,NM
+35013,35,13,New Mexico,Doña Ana County,35023,35.0,23.0,New Mexico,Hidalgo County,12,18,NM
+35017,35,17,New Mexico,Grant County,35023,35.0,23.0,New Mexico,Hidalgo County,34,30,NM
+35023,35,23,New Mexico,Hidalgo County,35023,35.0,23.0,New Mexico,Hidalgo County,1508,131,NM
+35029,35,29,New Mexico,Luna County,35023,35.0,23.0,New Mexico,Hidalgo County,119,118,NM
+35001,35,1,New Mexico,Bernalillo County,35025,35.0,25.0,New Mexico,Lea County,166,111,NM
+35005,35,5,New Mexico,Chaves County,35025,35.0,25.0,New Mexico,Lea County,186,115,NM
+35009,35,9,New Mexico,Curry County,35025,35.0,25.0,New Mexico,Lea County,21,27,NM
+35013,35,13,New Mexico,Doña Ana County,35025,35.0,25.0,New Mexico,Lea County,146,117,NM
+35015,35,15,New Mexico,Eddy County,35025,35.0,25.0,New Mexico,Lea County,266,119,NM
+35025,35,25,New Mexico,Lea County,35025,35.0,25.0,New Mexico,Lea County,27158,631,NM
+35029,35,29,New Mexico,Luna County,35025,35.0,25.0,New Mexico,Lea County,19,31,NM
+35035,35,35,New Mexico,Otero County,35025,35.0,25.0,New Mexico,Lea County,28,46,NM
+35039,35,39,New Mexico,Rio Arriba County,35025,35.0,25.0,New Mexico,Lea County,3,6,NM
+35041,35,41,New Mexico,Roosevelt County,35025,35.0,25.0,New Mexico,Lea County,70,54,NM
+35043,35,43,New Mexico,Sandoval County,35025,35.0,25.0,New Mexico,Lea County,26,36,NM
+35045,35,45,New Mexico,San Juan County,35025,35.0,25.0,New Mexico,Lea County,24,29,NM
+35049,35,49,New Mexico,Santa Fe County,35025,35.0,25.0,New Mexico,Lea County,30,33,NM
+35053,35,53,New Mexico,Socorro County,35025,35.0,25.0,New Mexico,Lea County,6,11,NM
+35057,35,57,New Mexico,Torrance County,35025,35.0,25.0,New Mexico,Lea County,11,17,NM
+35061,35,61,New Mexico,Valencia County,35025,35.0,25.0,New Mexico,Lea County,53,64,NM
+35001,35,1,New Mexico,Bernalillo County,35027,35.0,27.0,New Mexico,Lincoln County,81,67,NM
+35005,35,5,New Mexico,Chaves County,35027,35.0,27.0,New Mexico,Lincoln County,182,116,NM
+35013,35,13,New Mexico,Doña Ana County,35027,35.0,27.0,New Mexico,Lincoln County,58,50,NM
+35015,35,15,New Mexico,Eddy County,35027,35.0,27.0,New Mexico,Lincoln County,11,17,NM
+35017,35,17,New Mexico,Grant County,35027,35.0,27.0,New Mexico,Lincoln County,22,37,NM
+35023,35,23,New Mexico,Hidalgo County,35027,35.0,27.0,New Mexico,Lincoln County,37,39,NM
+35027,35,27,New Mexico,Lincoln County,35027,35.0,27.0,New Mexico,Lincoln County,6595,444,NM
+35031,35,31,New Mexico,McKinley County,35027,35.0,27.0,New Mexico,Lincoln County,3,5,NM
+35035,35,35,New Mexico,Otero County,35027,35.0,27.0,New Mexico,Lincoln County,195,93,NM
+35043,35,43,New Mexico,Sandoval County,35027,35.0,27.0,New Mexico,Lincoln County,8,9,NM
+35057,35,57,New Mexico,Torrance County,35027,35.0,27.0,New Mexico,Lincoln County,14,15,NM
+35001,35,1,New Mexico,Bernalillo County,35028,35.0,28.0,New Mexico,Los Alamos County,477,145,NM
+35007,35,7,New Mexico,Colfax County,35028,35.0,28.0,New Mexico,Los Alamos County,15,17,NM
+35013,35,13,New Mexico,Doña Ana County,35028,35.0,28.0,New Mexico,Los Alamos County,25,28,NM
+35028,35,28,New Mexico,Los Alamos County,35028,35.0,28.0,New Mexico,Los Alamos County,8278,321,NM
+35031,35,31,New Mexico,McKinley County,35028,35.0,28.0,New Mexico,Los Alamos County,1,2,NM
+35033,35,33,New Mexico,Mora County,35028,35.0,28.0,New Mexico,Los Alamos County,3,4,NM
+35039,35,39,New Mexico,Rio Arriba County,35028,35.0,28.0,New Mexico,Los Alamos County,2605,363,NM
+35043,35,43,New Mexico,Sandoval County,35028,35.0,28.0,New Mexico,Los Alamos County,686,175,NM
+35045,35,45,New Mexico,San Juan County,35028,35.0,28.0,New Mexico,Los Alamos County,17,11,NM
+35047,35,47,New Mexico,San Miguel County,35028,35.0,28.0,New Mexico,Los Alamos County,98,109,NM
+35049,35,49,New Mexico,Santa Fe County,35028,35.0,28.0,New Mexico,Los Alamos County,3703,364,NM
+35055,35,55,New Mexico,Taos County,35028,35.0,28.0,New Mexico,Los Alamos County,124,59,NM
+35061,35,61,New Mexico,Valencia County,35028,35.0,28.0,New Mexico,Los Alamos County,31,35,NM
+35001,35,1,New Mexico,Bernalillo County,35029,35.0,29.0,New Mexico,Luna County,16,26,NM
+35013,35,13,New Mexico,Doña Ana County,35029,35.0,29.0,New Mexico,Luna County,343,152,NM
+35017,35,17,New Mexico,Grant County,35029,35.0,29.0,New Mexico,Luna County,231,150,NM
+35029,35,29,New Mexico,Luna County,35029,35.0,29.0,New Mexico,Luna County,7274,506,NM
+35031,35,31,New Mexico,McKinley County,35029,35.0,29.0,New Mexico,Luna County,4,6,NM
+35051,35,51,New Mexico,Sierra County,35029,35.0,29.0,New Mexico,Luna County,37,44,NM
+35055,35,55,New Mexico,Taos County,35029,35.0,29.0,New Mexico,Luna County,26,39,NM
+35001,35,1,New Mexico,Bernalillo County,35031,35.0,31.0,New Mexico,McKinley County,268,161,NM
+35006,35,6,New Mexico,Cibola County,35031,35.0,31.0,New Mexico,McKinley County,765,230,NM
+35031,35,31,New Mexico,McKinley County,35031,35.0,31.0,New Mexico,McKinley County,20212,675,NM
+35035,35,35,New Mexico,Otero County,35031,35.0,31.0,New Mexico,McKinley County,11,18,NM
+35039,35,39,New Mexico,Rio Arriba County,35031,35.0,31.0,New Mexico,McKinley County,5,8,NM
+35043,35,43,New Mexico,Sandoval County,35031,35.0,31.0,New Mexico,McKinley County,84,34,NM
+35045,35,45,New Mexico,San Juan County,35031,35.0,31.0,New Mexico,McKinley County,259,53,NM
+35049,35,49,New Mexico,Santa Fe County,35031,35.0,31.0,New Mexico,McKinley County,24,25,NM
+35055,35,55,New Mexico,Taos County,35031,35.0,31.0,New Mexico,McKinley County,2,3,NM
+35061,35,61,New Mexico,Valencia County,35031,35.0,31.0,New Mexico,McKinley County,93,83,NM
+35001,35,1,New Mexico,Bernalillo County,35033,35.0,33.0,New Mexico,Mora County,26,37,NM
+35033,35,33,New Mexico,Mora County,35033,35.0,33.0,New Mexico,Mora County,579,165,NM
+35045,35,45,New Mexico,San Juan County,35033,35.0,33.0,New Mexico,Mora County,6,11,NM
+35047,35,47,New Mexico,San Miguel County,35033,35.0,33.0,New Mexico,Mora County,23,34,NM
+35049,35,49,New Mexico,Santa Fe County,35033,35.0,33.0,New Mexico,Mora County,37,44,NM
+35055,35,55,New Mexico,Taos County,35033,35.0,33.0,New Mexico,Mora County,1,3,NM
+35001,35,1,New Mexico,Bernalillo County,35035,35.0,35.0,New Mexico,Otero County,17,19,NM
+35005,35,5,New Mexico,Chaves County,35035,35.0,35.0,New Mexico,Otero County,16,19,NM
+35009,35,9,New Mexico,Curry County,35035,35.0,35.0,New Mexico,Otero County,11,16,NM
+35013,35,13,New Mexico,Doña Ana County,35035,35.0,35.0,New Mexico,Otero County,653,207,NM
+35015,35,15,New Mexico,Eddy County,35035,35.0,35.0,New Mexico,Otero County,39,44,NM
+35027,35,27,New Mexico,Lincoln County,35035,35.0,35.0,New Mexico,Otero County,567,211,NM
+35035,35,35,New Mexico,Otero County,35035,35.0,35.0,New Mexico,Otero County,21541,829,NM
+35043,35,43,New Mexico,Sandoval County,35035,35.0,35.0,New Mexico,Otero County,10,14,NM
+35049,35,49,New Mexico,Santa Fe County,35035,35.0,35.0,New Mexico,Otero County,21,25,NM
+35061,35,61,New Mexico,Valencia County,35035,35.0,35.0,New Mexico,Otero County,22,41,NM
+35009,35,9,New Mexico,Curry County,35037,35.0,37.0,New Mexico,Quay County,76,67,NM
+35011,35,11,New Mexico,De Baca County,35037,35.0,37.0,New Mexico,Quay County,1,2,NM
+35015,35,15,New Mexico,Eddy County,35037,35.0,37.0,New Mexico,Quay County,10,16,NM
+35019,35,19,New Mexico,Guadalupe County,35037,35.0,37.0,New Mexico,Quay County,19,14,NM
+35021,35,21,New Mexico,Harding County,35037,35.0,37.0,New Mexico,Quay County,18,16,NM
+35023,35,23,New Mexico,Hidalgo County,35037,35.0,37.0,New Mexico,Quay County,1,2,NM
+35033,35,33,New Mexico,Mora County,35037,35.0,37.0,New Mexico,Quay County,2,3,NM
+35037,35,37,New Mexico,Quay County,35037,35.0,37.0,New Mexico,Quay County,2651,269,NM
+35041,35,41,New Mexico,Roosevelt County,35037,35.0,37.0,New Mexico,Quay County,5,6,NM
+35049,35,49,New Mexico,Santa Fe County,35037,35.0,37.0,New Mexico,Quay County,30,38,NM
+35001,35,1,New Mexico,Bernalillo County,35039,35.0,39.0,New Mexico,Rio Arriba County,146,100,NM
+35005,35,5,New Mexico,Chaves County,35039,35.0,39.0,New Mexico,Rio Arriba County,5,6,NM
+35013,35,13,New Mexico,Doña Ana County,35039,35.0,39.0,New Mexico,Rio Arriba County,8,14,NM
+35015,35,15,New Mexico,Eddy County,35039,35.0,39.0,New Mexico,Rio Arriba County,61,66,NM
+35028,35,28,New Mexico,Los Alamos County,35039,35.0,39.0,New Mexico,Rio Arriba County,63,37,NM
+35031,35,31,New Mexico,McKinley County,35039,35.0,39.0,New Mexico,Rio Arriba County,13,11,NM
+35035,35,35,New Mexico,Otero County,35039,35.0,39.0,New Mexico,Rio Arriba County,12,18,NM
+35039,35,39,New Mexico,Rio Arriba County,35039,35.0,39.0,New Mexico,Rio Arriba County,8850,604,NM
+35043,35,43,New Mexico,Sandoval County,35039,35.0,39.0,New Mexico,Rio Arriba County,59,32,NM
+35045,35,45,New Mexico,San Juan County,35039,35.0,39.0,New Mexico,Rio Arriba County,105,63,NM
+35049,35,49,New Mexico,Santa Fe County,35039,35.0,39.0,New Mexico,Rio Arriba County,1960,243,NM
+35055,35,55,New Mexico,Taos County,35039,35.0,39.0,New Mexico,Rio Arriba County,239,115,NM
+35001,35,1,New Mexico,Bernalillo County,35041,35.0,41.0,New Mexico,Roosevelt County,13,19,NM
+35005,35,5,New Mexico,Chaves County,35041,35.0,41.0,New Mexico,Roosevelt County,38,41,NM
+35009,35,9,New Mexico,Curry County,35041,35.0,41.0,New Mexico,Roosevelt County,754,223,NM
+35025,35,25,New Mexico,Lea County,35041,35.0,41.0,New Mexico,Roosevelt County,4,7,NM
+35027,35,27,New Mexico,Lincoln County,35041,35.0,41.0,New Mexico,Roosevelt County,16,27,NM
+35041,35,41,New Mexico,Roosevelt County,35041,35.0,41.0,New Mexico,Roosevelt County,5965,387,NM
+35001,35,1,New Mexico,Bernalillo County,35043,35.0,43.0,New Mexico,Sandoval County,10084,666,NM
+35006,35,6,New Mexico,Cibola County,35043,35.0,43.0,New Mexico,Sandoval County,17,20,NM
+35028,35,28,New Mexico,Los Alamos County,35043,35.0,43.0,New Mexico,Sandoval County,14,21,NM
+35031,35,31,New Mexico,McKinley County,35043,35.0,43.0,New Mexico,Sandoval County,68,23,NM
+35035,35,35,New Mexico,Otero County,35043,35.0,43.0,New Mexico,Sandoval County,14,17,NM
+35039,35,39,New Mexico,Rio Arriba County,35043,35.0,43.0,New Mexico,Sandoval County,62,41,NM
+35043,35,43,New Mexico,Sandoval County,35043,35.0,43.0,New Mexico,Sandoval County,24499,918,NM
+35045,35,45,New Mexico,San Juan County,35043,35.0,43.0,New Mexico,Sandoval County,44,51,NM
+35047,35,47,New Mexico,San Miguel County,35043,35.0,43.0,New Mexico,Sandoval County,67,79,NM
+35049,35,49,New Mexico,Santa Fe County,35043,35.0,43.0,New Mexico,Sandoval County,191,91,NM
+35053,35,53,New Mexico,Socorro County,35043,35.0,43.0,New Mexico,Sandoval County,14,17,NM
+35055,35,55,New Mexico,Taos County,35043,35.0,43.0,New Mexico,Sandoval County,35,51,NM
+35061,35,61,New Mexico,Valencia County,35043,35.0,43.0,New Mexico,Sandoval County,214,104,NM
+35001,35,1,New Mexico,Bernalillo County,35045,35.0,45.0,New Mexico,San Juan County,116,47,NM
+35006,35,6,New Mexico,Cibola County,35045,35.0,45.0,New Mexico,San Juan County,22,33,NM
+35031,35,31,New Mexico,McKinley County,35045,35.0,45.0,New Mexico,San Juan County,447,114,NM
+35033,35,33,New Mexico,Mora County,35045,35.0,45.0,New Mexico,San Juan County,2,3,NM
+35039,35,39,New Mexico,Rio Arriba County,35045,35.0,45.0,New Mexico,San Juan County,79,43,NM
+35043,35,43,New Mexico,Sandoval County,35045,35.0,45.0,New Mexico,San Juan County,121,62,NM
+35045,35,45,New Mexico,San Juan County,35045,35.0,45.0,New Mexico,San Juan County,48217,1135,NM
+35049,35,49,New Mexico,Santa Fe County,35045,35.0,45.0,New Mexico,San Juan County,11,15,NM
+35053,35,53,New Mexico,Socorro County,35045,35.0,45.0,New Mexico,San Juan County,4,7,NM
+35061,35,61,New Mexico,Valencia County,35045,35.0,45.0,New Mexico,San Juan County,12,15,NM
+35001,35,1,New Mexico,Bernalillo County,35047,35.0,47.0,New Mexico,San Miguel County,114,76,NM
+35007,35,7,New Mexico,Colfax County,35047,35.0,47.0,New Mexico,San Miguel County,4,6,NM
+35009,35,9,New Mexico,Curry County,35047,35.0,47.0,New Mexico,San Miguel County,57,60,NM
+35019,35,19,New Mexico,Guadalupe County,35047,35.0,47.0,New Mexico,San Miguel County,32,27,NM
+35021,35,21,New Mexico,Harding County,35047,35.0,47.0,New Mexico,San Miguel County,1,2,NM
+35031,35,31,New Mexico,McKinley County,35047,35.0,47.0,New Mexico,San Miguel County,1,3,NM
+35033,35,33,New Mexico,Mora County,35047,35.0,47.0,New Mexico,San Miguel County,534,176,NM
+35043,35,43,New Mexico,Sandoval County,35047,35.0,47.0,New Mexico,San Miguel County,75,58,NM
+35045,35,45,New Mexico,San Juan County,35047,35.0,47.0,New Mexico,San Miguel County,12,16,NM
+35047,35,47,New Mexico,San Miguel County,35047,35.0,47.0,New Mexico,San Miguel County,7247,626,NM
+35049,35,49,New Mexico,Santa Fe County,35047,35.0,47.0,New Mexico,San Miguel County,188,78,NM
+35057,35,57,New Mexico,Torrance County,35047,35.0,47.0,New Mexico,San Miguel County,6,11,NM
+35059,35,59,New Mexico,Union County,35047,35.0,47.0,New Mexico,San Miguel County,2,4,NM
+35001,35,1,New Mexico,Bernalillo County,35049,35.0,49.0,New Mexico,Santa Fe County,3658,441,NM
+35005,35,5,New Mexico,Chaves County,35049,35.0,49.0,New Mexico,Santa Fe County,36,46,NM
+35006,35,6,New Mexico,Cibola County,35049,35.0,49.0,New Mexico,Santa Fe County,18,19,NM
+35007,35,7,New Mexico,Colfax County,35049,35.0,49.0,New Mexico,Santa Fe County,3,4,NM
+35011,35,11,New Mexico,De Baca County,35049,35.0,49.0,New Mexico,Santa Fe County,6,10,NM
+35013,35,13,New Mexico,Doña Ana County,35049,35.0,49.0,New Mexico,Santa Fe County,47,43,NM
+35019,35,19,New Mexico,Guadalupe County,35049,35.0,49.0,New Mexico,Santa Fe County,6,8,NM
+35027,35,27,New Mexico,Lincoln County,35049,35.0,49.0,New Mexico,Santa Fe County,12,20,NM
+35028,35,28,New Mexico,Los Alamos County,35049,35.0,49.0,New Mexico,Santa Fe County,382,132,NM
+35029,35,29,New Mexico,Luna County,35049,35.0,49.0,New Mexico,Santa Fe County,15,23,NM
+35031,35,31,New Mexico,McKinley County,35049,35.0,49.0,New Mexico,Santa Fe County,4,4,NM
+35033,35,33,New Mexico,Mora County,35049,35.0,49.0,New Mexico,Santa Fe County,6,10,NM
+35035,35,35,New Mexico,Otero County,35049,35.0,49.0,New Mexico,Santa Fe County,8,12,NM
+35039,35,39,New Mexico,Rio Arriba County,35049,35.0,49.0,New Mexico,Santa Fe County,3029,338,NM
+35041,35,41,New Mexico,Roosevelt County,35049,35.0,49.0,New Mexico,Santa Fe County,9,16,NM
+35043,35,43,New Mexico,Sandoval County,35049,35.0,49.0,New Mexico,Santa Fe County,2820,395,NM
+35045,35,45,New Mexico,San Juan County,35049,35.0,49.0,New Mexico,Santa Fe County,15,17,NM
+35047,35,47,New Mexico,San Miguel County,35049,35.0,49.0,New Mexico,Santa Fe County,1973,476,NM
+35049,35,49,New Mexico,Santa Fe County,35049,35.0,49.0,New Mexico,Santa Fe County,58308,965,NM
+35053,35,53,New Mexico,Socorro County,35049,35.0,49.0,New Mexico,Santa Fe County,15,21,NM
+35055,35,55,New Mexico,Taos County,35049,35.0,49.0,New Mexico,Santa Fe County,276,152,NM
+35057,35,57,New Mexico,Torrance County,35049,35.0,49.0,New Mexico,Santa Fe County,356,112,NM
+35059,35,59,New Mexico,Union County,35049,35.0,49.0,New Mexico,Santa Fe County,3,5,NM
+35061,35,61,New Mexico,Valencia County,35049,35.0,49.0,New Mexico,Santa Fe County,138,86,NM
+35001,35,1,New Mexico,Bernalillo County,35051,35.0,51.0,New Mexico,Sierra County,30,34,NM
+35013,35,13,New Mexico,Doña Ana County,35051,35.0,51.0,New Mexico,Sierra County,303,111,NM
+35017,35,17,New Mexico,Grant County,35051,35.0,51.0,New Mexico,Sierra County,31,48,NM
+35045,35,45,New Mexico,San Juan County,35051,35.0,51.0,New Mexico,Sierra County,8,14,NM
+35051,35,51,New Mexico,Sierra County,35051,35.0,51.0,New Mexico,Sierra County,3768,351,NM
+35061,35,61,New Mexico,Valencia County,35051,35.0,51.0,New Mexico,Sierra County,9,17,NM
+35001,35,1,New Mexico,Bernalillo County,35053,35.0,53.0,New Mexico,Socorro County,178,87,NM
+35003,35,3,New Mexico,Catron County,35053,35.0,53.0,New Mexico,Socorro County,47,69,NM
+35013,35,13,New Mexico,Doña Ana County,35053,35.0,53.0,New Mexico,Socorro County,10,15,NM
+35017,35,17,New Mexico,Grant County,35053,35.0,53.0,New Mexico,Socorro County,7,9,NM
+35027,35,27,New Mexico,Lincoln County,35053,35.0,53.0,New Mexico,Socorro County,5,8,NM
+35031,35,31,New Mexico,McKinley County,35053,35.0,53.0,New Mexico,Socorro County,31,46,NM
+35035,35,35,New Mexico,Otero County,35053,35.0,53.0,New Mexico,Socorro County,49,59,NM
+35041,35,41,New Mexico,Roosevelt County,35053,35.0,53.0,New Mexico,Socorro County,2,3,NM
+35043,35,43,New Mexico,Sandoval County,35053,35.0,53.0,New Mexico,Socorro County,38,45,NM
+35049,35,49,New Mexico,Santa Fe County,35053,35.0,53.0,New Mexico,Socorro County,9,13,NM
+35053,35,53,New Mexico,Socorro County,35053,35.0,53.0,New Mexico,Socorro County,4761,489,NM
+35057,35,57,New Mexico,Torrance County,35053,35.0,53.0,New Mexico,Socorro County,16,19,NM
+35061,35,61,New Mexico,Valencia County,35053,35.0,53.0,New Mexico,Socorro County,172,79,NM
+35001,35,1,New Mexico,Bernalillo County,35055,35.0,55.0,New Mexico,Taos County,74,67,NM
+35007,35,7,New Mexico,Colfax County,35055,35.0,55.0,New Mexico,Taos County,61,40,NM
+35039,35,39,New Mexico,Rio Arriba County,35055,35.0,55.0,New Mexico,Taos County,323,132,NM
+35043,35,43,New Mexico,Sandoval County,35055,35.0,55.0,New Mexico,Taos County,7,13,NM
+35047,35,47,New Mexico,San Miguel County,35055,35.0,55.0,New Mexico,Taos County,53,81,NM
+35049,35,49,New Mexico,Santa Fe County,35055,35.0,55.0,New Mexico,Taos County,65,33,NM
+35055,35,55,New Mexico,Taos County,35055,35.0,55.0,New Mexico,Taos County,13039,655,NM
+35001,35,1,New Mexico,Bernalillo County,35057,35.0,57.0,New Mexico,Torrance County,500,166,NM
+35019,35,19,New Mexico,Guadalupe County,35057,35.0,57.0,New Mexico,Torrance County,15,22,NM
+35033,35,33,New Mexico,Mora County,35057,35.0,57.0,New Mexico,Torrance County,2,4,NM
+35049,35,49,New Mexico,Santa Fe County,35057,35.0,57.0,New Mexico,Torrance County,317,116,NM
+35053,35,53,New Mexico,Socorro County,35057,35.0,57.0,New Mexico,Torrance County,7,11,NM
+35057,35,57,New Mexico,Torrance County,35057,35.0,57.0,New Mexico,Torrance County,2903,286,NM
+35061,35,61,New Mexico,Valencia County,35057,35.0,57.0,New Mexico,Torrance County,31,32,NM
+35007,35,7,New Mexico,Colfax County,35059,35.0,59.0,New Mexico,Union County,48,69,NM
+35037,35,37,New Mexico,Quay County,35059,35.0,59.0,New Mexico,Union County,49,66,NM
+35047,35,47,New Mexico,San Miguel County,35059,35.0,59.0,New Mexico,Union County,25,40,NM
+35059,35,59,New Mexico,Union County,35059,35.0,59.0,New Mexico,Union County,1499,136,NM
+35001,35,1,New Mexico,Bernalillo County,35061,35.0,61.0,New Mexico,Valencia County,1857,319,NM
+35006,35,6,New Mexico,Cibola County,35061,35.0,61.0,New Mexico,Valencia County,170,67,NM
+35043,35,43,New Mexico,Sandoval County,35061,35.0,61.0,New Mexico,Valencia County,118,68,NM
+35045,35,45,New Mexico,San Juan County,35061,35.0,61.0,New Mexico,Valencia County,2,4,NM
+35047,35,47,New Mexico,San Miguel County,35061,35.0,61.0,New Mexico,Valencia County,10,17,NM
+35049,35,49,New Mexico,Santa Fe County,35061,35.0,61.0,New Mexico,Valencia County,42,47,NM
+35053,35,53,New Mexico,Socorro County,35061,35.0,61.0,New Mexico,Valencia County,426,228,NM
+35057,35,57,New Mexico,Torrance County,35061,35.0,61.0,New Mexico,Valencia County,46,36,NM
+35061,35,61,New Mexico,Valencia County,35061,35.0,61.0,New Mexico,Valencia County,14802,731,NM
+35049,35,49,New Mexico,Santa Fe County,36027,36.0,27.0,New York,Dutchess County,10,16,NM
+35001,35,1,New Mexico,Bernalillo County,36047,36.0,47.0,New York,Kings County,13,20,NM
+35001,35,1,New Mexico,Bernalillo County,36059,36.0,59.0,New York,Nassau County,9,15,NM
+35001,35,1,New Mexico,Bernalillo County,36061,36.0,61.0,New York,New York County,26,29,NM
+35049,35,49,New Mexico,Santa Fe County,36061,36.0,61.0,New York,New York County,8,13,NM
+35061,35,61,New Mexico,Valencia County,36061,36.0,61.0,New York,New York County,56,65,NM
+35049,35,49,New Mexico,Santa Fe County,36065,36.0,65.0,New York,Oneida County,11,20,NM
+35001,35,1,New Mexico,Bernalillo County,36071,36.0,71.0,New York,Orange County,6,10,NM
+35001,35,1,New Mexico,Bernalillo County,36091,36.0,91.0,New York,Saratoga County,19,18,NM
+35001,35,1,New Mexico,Bernalillo County,37035,37.0,35.0,North Carolina,Catawba County,10,16,NM
+35001,35,1,New Mexico,Bernalillo County,37063,37.0,63.0,North Carolina,Durham County,10,15,NM
+35001,35,1,New Mexico,Bernalillo County,37083,37.0,83.0,North Carolina,Halifax County,25,41,NM
+35043,35,43,New Mexico,Sandoval County,38017,38.0,17.0,North Dakota,Cass County,9,13,NM
+35053,35,53,New Mexico,Socorro County,38053,38.0,53.0,North Dakota,McKenzie County,13,22,NM
+35045,35,45,New Mexico,San Juan County,38061,38.0,61.0,North Dakota,Mountrail County,26,28,NM
+35031,35,31,New Mexico,McKinley County,38089,38.0,89.0,North Dakota,Stark County,4,4,NM
+35007,35,7,New Mexico,Colfax County,38101,38.0,101.0,North Dakota,Ward County,11,17,NM
+35045,35,45,New Mexico,San Juan County,38105,38.0,105.0,North Dakota,Williams County,23,25,NM
+35005,35,5,New Mexico,Chaves County,39035,39.0,35.0,Ohio,Cuyahoga County,15,26,NM
+35009,35,9,New Mexico,Curry County,39035,39.0,35.0,Ohio,Cuyahoga County,13,22,NM
+35027,35,27,New Mexico,Lincoln County,39049,39.0,49.0,Ohio,Franklin County,48,53,NM
+35013,35,13,New Mexico,Doña Ana County,39113,39.0,113.0,Ohio,Montgomery County,7,13,NM
+35045,35,45,New Mexico,San Juan County,40017,40.0,17.0,Oklahoma,Canadian County,3,4,NM
+35045,35,45,New Mexico,San Juan County,40039,40.0,39.0,Oklahoma,Custer County,9,15,NM
+35059,35,59,New Mexico,Union County,40061,40.0,61.0,Oklahoma,Haskell County,3,5,NM
+35045,35,45,New Mexico,San Juan County,40073,40.0,73.0,Oklahoma,Kingfisher County,4,6,NM
+35001,35,1,New Mexico,Bernalillo County,40109,40.0,109.0,Oklahoma,Oklahoma County,5,9,NM
+35005,35,5,New Mexico,Chaves County,40109,40.0,109.0,Oklahoma,Oklahoma County,25,42,NM
+35025,35,25,New Mexico,Lea County,40109,40.0,109.0,Oklahoma,Oklahoma County,11,15,NM
+35027,35,27,New Mexico,Lincoln County,40109,40.0,109.0,Oklahoma,Oklahoma County,5,8,NM
+35031,35,31,New Mexico,McKinley County,40109,40.0,109.0,Oklahoma,Oklahoma County,7,10,NM
+35043,35,43,New Mexico,Sandoval County,40109,40.0,109.0,Oklahoma,Oklahoma County,4,5,NM
+35049,35,49,New Mexico,Santa Fe County,40143,40.0,143.0,Oklahoma,Tulsa County,8,12,NM
+35045,35,45,New Mexico,San Juan County,40151,40.0,151.0,Oklahoma,Woods County,19,30,NM
+35031,35,31,New Mexico,McKinley County,41027,41.0,27.0,Oregon,Hood River County,10,16,NM
+35061,35,61,New Mexico,Valencia County,41037,41.0,37.0,Oregon,Lake County,14,24,NM
+35049,35,49,New Mexico,Santa Fe County,41039,41.0,39.0,Oregon,Lane County,33,26,NM
+35001,35,1,New Mexico,Bernalillo County,41051,41.0,51.0,Oregon,Multnomah County,16,24,NM
+35043,35,43,New Mexico,Sandoval County,41051,41.0,51.0,Oregon,Multnomah County,10,13,NM
+35061,35,61,New Mexico,Valencia County,41067,41.0,67.0,Oregon,Washington County,9,13,NM
+35045,35,45,New Mexico,San Juan County,42003,42.0,3.0,Pennsylvania,Allegheny County,36,46,NM
+35055,35,55,New Mexico,Taos County,42003,42.0,3.0,Pennsylvania,Allegheny County,3,4,NM
+35001,35,1,New Mexico,Bernalillo County,42043,42.0,43.0,Pennsylvania,Dauphin County,8,14,NM
+35013,35,13,New Mexico,Doña Ana County,42075,42.0,75.0,Pennsylvania,Lebanon County,16,25,NM
+35045,35,45,New Mexico,San Juan County,42081,42.0,81.0,Pennsylvania,Lycoming County,15,25,NM
+35043,35,43,New Mexico,Sandoval County,42101,42.0,101.0,Pennsylvania,Philadelphia County,15,23,NM
+35001,35,1,New Mexico,Bernalillo County,45043,45.0,43.0,South Carolina,Georgetown County,18,29,NM
+35029,35,29,New Mexico,Luna County,45079,45.0,79.0,South Carolina,Richland County,16,18,NM
+35013,35,13,New Mexico,Doña Ana County,45083,45.0,83.0,South Carolina,Spartanburg County,22,32,NM
+35043,35,43,New Mexico,Sandoval County,47149,47.0,149.0,Tennessee,Rutherford County,62,79,NM
+35001,35,1,New Mexico,Bernalillo County,47157,47.0,157.0,Tennessee,Shelby County,24,20,NM
+35001,35,1,New Mexico,Bernalillo County,48003,48.0,3.0,Texas,Andrews County,6,11,NM
+35025,35,25,New Mexico,Lea County,48003,48.0,3.0,Texas,Andrews County,212,103,NM
+35009,35,9,New Mexico,Curry County,48017,48.0,17.0,Texas,Bailey County,43,39,NM
+35041,35,41,New Mexico,Roosevelt County,48017,48.0,17.0,Texas,Bailey County,35,41,NM
+35047,35,47,New Mexico,San Miguel County,48017,48.0,17.0,Texas,Bailey County,3,6,NM
+35001,35,1,New Mexico,Bernalillo County,48029,48.0,29.0,Texas,Bexar County,25,23,NM
+35027,35,27,New Mexico,Lincoln County,48029,48.0,29.0,Texas,Bexar County,17,28,NM
+35035,35,35,New Mexico,Otero County,48029,48.0,29.0,Texas,Bexar County,78,91,NM
+35043,35,43,New Mexico,Sandoval County,48029,48.0,29.0,Texas,Bexar County,13,21,NM
+35049,35,49,New Mexico,Santa Fe County,48029,48.0,29.0,Texas,Bexar County,9,15,NM
+35025,35,25,New Mexico,Lea County,48053,48.0,53.0,Texas,Burnet County,31,47,NM
+35043,35,43,New Mexico,Sandoval County,48061,48.0,61.0,Texas,Cameron County,26,43,NM
+35037,35,37,New Mexico,Quay County,48065,48.0,65.0,Texas,Carson County,2,5,NM
+35001,35,1,New Mexico,Bernalillo County,48071,48.0,71.0,Texas,Chambers County,61,81,NM
+35005,35,5,New Mexico,Chaves County,48091,48.0,91.0,Texas,Comal County,71,109,NM
+35015,35,15,New Mexico,Eddy County,48109,48.0,109.0,Texas,Culberson County,22,31,NM
+35059,35,59,New Mexico,Union County,48111,48.0,111.0,Texas,Dallam County,52,40,NM
+35001,35,1,New Mexico,Bernalillo County,48113,48.0,113.0,Texas,Dallas County,71,53,NM
+35013,35,13,New Mexico,Doña Ana County,48113,48.0,113.0,Texas,Dallas County,21,27,NM
+35049,35,49,New Mexico,Santa Fe County,48113,48.0,113.0,Texas,Dallas County,10,11,NM
+35061,35,61,New Mexico,Valencia County,48113,48.0,113.0,Texas,Dallas County,10,16,NM
+35009,35,9,New Mexico,Curry County,48117,48.0,117.0,Texas,Deaf Smith County,20,23,NM
+35049,35,49,New Mexico,Santa Fe County,48117,48.0,117.0,Texas,Deaf Smith County,14,21,NM
+35001,35,1,New Mexico,Bernalillo County,48121,48.0,121.0,Texas,Denton County,8,14,NM
+35013,35,13,New Mexico,Doña Ana County,48121,48.0,121.0,Texas,Denton County,7,12,NM
+35001,35,1,New Mexico,Bernalillo County,48135,48.0,135.0,Texas,Ector County,3,6,NM
+35005,35,5,New Mexico,Chaves County,48135,48.0,135.0,Texas,Ector County,50,72,NM
+35013,35,13,New Mexico,Doña Ana County,48135,48.0,135.0,Texas,Ector County,82,86,NM
+35015,35,15,New Mexico,Eddy County,48135,48.0,135.0,Texas,Ector County,9,11,NM
+35025,35,25,New Mexico,Lea County,48135,48.0,135.0,Texas,Ector County,312,139,NM
+35031,35,31,New Mexico,McKinley County,48135,48.0,135.0,Texas,Ector County,13,14,NM
+35035,35,35,New Mexico,Otero County,48135,48.0,135.0,Texas,Ector County,39,55,NM
+35045,35,45,New Mexico,San Juan County,48135,48.0,135.0,Texas,Ector County,18,24,NM
+35049,35,49,New Mexico,Santa Fe County,48135,48.0,135.0,Texas,Ector County,2,3,NM
+35001,35,1,New Mexico,Bernalillo County,48141,48.0,141.0,Texas,El Paso County,85,58,NM
+35005,35,5,New Mexico,Chaves County,48141,48.0,141.0,Texas,El Paso County,7,10,NM
+35009,35,9,New Mexico,Curry County,48141,48.0,141.0,Texas,El Paso County,38,35,NM
+35013,35,13,New Mexico,Doña Ana County,48141,48.0,141.0,Texas,El Paso County,13314,931,NM
+35017,35,17,New Mexico,Grant County,48141,48.0,141.0,Texas,El Paso County,19,31,NM
+35025,35,25,New Mexico,Lea County,48141,48.0,141.0,Texas,El Paso County,8,11,NM
+35027,35,27,New Mexico,Lincoln County,48141,48.0,141.0,Texas,El Paso County,50,55,NM
+35029,35,29,New Mexico,Luna County,48141,48.0,141.0,Texas,El Paso County,31,25,NM
+35035,35,35,New Mexico,Otero County,48141,48.0,141.0,Texas,El Paso County,1150,299,NM
+35041,35,41,New Mexico,Roosevelt County,48141,48.0,141.0,Texas,El Paso County,11,19,NM
+35043,35,43,New Mexico,Sandoval County,48141,48.0,141.0,Texas,El Paso County,11,13,NM
+35049,35,49,New Mexico,Santa Fe County,48141,48.0,141.0,Texas,El Paso County,5,7,NM
+35051,35,51,New Mexico,Sierra County,48141,48.0,141.0,Texas,El Paso County,15,17,NM
+35009,35,9,New Mexico,Curry County,48153,48.0,153.0,Texas,Floyd County,5,6,NM
+35005,35,5,New Mexico,Chaves County,48165,48.0,165.0,Texas,Gaines County,1,3,NM
+35025,35,25,New Mexico,Lea County,48165,48.0,165.0,Texas,Gaines County,194,94,NM
+35061,35,61,New Mexico,Valencia County,48165,48.0,165.0,Texas,Gaines County,27,41,NM
+35009,35,9,New Mexico,Curry County,48189,48.0,189.0,Texas,Hale County,5,8,NM
+35001,35,1,New Mexico,Bernalillo County,48201,48.0,201.0,Texas,Harris County,51,39,NM
+35009,35,9,New Mexico,Curry County,48201,48.0,201.0,Texas,Harris County,31,47,NM
+35013,35,13,New Mexico,Doña Ana County,48201,48.0,201.0,Texas,Harris County,21,28,NM
+35015,35,15,New Mexico,Eddy County,48201,48.0,201.0,Texas,Harris County,17,25,NM
+35028,35,28,New Mexico,Los Alamos County,48201,48.0,201.0,Texas,Harris County,8,13,NM
+35031,35,31,New Mexico,McKinley County,48201,48.0,201.0,Texas,Harris County,5,8,NM
+35037,35,37,New Mexico,Quay County,48201,48.0,201.0,Texas,Harris County,13,17,NM
+35039,35,39,New Mexico,Rio Arriba County,48201,48.0,201.0,Texas,Harris County,15,12,NM
+35049,35,49,New Mexico,Santa Fe County,48201,48.0,201.0,Texas,Harris County,20,29,NM
+35061,35,61,New Mexico,Valencia County,48201,48.0,201.0,Texas,Harris County,7,12,NM
+35037,35,37,New Mexico,Quay County,48205,48.0,205.0,Texas,Hartley County,11,12,NM
+35059,35,59,New Mexico,Union County,48205,48.0,205.0,Texas,Hartley County,46,47,NM
+35001,35,1,New Mexico,Bernalillo County,48215,48.0,215.0,Texas,Hidalgo County,9,15,NM
+35025,35,25,New Mexico,Lea County,48219,48.0,219.0,Texas,Hockley County,31,39,NM
+35041,35,41,New Mexico,Roosevelt County,48219,48.0,219.0,Texas,Hockley County,3,5,NM
+35005,35,5,New Mexico,Chaves County,48227,48.0,227.0,Texas,Howard County,7,11,NM
+35027,35,27,New Mexico,Lincoln County,48227,48.0,227.0,Texas,Howard County,19,31,NM
+35013,35,13,New Mexico,Doña Ana County,48229,48.0,229.0,Texas,Hudspeth County,14,22,NM
+35025,35,25,New Mexico,Lea County,48233,48.0,233.0,Texas,Hutchinson County,13,21,NM
+35045,35,45,New Mexico,San Juan County,48233,48.0,233.0,Texas,Hutchinson County,4,6,NM
+35005,35,5,New Mexico,Chaves County,48245,48.0,245.0,Texas,Jefferson County,55,70,NM
+35009,35,9,New Mexico,Curry County,48279,48.0,279.0,Texas,Lamb County,3,9,NM
+35041,35,41,New Mexico,Roosevelt County,48279,48.0,279.0,Texas,Lamb County,8,13,NM
+35025,35,25,New Mexico,Lea County,48301,48.0,301.0,Texas,Loving County,31,23,NM
+35001,35,1,New Mexico,Bernalillo County,48303,48.0,303.0,Texas,Lubbock County,11,17,NM
+35009,35,9,New Mexico,Curry County,48303,48.0,303.0,Texas,Lubbock County,33,37,NM
+35041,35,41,New Mexico,Roosevelt County,48303,48.0,303.0,Texas,Lubbock County,30,47,NM
+35049,35,49,New Mexico,Santa Fe County,48303,48.0,303.0,Texas,Lubbock County,20,28,NM
+35061,35,61,New Mexico,Valencia County,48303,48.0,303.0,Texas,Lubbock County,5,10,NM
+35015,35,15,New Mexico,Eddy County,48321,48.0,321.0,Texas,Matagorda County,17,28,NM
+35005,35,5,New Mexico,Chaves County,48329,48.0,329.0,Texas,Midland County,43,51,NM
+35013,35,13,New Mexico,Doña Ana County,48329,48.0,329.0,Texas,Midland County,138,98,NM
+35015,35,15,New Mexico,Eddy County,48329,48.0,329.0,Texas,Midland County,162,110,NM
+35025,35,25,New Mexico,Lea County,48329,48.0,329.0,Texas,Midland County,155,63,NM
+35031,35,31,New Mexico,McKinley County,48329,48.0,329.0,Texas,Midland County,3,5,NM
+35045,35,45,New Mexico,San Juan County,48329,48.0,329.0,Texas,Midland County,17,21,NM
+35049,35,49,New Mexico,Santa Fe County,48329,48.0,329.0,Texas,Midland County,47,50,NM
+35027,35,27,New Mexico,Lincoln County,48339,48.0,339.0,Texas,Montgomery County,16,18,NM
+35009,35,9,New Mexico,Curry County,48369,48.0,369.0,Texas,Parmer County,639,208,NM
+35041,35,41,New Mexico,Roosevelt County,48369,48.0,369.0,Texas,Parmer County,35,31,NM
+35059,35,59,New Mexico,Union County,48369,48.0,369.0,Texas,Parmer County,4,6,NM
+35015,35,15,New Mexico,Eddy County,48371,48.0,371.0,Texas,Pecos County,42,47,NM
+35025,35,25,New Mexico,Lea County,48371,48.0,371.0,Texas,Pecos County,37,56,NM
+35009,35,9,New Mexico,Curry County,48375,48.0,375.0,Texas,Potter County,8,13,NM
+35025,35,25,New Mexico,Lea County,48375,48.0,375.0,Texas,Potter County,4,7,NM
+35031,35,31,New Mexico,McKinley County,48375,48.0,375.0,Texas,Potter County,14,14,NM
+35041,35,41,New Mexico,Roosevelt County,48375,48.0,375.0,Texas,Potter County,21,34,NM
+35045,35,45,New Mexico,San Juan County,48375,48.0,375.0,Texas,Potter County,19,28,NM
+35049,35,49,New Mexico,Santa Fe County,48375,48.0,375.0,Texas,Potter County,15,24,NM
+35013,35,13,New Mexico,Doña Ana County,48377,48.0,377.0,Texas,Presidio County,6,11,NM
+35005,35,5,New Mexico,Chaves County,48381,48.0,381.0,Texas,Randall County,39,53,NM
+35009,35,9,New Mexico,Curry County,48381,48.0,381.0,Texas,Randall County,12,22,NM
+35037,35,37,New Mexico,Quay County,48381,48.0,381.0,Texas,Randall County,12,17,NM
+35041,35,41,New Mexico,Roosevelt County,48381,48.0,381.0,Texas,Randall County,8,13,NM
+35049,35,49,New Mexico,Santa Fe County,48381,48.0,381.0,Texas,Randall County,2,4,NM
+35045,35,45,New Mexico,San Juan County,48383,48.0,383.0,Texas,Reagan County,4,7,NM
+35005,35,5,New Mexico,Chaves County,48389,48.0,389.0,Texas,Reeves County,30,29,NM
+35013,35,13,New Mexico,Doña Ana County,48389,48.0,389.0,Texas,Reeves County,22,37,NM
+35015,35,15,New Mexico,Eddy County,48389,48.0,389.0,Texas,Reeves County,29,33,NM
+35025,35,25,New Mexico,Lea County,48389,48.0,389.0,Texas,Reeves County,31,25,NM
+35049,35,49,New Mexico,Santa Fe County,48413,48.0,413.0,Texas,Schleicher County,33,54,NM
+35041,35,41,New Mexico,Roosevelt County,48415,48.0,415.0,Texas,Scurry County,2,3,NM
+35001,35,1,New Mexico,Bernalillo County,48439,48.0,439.0,Texas,Tarrant County,91,67,NM
+35009,35,9,New Mexico,Curry County,48439,48.0,439.0,Texas,Tarrant County,5,6,NM
+35001,35,1,New Mexico,Bernalillo County,48453,48.0,453.0,Texas,Travis County,32,39,NM
+35057,35,57,New Mexico,Torrance County,48453,48.0,453.0,Texas,Travis County,20,35,NM
+35025,35,25,New Mexico,Lea County,48475,48.0,475.0,Texas,Ward County,5,4,NM
+35041,35,41,New Mexico,Roosevelt County,48479,48.0,479.0,Texas,Webb County,12,21,NM
+35015,35,15,New Mexico,Eddy County,48495,48.0,495.0,Texas,Winkler County,8,17,NM
+35025,35,25,New Mexico,Lea County,48495,48.0,495.0,Texas,Winkler County,63,34,NM
+35025,35,25,New Mexico,Lea County,48501,48.0,501.0,Texas,Yoakum County,40,27,NM
+35061,35,61,New Mexico,Valencia County,48501,48.0,501.0,Texas,Yoakum County,46,39,NM
+35045,35,45,New Mexico,San Juan County,49001,49.0,1.0,Utah,Beaver County,10,17,NM
+35009,35,9,New Mexico,Curry County,49011,49.0,11.0,Utah,Davis County,5,10,NM
+35045,35,45,New Mexico,San Juan County,49019,49.0,19.0,Utah,Grand County,10,17,NM
+35013,35,13,New Mexico,Doña Ana County,49035,49.0,35.0,Utah,Salt Lake County,65,97,NM
+35043,35,43,New Mexico,Sandoval County,49035,49.0,35.0,Utah,Salt Lake County,42,50,NM
+35045,35,45,New Mexico,San Juan County,49037,49.0,37.0,Utah,San Juan County,53,41,NM
+35061,35,61,New Mexico,Valencia County,49041,49.0,41.0,Utah,Sevier County,5,11,NM
+35001,35,1,New Mexico,Bernalillo County,49049,49.0,49.0,Utah,Utah County,23,37,NM
+35045,35,45,New Mexico,San Juan County,49049,49.0,49.0,Utah,Utah County,2,3,NM
+35023,35,23,New Mexico,Hidalgo County,49053,49.0,53.0,Utah,Washington County,12,16,NM
+35041,35,41,New Mexico,Roosevelt County,49057,49.0,57.0,Utah,Weber County,5,8,NM
+35001,35,1,New Mexico,Bernalillo County,51059,51.0,59.0,Virginia,Fairfax County,39,48,NM
+35041,35,41,New Mexico,Roosevelt County,51059,51.0,59.0,Virginia,Fairfax County,40,53,NM
+35001,35,1,New Mexico,Bernalillo County,51510,51.0,510.0,Virginia,Alexandria city,18,30,NM
+35001,35,1,New Mexico,Bernalillo County,51650,51.0,650.0,Virginia,Hampton city,12,23,NM
+35043,35,43,New Mexico,Sandoval County,51740,51.0,740.0,Virginia,Portsmouth city,3,9,NM
+35043,35,43,New Mexico,Sandoval County,53011,53.0,11.0,Washington,Clark County,3,4,NM
+35028,35,28,New Mexico,Los Alamos County,53033,53.0,33.0,Washington,King County,18,28,NM
+35043,35,43,New Mexico,Sandoval County,53033,53.0,33.0,Washington,King County,21,34,NM
+35049,35,49,New Mexico,Santa Fe County,53033,53.0,33.0,Washington,King County,17,25,NM
+35061,35,61,New Mexico,Valencia County,53033,53.0,33.0,Washington,King County,6,11,NM
+35043,35,43,New Mexico,Sandoval County,53061,53.0,61.0,Washington,Snohomish County,10,17,NM
+35043,35,43,New Mexico,Sandoval County,54039,54.0,39.0,West Virginia,Kanawha County,14,22,NM
+35049,35,49,New Mexico,Santa Fe County,54039,54.0,39.0,West Virginia,Kanawha County,8,12,NM
+35045,35,45,New Mexico,San Juan County,55001,55.0,1.0,Wisconsin,Adams County,9,15,NM
+35049,35,49,New Mexico,Santa Fe County,55025,55.0,25.0,Wisconsin,Dane County,2,2,NM
+35037,35,37,New Mexico,Quay County,55039,55.0,39.0,Wisconsin,Fond du Lac County,1,2,NM
+35055,35,55,New Mexico,Taos County,55071,55.0,71.0,Wisconsin,Manitowoc County,12,21,NM
+35009,35,9,New Mexico,Curry County,55079,55.0,79.0,Wisconsin,Milwaukee County,3,6,NM
+35031,35,31,New Mexico,McKinley County,56021,56.0,21.0,Wyoming,Laramie County,3,4,NM
+35045,35,45,New Mexico,San Juan County,56025,56.0,25.0,Wyoming,Natrona County,18,32,NM
+35043,35,43,New Mexico,Sandoval County,56037,56.0,37.0,Wyoming,Sweetwater County,30,36,NM
+35061,35,61,New Mexico,Valencia County,56037,56.0,37.0,Wyoming,Sweetwater County,1,2,NM
+35001,35,1,New Mexico,Bernalillo County,301000,301.0,,Canada,,9,15,NM
+35013,35,13,New Mexico,Doña Ana County,303000,303.0,,Mexico,,65,59,NM
+35029,35,29,New Mexico,Luna County,303000,303.0,,Mexico,,3,6,NM
+35043,35,43,New Mexico,Sandoval County,303000,303.0,,Mexico,,39,48,NM
+35045,35,45,New Mexico,San Juan County,303000,303.0,,Mexico,,2,3,NM
+35049,35,49,New Mexico,Santa Fe County,303000,303.0,,Mexico,,13,13,NM
+35057,35,57,New Mexico,Torrance County,303000,303.0,,Mexico,,5,9,NM
+35001,35,1,New Mexico,Bernalillo County,-1,,,Other workplace outside of the U.S.,,81,48,NM
+35009,35,9,New Mexico,Curry County,-1,,,Other workplace outside of the U.S.,,11,17,NM
+35013,35,13,New Mexico,Doña Ana County,-1,,,Other workplace outside of the U.S.,,55,49,NM
+35027,35,27,New Mexico,Lincoln County,-1,,,Other workplace outside of the U.S.,,33,50,NM
+35035,35,35,New Mexico,Otero County,-1,,,Other workplace outside of the U.S.,,28,40,NM
+35045,35,45,New Mexico,San Juan County,-1,,,Other workplace outside of the U.S.,,10,16,NM
+35047,35,47,New Mexico,San Miguel County,-1,,,Other workplace outside of the U.S.,,22,38,NM
+35049,35,49,New Mexico,Santa Fe County,-1,,,Other workplace outside of the U.S.,,38,25,NM
+35051,35,51,New Mexico,Sierra County,-1,,,Other workplace outside of the U.S.,,9,14,NM
+35061,35,61,New Mexico,Valencia County,-1,,,Other workplace outside of the U.S.,,21,31,NM
