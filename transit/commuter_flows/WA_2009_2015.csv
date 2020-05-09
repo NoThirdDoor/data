@@ -1,0 +1,1730 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+53063,53,63,Washington,Spokane County,1045,1.0,45.0,Alabama,Dale County,12,16,WA
+53033,53,33,Washington,King County,1073,1.0,73.0,Alabama,Jefferson County,20,28,WA
+53035,53,35,Washington,Kitsap County,1073,1.0,73.0,Alabama,Jefferson County,16,24,WA
+53011,53,11,Washington,Clark County,1097,1.0,97.0,Alabama,Mobile County,9,13,WA
+53015,53,15,Washington,Cowlitz County,2013,2.0,13.0,Alaska,Aleutians East Borough,8,12,WA
+53033,53,33,Washington,King County,2013,2.0,13.0,Alaska,Aleutians East Borough,38,31,WA
+53035,53,35,Washington,Kitsap County,2013,2.0,13.0,Alaska,Aleutians East Borough,14,25,WA
+53049,53,49,Washington,Pacific County,2013,2.0,13.0,Alaska,Aleutians East Borough,7,12,WA
+53005,53,5,Washington,Benton County,2016,2.0,16.0,Alaska,Aleutians West Census Area,7,13,WA
+53007,53,7,Washington,Chelan County,2016,2.0,16.0,Alaska,Aleutians West Census Area,46,70,WA
+53033,53,33,Washington,King County,2016,2.0,16.0,Alaska,Aleutians West Census Area,146,100,WA
+53035,53,35,Washington,Kitsap County,2016,2.0,16.0,Alaska,Aleutians West Census Area,25,39,WA
+53041,53,41,Washington,Lewis County,2016,2.0,16.0,Alaska,Aleutians West Census Area,11,17,WA
+53049,53,49,Washington,Pacific County,2016,2.0,16.0,Alaska,Aleutians West Census Area,11,18,WA
+53053,53,53,Washington,Pierce County,2016,2.0,16.0,Alaska,Aleutians West Census Area,66,58,WA
+53057,53,57,Washington,Skagit County,2016,2.0,16.0,Alaska,Aleutians West Census Area,29,28,WA
+53061,53,61,Washington,Snohomish County,2016,2.0,16.0,Alaska,Aleutians West Census Area,51,41,WA
+53063,53,63,Washington,Spokane County,2016,2.0,16.0,Alaska,Aleutians West Census Area,20,33,WA
+53073,53,73,Washington,Whatcom County,2016,2.0,16.0,Alaska,Aleutians West Census Area,15,23,WA
+53003,53,3,Washington,Asotin County,2020,2.0,20.0,Alaska,Anchorage Municipality,10,15,WA
+53007,53,7,Washington,Chelan County,2020,2.0,20.0,Alaska,Anchorage Municipality,5,9,WA
+53009,53,9,Washington,Clallam County,2020,2.0,20.0,Alaska,Anchorage Municipality,84,97,WA
+53011,53,11,Washington,Clark County,2020,2.0,20.0,Alaska,Anchorage Municipality,5,10,WA
+53015,53,15,Washington,Cowlitz County,2020,2.0,20.0,Alaska,Anchorage Municipality,11,17,WA
+53017,53,17,Washington,Douglas County,2020,2.0,20.0,Alaska,Anchorage Municipality,2,3,WA
+53029,53,29,Washington,Island County,2020,2.0,20.0,Alaska,Anchorage Municipality,12,15,WA
+53033,53,33,Washington,King County,2020,2.0,20.0,Alaska,Anchorage Municipality,59,43,WA
+53037,53,37,Washington,Kittitas County,2020,2.0,20.0,Alaska,Anchorage Municipality,4,11,WA
+53041,53,41,Washington,Lewis County,2020,2.0,20.0,Alaska,Anchorage Municipality,11,17,WA
+53043,53,43,Washington,Lincoln County,2020,2.0,20.0,Alaska,Anchorage Municipality,4,6,WA
+53051,53,51,Washington,Pend Oreille County,2020,2.0,20.0,Alaska,Anchorage Municipality,9,15,WA
+53053,53,53,Washington,Pierce County,2020,2.0,20.0,Alaska,Anchorage Municipality,69,52,WA
+53055,53,55,Washington,San Juan County,2020,2.0,20.0,Alaska,Anchorage Municipality,2,3,WA
+53057,53,57,Washington,Skagit County,2020,2.0,20.0,Alaska,Anchorage Municipality,20,24,WA
+53061,53,61,Washington,Snohomish County,2020,2.0,20.0,Alaska,Anchorage Municipality,30,36,WA
+53063,53,63,Washington,Spokane County,2020,2.0,20.0,Alaska,Anchorage Municipality,49,55,WA
+53065,53,65,Washington,Stevens County,2020,2.0,20.0,Alaska,Anchorage Municipality,8,7,WA
+53067,53,67,Washington,Thurston County,2020,2.0,20.0,Alaska,Anchorage Municipality,10,17,WA
+53073,53,73,Washington,Whatcom County,2020,2.0,20.0,Alaska,Anchorage Municipality,21,28,WA
+53003,53,3,Washington,Asotin County,2060,2.0,60.0,Alaska,Bristol Bay Borough,12,18,WA
+53033,53,33,Washington,King County,2060,2.0,60.0,Alaska,Bristol Bay Borough,6,10,WA
+53035,53,35,Washington,Kitsap County,2060,2.0,60.0,Alaska,Bristol Bay Borough,5,8,WA
+53057,53,57,Washington,Skagit County,2060,2.0,60.0,Alaska,Bristol Bay Borough,16,22,WA
+53061,53,61,Washington,Snohomish County,2060,2.0,60.0,Alaska,Bristol Bay Borough,5,9,WA
+53061,53,61,Washington,Snohomish County,2068,2.0,68.0,Alaska,Denali Borough,10,16,WA
+53077,53,77,Washington,Yakima County,2068,2.0,68.0,Alaska,Denali Borough,3,4,WA
+53061,53,61,Washington,Snohomish County,2070,2.0,70.0,Alaska,Dillingham Census Area,28,33,WA
+53029,53,29,Washington,Island County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,12,22,WA
+53033,53,33,Washington,King County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,6,16,WA
+53075,53,75,Washington,Whitman County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,8,14,WA
+53027,53,27,Washington,Grays Harbor County,2100,2.0,100.0,Alaska,Haines Borough,5,8,WA
+53017,53,17,Washington,Douglas County,2110,2.0,110.0,Alaska,Juneau City and Borough,24,38,WA
+53063,53,63,Washington,Spokane County,2110,2.0,110.0,Alaska,Juneau City and Borough,14,23,WA
+53065,53,65,Washington,Stevens County,2110,2.0,110.0,Alaska,Juneau City and Borough,6,11,WA
+53033,53,33,Washington,King County,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,86,60,WA
+53043,53,43,Washington,Lincoln County,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,22,31,WA
+53053,53,53,Washington,Pierce County,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,9,14,WA
+53055,53,55,Washington,San Juan County,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,4,6,WA
+53033,53,33,Washington,King County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,7,11,WA
+53041,53,41,Washington,Lewis County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,8,14,WA
+53053,53,53,Washington,Pierce County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,3,4,WA
+53055,53,55,Washington,San Juan County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,14,16,WA
+53057,53,57,Washington,Skagit County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,2,3,WA
+53061,53,61,Washington,Snohomish County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,72,47,WA
+53067,53,67,Washington,Thurston County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,30,36,WA
+53071,53,71,Washington,Walla Walla County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,3,4,WA
+53073,53,73,Washington,Whatcom County,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,5,6,WA
+53009,53,9,Washington,Clallam County,2150,2.0,150.0,Alaska,Kodiak Island Borough,9,15,WA
+53017,53,17,Washington,Douglas County,2150,2.0,150.0,Alaska,Kodiak Island Borough,3,5,WA
+53033,53,33,Washington,King County,2150,2.0,150.0,Alaska,Kodiak Island Borough,51,41,WA
+53035,53,35,Washington,Kitsap County,2150,2.0,150.0,Alaska,Kodiak Island Borough,15,24,WA
+53047,53,47,Washington,Okanogan County,2150,2.0,150.0,Alaska,Kodiak Island Borough,12,20,WA
+53053,53,53,Washington,Pierce County,2150,2.0,150.0,Alaska,Kodiak Island Borough,45,44,WA
+53057,53,57,Washington,Skagit County,2150,2.0,150.0,Alaska,Kodiak Island Borough,29,31,WA
+53061,53,61,Washington,Snohomish County,2150,2.0,150.0,Alaska,Kodiak Island Borough,13,21,WA
+53027,53,27,Washington,Grays Harbor County,2158,2.0,158.0,Alaska,Kusilvak Census Area,3,5,WA
+53009,53,9,Washington,Clallam County,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,9,16,WA
+53033,53,33,Washington,King County,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,21,25,WA
+53005,53,5,Washington,Benton County,2185,2.0,185.0,Alaska,North Slope Borough,24,26,WA
+53007,53,7,Washington,Chelan County,2185,2.0,185.0,Alaska,North Slope Borough,41,57,WA
+53009,53,9,Washington,Clallam County,2185,2.0,185.0,Alaska,North Slope Borough,5,8,WA
+53011,53,11,Washington,Clark County,2185,2.0,185.0,Alaska,North Slope Borough,17,19,WA
+53015,53,15,Washington,Cowlitz County,2185,2.0,185.0,Alaska,North Slope Borough,18,29,WA
+53025,53,25,Washington,Grant County,2185,2.0,185.0,Alaska,North Slope Borough,10,15,WA
+53029,53,29,Washington,Island County,2185,2.0,185.0,Alaska,North Slope Borough,11,17,WA
+53033,53,33,Washington,King County,2185,2.0,185.0,Alaska,North Slope Borough,58,40,WA
+53035,53,35,Washington,Kitsap County,2185,2.0,185.0,Alaska,North Slope Borough,21,23,WA
+53037,53,37,Washington,Kittitas County,2185,2.0,185.0,Alaska,North Slope Borough,31,44,WA
+53047,53,47,Washington,Okanogan County,2185,2.0,185.0,Alaska,North Slope Borough,47,73,WA
+53053,53,53,Washington,Pierce County,2185,2.0,185.0,Alaska,North Slope Borough,33,47,WA
+53055,53,55,Washington,San Juan County,2185,2.0,185.0,Alaska,North Slope Borough,2,3,WA
+53057,53,57,Washington,Skagit County,2185,2.0,185.0,Alaska,North Slope Borough,30,30,WA
+53061,53,61,Washington,Snohomish County,2185,2.0,185.0,Alaska,North Slope Borough,42,39,WA
+53063,53,63,Washington,Spokane County,2185,2.0,185.0,Alaska,North Slope Borough,23,22,WA
+53065,53,65,Washington,Stevens County,2185,2.0,185.0,Alaska,North Slope Borough,7,10,WA
+53073,53,73,Washington,Whatcom County,2185,2.0,185.0,Alaska,North Slope Borough,5,8,WA
+53075,53,75,Washington,Whitman County,2185,2.0,185.0,Alaska,North Slope Borough,7,11,WA
+53039,53,39,Washington,Klickitat County,2195,2.0,195.0,Alaska,Petersburg Borough,5,9,WA
+53053,53,53,Washington,Pierce County,2195,2.0,195.0,Alaska,Petersburg Borough,8,12,WA
+53065,53,65,Washington,Stevens County,2195,2.0,195.0,Alaska,Petersburg Borough,31,48,WA
+53027,53,27,Washington,Grays Harbor County,2198,2.0,198.0,Alaska,Prince of Wales-Hyder Census Area,2,3,WA
+53073,53,73,Washington,Whatcom County,2220,2.0,220.0,Alaska,Sitka City and Borough,13,22,WA
+53033,53,33,Washington,King County,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,17,18,WA
+53051,53,51,Washington,Pend Oreille County,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,7,9,WA
+53033,53,33,Washington,King County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,86,55,WA
+53035,53,35,Washington,Kitsap County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,7,10,WA
+53049,53,49,Washington,Pacific County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,13,20,WA
+53053,53,53,Washington,Pierce County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,8,11,WA
+53055,53,55,Washington,San Juan County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,7,11,WA
+53057,53,57,Washington,Skagit County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,3,4,WA
+53061,53,61,Washington,Snohomish County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,22,35,WA
+53073,53,73,Washington,Whatcom County,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,13,21,WA
+53035,53,35,Washington,Kitsap County,2275,2.0,275.0,Alaska,Wrangell City and Borough,23,36,WA
+53065,53,65,Washington,Stevens County,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,17,26,WA
+53037,53,37,Washington,Kittitas County,4012,4.0,12.0,Arizona,La Paz County,14,21,WA
+53005,53,5,Washington,Benton County,4013,4.0,13.0,Arizona,Maricopa County,26,29,WA
+53011,53,11,Washington,Clark County,4013,4.0,13.0,Arizona,Maricopa County,25,27,WA
+53029,53,29,Washington,Island County,4013,4.0,13.0,Arizona,Maricopa County,14,16,WA
+53033,53,33,Washington,King County,4013,4.0,13.0,Arizona,Maricopa County,65,47,WA
+53045,53,45,Washington,Mason County,4013,4.0,13.0,Arizona,Maricopa County,19,29,WA
+53053,53,53,Washington,Pierce County,4013,4.0,13.0,Arizona,Maricopa County,50,48,WA
+53055,53,55,Washington,San Juan County,4013,4.0,13.0,Arizona,Maricopa County,2,4,WA
+53057,53,57,Washington,Skagit County,4013,4.0,13.0,Arizona,Maricopa County,2,3,WA
+53061,53,61,Washington,Snohomish County,4013,4.0,13.0,Arizona,Maricopa County,80,85,WA
+53063,53,63,Washington,Spokane County,4013,4.0,13.0,Arizona,Maricopa County,11,13,WA
+53073,53,73,Washington,Whatcom County,4013,4.0,13.0,Arizona,Maricopa County,11,19,WA
+53077,53,77,Washington,Yakima County,4013,4.0,13.0,Arizona,Maricopa County,7,11,WA
+53029,53,29,Washington,Island County,4017,4.0,17.0,Arizona,Navajo County,11,17,WA
+53011,53,11,Washington,Clark County,4019,4.0,19.0,Arizona,Pima County,5,9,WA
+53033,53,33,Washington,King County,4019,4.0,19.0,Arizona,Pima County,60,90,WA
+53053,53,53,Washington,Pierce County,4019,4.0,19.0,Arizona,Pima County,11,17,WA
+53057,53,57,Washington,Skagit County,4027,4.0,27.0,Arizona,Yuma County,9,15,WA
+53063,53,63,Washington,Spokane County,4027,4.0,27.0,Arizona,Yuma County,2,3,WA
+53077,53,77,Washington,Yakima County,5007,5.0,7.0,Arkansas,Benton County,4,6,WA
+53011,53,11,Washington,Clark County,5119,5.0,119.0,Arkansas,Pulaski County,4,7,WA
+53033,53,33,Washington,King County,5119,5.0,119.0,Arkansas,Pulaski County,13,21,WA
+53061,53,61,Washington,Snohomish County,5119,5.0,119.0,Arkansas,Pulaski County,24,28,WA
+53005,53,5,Washington,Benton County,6001,6.0,1.0,California,Alameda County,10,17,WA
+53011,53,11,Washington,Clark County,6001,6.0,1.0,California,Alameda County,23,24,WA
+53025,53,25,Washington,Grant County,6001,6.0,1.0,California,Alameda County,27,41,WA
+53029,53,29,Washington,Island County,6001,6.0,1.0,California,Alameda County,10,17,WA
+53033,53,33,Washington,King County,6001,6.0,1.0,California,Alameda County,161,76,WA
+53035,53,35,Washington,Kitsap County,6001,6.0,1.0,California,Alameda County,20,27,WA
+53039,53,39,Washington,Klickitat County,6001,6.0,1.0,California,Alameda County,3,5,WA
+53053,53,53,Washington,Pierce County,6001,6.0,1.0,California,Alameda County,51,41,WA
+53057,53,57,Washington,Skagit County,6001,6.0,1.0,California,Alameda County,2,3,WA
+53061,53,61,Washington,Snohomish County,6001,6.0,1.0,California,Alameda County,28,34,WA
+53063,53,63,Washington,Spokane County,6001,6.0,1.0,California,Alameda County,31,23,WA
+53067,53,67,Washington,Thurston County,6001,6.0,1.0,California,Alameda County,31,35,WA
+53035,53,35,Washington,Kitsap County,6007,6.0,7.0,California,Butte County,81,100,WA
+53029,53,29,Washington,Island County,6013,6.0,13.0,California,Contra Costa County,10,15,WA
+53033,53,33,Washington,King County,6013,6.0,13.0,California,Contra Costa County,8,12,WA
+53053,53,53,Washington,Pierce County,6013,6.0,13.0,California,Contra Costa County,12,20,WA
+53057,53,57,Washington,Skagit County,6013,6.0,13.0,California,Contra Costa County,5,9,WA
+53061,53,61,Washington,Snohomish County,6013,6.0,13.0,California,Contra Costa County,7,12,WA
+53077,53,77,Washington,Yakima County,6019,6.0,19.0,California,Fresno County,14,24,WA
+53005,53,5,Washington,Benton County,6023,6.0,23.0,California,Humboldt County,5,9,WA
+53015,53,15,Washington,Cowlitz County,6023,6.0,23.0,California,Humboldt County,17,28,WA
+53033,53,33,Washington,King County,6027,6.0,27.0,California,Inyo County,9,14,WA
+53035,53,35,Washington,Kitsap County,6027,6.0,27.0,California,Inyo County,23,39,WA
+53009,53,9,Washington,Clallam County,6029,6.0,29.0,California,Kern County,9,14,WA
+53025,53,25,Washington,Grant County,6029,6.0,29.0,California,Kern County,16,26,WA
+53035,53,35,Washington,Kitsap County,6029,6.0,29.0,California,Kern County,14,23,WA
+53039,53,39,Washington,Klickitat County,6029,6.0,29.0,California,Kern County,11,19,WA
+53053,53,53,Washington,Pierce County,6029,6.0,29.0,California,Kern County,10,16,WA
+53061,53,61,Washington,Snohomish County,6029,6.0,29.0,California,Kern County,5,8,WA
+53061,53,61,Washington,Snohomish County,6031,6.0,31.0,California,Kings County,10,15,WA
+53011,53,11,Washington,Clark County,6037,6.0,37.0,California,Los Angeles County,175,87,WA
+53033,53,33,Washington,King County,6037,6.0,37.0,California,Los Angeles County,229,97,WA
+53035,53,35,Washington,Kitsap County,6037,6.0,37.0,California,Los Angeles County,56,40,WA
+53053,53,53,Washington,Pierce County,6037,6.0,37.0,California,Los Angeles County,163,89,WA
+53055,53,55,Washington,San Juan County,6037,6.0,37.0,California,Los Angeles County,5,7,WA
+53057,53,57,Washington,Skagit County,6037,6.0,37.0,California,Los Angeles County,44,58,WA
+53059,53,59,Washington,Skamania County,6037,6.0,37.0,California,Los Angeles County,3,4,WA
+53061,53,61,Washington,Snohomish County,6037,6.0,37.0,California,Los Angeles County,22,21,WA
+53063,53,63,Washington,Spokane County,6037,6.0,37.0,California,Los Angeles County,9,14,WA
+53067,53,67,Washington,Thurston County,6037,6.0,37.0,California,Los Angeles County,30,37,WA
+53071,53,71,Washington,Walla Walla County,6037,6.0,37.0,California,Los Angeles County,49,55,WA
+53073,53,73,Washington,Whatcom County,6037,6.0,37.0,California,Los Angeles County,54,59,WA
+53077,53,77,Washington,Yakima County,6037,6.0,37.0,California,Los Angeles County,7,13,WA
+53033,53,33,Washington,King County,6039,6.0,39.0,California,Madera County,10,15,WA
+53033,53,33,Washington,King County,6041,6.0,41.0,California,Marin County,6,10,WA
+53029,53,29,Washington,Island County,6047,6.0,47.0,California,Merced County,10,17,WA
+53033,53,33,Washington,King County,6047,6.0,47.0,California,Merced County,9,13,WA
+53015,53,15,Washington,Cowlitz County,6053,6.0,53.0,California,Monterey County,15,23,WA
+53033,53,33,Washington,King County,6053,6.0,53.0,California,Monterey County,19,30,WA
+53053,53,53,Washington,Pierce County,6053,6.0,53.0,California,Monterey County,31,38,WA
+53051,53,51,Washington,Pend Oreille County,6055,6.0,55.0,California,Napa County,15,23,WA
+53011,53,11,Washington,Clark County,6057,6.0,57.0,California,Nevada County,23,36,WA
+53073,53,73,Washington,Whatcom County,6057,6.0,57.0,California,Nevada County,33,50,WA
+53005,53,5,Washington,Benton County,6059,6.0,59.0,California,Orange County,10,12,WA
+53011,53,11,Washington,Clark County,6059,6.0,59.0,California,Orange County,26,25,WA
+53029,53,29,Washington,Island County,6059,6.0,59.0,California,Orange County,9,14,WA
+53033,53,33,Washington,King County,6059,6.0,59.0,California,Orange County,65,42,WA
+53041,53,41,Washington,Lewis County,6059,6.0,59.0,California,Orange County,16,25,WA
+53053,53,53,Washington,Pierce County,6059,6.0,59.0,California,Orange County,100,70,WA
+53055,53,55,Washington,San Juan County,6059,6.0,59.0,California,Orange County,2,4,WA
+53057,53,57,Washington,Skagit County,6059,6.0,59.0,California,Orange County,2,2,WA
+53061,53,61,Washington,Snohomish County,6059,6.0,59.0,California,Orange County,49,60,WA
+53063,53,63,Washington,Spokane County,6059,6.0,59.0,California,Orange County,27,31,WA
+53067,53,67,Washington,Thurston County,6059,6.0,59.0,California,Orange County,12,19,WA
+53071,53,71,Washington,Walla Walla County,6059,6.0,59.0,California,Orange County,6,8,WA
+53033,53,33,Washington,King County,6061,6.0,61.0,California,Placer County,37,50,WA
+53053,53,53,Washington,Pierce County,6061,6.0,61.0,California,Placer County,30,46,WA
+53015,53,15,Washington,Cowlitz County,6065,6.0,65.0,California,Riverside County,31,49,WA
+53011,53,11,Washington,Clark County,6067,6.0,67.0,California,Sacramento County,32,37,WA
+53033,53,33,Washington,King County,6067,6.0,67.0,California,Sacramento County,140,105,WA
+53053,53,53,Washington,Pierce County,6067,6.0,67.0,California,Sacramento County,3,4,WA
+53063,53,63,Washington,Spokane County,6067,6.0,67.0,California,Sacramento County,92,143,WA
+53009,53,9,Washington,Clallam County,6071,6.0,71.0,California,San Bernardino County,11,18,WA
+53011,53,11,Washington,Clark County,6071,6.0,71.0,California,San Bernardino County,8,13,WA
+53033,53,33,Washington,King County,6071,6.0,71.0,California,San Bernardino County,68,76,WA
+53053,53,53,Washington,Pierce County,6071,6.0,71.0,California,San Bernardino County,37,27,WA
+53055,53,55,Washington,San Juan County,6071,6.0,71.0,California,San Bernardino County,2,2,WA
+53061,53,61,Washington,Snohomish County,6071,6.0,71.0,California,San Bernardino County,25,32,WA
+53069,53,69,Washington,Wahkiakum County,6071,6.0,71.0,California,San Bernardino County,10,15,WA
+53009,53,9,Washington,Clallam County,6073,6.0,73.0,California,San Diego County,6,10,WA
+53011,53,11,Washington,Clark County,6073,6.0,73.0,California,San Diego County,6,10,WA
+53029,53,29,Washington,Island County,6073,6.0,73.0,California,San Diego County,56,43,WA
+53033,53,33,Washington,King County,6073,6.0,73.0,California,San Diego County,16,19,WA
+53035,53,35,Washington,Kitsap County,6073,6.0,73.0,California,San Diego County,28,31,WA
+53053,53,53,Washington,Pierce County,6073,6.0,73.0,California,San Diego County,28,37,WA
+53061,53,61,Washington,Snohomish County,6073,6.0,73.0,California,San Diego County,38,44,WA
+53067,53,67,Washington,Thurston County,6073,6.0,73.0,California,San Diego County,22,35,WA
+53011,53,11,Washington,Clark County,6075,6.0,75.0,California,San Francisco County,50,41,WA
+53015,53,15,Washington,Cowlitz County,6075,6.0,75.0,California,San Francisco County,17,27,WA
+53021,53,21,Washington,Franklin County,6075,6.0,75.0,California,San Francisco County,15,17,WA
+53033,53,33,Washington,King County,6075,6.0,75.0,California,San Francisco County,330,117,WA
+53035,53,35,Washington,Kitsap County,6075,6.0,75.0,California,San Francisco County,23,27,WA
+53053,53,53,Washington,Pierce County,6075,6.0,75.0,California,San Francisco County,39,40,WA
+53055,53,55,Washington,San Juan County,6075,6.0,75.0,California,San Francisco County,9,11,WA
+53061,53,61,Washington,Snohomish County,6075,6.0,75.0,California,San Francisco County,31,31,WA
+53073,53,73,Washington,Whatcom County,6075,6.0,75.0,California,San Francisco County,49,58,WA
+53015,53,15,Washington,Cowlitz County,6077,6.0,77.0,California,San Joaquin County,11,18,WA
+53053,53,53,Washington,Pierce County,6077,6.0,77.0,California,San Joaquin County,2,3,WA
+53061,53,61,Washington,Snohomish County,6077,6.0,77.0,California,San Joaquin County,32,42,WA
+53011,53,11,Washington,Clark County,6079,6.0,79.0,California,San Luis Obispo County,30,48,WA
+53069,53,69,Washington,Wahkiakum County,6079,6.0,79.0,California,San Luis Obispo County,2,3,WA
+53005,53,5,Washington,Benton County,6081,6.0,81.0,California,San Mateo County,33,47,WA
+53011,53,11,Washington,Clark County,6081,6.0,81.0,California,San Mateo County,15,18,WA
+53015,53,15,Washington,Cowlitz County,6081,6.0,81.0,California,San Mateo County,8,13,WA
+53033,53,33,Washington,King County,6081,6.0,81.0,California,San Mateo County,232,87,WA
+53035,53,35,Washington,Kitsap County,6081,6.0,81.0,California,San Mateo County,13,22,WA
+53053,53,53,Washington,Pierce County,6081,6.0,81.0,California,San Mateo County,72,46,WA
+53057,53,57,Washington,Skagit County,6081,6.0,81.0,California,San Mateo County,21,25,WA
+53061,53,61,Washington,Snohomish County,6081,6.0,81.0,California,San Mateo County,86,62,WA
+53063,53,63,Washington,Spokane County,6081,6.0,81.0,California,San Mateo County,79,60,WA
+53067,53,67,Washington,Thurston County,6081,6.0,81.0,California,San Mateo County,3,10,WA
+53073,53,73,Washington,Whatcom County,6081,6.0,81.0,California,San Mateo County,53,76,WA
+53033,53,33,Washington,King County,6083,6.0,83.0,California,Santa Barbara County,14,21,WA
+53057,53,57,Washington,Skagit County,6083,6.0,83.0,California,Santa Barbara County,2,3,WA
+53063,53,63,Washington,Spokane County,6083,6.0,83.0,California,Santa Barbara County,5,9,WA
+53011,53,11,Washington,Clark County,6085,6.0,85.0,California,Santa Clara County,38,39,WA
+53021,53,21,Washington,Franklin County,6085,6.0,85.0,California,Santa Clara County,15,28,WA
+53029,53,29,Washington,Island County,6085,6.0,85.0,California,Santa Clara County,15,17,WA
+53033,53,33,Washington,King County,6085,6.0,85.0,California,Santa Clara County,252,92,WA
+53035,53,35,Washington,Kitsap County,6085,6.0,85.0,California,Santa Clara County,16,25,WA
+53041,53,41,Washington,Lewis County,6085,6.0,85.0,California,Santa Clara County,23,35,WA
+53053,53,53,Washington,Pierce County,6085,6.0,85.0,California,Santa Clara County,38,32,WA
+53055,53,55,Washington,San Juan County,6085,6.0,85.0,California,Santa Clara County,4,4,WA
+53061,53,61,Washington,Snohomish County,6085,6.0,85.0,California,Santa Clara County,30,35,WA
+53067,53,67,Washington,Thurston County,6085,6.0,85.0,California,Santa Clara County,10,15,WA
+53077,53,77,Washington,Yakima County,6085,6.0,85.0,California,Santa Clara County,13,22,WA
+53015,53,15,Washington,Cowlitz County,6087,6.0,87.0,California,Santa Cruz County,15,24,WA
+53041,53,41,Washington,Lewis County,6087,6.0,87.0,California,Santa Cruz County,8,13,WA
+53057,53,57,Washington,Skagit County,6087,6.0,87.0,California,Santa Cruz County,2,2,WA
+53061,53,61,Washington,Snohomish County,6087,6.0,87.0,California,Santa Cruz County,13,23,WA
+53071,53,71,Washington,Walla Walla County,6087,6.0,87.0,California,Santa Cruz County,6,9,WA
+53003,53,3,Washington,Asotin County,6089,6.0,89.0,California,Shasta County,8,13,WA
+53011,53,11,Washington,Clark County,6097,6.0,97.0,California,Sonoma County,9,14,WA
+53019,53,19,Washington,Ferry County,6097,6.0,97.0,California,Sonoma County,4,6,WA
+53033,53,33,Washington,King County,6097,6.0,97.0,California,Sonoma County,11,22,WA
+53033,53,33,Washington,King County,6099,6.0,99.0,California,Stanislaus County,13,22,WA
+53053,53,53,Washington,Pierce County,6099,6.0,99.0,California,Stanislaus County,7,11,WA
+53011,53,11,Washington,Clark County,6107,6.0,107.0,California,Tulare County,23,28,WA
+53053,53,53,Washington,Pierce County,6107,6.0,107.0,California,Tulare County,28,44,WA
+53057,53,57,Washington,Skagit County,6107,6.0,107.0,California,Tulare County,2,3,WA
+53051,53,51,Washington,Pend Oreille County,6109,6.0,109.0,California,Tuolumne County,4,6,WA
+53011,53,11,Washington,Clark County,6111,6.0,111.0,California,Ventura County,15,22,WA
+53033,53,33,Washington,King County,6111,6.0,111.0,California,Ventura County,119,76,WA
+53053,53,53,Washington,Pierce County,8005,8.0,5.0,Colorado,Arapahoe County,7,12,WA
+53035,53,35,Washington,Kitsap County,8013,8.0,13.0,Colorado,Boulder County,6,9,WA
+53063,53,63,Washington,Spokane County,8013,8.0,13.0,Colorado,Boulder County,9,16,WA
+53033,53,33,Washington,King County,8031,8.0,31.0,Colorado,Denver County,78,64,WA
+53035,53,35,Washington,Kitsap County,8031,8.0,31.0,Colorado,Denver County,11,21,WA
+53047,53,47,Washington,Okanogan County,8031,8.0,31.0,Colorado,Denver County,3,5,WA
+53057,53,57,Washington,Skagit County,8031,8.0,31.0,Colorado,Denver County,2,4,WA
+53063,53,63,Washington,Spokane County,8031,8.0,31.0,Colorado,Denver County,42,45,WA
+53075,53,75,Washington,Whitman County,8031,8.0,31.0,Colorado,Denver County,3,6,WA
+53063,53,63,Washington,Spokane County,8035,8.0,35.0,Colorado,Douglas County,6,9,WA
+53033,53,33,Washington,King County,8037,8.0,37.0,Colorado,Eagle County,14,23,WA
+53011,53,11,Washington,Clark County,8041,8.0,41.0,Colorado,El Paso County,10,15,WA
+53033,53,33,Washington,King County,8041,8.0,41.0,Colorado,El Paso County,20,31,WA
+53057,53,57,Washington,Skagit County,8041,8.0,41.0,Colorado,El Paso County,2,3,WA
+53067,53,67,Washington,Thurston County,8041,8.0,41.0,Colorado,El Paso County,14,22,WA
+53049,53,49,Washington,Pacific County,8051,8.0,51.0,Colorado,Gunnison County,9,14,WA
+53069,53,69,Washington,Wahkiakum County,8051,8.0,51.0,Colorado,Gunnison County,4,7,WA
+53033,53,33,Washington,King County,8059,8.0,59.0,Colorado,Jefferson County,7,12,WA
+53053,53,53,Washington,Pierce County,8069,8.0,69.0,Colorado,Larimer County,7,11,WA
+53011,53,11,Washington,Clark County,8107,8.0,107.0,Colorado,Routt County,8,14,WA
+53059,53,59,Washington,Skamania County,8107,8.0,107.0,Colorado,Routt County,8,13,WA
+53053,53,53,Washington,Pierce County,8119,8.0,119.0,Colorado,Teller County,2,5,WA
+53077,53,77,Washington,Yakima County,8123,8.0,123.0,Colorado,Weld County,2,4,WA
+53033,53,33,Washington,King County,9001,9.0,1.0,Connecticut,Fairfield County,8,13,WA
+53061,53,61,Washington,Snohomish County,9003,9.0,3.0,Connecticut,Hartford County,13,22,WA
+53005,53,5,Washington,Benton County,9009,9.0,9.0,Connecticut,New Haven County,5,8,WA
+53033,53,33,Washington,King County,9009,9.0,9.0,Connecticut,New Haven County,31,39,WA
+53033,53,33,Washington,King County,9011,9.0,11.0,Connecticut,New London County,10,15,WA
+53011,53,11,Washington,Clark County,10003,10.0,3.0,Delaware,New Castle County,13,21,WA
+53011,53,11,Washington,Clark County,11001,11.0,1.0,District of Columbia,District of Columbia,45,48,WA
+53025,53,25,Washington,Grant County,11001,11.0,1.0,District of Columbia,District of Columbia,17,27,WA
+53033,53,33,Washington,King County,11001,11.0,1.0,District of Columbia,District of Columbia,177,79,WA
+53035,53,35,Washington,Kitsap County,11001,11.0,1.0,District of Columbia,District of Columbia,33,45,WA
+53045,53,45,Washington,Mason County,11001,11.0,1.0,District of Columbia,District of Columbia,30,49,WA
+53053,53,53,Washington,Pierce County,11001,11.0,1.0,District of Columbia,District of Columbia,73,73,WA
+53061,53,61,Washington,Snohomish County,11001,11.0,1.0,District of Columbia,District of Columbia,48,36,WA
+53063,53,63,Washington,Spokane County,11001,11.0,1.0,District of Columbia,District of Columbia,16,28,WA
+53067,53,67,Washington,Thurston County,11001,11.0,1.0,District of Columbia,District of Columbia,10,14,WA
+53071,53,71,Washington,Walla Walla County,11001,11.0,1.0,District of Columbia,District of Columbia,7,18,WA
+53077,53,77,Washington,Yakima County,11001,11.0,1.0,District of Columbia,District of Columbia,24,30,WA
+53067,53,67,Washington,Thurston County,12001,12.0,1.0,Florida,Alachua County,18,28,WA
+53053,53,53,Washington,Pierce County,12011,12.0,11.0,Florida,Broward County,4,6,WA
+53071,53,71,Washington,Walla Walla County,12011,12.0,11.0,Florida,Broward County,7,11,WA
+53007,53,7,Washington,Chelan County,12031,12.0,31.0,Florida,Duval County,5,7,WA
+53057,53,57,Washington,Skagit County,12031,12.0,31.0,Florida,Duval County,16,25,WA
+53067,53,67,Washington,Thurston County,12031,12.0,31.0,Florida,Duval County,12,19,WA
+53053,53,53,Washington,Pierce County,12033,12.0,33.0,Florida,Escambia County,19,27,WA
+53061,53,61,Washington,Snohomish County,12033,12.0,33.0,Florida,Escambia County,42,68,WA
+53029,53,29,Washington,Island County,12071,12.0,71.0,Florida,Lee County,7,11,WA
+53067,53,67,Washington,Thurston County,12085,12.0,85.0,Florida,Martin County,6,10,WA
+53025,53,25,Washington,Grant County,12086,12.0,86.0,Florida,Miami-Dade County,5,8,WA
+53033,53,33,Washington,King County,12086,12.0,86.0,Florida,Miami-Dade County,14,22,WA
+53035,53,35,Washington,Kitsap County,12086,12.0,86.0,Florida,Miami-Dade County,27,43,WA
+53051,53,51,Washington,Pend Oreille County,12086,12.0,86.0,Florida,Miami-Dade County,7,11,WA
+53053,53,53,Washington,Pierce County,12086,12.0,86.0,Florida,Miami-Dade County,7,12,WA
+53073,53,73,Washington,Whatcom County,12086,12.0,86.0,Florida,Miami-Dade County,6,9,WA
+53057,53,57,Washington,Skagit County,12087,12.0,87.0,Florida,Monroe County,14,20,WA
+53033,53,33,Washington,King County,12095,12.0,95.0,Florida,Orange County,29,45,WA
+53053,53,53,Washington,Pierce County,12095,12.0,95.0,Florida,Orange County,36,40,WA
+53033,53,33,Washington,King County,12099,12.0,99.0,Florida,Palm Beach County,50,39,WA
+53035,53,35,Washington,Kitsap County,12099,12.0,99.0,Florida,Palm Beach County,6,6,WA
+53053,53,53,Washington,Pierce County,12099,12.0,99.0,Florida,Palm Beach County,25,38,WA
+53033,53,33,Washington,King County,12103,12.0,103.0,Florida,Pinellas County,16,26,WA
+53057,53,57,Washington,Skagit County,12123,12.0,123.0,Florida,Taylor County,2,4,WA
+53063,53,63,Washington,Spokane County,13045,13.0,45.0,Georgia,Carroll County,8,13,WA
+53033,53,33,Washington,King County,13067,13.0,67.0,Georgia,Cobb County,17,24,WA
+53011,53,11,Washington,Clark County,13089,13.0,89.0,Georgia,DeKalb County,13,23,WA
+53033,53,33,Washington,King County,13089,13.0,89.0,Georgia,DeKalb County,36,38,WA
+53035,53,35,Washington,Kitsap County,13089,13.0,89.0,Georgia,DeKalb County,19,26,WA
+53011,53,11,Washington,Clark County,13121,13.0,121.0,Georgia,Fulton County,14,23,WA
+53025,53,25,Washington,Grant County,13121,13.0,121.0,Georgia,Fulton County,10,16,WA
+53029,53,29,Washington,Island County,13121,13.0,121.0,Georgia,Fulton County,7,11,WA
+53033,53,33,Washington,King County,13121,13.0,121.0,Georgia,Fulton County,49,41,WA
+53053,53,53,Washington,Pierce County,13121,13.0,121.0,Georgia,Fulton County,19,20,WA
+53073,53,73,Washington,Whatcom County,13121,13.0,121.0,Georgia,Fulton County,1,3,WA
+53037,53,37,Washington,Kittitas County,13127,13.0,127.0,Georgia,Glynn County,3,4,WA
+53073,53,73,Washington,Whatcom County,13127,13.0,127.0,Georgia,Glynn County,4,9,WA
+53053,53,53,Washington,Pierce County,13135,13.0,135.0,Georgia,Gwinnett County,34,50,WA
+53067,53,67,Washington,Thurston County,13135,13.0,135.0,Georgia,Gwinnett County,16,25,WA
+53037,53,37,Washington,Kittitas County,13151,13.0,151.0,Georgia,Henry County,30,35,WA
+53053,53,53,Washington,Pierce County,13245,13.0,245.0,Georgia,Richmond County,7,11,WA
+53033,53,33,Washington,King County,15001,15.0,1.0,Hawaii,Hawaii County,18,29,WA
+53005,53,5,Washington,Benton County,15003,15.0,3.0,Hawaii,Honolulu County,11,17,WA
+53011,53,11,Washington,Clark County,15003,15.0,3.0,Hawaii,Honolulu County,16,26,WA
+53029,53,29,Washington,Island County,15003,15.0,3.0,Hawaii,Honolulu County,8,12,WA
+53033,53,33,Washington,King County,15003,15.0,3.0,Hawaii,Honolulu County,36,36,WA
+53035,53,35,Washington,Kitsap County,15003,15.0,3.0,Hawaii,Honolulu County,5,10,WA
+53053,53,53,Washington,Pierce County,15003,15.0,3.0,Hawaii,Honolulu County,56,52,WA
+53057,53,57,Washington,Skagit County,15003,15.0,3.0,Hawaii,Honolulu County,5,7,WA
+53061,53,61,Washington,Snohomish County,15003,15.0,3.0,Hawaii,Honolulu County,55,45,WA
+53067,53,67,Washington,Thurston County,15003,15.0,3.0,Hawaii,Honolulu County,33,40,WA
+53011,53,11,Washington,Clark County,15007,15.0,7.0,Hawaii,Kauai County,18,29,WA
+53053,53,53,Washington,Pierce County,15007,15.0,7.0,Hawaii,Kauai County,6,10,WA
+53011,53,11,Washington,Clark County,15009,15.0,9.0,Hawaii,Maui County,5,8,WA
+53033,53,33,Washington,King County,15009,15.0,9.0,Hawaii,Maui County,67,73,WA
+53053,53,53,Washington,Pierce County,15009,15.0,9.0,Hawaii,Maui County,11,17,WA
+53077,53,77,Washington,Yakima County,15009,15.0,9.0,Hawaii,Maui County,14,21,WA
+53005,53,5,Washington,Benton County,16001,16.0,1.0,Idaho,Ada County,5,9,WA
+53011,53,11,Washington,Clark County,16001,16.0,1.0,Idaho,Ada County,8,11,WA
+53025,53,25,Washington,Grant County,16001,16.0,1.0,Idaho,Ada County,16,25,WA
+53029,53,29,Washington,Island County,16001,16.0,1.0,Idaho,Ada County,2,3,WA
+53033,53,33,Washington,King County,16001,16.0,1.0,Idaho,Ada County,34,36,WA
+53035,53,35,Washington,Kitsap County,16001,16.0,1.0,Idaho,Ada County,14,24,WA
+53037,53,37,Washington,Kittitas County,16001,16.0,1.0,Idaho,Ada County,18,28,WA
+53039,53,39,Washington,Klickitat County,16001,16.0,1.0,Idaho,Ada County,18,28,WA
+53053,53,53,Washington,Pierce County,16001,16.0,1.0,Idaho,Ada County,9,19,WA
+53055,53,55,Washington,San Juan County,16001,16.0,1.0,Idaho,Ada County,1,3,WA
+53061,53,61,Washington,Snohomish County,16001,16.0,1.0,Idaho,Ada County,12,20,WA
+53063,53,63,Washington,Spokane County,16001,16.0,1.0,Idaho,Ada County,23,26,WA
+53061,53,61,Washington,Snohomish County,16009,16.0,9.0,Idaho,Benewah County,57,65,WA
+53063,53,63,Washington,Spokane County,16009,16.0,9.0,Idaho,Benewah County,77,55,WA
+53065,53,65,Washington,Stevens County,16009,16.0,9.0,Idaho,Benewah County,16,20,WA
+53075,53,75,Washington,Whitman County,16009,16.0,9.0,Idaho,Benewah County,36,17,WA
+53005,53,5,Washington,Benton County,16017,16.0,17.0,Idaho,Bonner County,13,23,WA
+53015,53,15,Washington,Cowlitz County,16017,16.0,17.0,Idaho,Bonner County,13,22,WA
+53025,53,25,Washington,Grant County,16017,16.0,17.0,Idaho,Bonner County,3,4,WA
+53033,53,33,Washington,King County,16017,16.0,17.0,Idaho,Bonner County,9,14,WA
+53051,53,51,Washington,Pend Oreille County,16017,16.0,17.0,Idaho,Bonner County,266,94,WA
+53063,53,63,Washington,Spokane County,16017,16.0,17.0,Idaho,Bonner County,221,124,WA
+53065,53,65,Washington,Stevens County,16017,16.0,17.0,Idaho,Bonner County,2,3,WA
+53009,53,9,Washington,Clallam County,16019,16.0,19.0,Idaho,Bonneville County,5,7,WA
+53075,53,75,Washington,Whitman County,16019,16.0,19.0,Idaho,Bonneville County,2,3,WA
+53063,53,63,Washington,Spokane County,16021,16.0,21.0,Idaho,Boundary County,36,30,WA
+53063,53,63,Washington,Spokane County,16027,16.0,27.0,Idaho,Canyon County,20,23,WA
+53063,53,63,Washington,Spokane County,16031,16.0,31.0,Idaho,Cassia County,11,17,WA
+53003,53,3,Washington,Asotin County,16035,16.0,35.0,Idaho,Clearwater County,45,40,WA
+53007,53,7,Washington,Chelan County,16035,16.0,35.0,Idaho,Clearwater County,9,14,WA
+53065,53,65,Washington,Stevens County,16035,16.0,35.0,Idaho,Clearwater County,13,23,WA
+53025,53,25,Washington,Grant County,16049,16.0,49.0,Idaho,Idaho County,3,4,WA
+53075,53,75,Washington,Whitman County,16049,16.0,49.0,Idaho,Idaho County,3,6,WA
+53023,53,23,Washington,Garfield County,16055,16.0,55.0,Idaho,Kootenai County,7,11,WA
+53025,53,25,Washington,Grant County,16055,16.0,55.0,Idaho,Kootenai County,16,26,WA
+53043,53,43,Washington,Lincoln County,16055,16.0,55.0,Idaho,Kootenai County,1,2,WA
+53051,53,51,Washington,Pend Oreille County,16055,16.0,55.0,Idaho,Kootenai County,97,78,WA
+53063,53,63,Washington,Spokane County,16055,16.0,55.0,Idaho,Kootenai County,3856,474,WA
+53065,53,65,Washington,Stevens County,16055,16.0,55.0,Idaho,Kootenai County,36,56,WA
+53071,53,71,Washington,Walla Walla County,16055,16.0,55.0,Idaho,Kootenai County,30,50,WA
+53075,53,75,Washington,Whitman County,16055,16.0,55.0,Idaho,Kootenai County,15,9,WA
+53003,53,3,Washington,Asotin County,16057,16.0,57.0,Idaho,Latah County,95,62,WA
+53023,53,23,Washington,Garfield County,16057,16.0,57.0,Idaho,Latah County,5,7,WA
+53033,53,33,Washington,King County,16057,16.0,57.0,Idaho,Latah County,70,63,WA
+53043,53,43,Washington,Lincoln County,16057,16.0,57.0,Idaho,Latah County,1,3,WA
+53063,53,63,Washington,Spokane County,16057,16.0,57.0,Idaho,Latah County,76,63,WA
+53073,53,73,Washington,Whatcom County,16057,16.0,57.0,Idaho,Latah County,23,38,WA
+53075,53,75,Washington,Whitman County,16057,16.0,57.0,Idaho,Latah County,958,214,WA
+53003,53,3,Washington,Asotin County,16061,16.0,61.0,Idaho,Lewis County,21,35,WA
+53003,53,3,Washington,Asotin County,16069,16.0,69.0,Idaho,Nez Perce County,4766,394,WA
+53011,53,11,Washington,Clark County,16069,16.0,69.0,Idaho,Nez Perce County,9,16,WA
+53023,53,23,Washington,Garfield County,16069,16.0,69.0,Idaho,Nez Perce County,99,38,WA
+53043,53,43,Washington,Lincoln County,16069,16.0,69.0,Idaho,Nez Perce County,6,9,WA
+53063,53,63,Washington,Spokane County,16069,16.0,69.0,Idaho,Nez Perce County,40,29,WA
+53071,53,71,Washington,Walla Walla County,16069,16.0,69.0,Idaho,Nez Perce County,8,12,WA
+53075,53,75,Washington,Whitman County,16069,16.0,69.0,Idaho,Nez Perce County,193,55,WA
+53011,53,11,Washington,Clark County,16073,16.0,73.0,Idaho,Owyhee County,11,18,WA
+53051,53,51,Washington,Pend Oreille County,16079,16.0,79.0,Idaho,Shoshone County,9,13,WA
+53013,53,13,Washington,Columbia County,16083,16.0,83.0,Idaho,Twin Falls County,2,3,WA
+53033,53,33,Washington,King County,17005,17.0,5.0,Illinois,Bond County,10,15,WA
+53011,53,11,Washington,Clark County,17031,17.0,31.0,Illinois,Cook County,17,26,WA
+53015,53,15,Washington,Cowlitz County,17031,17.0,31.0,Illinois,Cook County,21,34,WA
+53033,53,33,Washington,King County,17031,17.0,31.0,Illinois,Cook County,208,117,WA
+53053,53,53,Washington,Pierce County,17031,17.0,31.0,Illinois,Cook County,122,70,WA
+53061,53,61,Washington,Snohomish County,17031,17.0,31.0,Illinois,Cook County,47,46,WA
+53063,53,63,Washington,Spokane County,17031,17.0,31.0,Illinois,Cook County,20,33,WA
+53073,53,73,Washington,Whatcom County,17031,17.0,31.0,Illinois,Cook County,26,35,WA
+53011,53,11,Washington,Clark County,17043,17.0,43.0,Illinois,DuPage County,18,30,WA
+53033,53,33,Washington,King County,17043,17.0,43.0,Illinois,DuPage County,7,11,WA
+53043,53,43,Washington,Lincoln County,17043,17.0,43.0,Illinois,DuPage County,4,4,WA
+53033,53,33,Washington,King County,17083,17.0,83.0,Illinois,Jersey County,39,65,WA
+53033,53,33,Washington,King County,17089,17.0,89.0,Illinois,Kane County,14,24,WA
+53033,53,33,Washington,King County,17097,17.0,97.0,Illinois,Lake County,38,35,WA
+53067,53,67,Washington,Thurston County,17097,17.0,97.0,Illinois,Lake County,35,39,WA
+53011,53,11,Washington,Clark County,17115,17.0,115.0,Illinois,Macon County,9,14,WA
+53071,53,71,Washington,Walla Walla County,17119,17.0,119.0,Illinois,Madison County,2,3,WA
+53033,53,33,Washington,King County,17149,17.0,149.0,Illinois,Pike County,20,32,WA
+53063,53,63,Washington,Spokane County,17163,17.0,163.0,Illinois,St. Clair County,6,11,WA
+53011,53,11,Washington,Clark County,17197,17.0,197.0,Illinois,Will County,9,15,WA
+53055,53,55,Washington,San Juan County,18003,18.0,3.0,Indiana,Allen County,3,4,WA
+53011,53,11,Washington,Clark County,18019,18.0,19.0,Indiana,Clark County,4,7,WA
+53029,53,29,Washington,Island County,18053,18.0,53.0,Indiana,Grant County,7,12,WA
+53033,53,33,Washington,King County,18057,18.0,57.0,Indiana,Hamilton County,16,17,WA
+53029,53,29,Washington,Island County,18097,18.0,97.0,Indiana,Marion County,6,9,WA
+53033,53,33,Washington,King County,18097,18.0,97.0,Indiana,Marion County,8,12,WA
+53061,53,61,Washington,Snohomish County,18097,18.0,97.0,Indiana,Marion County,12,21,WA
+53063,53,63,Washington,Spokane County,18097,18.0,97.0,Indiana,Marion County,6,9,WA
+53033,53,33,Washington,King County,18113,18.0,113.0,Indiana,Noble County,4,7,WA
+53061,53,61,Washington,Snohomish County,18119,18.0,119.0,Indiana,Owen County,6,9,WA
+53033,53,33,Washington,King County,18141,18.0,141.0,Indiana,St. Joseph County,32,50,WA
+53047,53,47,Washington,Okanogan County,18141,18.0,141.0,Indiana,St. Joseph County,3,5,WA
+53063,53,63,Washington,Spokane County,18141,18.0,141.0,Indiana,St. Joseph County,10,16,WA
+53033,53,33,Washington,King County,19013,19.0,13.0,Iowa,Black Hawk County,18,30,WA
+53033,53,33,Washington,King County,19103,19.0,103.0,Iowa,Johnson County,8,14,WA
+53033,53,33,Washington,King County,19149,19.0,149.0,Iowa,Plymouth County,9,13,WA
+53033,53,33,Washington,King County,19153,19.0,153.0,Iowa,Polk County,10,15,WA
+53061,53,61,Washington,Snohomish County,19153,19.0,153.0,Iowa,Polk County,38,61,WA
+53067,53,67,Washington,Thurston County,19153,19.0,153.0,Iowa,Polk County,21,25,WA
+53011,53,11,Washington,Clark County,19163,19.0,163.0,Iowa,Scott County,10,16,WA
+53063,53,63,Washington,Spokane County,19181,19.0,181.0,Iowa,Warren County,7,9,WA
+53005,53,5,Washington,Benton County,19183,19.0,183.0,Iowa,Washington County,21,35,WA
+53035,53,35,Washington,Kitsap County,19187,19.0,187.0,Iowa,Webster County,18,28,WA
+53067,53,67,Washington,Thurston County,19187,19.0,187.0,Iowa,Webster County,11,16,WA
+53053,53,53,Washington,Pierce County,20005,20.0,5.0,Kansas,Atchison County,5,7,WA
+53053,53,53,Washington,Pierce County,20007,20.0,7.0,Kansas,Barber County,2,3,WA
+53033,53,33,Washington,King County,20061,20.0,61.0,Kansas,Geary County,28,36,WA
+53053,53,53,Washington,Pierce County,20061,20.0,61.0,Kansas,Geary County,9,14,WA
+53005,53,5,Washington,Benton County,20091,20.0,91.0,Kansas,Johnson County,8,13,WA
+53011,53,11,Washington,Clark County,20091,20.0,91.0,Kansas,Johnson County,8,12,WA
+53053,53,53,Washington,Pierce County,20091,20.0,91.0,Kansas,Johnson County,14,22,WA
+53053,53,53,Washington,Pierce County,20103,20.0,103.0,Kansas,Leavenworth County,7,11,WA
+53063,53,63,Washington,Spokane County,20113,20.0,113.0,Kansas,McPherson County,24,36,WA
+53039,53,39,Washington,Klickitat County,20123,20.0,123.0,Kansas,Mitchell County,2,5,WA
+53041,53,41,Washington,Lewis County,20155,20.0,155.0,Kansas,Reno County,12,20,WA
+53033,53,33,Washington,King County,20173,20.0,173.0,Kansas,Sedgwick County,13,21,WA
+53061,53,61,Washington,Snohomish County,20173,20.0,173.0,Kansas,Sedgwick County,10,16,WA
+53063,53,63,Washington,Spokane County,20173,20.0,173.0,Kansas,Sedgwick County,12,19,WA
+53073,53,73,Washington,Whatcom County,20177,20.0,177.0,Kansas,Shawnee County,14,23,WA
+53075,53,75,Washington,Whitman County,20177,20.0,177.0,Kansas,Shawnee County,2,2,WA
+53073,53,73,Washington,Whatcom County,21015,21.0,15.0,Kentucky,Boone County,19,31,WA
+53021,53,21,Washington,Franklin County,21017,21.0,17.0,Kentucky,Bourbon County,12,19,WA
+53011,53,11,Washington,Clark County,21111,21.0,111.0,Kentucky,Jefferson County,24,29,WA
+53031,53,31,Washington,Jefferson County,21111,21.0,111.0,Kentucky,Jefferson County,5,7,WA
+53033,53,33,Washington,King County,21111,21.0,111.0,Kentucky,Jefferson County,35,43,WA
+53053,53,53,Washington,Pierce County,21111,21.0,111.0,Kentucky,Jefferson County,9,11,WA
+53057,53,57,Washington,Skagit County,21111,21.0,111.0,Kentucky,Jefferson County,6,10,WA
+53061,53,61,Washington,Snohomish County,21111,21.0,111.0,Kentucky,Jefferson County,20,49,WA
+53061,53,61,Washington,Snohomish County,22017,22.0,17.0,Louisiana,Caddo Parish,8,13,WA
+53053,53,53,Washington,Pierce County,22019,22.0,19.0,Louisiana,Calcasieu Parish,5,8,WA
+53065,53,65,Washington,Stevens County,22019,22.0,19.0,Louisiana,Calcasieu Parish,3,5,WA
+53011,53,11,Washington,Clark County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,9,15,WA
+53033,53,33,Washington,King County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,29,33,WA
+53033,53,33,Washington,King County,22051,22.0,51.0,Louisiana,Jefferson Parish,14,22,WA
+53073,53,73,Washington,Whatcom County,22055,22.0,55.0,Louisiana,Lafayette Parish,3,5,WA
+53053,53,53,Washington,Pierce County,22057,22.0,57.0,Louisiana,Lafourche Parish,6,10,WA
+53061,53,61,Washington,Snohomish County,22079,22.0,79.0,Louisiana,Rapides Parish,13,18,WA
+53027,53,27,Washington,Grays Harbor County,22101,22.0,101.0,Louisiana,St. Mary Parish,9,16,WA
+53035,53,35,Washington,Kitsap County,22101,22.0,101.0,Louisiana,St. Mary Parish,11,20,WA
+53035,53,35,Washington,Kitsap County,23019,23.0,19.0,Maine,Penobscot County,2,2,WA
+53033,53,33,Washington,King County,24003,24.0,3.0,Maryland,Anne Arundel County,15,24,WA
+53063,53,63,Washington,Spokane County,24017,24.0,17.0,Maryland,Charles County,10,15,WA
+53033,53,33,Washington,King County,24021,24.0,21.0,Maryland,Frederick County,20,32,WA
+53061,53,61,Washington,Snohomish County,24021,24.0,21.0,Maryland,Frederick County,8,13,WA
+53033,53,33,Washington,King County,24031,24.0,31.0,Maryland,Montgomery County,34,38,WA
+53053,53,53,Washington,Pierce County,24031,24.0,31.0,Maryland,Montgomery County,6,9,WA
+53057,53,57,Washington,Skagit County,24031,24.0,31.0,Maryland,Montgomery County,2,3,WA
+53009,53,9,Washington,Clallam County,24033,24.0,33.0,Maryland,Prince George's County,6,10,WA
+53033,53,33,Washington,King County,24033,24.0,33.0,Maryland,Prince George's County,47,76,WA
+53035,53,35,Washington,Kitsap County,24033,24.0,33.0,Maryland,Prince George's County,13,20,WA
+53053,53,53,Washington,Pierce County,24033,24.0,33.0,Maryland,Prince George's County,21,22,WA
+53009,53,9,Washington,Clallam County,24047,24.0,47.0,Maryland,Worcester County,14,22,WA
+53033,53,33,Washington,King County,24510,24.0,510.0,Maryland,Baltimore city,34,36,WA
+53035,53,35,Washington,Kitsap County,24510,24.0,510.0,Maryland,Baltimore city,3,7,WA
+53055,53,55,Washington,San Juan County,25005,25.0,5.0,Massachusetts,Bristol County,1,3,WA
+53033,53,33,Washington,King County,25009,25.0,9.0,Massachusetts,Essex County,16,19,WA
+53053,53,53,Washington,Pierce County,25015,25.0,15.0,Massachusetts,Hampshire County,4,5,WA
+53033,53,33,Washington,King County,25017,25.0,17.0,Massachusetts,Middlesex County,66,52,WA
+53053,53,53,Washington,Pierce County,25017,25.0,17.0,Massachusetts,Middlesex County,7,11,WA
+53055,53,55,Washington,San Juan County,25017,25.0,17.0,Massachusetts,Middlesex County,2,2,WA
+53045,53,45,Washington,Mason County,25021,25.0,21.0,Massachusetts,Norfolk County,21,33,WA
+53061,53,61,Washington,Snohomish County,25021,25.0,21.0,Massachusetts,Norfolk County,12,18,WA
+53063,53,63,Washington,Spokane County,25021,25.0,21.0,Massachusetts,Norfolk County,11,18,WA
+53005,53,5,Washington,Benton County,25025,25.0,25.0,Massachusetts,Suffolk County,11,17,WA
+53011,53,11,Washington,Clark County,25025,25.0,25.0,Massachusetts,Suffolk County,39,61,WA
+53033,53,33,Washington,King County,25025,25.0,25.0,Massachusetts,Suffolk County,102,88,WA
+53057,53,57,Washington,Skagit County,25025,25.0,25.0,Massachusetts,Suffolk County,59,90,WA
+53061,53,61,Washington,Snohomish County,25025,25.0,25.0,Massachusetts,Suffolk County,12,20,WA
+53053,53,53,Washington,Pierce County,25027,25.0,27.0,Massachusetts,Worcester County,19,26,WA
+53063,53,63,Washington,Spokane County,26013,26.0,13.0,Michigan,Baraga County,17,26,WA
+53053,53,53,Washington,Pierce County,26025,26.0,25.0,Michigan,Calhoun County,26,45,WA
+53033,53,33,Washington,King County,26029,26.0,29.0,Michigan,Charlevoix County,8,12,WA
+53007,53,7,Washington,Chelan County,26043,26.0,43.0,Michigan,Dickinson County,12,17,WA
+53071,53,71,Washington,Walla Walla County,26065,26.0,65.0,Michigan,Ingham County,8,14,WA
+53033,53,33,Washington,King County,26081,26.0,81.0,Michigan,Kent County,19,32,WA
+53053,53,53,Washington,Pierce County,26081,26.0,81.0,Michigan,Kent County,26,40,WA
+53055,53,55,Washington,San Juan County,26081,26.0,81.0,Michigan,Kent County,4,6,WA
+53033,53,33,Washington,King County,26115,26.0,115.0,Michigan,Monroe County,11,19,WA
+53033,53,33,Washington,King County,26161,26.0,161.0,Michigan,Washtenaw County,23,36,WA
+53015,53,15,Washington,Cowlitz County,26163,26.0,163.0,Michigan,Wayne County,65,74,WA
+53025,53,25,Washington,Grant County,26163,26.0,163.0,Michigan,Wayne County,11,17,WA
+53033,53,33,Washington,King County,26163,26.0,163.0,Michigan,Wayne County,77,80,WA
+53061,53,61,Washington,Snohomish County,26163,26.0,163.0,Michigan,Wayne County,18,20,WA
+53035,53,35,Washington,Kitsap County,27003,27.0,3.0,Minnesota,Anoka County,10,16,WA
+53053,53,53,Washington,Pierce County,27003,27.0,3.0,Minnesota,Anoka County,18,29,WA
+53053,53,53,Washington,Pierce County,27019,27.0,19.0,Minnesota,Carver County,16,26,WA
+53007,53,7,Washington,Chelan County,27053,27.0,53.0,Minnesota,Hennepin County,7,13,WA
+53009,53,9,Washington,Clallam County,27053,27.0,53.0,Minnesota,Hennepin County,20,32,WA
+53011,53,11,Washington,Clark County,27053,27.0,53.0,Minnesota,Hennepin County,24,25,WA
+53033,53,33,Washington,King County,27053,27.0,53.0,Minnesota,Hennepin County,125,106,WA
+53035,53,35,Washington,Kitsap County,27053,27.0,53.0,Minnesota,Hennepin County,25,41,WA
+53053,53,53,Washington,Pierce County,27053,27.0,53.0,Minnesota,Hennepin County,7,10,WA
+53071,53,71,Washington,Walla Walla County,27053,27.0,53.0,Minnesota,Hennepin County,3,5,WA
+53007,53,7,Washington,Chelan County,27123,27.0,123.0,Minnesota,Ramsey County,7,11,WA
+53063,53,63,Washington,Spokane County,27123,27.0,123.0,Minnesota,Ramsey County,6,10,WA
+53059,53,59,Washington,Skamania County,27137,27.0,137.0,Minnesota,St. Louis County,2,3,WA
+53061,53,61,Washington,Snohomish County,27137,27.0,137.0,Minnesota,St. Louis County,34,52,WA
+53011,53,11,Washington,Clark County,27163,27.0,163.0,Minnesota,Washington County,7,10,WA
+53067,53,67,Washington,Thurston County,28047,28.0,47.0,Mississippi,Harrison County,34,40,WA
+53063,53,63,Washington,Spokane County,28049,28.0,49.0,Mississippi,Hinds County,69,103,WA
+53061,53,61,Washington,Snohomish County,28075,28.0,75.0,Mississippi,Lauderdale County,39,43,WA
+53005,53,5,Washington,Benton County,29077,29.0,77.0,Missouri,Greene County,4,7,WA
+53061,53,61,Washington,Snohomish County,29077,29.0,77.0,Missouri,Greene County,40,63,WA
+53063,53,63,Washington,Spokane County,29077,29.0,77.0,Missouri,Greene County,8,13,WA
+53033,53,33,Washington,King County,29095,29.0,95.0,Missouri,Jackson County,12,18,WA
+53005,53,5,Washington,Benton County,29169,29.0,169.0,Missouri,Pulaski County,14,22,WA
+53063,53,63,Washington,Spokane County,29169,29.0,169.0,Missouri,Pulaski County,20,31,WA
+53067,53,67,Washington,Thurston County,29169,29.0,169.0,Missouri,Pulaski County,34,32,WA
+53033,53,33,Washington,King County,29183,29.0,183.0,Missouri,St. Charles County,16,24,WA
+53033,53,33,Washington,King County,29189,29.0,189.0,Missouri,St. Louis County,22,25,WA
+53053,53,53,Washington,Pierce County,29189,29.0,189.0,Missouri,St. Louis County,2,4,WA
+53063,53,63,Washington,Spokane County,29189,29.0,189.0,Missouri,St. Louis County,6,9,WA
+53035,53,35,Washington,Kitsap County,29213,29.0,213.0,Missouri,Taney County,19,31,WA
+53033,53,33,Washington,King County,29510,29.0,510.0,Missouri,St. Louis city,7,11,WA
+53057,53,57,Washington,Skagit County,29510,29.0,510.0,Missouri,St. Louis city,2,3,WA
+53063,53,63,Washington,Spokane County,30013,30.0,13.0,Montana,Cascade County,18,28,WA
+53067,53,67,Washington,Thurston County,30013,30.0,13.0,Montana,Cascade County,8,12,WA
+53011,53,11,Washington,Clark County,30021,30.0,21.0,Montana,Dawson County,8,14,WA
+53063,53,63,Washington,Spokane County,30029,30.0,29.0,Montana,Flathead County,21,24,WA
+53061,53,61,Washington,Snohomish County,30031,30.0,31.0,Montana,Gallatin County,7,12,WA
+53063,53,63,Washington,Spokane County,30049,30.0,49.0,Montana,Lewis and Clark County,25,30,WA
+53025,53,25,Washington,Grant County,30063,30.0,63.0,Montana,Missoula County,5,8,WA
+53033,53,33,Washington,King County,30063,30.0,63.0,Montana,Missoula County,55,46,WA
+53037,53,37,Washington,Kittitas County,30063,30.0,63.0,Montana,Missoula County,9,15,WA
+53061,53,61,Washington,Snohomish County,30063,30.0,63.0,Montana,Missoula County,8,12,WA
+53063,53,63,Washington,Spokane County,30063,30.0,63.0,Montana,Missoula County,48,48,WA
+53065,53,65,Washington,Stevens County,30063,30.0,63.0,Montana,Missoula County,5,8,WA
+53037,53,37,Washington,Kittitas County,30081,30.0,81.0,Montana,Ravalli County,9,15,WA
+53035,53,35,Washington,Kitsap County,30083,30.0,83.0,Montana,Richland County,3,4,WA
+53053,53,53,Washington,Pierce County,30083,30.0,83.0,Montana,Richland County,14,22,WA
+53041,53,41,Washington,Lewis County,30093,30.0,93.0,Montana,Silver Bow County,2,3,WA
+53005,53,5,Washington,Benton County,30111,30.0,111.0,Montana,Yellowstone County,3,5,WA
+53009,53,9,Washington,Clallam County,30111,30.0,111.0,Montana,Yellowstone County,8,16,WA
+53011,53,11,Washington,Clark County,30111,30.0,111.0,Montana,Yellowstone County,12,21,WA
+53029,53,29,Washington,Island County,30111,30.0,111.0,Montana,Yellowstone County,9,13,WA
+53033,53,33,Washington,King County,30111,30.0,111.0,Montana,Yellowstone County,20,22,WA
+53063,53,63,Washington,Spokane County,30111,30.0,111.0,Montana,Yellowstone County,9,14,WA
+53077,53,77,Washington,Yakima County,30111,30.0,111.0,Montana,Yellowstone County,27,45,WA
+53033,53,33,Washington,King County,31043,31.0,43.0,Nebraska,Dakota County,11,18,WA
+53053,53,53,Washington,Pierce County,31045,31.0,45.0,Nebraska,Dawes County,16,25,WA
+53011,53,11,Washington,Clark County,31055,31.0,55.0,Nebraska,Douglas County,8,13,WA
+53017,53,17,Washington,Douglas County,31055,31.0,55.0,Nebraska,Douglas County,8,11,WA
+53033,53,33,Washington,King County,31055,31.0,55.0,Nebraska,Douglas County,9,14,WA
+53053,53,53,Washington,Pierce County,31055,31.0,55.0,Nebraska,Douglas County,8,14,WA
+53067,53,67,Washington,Thurston County,31055,31.0,55.0,Nebraska,Douglas County,17,27,WA
+53037,53,37,Washington,Kittitas County,31185,31.0,185.0,Nebraska,York County,27,43,WA
+53005,53,5,Washington,Benton County,32003,32.0,3.0,Nevada,Clark County,22,33,WA
+53009,53,9,Washington,Clallam County,32003,32.0,3.0,Nevada,Clark County,6,9,WA
+53011,53,11,Washington,Clark County,32003,32.0,3.0,Nevada,Clark County,35,28,WA
+53027,53,27,Washington,Grays Harbor County,32003,32.0,3.0,Nevada,Clark County,8,13,WA
+53029,53,29,Washington,Island County,32003,32.0,3.0,Nevada,Clark County,25,29,WA
+53033,53,33,Washington,King County,32003,32.0,3.0,Nevada,Clark County,130,106,WA
+53035,53,35,Washington,Kitsap County,32003,32.0,3.0,Nevada,Clark County,11,17,WA
+53053,53,53,Washington,Pierce County,32003,32.0,3.0,Nevada,Clark County,65,75,WA
+53061,53,61,Washington,Snohomish County,32003,32.0,3.0,Nevada,Clark County,20,32,WA
+53065,53,65,Washington,Stevens County,32003,32.0,3.0,Nevada,Clark County,63,68,WA
+53073,53,73,Washington,Whatcom County,32003,32.0,3.0,Nevada,Clark County,10,12,WA
+53047,53,47,Washington,Okanogan County,32005,32.0,5.0,Nevada,Douglas County,4,6,WA
+53001,53,1,Washington,Adams County,32007,32.0,7.0,Nevada,Elko County,1,2,WA
+53005,53,5,Washington,Benton County,32007,32.0,7.0,Nevada,Elko County,15,24,WA
+53063,53,63,Washington,Spokane County,32007,32.0,7.0,Nevada,Elko County,27,38,WA
+53019,53,19,Washington,Ferry County,32011,32.0,11.0,Nevada,Eureka County,4,6,WA
+53043,53,43,Washington,Lincoln County,32013,32.0,13.0,Nevada,Humboldt County,2,3,WA
+53065,53,65,Washington,Stevens County,32015,32.0,15.0,Nevada,Lander County,13,22,WA
+53065,53,65,Washington,Stevens County,32019,32.0,19.0,Nevada,Lyon County,4,7,WA
+53021,53,21,Washington,Franklin County,32023,32.0,23.0,Nevada,Nye County,4,7,WA
+53063,53,63,Washington,Spokane County,32023,32.0,23.0,Nevada,Nye County,12,20,WA
+53005,53,5,Washington,Benton County,32031,32.0,31.0,Nevada,Washoe County,4,8,WA
+53033,53,33,Washington,King County,32031,32.0,31.0,Nevada,Washoe County,7,11,WA
+53053,53,53,Washington,Pierce County,32031,32.0,31.0,Nevada,Washoe County,46,72,WA
+53033,53,33,Washington,King County,32510,32.0,510.0,Nevada,Carson City,18,27,WA
+53053,53,53,Washington,Pierce County,33011,33.0,11.0,New Hampshire,Hillsborough County,6,14,WA
+53011,53,11,Washington,Clark County,33015,33.0,15.0,New Hampshire,Rockingham County,5,7,WA
+53033,53,33,Washington,King County,33015,33.0,15.0,New Hampshire,Rockingham County,10,16,WA
+53011,53,11,Washington,Clark County,34003,34.0,3.0,New Jersey,Bergen County,21,30,WA
+53033,53,33,Washington,King County,34003,34.0,3.0,New Jersey,Bergen County,7,11,WA
+53053,53,53,Washington,Pierce County,34003,34.0,3.0,New Jersey,Bergen County,23,36,WA
+53061,53,61,Washington,Snohomish County,34003,34.0,3.0,New Jersey,Bergen County,12,18,WA
+53011,53,11,Washington,Clark County,34007,34.0,7.0,New Jersey,Camden County,9,15,WA
+53033,53,33,Washington,King County,34007,34.0,7.0,New Jersey,Camden County,55,63,WA
+53033,53,33,Washington,King County,34011,34.0,11.0,New Jersey,Cumberland County,11,17,WA
+53033,53,33,Washington,King County,34013,34.0,13.0,New Jersey,Essex County,18,28,WA
+53053,53,53,Washington,Pierce County,34013,34.0,13.0,New Jersey,Essex County,17,24,WA
+53067,53,67,Washington,Thurston County,34013,34.0,13.0,New Jersey,Essex County,27,34,WA
+53033,53,33,Washington,King County,34017,34.0,17.0,New Jersey,Hudson County,18,22,WA
+53063,53,63,Washington,Spokane County,34021,34.0,21.0,New Jersey,Mercer County,9,13,WA
+53053,53,53,Washington,Pierce County,34023,34.0,23.0,New Jersey,Middlesex County,9,14,WA
+53063,53,63,Washington,Spokane County,34023,34.0,23.0,New Jersey,Middlesex County,17,34,WA
+53033,53,33,Washington,King County,34027,34.0,27.0,New Jersey,Morris County,34,39,WA
+53055,53,55,Washington,San Juan County,34027,34.0,27.0,New Jersey,Morris County,6,9,WA
+53033,53,33,Washington,King County,34035,34.0,35.0,New Jersey,Somerset County,19,30,WA
+53035,53,35,Washington,Kitsap County,35001,35.0,1.0,New Mexico,Bernalillo County,9,13,WA
+53055,53,55,Washington,San Juan County,35001,35.0,1.0,New Mexico,Bernalillo County,2,3,WA
+53033,53,33,Washington,King County,35013,35.0,13.0,New Mexico,Doña Ana County,18,23,WA
+53033,53,33,Washington,King County,35015,35.0,15.0,New Mexico,Eddy County,8,13,WA
+53011,53,11,Washington,Clark County,35017,35.0,17.0,New Mexico,Grant County,28,45,WA
+53031,53,31,Washington,Jefferson County,35025,35.0,25.0,New Mexico,Lea County,3,5,WA
+53021,53,21,Washington,Franklin County,35028,35.0,28.0,New Mexico,Los Alamos County,6,10,WA
+53033,53,33,Washington,King County,35035,35.0,35.0,New Mexico,Otero County,21,26,WA
+53041,53,41,Washington,Lewis County,35039,35.0,39.0,New Mexico,Rio Arriba County,3,5,WA
+53033,53,33,Washington,King County,35045,35.0,45.0,New Mexico,San Juan County,14,22,WA
+53057,53,57,Washington,Skagit County,35049,35.0,49.0,New Mexico,Santa Fe County,1,4,WA
+53033,53,33,Washington,King County,35053,35.0,53.0,New Mexico,Socorro County,45,75,WA
+53053,53,53,Washington,Pierce County,36015,36.0,15.0,New York,Chemung County,1,2,WA
+53061,53,61,Washington,Snohomish County,36015,36.0,15.0,New York,Chemung County,19,30,WA
+53033,53,33,Washington,King County,36019,36.0,19.0,New York,Clinton County,15,24,WA
+53033,53,33,Washington,King County,36029,36.0,29.0,New York,Erie County,14,15,WA
+53061,53,61,Washington,Snohomish County,36033,36.0,33.0,New York,Franklin County,26,40,WA
+53061,53,61,Washington,Snohomish County,36045,36.0,45.0,New York,Jefferson County,14,22,WA
+53011,53,11,Washington,Clark County,36047,36.0,47.0,New York,Kings County,11,17,WA
+53033,53,33,Washington,King County,36047,36.0,47.0,New York,Kings County,55,60,WA
+53053,53,53,Washington,Pierce County,36055,36.0,55.0,New York,Monroe County,12,18,WA
+53033,53,33,Washington,King County,36059,36.0,59.0,New York,Nassau County,24,31,WA
+53073,53,73,Washington,Whatcom County,36059,36.0,59.0,New York,Nassau County,25,36,WA
+53025,53,25,Washington,Grant County,36061,36.0,61.0,New York,New York County,11,16,WA
+53033,53,33,Washington,King County,36061,36.0,61.0,New York,New York County,100,56,WA
+53061,53,61,Washington,Snohomish County,36061,36.0,61.0,New York,New York County,24,30,WA
+53071,53,71,Washington,Walla Walla County,36061,36.0,61.0,New York,New York County,9,15,WA
+53077,53,77,Washington,Yakima County,36061,36.0,61.0,New York,New York County,8,12,WA
+53011,53,11,Washington,Clark County,36081,36.0,81.0,New York,Queens County,9,14,WA
+53033,53,33,Washington,King County,36081,36.0,81.0,New York,Queens County,41,34,WA
+53059,53,59,Washington,Skamania County,36081,36.0,81.0,New York,Queens County,5,7,WA
+53061,53,61,Washington,Snohomish County,36081,36.0,81.0,New York,Queens County,6,9,WA
+53049,53,49,Washington,Pacific County,36093,36.0,93.0,New York,Schenectady County,7,10,WA
+53057,53,57,Washington,Skagit County,36093,36.0,93.0,New York,Schenectady County,2,3,WA
+53017,53,17,Washington,Douglas County,36103,36.0,103.0,New York,Suffolk County,85,82,WA
+53053,53,53,Washington,Pierce County,36103,36.0,103.0,New York,Suffolk County,6,10,WA
+53055,53,55,Washington,San Juan County,36103,36.0,103.0,New York,Suffolk County,6,10,WA
+53063,53,63,Washington,Spokane County,36103,36.0,103.0,New York,Suffolk County,23,36,WA
+53053,53,53,Washington,Pierce County,36109,36.0,109.0,New York,Tompkins County,13,21,WA
+53033,53,33,Washington,King County,36119,36.0,119.0,New York,Westchester County,8,12,WA
+53057,53,57,Washington,Skagit County,36119,36.0,119.0,New York,Westchester County,3,5,WA
+53063,53,63,Washington,Spokane County,36119,36.0,119.0,New York,Westchester County,10,17,WA
+53033,53,33,Washington,King County,37051,37.0,51.0,North Carolina,Cumberland County,13,20,WA
+53053,53,53,Washington,Pierce County,37051,37.0,51.0,North Carolina,Cumberland County,13,16,WA
+53033,53,33,Washington,King County,37067,37.0,67.0,North Carolina,Forsyth County,5,9,WA
+53033,53,33,Washington,King County,37119,37.0,119.0,North Carolina,Mecklenburg County,20,26,WA
+53035,53,35,Washington,Kitsap County,37119,37.0,119.0,North Carolina,Mecklenburg County,14,23,WA
+53047,53,47,Washington,Okanogan County,37119,37.0,119.0,North Carolina,Mecklenburg County,3,5,WA
+53073,53,73,Washington,Whatcom County,37129,37.0,129.0,North Carolina,New Hanover County,24,33,WA
+53061,53,61,Washington,Snohomish County,37133,37.0,133.0,North Carolina,Onslow County,18,28,WA
+53061,53,61,Washington,Snohomish County,37183,37.0,183.0,North Carolina,Wake County,17,28,WA
+53033,53,33,Washington,King County,38015,38.0,15.0,North Dakota,Burleigh County,11,17,WA
+53063,53,63,Washington,Spokane County,38015,38.0,15.0,North Dakota,Burleigh County,15,23,WA
+53033,53,33,Washington,King County,38017,38.0,17.0,North Dakota,Cass County,17,27,WA
+53047,53,47,Washington,Okanogan County,38017,38.0,17.0,North Dakota,Cass County,5,8,WA
+53035,53,35,Washington,Kitsap County,38025,38.0,25.0,North Dakota,Dunn County,12,20,WA
+53053,53,53,Washington,Pierce County,38035,38.0,35.0,North Dakota,Grand Forks County,6,9,WA
+53005,53,5,Washington,Benton County,38053,38.0,53.0,North Dakota,McKenzie County,5,7,WA
+53063,53,63,Washington,Spokane County,38053,38.0,53.0,North Dakota,McKenzie County,34,41,WA
+53065,53,65,Washington,Stevens County,38053,38.0,53.0,North Dakota,McKenzie County,5,8,WA
+53037,53,37,Washington,Kittitas County,38059,38.0,59.0,North Dakota,Morton County,17,24,WA
+53047,53,47,Washington,Okanogan County,38061,38.0,61.0,North Dakota,Mountrail County,7,11,WA
+53063,53,63,Washington,Spokane County,38061,38.0,61.0,North Dakota,Mountrail County,8,19,WA
+53065,53,65,Washington,Stevens County,38061,38.0,61.0,North Dakota,Mountrail County,2,3,WA
+53053,53,53,Washington,Pierce County,38089,38.0,89.0,North Dakota,Stark County,24,41,WA
+53073,53,73,Washington,Whatcom County,38089,38.0,89.0,North Dakota,Stark County,4,6,WA
+53011,53,11,Washington,Clark County,38101,38.0,101.0,North Dakota,Ward County,8,12,WA
+53015,53,15,Washington,Cowlitz County,38101,38.0,101.0,North Dakota,Ward County,40,52,WA
+53017,53,17,Washington,Douglas County,38101,38.0,101.0,North Dakota,Ward County,5,9,WA
+53011,53,11,Washington,Clark County,38105,38.0,105.0,North Dakota,Williams County,4,6,WA
+53021,53,21,Washington,Franklin County,38105,38.0,105.0,North Dakota,Williams County,6,10,WA
+53027,53,27,Washington,Grays Harbor County,38105,38.0,105.0,North Dakota,Williams County,1,2,WA
+53037,53,37,Washington,Kittitas County,38105,38.0,105.0,North Dakota,Williams County,10,15,WA
+53049,53,49,Washington,Pacific County,38105,38.0,105.0,North Dakota,Williams County,3,5,WA
+53053,53,53,Washington,Pierce County,38105,38.0,105.0,North Dakota,Williams County,44,42,WA
+53063,53,63,Washington,Spokane County,38105,38.0,105.0,North Dakota,Williams County,96,64,WA
+53065,53,65,Washington,Stevens County,38105,38.0,105.0,North Dakota,Williams County,25,20,WA
+53073,53,73,Washington,Whatcom County,38105,38.0,105.0,North Dakota,Williams County,11,17,WA
+53075,53,75,Washington,Whitman County,38105,38.0,105.0,North Dakota,Williams County,4,6,WA
+53033,53,33,Washington,King County,39035,39.0,35.0,Ohio,Cuyahoga County,22,30,WA
+53025,53,25,Washington,Grant County,39049,39.0,49.0,Ohio,Franklin County,14,23,WA
+53061,53,61,Washington,Snohomish County,39049,39.0,49.0,Ohio,Franklin County,19,32,WA
+53075,53,75,Washington,Whitman County,39049,39.0,49.0,Ohio,Franklin County,8,14,WA
+53053,53,53,Washington,Pierce County,39057,39.0,57.0,Ohio,Greene County,12,19,WA
+53033,53,33,Washington,King County,39061,39.0,61.0,Ohio,Hamilton County,21,25,WA
+53063,53,63,Washington,Spokane County,39095,39.0,95.0,Ohio,Lucas County,8,13,WA
+53063,53,63,Washington,Spokane County,39113,39.0,113.0,Ohio,Montgomery County,16,26,WA
+53057,53,57,Washington,Skagit County,39119,39.0,119.0,Ohio,Muskingum County,3,4,WA
+53061,53,61,Washington,Snohomish County,39165,39.0,165.0,Ohio,Warren County,10,16,WA
+53075,53,75,Washington,Whitman County,40031,40.0,31.0,Oklahoma,Comanche County,1,2,WA
+53063,53,63,Washington,Spokane County,40065,40.0,65.0,Oklahoma,Jackson County,11,17,WA
+53057,53,57,Washington,Skagit County,40139,40.0,139.0,Oklahoma,Texas County,2,2,WA
+53033,53,33,Washington,King County,40143,40.0,143.0,Oklahoma,Tulsa County,9,15,WA
+53011,53,11,Washington,Clark County,41001,41.0,1.0,Oregon,Baker County,39,51,WA
+53011,53,11,Washington,Clark County,41003,41.0,3.0,Oregon,Benton County,30,41,WA
+53015,53,15,Washington,Cowlitz County,41003,41.0,3.0,Oregon,Benton County,15,24,WA
+53027,53,27,Washington,Grays Harbor County,41003,41.0,3.0,Oregon,Benton County,12,21,WA
+53033,53,33,Washington,King County,41003,41.0,3.0,Oregon,Benton County,7,11,WA
+53035,53,35,Washington,Kitsap County,41003,41.0,3.0,Oregon,Benton County,16,26,WA
+53045,53,45,Washington,Mason County,41003,41.0,3.0,Oregon,Benton County,7,13,WA
+53005,53,5,Washington,Benton County,41005,41.0,5.0,Oregon,Clackamas County,15,16,WA
+53011,53,11,Washington,Clark County,41005,41.0,5.0,Oregon,Clackamas County,5675,452,WA
+53015,53,15,Washington,Cowlitz County,41005,41.0,5.0,Oregon,Clackamas County,160,83,WA
+53033,53,33,Washington,King County,41005,41.0,5.0,Oregon,Clackamas County,41,30,WA
+53041,53,41,Washington,Lewis County,41005,41.0,5.0,Oregon,Clackamas County,61,64,WA
+53047,53,47,Washington,Okanogan County,41005,41.0,5.0,Oregon,Clackamas County,11,19,WA
+53053,53,53,Washington,Pierce County,41005,41.0,5.0,Oregon,Clackamas County,18,28,WA
+53059,53,59,Washington,Skamania County,41005,41.0,5.0,Oregon,Clackamas County,94,63,WA
+53061,53,61,Washington,Snohomish County,41005,41.0,5.0,Oregon,Clackamas County,27,31,WA
+53063,53,63,Washington,Spokane County,41005,41.0,5.0,Oregon,Clackamas County,20,22,WA
+53067,53,67,Washington,Thurston County,41005,41.0,5.0,Oregon,Clackamas County,51,42,WA
+53069,53,69,Washington,Wahkiakum County,41005,41.0,5.0,Oregon,Clackamas County,39,45,WA
+53077,53,77,Washington,Yakima County,41005,41.0,5.0,Oregon,Clackamas County,17,28,WA
+53009,53,9,Washington,Clallam County,41007,41.0,7.0,Oregon,Clatsop County,2,3,WA
+53011,53,11,Washington,Clark County,41007,41.0,7.0,Oregon,Clatsop County,59,50,WA
+53015,53,15,Washington,Cowlitz County,41007,41.0,7.0,Oregon,Clatsop County,352,131,WA
+53021,53,21,Washington,Franklin County,41007,41.0,7.0,Oregon,Clatsop County,1,2,WA
+53027,53,27,Washington,Grays Harbor County,41007,41.0,7.0,Oregon,Clatsop County,28,38,WA
+53041,53,41,Washington,Lewis County,41007,41.0,7.0,Oregon,Clatsop County,10,15,WA
+53049,53,49,Washington,Pacific County,41007,41.0,7.0,Oregon,Clatsop County,501,128,WA
+53057,53,57,Washington,Skagit County,41007,41.0,7.0,Oregon,Clatsop County,8,14,WA
+53063,53,63,Washington,Spokane County,41007,41.0,7.0,Oregon,Clatsop County,1,2,WA
+53069,53,69,Washington,Wahkiakum County,41007,41.0,7.0,Oregon,Clatsop County,73,52,WA
+53011,53,11,Washington,Clark County,41009,41.0,9.0,Oregon,Columbia County,111,79,WA
+53015,53,15,Washington,Cowlitz County,41009,41.0,9.0,Oregon,Columbia County,724,188,WA
+53049,53,49,Washington,Pacific County,41009,41.0,9.0,Oregon,Columbia County,29,43,WA
+53053,53,53,Washington,Pierce County,41009,41.0,9.0,Oregon,Columbia County,12,20,WA
+53063,53,63,Washington,Spokane County,41009,41.0,9.0,Oregon,Columbia County,32,52,WA
+53067,53,67,Washington,Thurston County,41009,41.0,9.0,Oregon,Columbia County,15,26,WA
+53069,53,69,Washington,Wahkiakum County,41009,41.0,9.0,Oregon,Columbia County,21,25,WA
+53009,53,9,Washington,Clallam County,41011,41.0,11.0,Oregon,Coos County,11,17,WA
+53015,53,15,Washington,Cowlitz County,41011,41.0,11.0,Oregon,Coos County,6,11,WA
+53027,53,27,Washington,Grays Harbor County,41011,41.0,11.0,Oregon,Coos County,16,25,WA
+53053,53,53,Washington,Pierce County,41011,41.0,11.0,Oregon,Coos County,5,8,WA
+53057,53,57,Washington,Skagit County,41011,41.0,11.0,Oregon,Coos County,2,2,WA
+53061,53,61,Washington,Snohomish County,41011,41.0,11.0,Oregon,Coos County,18,29,WA
+53067,53,67,Washington,Thurston County,41011,41.0,11.0,Oregon,Coos County,37,43,WA
+53005,53,5,Washington,Benton County,41013,41.0,13.0,Oregon,Crook County,8,16,WA
+53057,53,57,Washington,Skagit County,41015,41.0,15.0,Oregon,Curry County,12,18,WA
+53005,53,5,Washington,Benton County,41017,41.0,17.0,Oregon,Deschutes County,12,19,WA
+53011,53,11,Washington,Clark County,41017,41.0,17.0,Oregon,Deschutes County,31,32,WA
+53037,53,37,Washington,Kittitas County,41017,41.0,17.0,Oregon,Deschutes County,16,25,WA
+53039,53,39,Washington,Klickitat County,41017,41.0,17.0,Oregon,Deschutes County,6,12,WA
+53011,53,11,Washington,Clark County,41019,41.0,19.0,Oregon,Douglas County,74,58,WA
+53057,53,57,Washington,Skagit County,41019,41.0,19.0,Oregon,Douglas County,2,2,WA
+53059,53,59,Washington,Skamania County,41019,41.0,19.0,Oregon,Douglas County,2,3,WA
+53077,53,77,Washington,Yakima County,41019,41.0,19.0,Oregon,Douglas County,10,15,WA
+53005,53,5,Washington,Benton County,41021,41.0,21.0,Oregon,Gilliam County,6,9,WA
+53039,53,39,Washington,Klickitat County,41021,41.0,21.0,Oregon,Gilliam County,18,25,WA
+53011,53,11,Washington,Clark County,41027,41.0,27.0,Oregon,Hood River County,41,33,WA
+53021,53,21,Washington,Franklin County,41027,41.0,27.0,Oregon,Hood River County,9,14,WA
+53025,53,25,Washington,Grant County,41027,41.0,27.0,Oregon,Hood River County,2,3,WA
+53033,53,33,Washington,King County,41027,41.0,27.0,Oregon,Hood River County,7,13,WA
+53039,53,39,Washington,Klickitat County,41027,41.0,27.0,Oregon,Hood River County,1058,250,WA
+53059,53,59,Washington,Skamania County,41027,41.0,27.0,Oregon,Hood River County,353,95,WA
+53061,53,61,Washington,Snohomish County,41027,41.0,27.0,Oregon,Hood River County,10,15,WA
+53011,53,11,Washington,Clark County,41029,41.0,29.0,Oregon,Jackson County,36,27,WA
+53039,53,39,Washington,Klickitat County,41029,41.0,29.0,Oregon,Jackson County,2,3,WA
+53075,53,75,Washington,Whitman County,41029,41.0,29.0,Oregon,Jackson County,2,3,WA
+53011,53,11,Washington,Clark County,41031,41.0,31.0,Oregon,Jefferson County,17,26,WA
+53055,53,55,Washington,San Juan County,41033,41.0,33.0,Oregon,Josephine County,2,3,WA
+53011,53,11,Washington,Clark County,41037,41.0,37.0,Oregon,Lake County,6,10,WA
+53015,53,15,Washington,Cowlitz County,41037,41.0,37.0,Oregon,Lake County,16,25,WA
+53039,53,39,Washington,Klickitat County,41037,41.0,37.0,Oregon,Lake County,9,13,WA
+53059,53,59,Washington,Skamania County,41037,41.0,37.0,Oregon,Lake County,1,3,WA
+53011,53,11,Washington,Clark County,41039,41.0,39.0,Oregon,Lane County,102,84,WA
+53053,53,53,Washington,Pierce County,41039,41.0,39.0,Oregon,Lane County,22,26,WA
+53055,53,55,Washington,San Juan County,41039,41.0,39.0,Oregon,Lane County,3,4,WA
+53059,53,59,Washington,Skamania County,41039,41.0,39.0,Oregon,Lane County,9,12,WA
+53061,53,61,Washington,Snohomish County,41039,41.0,39.0,Oregon,Lane County,27,37,WA
+53067,53,67,Washington,Thurston County,41039,41.0,39.0,Oregon,Lane County,9,14,WA
+53069,53,69,Washington,Wahkiakum County,41039,41.0,39.0,Oregon,Lane County,7,14,WA
+53011,53,11,Washington,Clark County,41041,41.0,41.0,Oregon,Lincoln County,8,11,WA
+53033,53,33,Washington,King County,41041,41.0,41.0,Oregon,Lincoln County,36,54,WA
+53035,53,35,Washington,Kitsap County,41041,41.0,41.0,Oregon,Lincoln County,9,12,WA
+53053,53,53,Washington,Pierce County,41041,41.0,41.0,Oregon,Lincoln County,4,5,WA
+53059,53,59,Washington,Skamania County,41041,41.0,41.0,Oregon,Lincoln County,7,8,WA
+53073,53,73,Washington,Whatcom County,41041,41.0,41.0,Oregon,Lincoln County,14,23,WA
+53011,53,11,Washington,Clark County,41043,41.0,43.0,Oregon,Linn County,2,4,WA
+53033,53,33,Washington,King County,41043,41.0,43.0,Oregon,Linn County,19,32,WA
+53041,53,41,Washington,Lewis County,41043,41.0,43.0,Oregon,Linn County,14,19,WA
+53059,53,59,Washington,Skamania County,41043,41.0,43.0,Oregon,Linn County,1,3,WA
+53005,53,5,Washington,Benton County,41047,41.0,47.0,Oregon,Marion County,11,17,WA
+53011,53,11,Washington,Clark County,41047,41.0,47.0,Oregon,Marion County,305,120,WA
+53015,53,15,Washington,Cowlitz County,41047,41.0,47.0,Oregon,Marion County,32,36,WA
+53025,53,25,Washington,Grant County,41047,41.0,47.0,Oregon,Marion County,28,42,WA
+53033,53,33,Washington,King County,41047,41.0,47.0,Oregon,Marion County,20,26,WA
+53039,53,39,Washington,Klickitat County,41047,41.0,47.0,Oregon,Marion County,9,15,WA
+53041,53,41,Washington,Lewis County,41047,41.0,47.0,Oregon,Marion County,10,15,WA
+53053,53,53,Washington,Pierce County,41047,41.0,47.0,Oregon,Marion County,34,40,WA
+53059,53,59,Washington,Skamania County,41047,41.0,47.0,Oregon,Marion County,24,29,WA
+53065,53,65,Washington,Stevens County,41047,41.0,47.0,Oregon,Marion County,19,28,WA
+53005,53,5,Washington,Benton County,41049,41.0,49.0,Oregon,Morrow County,134,71,WA
+53011,53,11,Washington,Clark County,41049,41.0,49.0,Oregon,Morrow County,23,32,WA
+53015,53,15,Washington,Cowlitz County,41049,41.0,49.0,Oregon,Morrow County,8,13,WA
+53021,53,21,Washington,Franklin County,41049,41.0,49.0,Oregon,Morrow County,9,15,WA
+53041,53,41,Washington,Lewis County,41049,41.0,49.0,Oregon,Morrow County,9,14,WA
+53071,53,71,Washington,Walla Walla County,41049,41.0,49.0,Oregon,Morrow County,5,5,WA
+53077,53,77,Washington,Yakima County,41049,41.0,49.0,Oregon,Morrow County,4,8,WA
+53001,53,1,Washington,Adams County,41051,41.0,51.0,Oregon,Multnomah County,8,20,WA
+53003,53,3,Washington,Asotin County,41051,41.0,51.0,Oregon,Multnomah County,17,24,WA
+53005,53,5,Washington,Benton County,41051,41.0,51.0,Oregon,Multnomah County,24,27,WA
+53011,53,11,Washington,Clark County,41051,41.0,51.0,Oregon,Multnomah County,47184,1289,WA
+53015,53,15,Washington,Cowlitz County,41051,41.0,51.0,Oregon,Multnomah County,1413,247,WA
+53017,53,17,Washington,Douglas County,41051,41.0,51.0,Oregon,Multnomah County,10,23,WA
+53021,53,21,Washington,Franklin County,41051,41.0,51.0,Oregon,Multnomah County,15,25,WA
+53025,53,25,Washington,Grant County,41051,41.0,51.0,Oregon,Multnomah County,34,45,WA
+53027,53,27,Washington,Grays Harbor County,41051,41.0,51.0,Oregon,Multnomah County,2,3,WA
+53031,53,31,Washington,Jefferson County,41051,41.0,51.0,Oregon,Multnomah County,6,9,WA
+53033,53,33,Washington,King County,41051,41.0,51.0,Oregon,Multnomah County,406,155,WA
+53035,53,35,Washington,Kitsap County,41051,41.0,51.0,Oregon,Multnomah County,18,19,WA
+53037,53,37,Washington,Kittitas County,41051,41.0,51.0,Oregon,Multnomah County,87,138,WA
+53039,53,39,Washington,Klickitat County,41051,41.0,51.0,Oregon,Multnomah County,139,80,WA
+53041,53,41,Washington,Lewis County,41051,41.0,51.0,Oregon,Multnomah County,177,195,WA
+53045,53,45,Washington,Mason County,41051,41.0,51.0,Oregon,Multnomah County,12,20,WA
+53049,53,49,Washington,Pacific County,41051,41.0,51.0,Oregon,Multnomah County,25,23,WA
+53053,53,53,Washington,Pierce County,41051,41.0,51.0,Oregon,Multnomah County,287,106,WA
+53055,53,55,Washington,San Juan County,41051,41.0,51.0,Oregon,Multnomah County,5,5,WA
+53057,53,57,Washington,Skagit County,41051,41.0,51.0,Oregon,Multnomah County,14,16,WA
+53059,53,59,Washington,Skamania County,41051,41.0,51.0,Oregon,Multnomah County,610,126,WA
+53061,53,61,Washington,Snohomish County,41051,41.0,51.0,Oregon,Multnomah County,89,52,WA
+53063,53,63,Washington,Spokane County,41051,41.0,51.0,Oregon,Multnomah County,7,11,WA
+53065,53,65,Washington,Stevens County,41051,41.0,51.0,Oregon,Multnomah County,56,72,WA
+53067,53,67,Washington,Thurston County,41051,41.0,51.0,Oregon,Multnomah County,19,21,WA
+53069,53,69,Washington,Wahkiakum County,41051,41.0,51.0,Oregon,Multnomah County,6,8,WA
+53071,53,71,Washington,Walla Walla County,41051,41.0,51.0,Oregon,Multnomah County,11,25,WA
+53075,53,75,Washington,Whitman County,41051,41.0,51.0,Oregon,Multnomah County,25,30,WA
+53077,53,77,Washington,Yakima County,41051,41.0,51.0,Oregon,Multnomah County,85,97,WA
+53003,53,3,Washington,Asotin County,41053,41.0,53.0,Oregon,Polk County,13,20,WA
+53011,53,11,Washington,Clark County,41053,41.0,53.0,Oregon,Polk County,43,41,WA
+53027,53,27,Washington,Grays Harbor County,41053,41.0,53.0,Oregon,Polk County,13,24,WA
+53005,53,5,Washington,Benton County,41055,41.0,55.0,Oregon,Sherman County,17,27,WA
+53011,53,11,Washington,Clark County,41055,41.0,55.0,Oregon,Sherman County,15,24,WA
+53039,53,39,Washington,Klickitat County,41055,41.0,55.0,Oregon,Sherman County,56,40,WA
+53063,53,63,Washington,Spokane County,41055,41.0,55.0,Oregon,Sherman County,12,18,WA
+53011,53,11,Washington,Clark County,41057,41.0,57.0,Oregon,Tillamook County,43,38,WA
+53069,53,69,Washington,Wahkiakum County,41057,41.0,57.0,Oregon,Tillamook County,10,17,WA
+53001,53,1,Washington,Adams County,41059,41.0,59.0,Oregon,Umatilla County,16,18,WA
+53005,53,5,Washington,Benton County,41059,41.0,59.0,Oregon,Umatilla County,1010,253,WA
+53011,53,11,Washington,Clark County,41059,41.0,59.0,Oregon,Umatilla County,51,42,WA
+53013,53,13,Washington,Columbia County,41059,41.0,59.0,Oregon,Umatilla County,29,21,WA
+53015,53,15,Washington,Cowlitz County,41059,41.0,59.0,Oregon,Umatilla County,20,31,WA
+53021,53,21,Washington,Franklin County,41059,41.0,59.0,Oregon,Umatilla County,370,138,WA
+53035,53,35,Washington,Kitsap County,41059,41.0,59.0,Oregon,Umatilla County,15,23,WA
+53053,53,53,Washington,Pierce County,41059,41.0,59.0,Oregon,Umatilla County,11,18,WA
+53067,53,67,Washington,Thurston County,41059,41.0,59.0,Oregon,Umatilla County,28,31,WA
+53071,53,71,Washington,Walla Walla County,41059,41.0,59.0,Oregon,Umatilla County,884,164,WA
+53075,53,75,Washington,Whitman County,41059,41.0,59.0,Oregon,Umatilla County,2,5,WA
+53077,53,77,Washington,Yakima County,41059,41.0,59.0,Oregon,Umatilla County,30,23,WA
+53005,53,5,Washington,Benton County,41061,41.0,61.0,Oregon,Union County,26,41,WA
+53007,53,7,Washington,Chelan County,41061,41.0,61.0,Oregon,Union County,11,23,WA
+53011,53,11,Washington,Clark County,41065,41.0,65.0,Oregon,Wasco County,54,41,WA
+53037,53,37,Washington,Kittitas County,41065,41.0,65.0,Oregon,Wasco County,14,23,WA
+53039,53,39,Washington,Klickitat County,41065,41.0,65.0,Oregon,Wasco County,594,156,WA
+53059,53,59,Washington,Skamania County,41065,41.0,65.0,Oregon,Wasco County,49,33,WA
+53063,53,63,Washington,Spokane County,41065,41.0,65.0,Oregon,Wasco County,11,20,WA
+53005,53,5,Washington,Benton County,41067,41.0,67.0,Oregon,Washington County,39,49,WA
+53011,53,11,Washington,Clark County,41067,41.0,67.0,Oregon,Washington County,6220,542,WA
+53015,53,15,Washington,Cowlitz County,41067,41.0,67.0,Oregon,Washington County,341,139,WA
+53019,53,19,Washington,Ferry County,41067,41.0,67.0,Oregon,Washington County,3,5,WA
+53027,53,27,Washington,Grays Harbor County,41067,41.0,67.0,Oregon,Washington County,15,16,WA
+53033,53,33,Washington,King County,41067,41.0,67.0,Oregon,Washington County,81,53,WA
+53039,53,39,Washington,Klickitat County,41067,41.0,67.0,Oregon,Washington County,12,21,WA
+53053,53,53,Washington,Pierce County,41067,41.0,67.0,Oregon,Washington County,49,38,WA
+53055,53,55,Washington,San Juan County,41067,41.0,67.0,Oregon,Washington County,3,4,WA
+53059,53,59,Washington,Skamania County,41067,41.0,67.0,Oregon,Washington County,51,26,WA
+53061,53,61,Washington,Snohomish County,41067,41.0,67.0,Oregon,Washington County,18,27,WA
+53067,53,67,Washington,Thurston County,41067,41.0,67.0,Oregon,Washington County,55,53,WA
+53071,53,71,Washington,Walla Walla County,41067,41.0,67.0,Oregon,Washington County,27,35,WA
+53077,53,77,Washington,Yakima County,41067,41.0,67.0,Oregon,Washington County,2,4,WA
+53011,53,11,Washington,Clark County,41071,41.0,71.0,Oregon,Yamhill County,39,35,WA
+53015,53,15,Washington,Cowlitz County,41071,41.0,71.0,Oregon,Yamhill County,3,7,WA
+53033,53,33,Washington,King County,41071,41.0,71.0,Oregon,Yamhill County,38,46,WA
+53039,53,39,Washington,Klickitat County,41071,41.0,71.0,Oregon,Yamhill County,1,2,WA
+53041,53,41,Washington,Lewis County,41071,41.0,71.0,Oregon,Yamhill County,13,31,WA
+53053,53,53,Washington,Pierce County,41071,41.0,71.0,Oregon,Yamhill County,12,18,WA
+53057,53,57,Washington,Skagit County,41071,41.0,71.0,Oregon,Yamhill County,2,3,WA
+53061,53,61,Washington,Snohomish County,41071,41.0,71.0,Oregon,Yamhill County,13,19,WA
+53077,53,77,Washington,Yakima County,41071,41.0,71.0,Oregon,Yamhill County,8,12,WA
+53033,53,33,Washington,King County,42003,42.0,3.0,Pennsylvania,Allegheny County,21,24,WA
+53071,53,71,Washington,Walla Walla County,42003,42.0,3.0,Pennsylvania,Allegheny County,12,18,WA
+53075,53,75,Washington,Whitman County,42003,42.0,3.0,Pennsylvania,Allegheny County,2,5,WA
+53033,53,33,Washington,King County,42009,42.0,9.0,Pennsylvania,Bedford County,25,33,WA
+53011,53,11,Washington,Clark County,42017,42.0,17.0,Pennsylvania,Bucks County,16,18,WA
+53015,53,15,Washington,Cowlitz County,42029,42.0,29.0,Pennsylvania,Chester County,11,17,WA
+53077,53,77,Washington,Yakima County,42029,42.0,29.0,Pennsylvania,Chester County,13,20,WA
+53057,53,57,Washington,Skagit County,42055,42.0,55.0,Pennsylvania,Franklin County,3,4,WA
+53063,53,63,Washington,Spokane County,42081,42.0,81.0,Pennsylvania,Lycoming County,8,14,WA
+53027,53,27,Washington,Grays Harbor County,42091,42.0,91.0,Pennsylvania,Montgomery County,8,12,WA
+53033,53,33,Washington,King County,42091,42.0,91.0,Pennsylvania,Montgomery County,8,9,WA
+53033,53,33,Washington,King County,42101,42.0,101.0,Pennsylvania,Philadelphia County,15,16,WA
+53035,53,35,Washington,Kitsap County,42101,42.0,101.0,Pennsylvania,Philadelphia County,2,2,WA
+53057,53,57,Washington,Skagit County,42101,42.0,101.0,Pennsylvania,Philadelphia County,2,3,WA
+53063,53,63,Washington,Spokane County,42101,42.0,101.0,Pennsylvania,Philadelphia County,8,12,WA
+53033,53,33,Washington,King County,42127,42.0,127.0,Pennsylvania,Wayne County,8,11,WA
+53011,53,11,Washington,Clark County,44007,44.0,7.0,Rhode Island,Providence County,15,25,WA
+53033,53,33,Washington,King County,44009,44.0,9.0,Rhode Island,Washington County,17,29,WA
+53061,53,61,Washington,Snohomish County,45015,45.0,15.0,South Carolina,Berkeley County,10,15,WA
+53033,53,33,Washington,King County,45019,45.0,19.0,South Carolina,Charleston County,32,48,WA
+53053,53,53,Washington,Pierce County,45079,45.0,79.0,South Carolina,Richland County,10,16,WA
+53035,53,35,Washington,Kitsap County,45083,45.0,83.0,South Carolina,Spartanburg County,11,18,WA
+53033,53,33,Washington,King County,46033,46.0,33.0,South Dakota,Custer County,23,25,WA
+53047,53,47,Washington,Okanogan County,46099,46.0,99.0,South Dakota,Minnehaha County,2,3,WA
+53051,53,51,Washington,Pend Oreille County,46099,46.0,99.0,South Dakota,Minnehaha County,6,10,WA
+53053,53,53,Washington,Pierce County,46099,46.0,99.0,South Dakota,Minnehaha County,34,61,WA
+53007,53,7,Washington,Chelan County,47037,47.0,37.0,Tennessee,Davidson County,25,45,WA
+53033,53,33,Washington,King County,47037,47.0,37.0,Tennessee,Davidson County,6,11,WA
+53075,53,75,Washington,Whitman County,47037,47.0,37.0,Tennessee,Davidson County,9,14,WA
+53005,53,5,Washington,Benton County,47065,47.0,65.0,Tennessee,Hamilton County,5,7,WA
+53011,53,11,Washington,Clark County,47157,47.0,157.0,Tennessee,Shelby County,13,20,WA
+53029,53,29,Washington,Island County,47157,47.0,157.0,Tennessee,Shelby County,28,31,WA
+53033,53,33,Washington,King County,47157,47.0,157.0,Tennessee,Shelby County,8,13,WA
+53035,53,35,Washington,Kitsap County,47157,47.0,157.0,Tennessee,Shelby County,28,31,WA
+53055,53,55,Washington,San Juan County,47157,47.0,157.0,Tennessee,Shelby County,5,5,WA
+53057,53,57,Washington,Skagit County,47157,47.0,157.0,Tennessee,Shelby County,2,3,WA
+53063,53,63,Washington,Spokane County,47157,47.0,157.0,Tennessee,Shelby County,16,26,WA
+53067,53,67,Washington,Thurston County,48027,48.0,27.0,Texas,Bell County,32,42,WA
+53033,53,33,Washington,King County,48029,48.0,29.0,Texas,Bexar County,38,63,WA
+53053,53,53,Washington,Pierce County,48029,48.0,29.0,Texas,Bexar County,15,24,WA
+53077,53,77,Washington,Yakima County,48029,48.0,29.0,Texas,Bexar County,22,25,WA
+53011,53,11,Washington,Clark County,48113,48.0,113.0,Texas,Dallas County,16,26,WA
+53033,53,33,Washington,King County,48113,48.0,113.0,Texas,Dallas County,100,73,WA
+53053,53,53,Washington,Pierce County,48113,48.0,113.0,Texas,Dallas County,45,34,WA
+53061,53,61,Washington,Snohomish County,48113,48.0,113.0,Texas,Dallas County,25,32,WA
+53063,53,63,Washington,Spokane County,48113,48.0,113.0,Texas,Dallas County,17,14,WA
+53005,53,5,Washington,Benton County,48121,48.0,121.0,Texas,Denton County,31,34,WA
+53033,53,33,Washington,King County,48121,48.0,121.0,Texas,Denton County,25,38,WA
+53011,53,11,Washington,Clark County,48183,48.0,183.0,Texas,Gregg County,6,11,WA
+53011,53,11,Washington,Clark County,48185,48.0,185.0,Texas,Grimes County,5,7,WA
+53011,53,11,Washington,Clark County,48201,48.0,201.0,Texas,Harris County,18,21,WA
+53033,53,33,Washington,King County,48201,48.0,201.0,Texas,Harris County,62,42,WA
+53035,53,35,Washington,Kitsap County,48201,48.0,201.0,Texas,Harris County,58,50,WA
+53053,53,53,Washington,Pierce County,48201,48.0,201.0,Texas,Harris County,22,22,WA
+53055,53,55,Washington,San Juan County,48201,48.0,201.0,Texas,Harris County,2,4,WA
+53057,53,57,Washington,Skagit County,48201,48.0,201.0,Texas,Harris County,13,11,WA
+53063,53,63,Washington,Spokane County,48201,48.0,201.0,Texas,Harris County,40,33,WA
+53073,53,73,Washington,Whatcom County,48201,48.0,201.0,Texas,Harris County,11,18,WA
+53035,53,35,Washington,Kitsap County,48329,48.0,329.0,Texas,Midland County,15,20,WA
+53063,53,63,Washington,Spokane County,48357,48.0,357.0,Texas,Ochiltree County,75,91,WA
+53027,53,27,Washington,Grays Harbor County,48409,48.0,409.0,Texas,San Patricio County,7,12,WA
+53033,53,33,Washington,King County,48439,48.0,439.0,Texas,Tarrant County,52,42,WA
+53053,53,53,Washington,Pierce County,48439,48.0,439.0,Texas,Tarrant County,30,47,WA
+53061,53,61,Washington,Snohomish County,48439,48.0,439.0,Texas,Tarrant County,9,14,WA
+53067,53,67,Washington,Thurston County,48439,48.0,439.0,Texas,Tarrant County,11,19,WA
+53073,53,73,Washington,Whatcom County,48439,48.0,439.0,Texas,Tarrant County,37,55,WA
+53033,53,33,Washington,King County,48453,48.0,453.0,Texas,Travis County,12,17,WA
+53053,53,53,Washington,Pierce County,48453,48.0,453.0,Texas,Travis County,21,30,WA
+53005,53,5,Washington,Benton County,48479,48.0,479.0,Texas,Webb County,16,27,WA
+53033,53,33,Washington,King County,48491,48.0,491.0,Texas,Williamson County,4,6,WA
+53033,53,33,Washington,King County,49005,49.0,5.0,Utah,Cache County,19,22,WA
+53053,53,53,Washington,Pierce County,49005,49.0,5.0,Utah,Cache County,18,22,WA
+53033,53,33,Washington,King County,49011,49.0,11.0,Utah,Davis County,17,27,WA
+53057,53,57,Washington,Skagit County,49011,49.0,11.0,Utah,Davis County,61,72,WA
+53005,53,5,Washington,Benton County,49035,49.0,35.0,Utah,Salt Lake County,10,15,WA
+53011,53,11,Washington,Clark County,49035,49.0,35.0,Utah,Salt Lake County,110,71,WA
+53033,53,33,Washington,King County,49035,49.0,35.0,Utah,Salt Lake County,74,55,WA
+53047,53,47,Washington,Okanogan County,49035,49.0,35.0,Utah,Salt Lake County,12,22,WA
+53053,53,53,Washington,Pierce County,49035,49.0,35.0,Utah,Salt Lake County,25,41,WA
+53055,53,55,Washington,San Juan County,49035,49.0,35.0,Utah,Salt Lake County,5,4,WA
+53057,53,57,Washington,Skagit County,49035,49.0,35.0,Utah,Salt Lake County,4,3,WA
+53063,53,63,Washington,Spokane County,49035,49.0,35.0,Utah,Salt Lake County,2,8,WA
+53065,53,65,Washington,Stevens County,49035,49.0,35.0,Utah,Salt Lake County,15,22,WA
+53055,53,55,Washington,San Juan County,49043,49.0,43.0,Utah,Summit County,12,18,WA
+53005,53,5,Washington,Benton County,49049,49.0,49.0,Utah,Utah County,20,28,WA
+53061,53,61,Washington,Snohomish County,49049,49.0,49.0,Utah,Utah County,49,49,WA
+53003,53,3,Washington,Asotin County,49053,49.0,53.0,Utah,Washington County,30,48,WA
+53033,53,33,Washington,King County,49053,49.0,53.0,Utah,Washington County,14,16,WA
+53021,53,21,Washington,Franklin County,49057,49.0,57.0,Utah,Weber County,43,51,WA
+53063,53,63,Washington,Spokane County,49057,49.0,57.0,Utah,Weber County,21,34,WA
+53035,53,35,Washington,Kitsap County,50007,50.0,7.0,Vermont,Chittenden County,11,17,WA
+53005,53,5,Washington,Benton County,51003,51.0,3.0,Virginia,Albemarle County,4,10,WA
+53033,53,33,Washington,King County,51013,51.0,13.0,Virginia,Arlington County,8,13,WA
+53011,53,11,Washington,Clark County,51059,51.0,59.0,Virginia,Fairfax County,27,35,WA
+53033,53,33,Washington,King County,51059,51.0,59.0,Virginia,Fairfax County,65,52,WA
+53057,53,57,Washington,Skagit County,51059,51.0,59.0,Virginia,Fairfax County,3,4,WA
+53061,53,61,Washington,Snohomish County,51059,51.0,59.0,Virginia,Fairfax County,14,23,WA
+53063,53,63,Washington,Spokane County,51059,51.0,59.0,Virginia,Fairfax County,36,51,WA
+53053,53,53,Washington,Pierce County,51073,51.0,73.0,Virginia,Gloucester County,9,14,WA
+53005,53,5,Washington,Benton County,51107,51.0,107.0,Virginia,Loudoun County,12,19,WA
+53011,53,11,Washington,Clark County,51107,51.0,107.0,Virginia,Loudoun County,2,3,WA
+53033,53,33,Washington,King County,51149,51.0,149.0,Virginia,Prince George County,42,63,WA
+53005,53,5,Washington,Benton County,51185,51.0,185.0,Virginia,Tazewell County,10,16,WA
+53073,53,73,Washington,Whatcom County,51510,51.0,510.0,Virginia,Alexandria city,17,28,WA
+53035,53,35,Washington,Kitsap County,51550,51.0,550.0,Virginia,Chesapeake city,5,7,WA
+53063,53,63,Washington,Spokane County,51700,51.0,700.0,Virginia,Newport News city,15,24,WA
+53035,53,35,Washington,Kitsap County,51710,51.0,710.0,Virginia,Norfolk city,33,39,WA
+53001,53,1,Washington,Adams County,53001,53.0,1.0,Washington,Adams County,5865,376,WA
+53005,53,5,Washington,Benton County,53001,53.0,1.0,Washington,Adams County,123,106,WA
+53007,53,7,Washington,Chelan County,53001,53.0,1.0,Washington,Adams County,17,18,WA
+53011,53,11,Washington,Clark County,53001,53.0,1.0,Washington,Adams County,9,11,WA
+53021,53,21,Washington,Franklin County,53001,53.0,1.0,Washington,Adams County,579,218,WA
+53025,53,25,Washington,Grant County,53001,53.0,1.0,Washington,Adams County,789,243,WA
+53033,53,33,Washington,King County,53001,53.0,1.0,Washington,Adams County,12,21,WA
+53037,53,37,Washington,Kittitas County,53001,53.0,1.0,Washington,Adams County,48,63,WA
+53043,53,43,Washington,Lincoln County,53001,53.0,1.0,Washington,Adams County,34,22,WA
+53063,53,63,Washington,Spokane County,53001,53.0,1.0,Washington,Adams County,157,112,WA
+53065,53,65,Washington,Stevens County,53001,53.0,1.0,Washington,Adams County,9,13,WA
+53075,53,75,Washington,Whitman County,53001,53.0,1.0,Washington,Adams County,32,31,WA
+53077,53,77,Washington,Yakima County,53001,53.0,1.0,Washington,Adams County,52,62,WA
+53003,53,3,Washington,Asotin County,53003,53.0,3.0,Washington,Asotin County,3846,273,WA
+53023,53,23,Washington,Garfield County,53003,53.0,3.0,Washington,Asotin County,93,35,WA
+53075,53,75,Washington,Whitman County,53003,53.0,3.0,Washington,Asotin County,62,30,WA
+53001,53,1,Washington,Adams County,53005,53.0,5.0,Washington,Benton County,48,34,WA
+53005,53,5,Washington,Benton County,53005,53.0,5.0,Washington,Benton County,64097,1302,WA
+53009,53,9,Washington,Clallam County,53005,53.0,5.0,Washington,Benton County,9,14,WA
+53011,53,11,Washington,Clark County,53005,53.0,5.0,Washington,Benton County,59,44,WA
+53013,53,13,Washington,Columbia County,53005,53.0,5.0,Washington,Benton County,4,7,WA
+53021,53,21,Washington,Franklin County,53005,53.0,5.0,Washington,Benton County,13189,874,WA
+53023,53,23,Washington,Garfield County,53005,53.0,5.0,Washington,Benton County,3,7,WA
+53025,53,25,Washington,Grant County,53005,53.0,5.0,Washington,Benton County,91,75,WA
+53029,53,29,Washington,Island County,53005,53.0,5.0,Washington,Benton County,14,22,WA
+53033,53,33,Washington,King County,53005,53.0,5.0,Washington,Benton County,158,92,WA
+53037,53,37,Washington,Kittitas County,53005,53.0,5.0,Washington,Benton County,8,12,WA
+53039,53,39,Washington,Klickitat County,53005,53.0,5.0,Washington,Benton County,48,47,WA
+53043,53,43,Washington,Lincoln County,53005,53.0,5.0,Washington,Benton County,6,9,WA
+53047,53,47,Washington,Okanogan County,53005,53.0,5.0,Washington,Benton County,21,32,WA
+53053,53,53,Washington,Pierce County,53005,53.0,5.0,Washington,Benton County,68,60,WA
+53055,53,55,Washington,San Juan County,53005,53.0,5.0,Washington,Benton County,2,3,WA
+53057,53,57,Washington,Skagit County,53005,53.0,5.0,Washington,Benton County,3,4,WA
+53061,53,61,Washington,Snohomish County,53005,53.0,5.0,Washington,Benton County,51,35,WA
+53063,53,63,Washington,Spokane County,53005,53.0,5.0,Washington,Benton County,173,84,WA
+53065,53,65,Washington,Stevens County,53005,53.0,5.0,Washington,Benton County,38,36,WA
+53071,53,71,Washington,Walla Walla County,53005,53.0,5.0,Washington,Benton County,838,184,WA
+53073,53,73,Washington,Whatcom County,53005,53.0,5.0,Washington,Benton County,18,29,WA
+53075,53,75,Washington,Whitman County,53005,53.0,5.0,Washington,Benton County,9,14,WA
+53077,53,77,Washington,Yakima County,53005,53.0,5.0,Washington,Benton County,3325,459,WA
+53001,53,1,Washington,Adams County,53007,53.0,7.0,Washington,Chelan County,46,41,WA
+53005,53,5,Washington,Benton County,53007,53.0,7.0,Washington,Chelan County,29,34,WA
+53007,53,7,Washington,Chelan County,53007,53.0,7.0,Washington,Chelan County,27608,940,WA
+53011,53,11,Washington,Clark County,53007,53.0,7.0,Washington,Chelan County,17,18,WA
+53015,53,15,Washington,Cowlitz County,53007,53.0,7.0,Washington,Chelan County,37,42,WA
+53017,53,17,Washington,Douglas County,53007,53.0,7.0,Washington,Chelan County,8377,608,WA
+53025,53,25,Washington,Grant County,53007,53.0,7.0,Washington,Chelan County,199,119,WA
+53033,53,33,Washington,King County,53007,53.0,7.0,Washington,Chelan County,115,58,WA
+53035,53,35,Washington,Kitsap County,53007,53.0,7.0,Washington,Chelan County,58,65,WA
+53037,53,37,Washington,Kittitas County,53007,53.0,7.0,Washington,Chelan County,21,32,WA
+53039,53,39,Washington,Klickitat County,53007,53.0,7.0,Washington,Chelan County,8,14,WA
+53043,53,43,Washington,Lincoln County,53007,53.0,7.0,Washington,Chelan County,2,3,WA
+53047,53,47,Washington,Okanogan County,53007,53.0,7.0,Washington,Chelan County,313,102,WA
+53061,53,61,Washington,Snohomish County,53007,53.0,7.0,Washington,Chelan County,46,30,WA
+53063,53,63,Washington,Spokane County,53007,53.0,7.0,Washington,Chelan County,101,67,WA
+53067,53,67,Washington,Thurston County,53007,53.0,7.0,Washington,Chelan County,10,15,WA
+53073,53,73,Washington,Whatcom County,53007,53.0,7.0,Washington,Chelan County,13,21,WA
+53075,53,75,Washington,Whitman County,53007,53.0,7.0,Washington,Chelan County,11,23,WA
+53077,53,77,Washington,Yakima County,53007,53.0,7.0,Washington,Chelan County,59,50,WA
+53009,53,9,Washington,Clallam County,53009,53.0,9.0,Washington,Clallam County,25556,781,WA
+53027,53,27,Washington,Grays Harbor County,53009,53.0,9.0,Washington,Clallam County,2,4,WA
+53029,53,29,Washington,Island County,53009,53.0,9.0,Washington,Clallam County,5,8,WA
+53031,53,31,Washington,Jefferson County,53009,53.0,9.0,Washington,Clallam County,412,153,WA
+53033,53,33,Washington,King County,53009,53.0,9.0,Washington,Clallam County,76,53,WA
+53035,53,35,Washington,Kitsap County,53009,53.0,9.0,Washington,Clallam County,186,108,WA
+53045,53,45,Washington,Mason County,53009,53.0,9.0,Washington,Clallam County,1,1,WA
+53053,53,53,Washington,Pierce County,53009,53.0,9.0,Washington,Clallam County,27,27,WA
+53057,53,57,Washington,Skagit County,53009,53.0,9.0,Washington,Clallam County,16,19,WA
+53061,53,61,Washington,Snohomish County,53009,53.0,9.0,Washington,Clallam County,100,59,WA
+53067,53,67,Washington,Thurston County,53009,53.0,9.0,Washington,Clallam County,31,36,WA
+53005,53,5,Washington,Benton County,53011,53.0,11.0,Washington,Clark County,57,82,WA
+53011,53,11,Washington,Clark County,53011,53.0,11.0,Washington,Clark County,129897,1849,WA
+53015,53,15,Washington,Cowlitz County,53011,53.0,11.0,Washington,Clark County,3269,421,WA
+53021,53,21,Washington,Franklin County,53011,53.0,11.0,Washington,Clark County,21,24,WA
+53027,53,27,Washington,Grays Harbor County,53011,53.0,11.0,Washington,Clark County,6,9,WA
+53033,53,33,Washington,King County,53011,53.0,11.0,Washington,Clark County,92,71,WA
+53035,53,35,Washington,Kitsap County,53011,53.0,11.0,Washington,Clark County,8,14,WA
+53037,53,37,Washington,Kittitas County,53011,53.0,11.0,Washington,Clark County,2,5,WA
+53039,53,39,Washington,Klickitat County,53011,53.0,11.0,Washington,Clark County,25,25,WA
+53041,53,41,Washington,Lewis County,53011,53.0,11.0,Washington,Clark County,120,81,WA
+53049,53,49,Washington,Pacific County,53011,53.0,11.0,Washington,Clark County,32,28,WA
+53053,53,53,Washington,Pierce County,53011,53.0,11.0,Washington,Clark County,89,57,WA
+53057,53,57,Washington,Skagit County,53011,53.0,11.0,Washington,Clark County,16,28,WA
+53059,53,59,Washington,Skamania County,53011,53.0,11.0,Washington,Clark County,818,157,WA
+53061,53,61,Washington,Snohomish County,53011,53.0,11.0,Washington,Clark County,92,50,WA
+53063,53,63,Washington,Spokane County,53011,53.0,11.0,Washington,Clark County,60,57,WA
+53067,53,67,Washington,Thurston County,53011,53.0,11.0,Washington,Clark County,127,88,WA
+53069,53,69,Washington,Wahkiakum County,53011,53.0,11.0,Washington,Clark County,20,21,WA
+53071,53,71,Washington,Walla Walla County,53011,53.0,11.0,Washington,Clark County,10,16,WA
+53073,53,73,Washington,Whatcom County,53011,53.0,11.0,Washington,Clark County,13,10,WA
+53077,53,77,Washington,Yakima County,53011,53.0,11.0,Washington,Clark County,87,80,WA
+53013,53,13,Washington,Columbia County,53013,53.0,13.0,Washington,Columbia County,1178,112,WA
+53021,53,21,Washington,Franklin County,53013,53.0,13.0,Washington,Columbia County,10,18,WA
+53023,53,23,Washington,Garfield County,53013,53.0,13.0,Washington,Columbia County,15,14,WA
+53043,53,43,Washington,Lincoln County,53013,53.0,13.0,Washington,Columbia County,4,6,WA
+53045,53,45,Washington,Mason County,53013,53.0,13.0,Washington,Columbia County,6,8,WA
+53063,53,63,Washington,Spokane County,53013,53.0,13.0,Washington,Columbia County,40,44,WA
+53071,53,71,Washington,Walla Walla County,53013,53.0,13.0,Washington,Columbia County,251,104,WA
+53075,53,75,Washington,Whitman County,53013,53.0,13.0,Washington,Columbia County,6,9,WA
+53009,53,9,Washington,Clallam County,53015,53.0,15.0,Washington,Cowlitz County,6,10,WA
+53011,53,11,Washington,Clark County,53015,53.0,15.0,Washington,Cowlitz County,3600,373,WA
+53015,53,15,Washington,Cowlitz County,53015,53.0,15.0,Washington,Cowlitz County,31339,962,WA
+53027,53,27,Washington,Grays Harbor County,53015,53.0,15.0,Washington,Cowlitz County,51,47,WA
+53031,53,31,Washington,Jefferson County,53015,53.0,15.0,Washington,Cowlitz County,12,19,WA
+53033,53,33,Washington,King County,53015,53.0,15.0,Washington,Cowlitz County,41,47,WA
+53035,53,35,Washington,Kitsap County,53015,53.0,15.0,Washington,Cowlitz County,13,20,WA
+53039,53,39,Washington,Klickitat County,53015,53.0,15.0,Washington,Cowlitz County,8,12,WA
+53041,53,41,Washington,Lewis County,53015,53.0,15.0,Washington,Cowlitz County,942,224,WA
+53045,53,45,Washington,Mason County,53015,53.0,15.0,Washington,Cowlitz County,10,16,WA
+53049,53,49,Washington,Pacific County,53015,53.0,15.0,Washington,Cowlitz County,36,24,WA
+53053,53,53,Washington,Pierce County,53015,53.0,15.0,Washington,Cowlitz County,20,26,WA
+53061,53,61,Washington,Snohomish County,53015,53.0,15.0,Washington,Cowlitz County,38,46,WA
+53067,53,67,Washington,Thurston County,53015,53.0,15.0,Washington,Cowlitz County,128,59,WA
+53069,53,69,Washington,Wahkiakum County,53015,53.0,15.0,Washington,Cowlitz County,201,96,WA
+53077,53,77,Washington,Yakima County,53015,53.0,15.0,Washington,Cowlitz County,17,27,WA
+53007,53,7,Washington,Chelan County,53017,53.0,17.0,Washington,Douglas County,3310,524,WA
+53015,53,15,Washington,Cowlitz County,53017,53.0,17.0,Washington,Douglas County,28,39,WA
+53017,53,17,Washington,Douglas County,53017,53.0,17.0,Washington,Douglas County,7574,455,WA
+53025,53,25,Washington,Grant County,53017,53.0,17.0,Washington,Douglas County,253,196,WA
+53037,53,37,Washington,Kittitas County,53017,53.0,17.0,Washington,Douglas County,11,17,WA
+53043,53,43,Washington,Lincoln County,53017,53.0,17.0,Washington,Douglas County,11,11,WA
+53047,53,47,Washington,Okanogan County,53017,53.0,17.0,Washington,Douglas County,362,132,WA
+53053,53,53,Washington,Pierce County,53017,53.0,17.0,Washington,Douglas County,9,13,WA
+53061,53,61,Washington,Snohomish County,53017,53.0,17.0,Washington,Douglas County,7,10,WA
+53019,53,19,Washington,Ferry County,53019,53.0,19.0,Washington,Ferry County,1809,227,WA
+53033,53,33,Washington,King County,53019,53.0,19.0,Washington,Ferry County,22,26,WA
+53047,53,47,Washington,Okanogan County,53019,53.0,19.0,Washington,Ferry County,94,49,WA
+53063,53,63,Washington,Spokane County,53019,53.0,19.0,Washington,Ferry County,14,23,WA
+53065,53,65,Washington,Stevens County,53019,53.0,19.0,Washington,Ferry County,167,63,WA
+53001,53,1,Washington,Adams County,53021,53.0,21.0,Washington,Franklin County,402,159,WA
+53003,53,3,Washington,Asotin County,53021,53.0,21.0,Washington,Franklin County,23,28,WA
+53005,53,5,Washington,Benton County,53021,53.0,21.0,Washington,Franklin County,10384,772,WA
+53007,53,7,Washington,Chelan County,53021,53.0,21.0,Washington,Franklin County,4,6,WA
+53011,53,11,Washington,Clark County,53021,53.0,21.0,Washington,Franklin County,22,19,WA
+53013,53,13,Washington,Columbia County,53021,53.0,21.0,Washington,Franklin County,19,24,WA
+53021,53,21,Washington,Franklin County,53021,53.0,21.0,Washington,Franklin County,18676,950,WA
+53025,53,25,Washington,Grant County,53021,53.0,21.0,Washington,Franklin County,148,70,WA
+53033,53,33,Washington,King County,53021,53.0,21.0,Washington,Franklin County,21,32,WA
+53035,53,35,Washington,Kitsap County,53021,53.0,21.0,Washington,Franklin County,6,10,WA
+53039,53,39,Washington,Klickitat County,53021,53.0,21.0,Washington,Franklin County,11,14,WA
+53043,53,43,Washington,Lincoln County,53021,53.0,21.0,Washington,Franklin County,8,9,WA
+53051,53,51,Washington,Pend Oreille County,53021,53.0,21.0,Washington,Franklin County,3,7,WA
+53053,53,53,Washington,Pierce County,53021,53.0,21.0,Washington,Franklin County,11,18,WA
+53061,53,61,Washington,Snohomish County,53021,53.0,21.0,Washington,Franklin County,21,27,WA
+53063,53,63,Washington,Spokane County,53021,53.0,21.0,Washington,Franklin County,5,8,WA
+53067,53,67,Washington,Thurston County,53021,53.0,21.0,Washington,Franklin County,27,32,WA
+53071,53,71,Washington,Walla Walla County,53021,53.0,21.0,Washington,Franklin County,519,163,WA
+53075,53,75,Washington,Whitman County,53021,53.0,21.0,Washington,Franklin County,9,12,WA
+53077,53,77,Washington,Yakima County,53021,53.0,21.0,Washington,Franklin County,256,148,WA
+53003,53,3,Washington,Asotin County,53023,53.0,23.0,Washington,Garfield County,3,5,WA
+53005,53,5,Washington,Benton County,53023,53.0,23.0,Washington,Garfield County,43,48,WA
+53013,53,13,Washington,Columbia County,53023,53.0,23.0,Washington,Garfield County,4,6,WA
+53023,53,23,Washington,Garfield County,53023,53.0,23.0,Washington,Garfield County,566,80,WA
+53063,53,63,Washington,Spokane County,53023,53.0,23.0,Washington,Garfield County,6,11,WA
+53071,53,71,Washington,Walla Walla County,53023,53.0,23.0,Washington,Garfield County,8,12,WA
+53075,53,75,Washington,Whitman County,53023,53.0,23.0,Washington,Garfield County,39,45,WA
+53001,53,1,Washington,Adams County,53025,53.0,25.0,Washington,Grant County,998,183,WA
+53003,53,3,Washington,Asotin County,53025,53.0,25.0,Washington,Grant County,7,12,WA
+53005,53,5,Washington,Benton County,53025,53.0,25.0,Washington,Grant County,164,75,WA
+53007,53,7,Washington,Chelan County,53025,53.0,25.0,Washington,Grant County,315,118,WA
+53011,53,11,Washington,Clark County,53025,53.0,25.0,Washington,Grant County,12,17,WA
+53015,53,15,Washington,Cowlitz County,53025,53.0,25.0,Washington,Grant County,32,38,WA
+53017,53,17,Washington,Douglas County,53025,53.0,25.0,Washington,Grant County,584,166,WA
+53019,53,19,Washington,Ferry County,53025,53.0,25.0,Washington,Grant County,6,7,WA
+53021,53,21,Washington,Franklin County,53025,53.0,25.0,Washington,Grant County,261,149,WA
+53025,53,25,Washington,Grant County,53025,53.0,25.0,Washington,Grant County,35142,847,WA
+53033,53,33,Washington,King County,53025,53.0,25.0,Washington,Grant County,159,85,WA
+53037,53,37,Washington,Kittitas County,53025,53.0,25.0,Washington,Grant County,298,116,WA
+53043,53,43,Washington,Lincoln County,53025,53.0,25.0,Washington,Grant County,252,52,WA
+53047,53,47,Washington,Okanogan County,53025,53.0,25.0,Washington,Grant County,243,62,WA
+53053,53,53,Washington,Pierce County,53025,53.0,25.0,Washington,Grant County,19,23,WA
+53061,53,61,Washington,Snohomish County,53025,53.0,25.0,Washington,Grant County,35,48,WA
+53063,53,63,Washington,Spokane County,53025,53.0,25.0,Washington,Grant County,347,182,WA
+53065,53,65,Washington,Stevens County,53025,53.0,25.0,Washington,Grant County,4,5,WA
+53067,53,67,Washington,Thurston County,53025,53.0,25.0,Washington,Grant County,34,41,WA
+53073,53,73,Washington,Whatcom County,53025,53.0,25.0,Washington,Grant County,14,20,WA
+53075,53,75,Washington,Whitman County,53025,53.0,25.0,Washington,Grant County,27,29,WA
+53077,53,77,Washington,Yakima County,53025,53.0,25.0,Washington,Grant County,316,220,WA
+53009,53,9,Washington,Clallam County,53027,53.0,27.0,Washington,Grays Harbor County,43,40,WA
+53011,53,11,Washington,Clark County,53027,53.0,27.0,Washington,Grays Harbor County,47,39,WA
+53015,53,15,Washington,Cowlitz County,53027,53.0,27.0,Washington,Grays Harbor County,9,14,WA
+53025,53,25,Washington,Grant County,53027,53.0,27.0,Washington,Grays Harbor County,3,4,WA
+53027,53,27,Washington,Grays Harbor County,53027,53.0,27.0,Washington,Grays Harbor County,21346,917,WA
+53031,53,31,Washington,Jefferson County,53027,53.0,27.0,Washington,Grays Harbor County,21,14,WA
+53033,53,33,Washington,King County,53027,53.0,27.0,Washington,Grays Harbor County,77,62,WA
+53041,53,41,Washington,Lewis County,53027,53.0,27.0,Washington,Grays Harbor County,191,119,WA
+53045,53,45,Washington,Mason County,53027,53.0,27.0,Washington,Grays Harbor County,400,132,WA
+53049,53,49,Washington,Pacific County,53027,53.0,27.0,Washington,Grays Harbor County,514,129,WA
+53053,53,53,Washington,Pierce County,53027,53.0,27.0,Washington,Grays Harbor County,135,81,WA
+53057,53,57,Washington,Skagit County,53027,53.0,27.0,Washington,Grays Harbor County,29,24,WA
+53063,53,63,Washington,Spokane County,53027,53.0,27.0,Washington,Grays Harbor County,58,90,WA
+53067,53,67,Washington,Thurston County,53027,53.0,27.0,Washington,Grays Harbor County,1004,215,WA
+53069,53,69,Washington,Wahkiakum County,53027,53.0,27.0,Washington,Grays Harbor County,14,23,WA
+53073,53,73,Washington,Whatcom County,53027,53.0,27.0,Washington,Grays Harbor County,32,37,WA
+53077,53,77,Washington,Yakima County,53027,53.0,27.0,Washington,Grays Harbor County,7,12,WA
+53005,53,5,Washington,Benton County,53029,53.0,29.0,Washington,Island County,19,32,WA
+53009,53,9,Washington,Clallam County,53029,53.0,29.0,Washington,Island County,15,16,WA
+53017,53,17,Washington,Douglas County,53029,53.0,29.0,Washington,Island County,4,6,WA
+53029,53,29,Washington,Island County,53029,53.0,29.0,Washington,Island County,23694,882,WA
+53033,53,33,Washington,King County,53029,53.0,29.0,Washington,Island County,95,57,WA
+53035,53,35,Washington,Kitsap County,53029,53.0,29.0,Washington,Island County,56,52,WA
+53045,53,45,Washington,Mason County,53029,53.0,29.0,Washington,Island County,8,14,WA
+53053,53,53,Washington,Pierce County,53029,53.0,29.0,Washington,Island County,61,49,WA
+53055,53,55,Washington,San Juan County,53029,53.0,29.0,Washington,Island County,6,4,WA
+53057,53,57,Washington,Skagit County,53029,53.0,29.0,Washington,Island County,1183,144,WA
+53061,53,61,Washington,Snohomish County,53029,53.0,29.0,Washington,Island County,635,163,WA
+53067,53,67,Washington,Thurston County,53029,53.0,29.0,Washington,Island County,61,55,WA
+53073,53,73,Washington,Whatcom County,53029,53.0,29.0,Washington,Island County,187,94,WA
+53075,53,75,Washington,Whitman County,53029,53.0,29.0,Washington,Island County,15,18,WA
+53009,53,9,Washington,Clallam County,53031,53.0,31.0,Washington,Jefferson County,647,169,WA
+53025,53,25,Washington,Grant County,53031,53.0,31.0,Washington,Jefferson County,2,8,WA
+53027,53,27,Washington,Grays Harbor County,53031,53.0,31.0,Washington,Jefferson County,19,22,WA
+53029,53,29,Washington,Island County,53031,53.0,31.0,Washington,Jefferson County,37,26,WA
+53031,53,31,Washington,Jefferson County,53031,53.0,31.0,Washington,Jefferson County,9318,520,WA
+53033,53,33,Washington,King County,53031,53.0,31.0,Washington,Jefferson County,53,53,WA
+53035,53,35,Washington,Kitsap County,53031,53.0,31.0,Washington,Jefferson County,404,119,WA
+53045,53,45,Washington,Mason County,53031,53.0,31.0,Washington,Jefferson County,14,21,WA
+53049,53,49,Washington,Pacific County,53031,53.0,31.0,Washington,Jefferson County,10,16,WA
+53053,53,53,Washington,Pierce County,53031,53.0,31.0,Washington,Jefferson County,40,44,WA
+53057,53,57,Washington,Skagit County,53031,53.0,31.0,Washington,Jefferson County,2,5,WA
+53061,53,61,Washington,Snohomish County,53031,53.0,31.0,Washington,Jefferson County,32,37,WA
+53063,53,63,Washington,Spokane County,53031,53.0,31.0,Washington,Jefferson County,4,8,WA
+53003,53,3,Washington,Asotin County,53033,53.0,33.0,Washington,King County,10,19,WA
+53005,53,5,Washington,Benton County,53033,53.0,33.0,Washington,King County,158,94,WA
+53007,53,7,Washington,Chelan County,53033,53.0,33.0,Washington,King County,202,96,WA
+53009,53,9,Washington,Clallam County,53033,53.0,33.0,Washington,King County,355,139,WA
+53011,53,11,Washington,Clark County,53033,53.0,33.0,Washington,King County,584,166,WA
+53015,53,15,Washington,Cowlitz County,53033,53.0,33.0,Washington,King County,233,104,WA
+53017,53,17,Washington,Douglas County,53033,53.0,33.0,Washington,King County,155,82,WA
+53021,53,21,Washington,Franklin County,53033,53.0,33.0,Washington,King County,28,41,WA
+53025,53,25,Washington,Grant County,53033,53.0,33.0,Washington,King County,168,57,WA
+53027,53,27,Washington,Grays Harbor County,53033,53.0,33.0,Washington,King County,354,170,WA
+53029,53,29,Washington,Island County,53033,53.0,33.0,Washington,King County,2112,273,WA
+53031,53,31,Washington,Jefferson County,53033,53.0,33.0,Washington,King County,361,146,WA
+53033,53,33,Washington,King County,53033,53.0,33.0,Washington,King County,977541,4720,WA
+53035,53,35,Washington,Kitsap County,53033,53.0,33.0,Washington,King County,12018,713,WA
+53037,53,37,Washington,Kittitas County,53033,53.0,33.0,Washington,King County,898,213,WA
+53041,53,41,Washington,Lewis County,53033,53.0,33.0,Washington,King County,383,136,WA
+53043,53,43,Washington,Lincoln County,53033,53.0,33.0,Washington,King County,60,43,WA
+53045,53,45,Washington,Mason County,53033,53.0,33.0,Washington,King County,965,238,WA
+53047,53,47,Washington,Okanogan County,53033,53.0,33.0,Washington,King County,100,63,WA
+53049,53,49,Washington,Pacific County,53033,53.0,33.0,Washington,King County,56,40,WA
+53051,53,51,Washington,Pend Oreille County,53033,53.0,33.0,Washington,King County,40,33,WA
+53053,53,53,Washington,Pierce County,53033,53.0,33.0,Washington,King County,90535,2037,WA
+53055,53,55,Washington,San Juan County,53033,53.0,33.0,Washington,King County,144,30,WA
+53057,53,57,Washington,Skagit County,53033,53.0,33.0,Washington,King County,1366,213,WA
+53059,53,59,Washington,Skamania County,53033,53.0,33.0,Washington,King County,14,11,WA
+53061,53,61,Washington,Snohomish County,53033,53.0,33.0,Washington,King County,119853,1988,WA
+53063,53,63,Washington,Spokane County,53033,53.0,33.0,Washington,King County,633,166,WA
+53065,53,65,Washington,Stevens County,53033,53.0,33.0,Washington,King County,76,62,WA
+53067,53,67,Washington,Thurston County,53033,53.0,33.0,Washington,King County,4589,546,WA
+53071,53,71,Washington,Walla Walla County,53033,53.0,33.0,Washington,King County,27,24,WA
+53073,53,73,Washington,Whatcom County,53033,53.0,33.0,Washington,King County,858,202,WA
+53075,53,75,Washington,Whitman County,53033,53.0,33.0,Washington,King County,112,70,WA
+53077,53,77,Washington,Yakima County,53033,53.0,33.0,Washington,King County,200,99,WA
+53009,53,9,Washington,Clallam County,53035,53.0,35.0,Washington,Kitsap County,215,94,WA
+53011,53,11,Washington,Clark County,53035,53.0,35.0,Washington,Kitsap County,55,38,WA
+53017,53,17,Washington,Douglas County,53035,53.0,35.0,Washington,Kitsap County,15,23,WA
+53027,53,27,Washington,Grays Harbor County,53035,53.0,35.0,Washington,Kitsap County,15,12,WA
+53029,53,29,Washington,Island County,53035,53.0,35.0,Washington,Kitsap County,73,51,WA
+53031,53,31,Washington,Jefferson County,53035,53.0,35.0,Washington,Kitsap County,648,189,WA
+53033,53,33,Washington,King County,53035,53.0,35.0,Washington,Kitsap County,1507,242,WA
+53035,53,35,Washington,Kitsap County,53035,53.0,35.0,Washington,Kitsap County,95235,1699,WA
+53037,53,37,Washington,Kittitas County,53035,53.0,35.0,Washington,Kitsap County,45,49,WA
+53041,53,41,Washington,Lewis County,53035,53.0,35.0,Washington,Kitsap County,7,8,WA
+53045,53,45,Washington,Mason County,53035,53.0,35.0,Washington,Kitsap County,3036,408,WA
+53053,53,53,Washington,Pierce County,53035,53.0,35.0,Washington,Kitsap County,4620,394,WA
+53057,53,57,Washington,Skagit County,53035,53.0,35.0,Washington,Kitsap County,23,18,WA
+53061,53,61,Washington,Snohomish County,53035,53.0,35.0,Washington,Kitsap County,622,233,WA
+53063,53,63,Washington,Spokane County,53035,53.0,35.0,Washington,Kitsap County,20,24,WA
+53065,53,65,Washington,Stevens County,53035,53.0,35.0,Washington,Kitsap County,10,16,WA
+53067,53,67,Washington,Thurston County,53035,53.0,35.0,Washington,Kitsap County,211,107,WA
+53069,53,69,Washington,Wahkiakum County,53035,53.0,35.0,Washington,Kitsap County,30,30,WA
+53073,53,73,Washington,Whatcom County,53035,53.0,35.0,Washington,Kitsap County,89,83,WA
+53005,53,5,Washington,Benton County,53037,53.0,37.0,Washington,Kittitas County,72,57,WA
+53007,53,7,Washington,Chelan County,53037,53.0,37.0,Washington,Kittitas County,53,40,WA
+53011,53,11,Washington,Clark County,53037,53.0,37.0,Washington,Kittitas County,19,24,WA
+53017,53,17,Washington,Douglas County,53037,53.0,37.0,Washington,Kittitas County,72,64,WA
+53025,53,25,Washington,Grant County,53037,53.0,37.0,Washington,Kittitas County,89,87,WA
+53033,53,33,Washington,King County,53037,53.0,37.0,Washington,Kittitas County,387,137,WA
+53037,53,37,Washington,Kittitas County,53037,53.0,37.0,Washington,Kittitas County,16358,789,WA
+53053,53,53,Washington,Pierce County,53037,53.0,37.0,Washington,Kittitas County,63,44,WA
+53055,53,55,Washington,San Juan County,53037,53.0,37.0,Washington,Kittitas County,2,2,WA
+53057,53,57,Washington,Skagit County,53037,53.0,37.0,Washington,Kittitas County,2,3,WA
+53061,53,61,Washington,Snohomish County,53037,53.0,37.0,Washington,Kittitas County,38,36,WA
+53063,53,63,Washington,Spokane County,53037,53.0,37.0,Washington,Kittitas County,23,23,WA
+53067,53,67,Washington,Thurston County,53037,53.0,37.0,Washington,Kittitas County,15,16,WA
+53075,53,75,Washington,Whitman County,53037,53.0,37.0,Washington,Kittitas County,3,4,WA
+53077,53,77,Washington,Yakima County,53037,53.0,37.0,Washington,Kittitas County,382,122,WA
+53005,53,5,Washington,Benton County,53039,53.0,39.0,Washington,Klickitat County,91,73,WA
+53011,53,11,Washington,Clark County,53039,53.0,39.0,Washington,Klickitat County,168,80,WA
+53021,53,21,Washington,Franklin County,53039,53.0,39.0,Washington,Klickitat County,28,44,WA
+53033,53,33,Washington,King County,53039,53.0,39.0,Washington,Klickitat County,13,21,WA
+53039,53,39,Washington,Klickitat County,53039,53.0,39.0,Washington,Klickitat County,5320,389,WA
+53053,53,53,Washington,Pierce County,53039,53.0,39.0,Washington,Klickitat County,8,13,WA
+53059,53,59,Washington,Skamania County,53039,53.0,39.0,Washington,Klickitat County,309,77,WA
+53063,53,63,Washington,Spokane County,53039,53.0,39.0,Washington,Klickitat County,13,22,WA
+53077,53,77,Washington,Yakima County,53039,53.0,39.0,Washington,Klickitat County,319,140,WA
+53011,53,11,Washington,Clark County,53041,53.0,41.0,Washington,Lewis County,58,41,WA
+53015,53,15,Washington,Cowlitz County,53041,53.0,41.0,Washington,Lewis County,647,169,WA
+53027,53,27,Washington,Grays Harbor County,53041,53.0,41.0,Washington,Lewis County,390,146,WA
+53033,53,33,Washington,King County,53041,53.0,41.0,Washington,Lewis County,73,76,WA
+53041,53,41,Washington,Lewis County,53041,53.0,41.0,Washington,Lewis County,21481,690,WA
+53045,53,45,Washington,Mason County,53041,53.0,41.0,Washington,Lewis County,72,61,WA
+53049,53,49,Washington,Pacific County,53041,53.0,41.0,Washington,Lewis County,125,62,WA
+53053,53,53,Washington,Pierce County,53041,53.0,41.0,Washington,Lewis County,275,109,WA
+53061,53,61,Washington,Snohomish County,53041,53.0,41.0,Washington,Lewis County,77,76,WA
+53063,53,63,Washington,Spokane County,53041,53.0,41.0,Washington,Lewis County,23,37,WA
+53067,53,67,Washington,Thurston County,53041,53.0,41.0,Washington,Lewis County,3200,485,WA
+53073,53,73,Washington,Whatcom County,53041,53.0,41.0,Washington,Lewis County,6,9,WA
+53001,53,1,Washington,Adams County,53043,53.0,43.0,Washington,Lincoln County,75,35,WA
+53019,53,19,Washington,Ferry County,53043,53.0,43.0,Washington,Lincoln County,1,2,WA
+53025,53,25,Washington,Grant County,53043,53.0,43.0,Washington,Lincoln County,39,35,WA
+53043,53,43,Washington,Lincoln County,53043,53.0,43.0,Washington,Lincoln County,2768,200,WA
+53047,53,47,Washington,Okanogan County,53043,53.0,43.0,Washington,Lincoln County,3,5,WA
+53051,53,51,Washington,Pend Oreille County,53043,53.0,43.0,Washington,Lincoln County,8,12,WA
+53061,53,61,Washington,Snohomish County,53043,53.0,43.0,Washington,Lincoln County,96,111,WA
+53063,53,63,Washington,Spokane County,53043,53.0,43.0,Washington,Lincoln County,420,161,WA
+53065,53,65,Washington,Stevens County,53043,53.0,43.0,Washington,Lincoln County,105,35,WA
+53073,53,73,Washington,Whatcom County,53043,53.0,43.0,Washington,Lincoln County,14,21,WA
+53075,53,75,Washington,Whitman County,53043,53.0,43.0,Washington,Lincoln County,40,34,WA
+53003,53,3,Washington,Asotin County,53045,53.0,45.0,Washington,Mason County,6,10,WA
+53009,53,9,Washington,Clallam County,53045,53.0,45.0,Washington,Mason County,29,30,WA
+53011,53,11,Washington,Clark County,53045,53.0,45.0,Washington,Mason County,10,16,WA
+53027,53,27,Washington,Grays Harbor County,53045,53.0,45.0,Washington,Mason County,279,82,WA
+53031,53,31,Washington,Jefferson County,53045,53.0,45.0,Washington,Mason County,25,37,WA
+53033,53,33,Washington,King County,53045,53.0,45.0,Washington,Mason County,78,53,WA
+53035,53,35,Washington,Kitsap County,53045,53.0,45.0,Washington,Mason County,1031,269,WA
+53041,53,41,Washington,Lewis County,53045,53.0,45.0,Washington,Mason County,83,70,WA
+53045,53,45,Washington,Mason County,53045,53.0,45.0,Washington,Mason County,12626,795,WA
+53049,53,49,Washington,Pacific County,53045,53.0,45.0,Washington,Mason County,9,16,WA
+53053,53,53,Washington,Pierce County,53045,53.0,45.0,Washington,Mason County,592,174,WA
+53061,53,61,Washington,Snohomish County,53045,53.0,45.0,Washington,Mason County,174,128,WA
+53063,53,63,Washington,Spokane County,53045,53.0,45.0,Washington,Mason County,5,9,WA
+53067,53,67,Washington,Thurston County,53045,53.0,45.0,Washington,Mason County,1590,320,WA
+53075,53,75,Washington,Whitman County,53045,53.0,45.0,Washington,Mason County,3,4,WA
+53005,53,5,Washington,Benton County,53047,53.0,47.0,Washington,Okanogan County,12,20,WA
+53007,53,7,Washington,Chelan County,53047,53.0,47.0,Washington,Okanogan County,182,140,WA
+53011,53,11,Washington,Clark County,53047,53.0,47.0,Washington,Okanogan County,17,20,WA
+53015,53,15,Washington,Cowlitz County,53047,53.0,47.0,Washington,Okanogan County,8,13,WA
+53017,53,17,Washington,Douglas County,53047,53.0,47.0,Washington,Okanogan County,813,194,WA
+53019,53,19,Washington,Ferry County,53047,53.0,47.0,Washington,Okanogan County,156,51,WA
+53025,53,25,Washington,Grant County,53047,53.0,47.0,Washington,Okanogan County,224,88,WA
+53033,53,33,Washington,King County,53047,53.0,47.0,Washington,Okanogan County,27,36,WA
+53035,53,35,Washington,Kitsap County,53047,53.0,47.0,Washington,Okanogan County,24,29,WA
+53043,53,43,Washington,Lincoln County,53047,53.0,47.0,Washington,Okanogan County,5,6,WA
+53045,53,45,Washington,Mason County,53047,53.0,47.0,Washington,Okanogan County,12,16,WA
+53047,53,47,Washington,Okanogan County,53047,53.0,47.0,Washington,Okanogan County,15111,602,WA
+53053,53,53,Washington,Pierce County,53047,53.0,47.0,Washington,Okanogan County,49,57,WA
+53059,53,59,Washington,Skamania County,53047,53.0,47.0,Washington,Okanogan County,10,15,WA
+53061,53,61,Washington,Snohomish County,53047,53.0,47.0,Washington,Okanogan County,7,11,WA
+53063,53,63,Washington,Spokane County,53047,53.0,47.0,Washington,Okanogan County,62,55,WA
+53065,53,65,Washington,Stevens County,53047,53.0,47.0,Washington,Okanogan County,13,11,WA
+53015,53,15,Washington,Cowlitz County,53049,53.0,49.0,Washington,Pacific County,39,42,WA
+53027,53,27,Washington,Grays Harbor County,53049,53.0,49.0,Washington,Pacific County,528,212,WA
+53039,53,39,Washington,Klickitat County,53049,53.0,49.0,Washington,Pacific County,3,4,WA
+53041,53,41,Washington,Lewis County,53049,53.0,49.0,Washington,Pacific County,116,61,WA
+53045,53,45,Washington,Mason County,53049,53.0,49.0,Washington,Pacific County,22,33,WA
+53049,53,49,Washington,Pacific County,53049,53.0,49.0,Washington,Pacific County,5490,385,WA
+53053,53,53,Washington,Pierce County,53049,53.0,49.0,Washington,Pacific County,15,24,WA
+53061,53,61,Washington,Snohomish County,53049,53.0,49.0,Washington,Pacific County,79,56,WA
+53067,53,67,Washington,Thurston County,53049,53.0,49.0,Washington,Pacific County,21,24,WA
+53069,53,69,Washington,Wahkiakum County,53049,53.0,49.0,Washington,Pacific County,131,62,WA
+53047,53,47,Washington,Okanogan County,53051,53.0,51.0,Washington,Pend Oreille County,19,21,WA
+53051,53,51,Washington,Pend Oreille County,53051,53.0,51.0,Washington,Pend Oreille County,2530,275,WA
+53057,53,57,Washington,Skagit County,53051,53.0,51.0,Washington,Pend Oreille County,8,13,WA
+53063,53,63,Washington,Spokane County,53051,53.0,51.0,Washington,Pend Oreille County,205,96,WA
+53065,53,65,Washington,Stevens County,53051,53.0,51.0,Washington,Pend Oreille County,80,53,WA
+53003,53,3,Washington,Asotin County,53053,53.0,53.0,Washington,Pierce County,27,29,WA
+53005,53,5,Washington,Benton County,53053,53.0,53.0,Washington,Pierce County,14,22,WA
+53007,53,7,Washington,Chelan County,53053,53.0,53.0,Washington,Pierce County,3,5,WA
+53009,53,9,Washington,Clallam County,53053,53.0,53.0,Washington,Pierce County,61,36,WA
+53011,53,11,Washington,Clark County,53053,53.0,53.0,Washington,Pierce County,199,84,WA
+53015,53,15,Washington,Cowlitz County,53053,53.0,53.0,Washington,Pierce County,43,42,WA
+53017,53,17,Washington,Douglas County,53053,53.0,53.0,Washington,Pierce County,8,8,WA
+53021,53,21,Washington,Franklin County,53053,53.0,53.0,Washington,Pierce County,20,32,WA
+53025,53,25,Washington,Grant County,53053,53.0,53.0,Washington,Pierce County,6,10,WA
+53027,53,27,Washington,Grays Harbor County,53053,53.0,53.0,Washington,Pierce County,355,143,WA
+53029,53,29,Washington,Island County,53053,53.0,53.0,Washington,Pierce County,41,30,WA
+53031,53,31,Washington,Jefferson County,53053,53.0,53.0,Washington,Pierce County,26,34,WA
+53033,53,33,Washington,King County,53053,53.0,53.0,Washington,Pierce County,28706,1201,WA
+53035,53,35,Washington,Kitsap County,53053,53.0,53.0,Washington,Pierce County,6078,511,WA
+53037,53,37,Washington,Kittitas County,53053,53.0,53.0,Washington,Pierce County,107,63,WA
+53039,53,39,Washington,Klickitat County,53053,53.0,53.0,Washington,Pierce County,17,18,WA
+53041,53,41,Washington,Lewis County,53053,53.0,53.0,Washington,Pierce County,958,251,WA
+53043,53,43,Washington,Lincoln County,53053,53.0,53.0,Washington,Pierce County,6,9,WA
+53045,53,45,Washington,Mason County,53053,53.0,53.0,Washington,Pierce County,1100,255,WA
+53047,53,47,Washington,Okanogan County,53053,53.0,53.0,Washington,Pierce County,10,15,WA
+53053,53,53,Washington,Pierce County,53053,53.0,53.0,Washington,Pierce County,263500,2834,WA
+53057,53,57,Washington,Skagit County,53053,53.0,53.0,Washington,Pierce County,153,83,WA
+53061,53,61,Washington,Snohomish County,53053,53.0,53.0,Washington,Pierce County,1763,346,WA
+53063,53,63,Washington,Spokane County,53053,53.0,53.0,Washington,Pierce County,65,60,WA
+53065,53,65,Washington,Stevens County,53053,53.0,53.0,Washington,Pierce County,10,25,WA
+53067,53,67,Washington,Thurston County,53053,53.0,53.0,Washington,Pierce County,21253,988,WA
+53071,53,71,Washington,Walla Walla County,53053,53.0,53.0,Washington,Pierce County,5,8,WA
+53073,53,73,Washington,Whatcom County,53053,53.0,53.0,Washington,Pierce County,90,59,WA
+53075,53,75,Washington,Whitman County,53053,53.0,53.0,Washington,Pierce County,36,36,WA
+53077,53,77,Washington,Yakima County,53053,53.0,53.0,Washington,Pierce County,34,29,WA
+53029,53,29,Washington,Island County,53055,53.0,55.0,Washington,San Juan County,17,18,WA
+53033,53,33,Washington,King County,53055,53.0,55.0,Washington,San Juan County,45,35,WA
+53037,53,37,Washington,Kittitas County,53055,53.0,55.0,Washington,San Juan County,12,20,WA
+53053,53,53,Washington,Pierce County,53055,53.0,55.0,Washington,San Juan County,34,43,WA
+53055,53,55,Washington,San Juan County,53055,53.0,55.0,Washington,San Juan County,6962,191,WA
+53057,53,57,Washington,Skagit County,53055,53.0,55.0,Washington,San Juan County,198,108,WA
+53061,53,61,Washington,Snohomish County,53055,53.0,55.0,Washington,San Juan County,22,24,WA
+53067,53,67,Washington,Thurston County,53055,53.0,55.0,Washington,San Juan County,9,14,WA
+53073,53,73,Washington,Whatcom County,53055,53.0,55.0,Washington,San Juan County,6,9,WA
+53007,53,7,Washington,Chelan County,53057,53.0,57.0,Washington,Skagit County,7,10,WA
+53011,53,11,Washington,Clark County,53057,53.0,57.0,Washington,Skagit County,44,56,WA
+53015,53,15,Washington,Cowlitz County,53057,53.0,57.0,Washington,Skagit County,15,24,WA
+53027,53,27,Washington,Grays Harbor County,53057,53.0,57.0,Washington,Skagit County,18,21,WA
+53029,53,29,Washington,Island County,53057,53.0,57.0,Washington,Skagit County,3313,346,WA
+53031,53,31,Washington,Jefferson County,53057,53.0,57.0,Washington,Skagit County,20,33,WA
+53033,53,33,Washington,King County,53057,53.0,57.0,Washington,Skagit County,351,97,WA
+53035,53,35,Washington,Kitsap County,53057,53.0,57.0,Washington,Skagit County,45,43,WA
+53045,53,45,Washington,Mason County,53057,53.0,57.0,Washington,Skagit County,18,29,WA
+53047,53,47,Washington,Okanogan County,53057,53.0,57.0,Washington,Skagit County,11,19,WA
+53053,53,53,Washington,Pierce County,53057,53.0,57.0,Washington,Skagit County,89,51,WA
+53055,53,55,Washington,San Juan County,53057,53.0,57.0,Washington,Skagit County,38,19,WA
+53057,53,57,Washington,Skagit County,53057,53.0,57.0,Washington,Skagit County,40913,971,WA
+53061,53,61,Washington,Snohomish County,53057,53.0,57.0,Washington,Skagit County,3785,448,WA
+53073,53,73,Washington,Whatcom County,53057,53.0,57.0,Washington,Skagit County,4119,554,WA
+53075,53,75,Washington,Whitman County,53057,53.0,57.0,Washington,Skagit County,15,23,WA
+53077,53,77,Washington,Yakima County,53057,53.0,57.0,Washington,Skagit County,9,15,WA
+53011,53,11,Washington,Clark County,53059,53.0,59.0,Washington,Skamania County,86,49,WA
+53039,53,39,Washington,Klickitat County,53059,53.0,59.0,Washington,Skamania County,69,50,WA
+53041,53,41,Washington,Lewis County,53059,53.0,59.0,Washington,Skamania County,9,15,WA
+53059,53,59,Washington,Skamania County,53059,53.0,59.0,Washington,Skamania County,2113,221,WA
+53061,53,61,Washington,Snohomish County,53059,53.0,59.0,Washington,Skamania County,24,39,WA
+53077,53,77,Washington,Yakima County,53059,53.0,59.0,Washington,Skamania County,26,42,WA
+53001,53,1,Washington,Adams County,53061,53.0,61.0,Washington,Snohomish County,28,35,WA
+53005,53,5,Washington,Benton County,53061,53.0,61.0,Washington,Snohomish County,4,7,WA
+53007,53,7,Washington,Chelan County,53061,53.0,61.0,Washington,Snohomish County,178,98,WA
+53009,53,9,Washington,Clallam County,53061,53.0,61.0,Washington,Snohomish County,46,63,WA
+53011,53,11,Washington,Clark County,53061,53.0,61.0,Washington,Snohomish County,88,60,WA
+53015,53,15,Washington,Cowlitz County,53061,53.0,61.0,Washington,Snohomish County,22,36,WA
+53017,53,17,Washington,Douglas County,53061,53.0,61.0,Washington,Snohomish County,20,32,WA
+53025,53,25,Washington,Grant County,53061,53.0,61.0,Washington,Snohomish County,51,60,WA
+53027,53,27,Washington,Grays Harbor County,53061,53.0,61.0,Washington,Snohomish County,28,46,WA
+53029,53,29,Washington,Island County,53061,53.0,61.0,Washington,Snohomish County,5039,368,WA
+53031,53,31,Washington,Jefferson County,53061,53.0,61.0,Washington,Snohomish County,105,79,WA
+53033,53,33,Washington,King County,53061,53.0,61.0,Washington,Snohomish County,38768,1228,WA
+53035,53,35,Washington,Kitsap County,53061,53.0,61.0,Washington,Snohomish County,972,250,WA
+53037,53,37,Washington,Kittitas County,53061,53.0,61.0,Washington,Snohomish County,130,96,WA
+53041,53,41,Washington,Lewis County,53061,53.0,61.0,Washington,Snohomish County,29,26,WA
+53045,53,45,Washington,Mason County,53061,53.0,61.0,Washington,Snohomish County,23,28,WA
+53047,53,47,Washington,Okanogan County,53061,53.0,61.0,Washington,Snohomish County,31,38,WA
+53049,53,49,Washington,Pacific County,53061,53.0,61.0,Washington,Snohomish County,29,36,WA
+53053,53,53,Washington,Pierce County,53061,53.0,61.0,Washington,Snohomish County,1705,256,WA
+53055,53,55,Washington,San Juan County,53061,53.0,61.0,Washington,Snohomish County,23,11,WA
+53057,53,57,Washington,Skagit County,53061,53.0,61.0,Washington,Snohomish County,4033,388,WA
+53061,53,61,Washington,Snohomish County,53061,53.0,61.0,Washington,Snohomish County,233454,3153,WA
+53063,53,63,Washington,Spokane County,53061,53.0,61.0,Washington,Snohomish County,208,131,WA
+53067,53,67,Washington,Thurston County,53061,53.0,61.0,Washington,Snohomish County,175,84,WA
+53071,53,71,Washington,Walla Walla County,53061,53.0,61.0,Washington,Snohomish County,20,18,WA
+53073,53,73,Washington,Whatcom County,53061,53.0,61.0,Washington,Snohomish County,1067,280,WA
+53075,53,75,Washington,Whitman County,53061,53.0,61.0,Washington,Snohomish County,34,49,WA
+53077,53,77,Washington,Yakima County,53061,53.0,61.0,Washington,Snohomish County,108,96,WA
+53001,53,1,Washington,Adams County,53063,53.0,63.0,Washington,Spokane County,38,18,WA
+53003,53,3,Washington,Asotin County,53063,53.0,63.0,Washington,Spokane County,29,25,WA
+53005,53,5,Washington,Benton County,53063,53.0,63.0,Washington,Spokane County,23,23,WA
+53007,53,7,Washington,Chelan County,53063,53.0,63.0,Washington,Spokane County,34,32,WA
+53011,53,11,Washington,Clark County,53063,53.0,63.0,Washington,Spokane County,58,43,WA
+53017,53,17,Washington,Douglas County,53063,53.0,63.0,Washington,Spokane County,4,5,WA
+53019,53,19,Washington,Ferry County,53063,53.0,63.0,Washington,Spokane County,18,16,WA
+53021,53,21,Washington,Franklin County,53063,53.0,63.0,Washington,Spokane County,18,27,WA
+53023,53,23,Washington,Garfield County,53063,53.0,63.0,Washington,Spokane County,4,6,WA
+53025,53,25,Washington,Grant County,53063,53.0,63.0,Washington,Spokane County,132,95,WA
+53029,53,29,Washington,Island County,53063,53.0,63.0,Washington,Spokane County,8,13,WA
+53033,53,33,Washington,King County,53063,53.0,63.0,Washington,Spokane County,280,108,WA
+53037,53,37,Washington,Kittitas County,53063,53.0,63.0,Washington,Spokane County,37,36,WA
+53043,53,43,Washington,Lincoln County,53063,53.0,63.0,Washington,Spokane County,766,123,WA
+53045,53,45,Washington,Mason County,53063,53.0,63.0,Washington,Spokane County,24,37,WA
+53047,53,47,Washington,Okanogan County,53063,53.0,63.0,Washington,Spokane County,30,34,WA
+53051,53,51,Washington,Pend Oreille County,53063,53.0,63.0,Washington,Spokane County,954,169,WA
+53057,53,57,Washington,Skagit County,53063,53.0,63.0,Washington,Spokane County,8,14,WA
+53061,53,61,Washington,Snohomish County,53063,53.0,63.0,Washington,Spokane County,72,58,WA
+53063,53,63,Washington,Spokane County,53063,53.0,63.0,Washington,Spokane County,198998,1864,WA
+53065,53,65,Washington,Stevens County,53063,53.0,63.0,Washington,Spokane County,4135,466,WA
+53067,53,67,Washington,Thurston County,53063,53.0,63.0,Washington,Spokane County,20,26,WA
+53071,53,71,Washington,Walla Walla County,53063,53.0,63.0,Washington,Spokane County,42,47,WA
+53073,53,73,Washington,Whatcom County,53063,53.0,63.0,Washington,Spokane County,4,6,WA
+53075,53,75,Washington,Whitman County,53063,53.0,63.0,Washington,Spokane County,450,78,WA
+53077,53,77,Washington,Yakima County,53063,53.0,63.0,Washington,Spokane County,37,30,WA
+53005,53,5,Washington,Benton County,53065,53.0,65.0,Washington,Stevens County,4,6,WA
+53019,53,19,Washington,Ferry County,53065,53.0,65.0,Washington,Stevens County,323,94,WA
+53033,53,33,Washington,King County,53065,53.0,65.0,Washington,Stevens County,46,39,WA
+53043,53,43,Washington,Lincoln County,53065,53.0,65.0,Washington,Stevens County,18,14,WA
+53051,53,51,Washington,Pend Oreille County,53065,53.0,65.0,Washington,Stevens County,100,52,WA
+53053,53,53,Washington,Pierce County,53065,53.0,65.0,Washington,Stevens County,4,6,WA
+53057,53,57,Washington,Skagit County,53065,53.0,65.0,Washington,Stevens County,7,12,WA
+53063,53,63,Washington,Spokane County,53065,53.0,65.0,Washington,Stevens County,729,167,WA
+53065,53,65,Washington,Stevens County,53065,53.0,65.0,Washington,Stevens County,10517,489,WA
+53073,53,73,Washington,Whatcom County,53065,53.0,65.0,Washington,Stevens County,12,23,WA
+53075,53,75,Washington,Whitman County,53065,53.0,65.0,Washington,Stevens County,5,5,WA
+53005,53,5,Washington,Benton County,53067,53.0,67.0,Washington,Thurston County,19,29,WA
+53009,53,9,Washington,Clallam County,53067,53.0,67.0,Washington,Thurston County,4,8,WA
+53011,53,11,Washington,Clark County,53067,53.0,67.0,Washington,Thurston County,169,69,WA
+53015,53,15,Washington,Cowlitz County,53067,53.0,67.0,Washington,Thurston County,200,101,WA
+53021,53,21,Washington,Franklin County,53067,53.0,67.0,Washington,Thurston County,2,4,WA
+53025,53,25,Washington,Grant County,53067,53.0,67.0,Washington,Thurston County,46,76,WA
+53027,53,27,Washington,Grays Harbor County,53067,53.0,67.0,Washington,Thurston County,2136,343,WA
+53029,53,29,Washington,Island County,53067,53.0,67.0,Washington,Thurston County,9,14,WA
+53031,53,31,Washington,Jefferson County,53067,53.0,67.0,Washington,Thurston County,37,42,WA
+53033,53,33,Washington,King County,53067,53.0,67.0,Washington,Thurston County,2043,296,WA
+53035,53,35,Washington,Kitsap County,53067,53.0,67.0,Washington,Thurston County,196,101,WA
+53041,53,41,Washington,Lewis County,53067,53.0,67.0,Washington,Thurston County,3635,323,WA
+53045,53,45,Washington,Mason County,53067,53.0,67.0,Washington,Thurston County,3416,446,WA
+53049,53,49,Washington,Pacific County,53067,53.0,67.0,Washington,Thurston County,53,29,WA
+53053,53,53,Washington,Pierce County,53067,53.0,67.0,Washington,Thurston County,7657,657,WA
+53055,53,55,Washington,San Juan County,53067,53.0,67.0,Washington,Thurston County,2,3,WA
+53057,53,57,Washington,Skagit County,53067,53.0,67.0,Washington,Thurston County,26,29,WA
+53059,53,59,Washington,Skamania County,53067,53.0,67.0,Washington,Thurston County,8,11,WA
+53061,53,61,Washington,Snohomish County,53067,53.0,67.0,Washington,Thurston County,147,78,WA
+53063,53,63,Washington,Spokane County,53067,53.0,67.0,Washington,Thurston County,34,32,WA
+53065,53,65,Washington,Stevens County,53067,53.0,67.0,Washington,Thurston County,5,8,WA
+53067,53,67,Washington,Thurston County,53067,53.0,67.0,Washington,Thurston County,87072,1806,WA
+53073,53,73,Washington,Whatcom County,53067,53.0,67.0,Washington,Thurston County,47,39,WA
+53077,53,77,Washington,Yakima County,53067,53.0,67.0,Washington,Thurston County,4,6,WA
+53007,53,7,Washington,Chelan County,53069,53.0,69.0,Washington,Wahkiakum County,40,58,WA
+53011,53,11,Washington,Clark County,53069,53.0,69.0,Washington,Wahkiakum County,57,57,WA
+53015,53,15,Washington,Cowlitz County,53069,53.0,69.0,Washington,Wahkiakum County,199,107,WA
+53033,53,33,Washington,King County,53069,53.0,69.0,Washington,Wahkiakum County,10,16,WA
+53041,53,41,Washington,Lewis County,53069,53.0,69.0,Washington,Wahkiakum County,27,25,WA
+53049,53,49,Washington,Pacific County,53069,53.0,69.0,Washington,Wahkiakum County,17,20,WA
+53069,53,69,Washington,Wahkiakum County,53069,53.0,69.0,Washington,Wahkiakum County,644,155,WA
+53073,53,73,Washington,Whatcom County,53069,53.0,69.0,Washington,Wahkiakum County,5,7,WA
+53005,53,5,Washington,Benton County,53071,53.0,71.0,Washington,Walla Walla County,1405,318,WA
+53007,53,7,Washington,Chelan County,53071,53.0,71.0,Washington,Walla Walla County,10,16,WA
+53011,53,11,Washington,Clark County,53071,53.0,71.0,Washington,Walla Walla County,20,25,WA
+53013,53,13,Washington,Columbia County,53071,53.0,71.0,Washington,Walla Walla County,284,72,WA
+53015,53,15,Washington,Cowlitz County,53071,53.0,71.0,Washington,Walla Walla County,25,39,WA
+53021,53,21,Washington,Franklin County,53071,53.0,71.0,Washington,Walla Walla County,2145,499,WA
+53033,53,33,Washington,King County,53071,53.0,71.0,Washington,Walla Walla County,27,34,WA
+53039,53,39,Washington,Klickitat County,53071,53.0,71.0,Washington,Walla Walla County,4,6,WA
+53057,53,57,Washington,Skagit County,53071,53.0,71.0,Washington,Walla Walla County,18,24,WA
+53061,53,61,Washington,Snohomish County,53071,53.0,71.0,Washington,Walla Walla County,17,24,WA
+53063,53,63,Washington,Spokane County,53071,53.0,71.0,Washington,Walla Walla County,43,37,WA
+53071,53,71,Washington,Walla Walla County,53071,53.0,71.0,Washington,Walla Walla County,22801,783,WA
+53073,53,73,Washington,Whatcom County,53071,53.0,71.0,Washington,Walla Walla County,12,19,WA
+53075,53,75,Washington,Whitman County,53071,53.0,71.0,Washington,Walla Walla County,4,5,WA
+53077,53,77,Washington,Yakima County,53071,53.0,71.0,Washington,Walla Walla County,13,15,WA
+53005,53,5,Washington,Benton County,53073,53.0,73.0,Washington,Whatcom County,31,47,WA
+53007,53,7,Washington,Chelan County,53073,53.0,73.0,Washington,Whatcom County,82,92,WA
+53009,53,9,Washington,Clallam County,53073,53.0,73.0,Washington,Whatcom County,51,68,WA
+53011,53,11,Washington,Clark County,53073,53.0,73.0,Washington,Whatcom County,32,25,WA
+53017,53,17,Washington,Douglas County,53073,53.0,73.0,Washington,Whatcom County,4,6,WA
+53029,53,29,Washington,Island County,53073,53.0,73.0,Washington,Whatcom County,205,95,WA
+53033,53,33,Washington,King County,53073,53.0,73.0,Washington,Whatcom County,450,166,WA
+53035,53,35,Washington,Kitsap County,53073,53.0,73.0,Washington,Whatcom County,104,70,WA
+53041,53,41,Washington,Lewis County,53073,53.0,73.0,Washington,Whatcom County,8,12,WA
+53045,53,45,Washington,Mason County,53073,53.0,73.0,Washington,Whatcom County,39,54,WA
+53053,53,53,Washington,Pierce County,53073,53.0,73.0,Washington,Whatcom County,76,53,WA
+53055,53,55,Washington,San Juan County,53073,53.0,73.0,Washington,Whatcom County,31,18,WA
+53057,53,57,Washington,Skagit County,53073,53.0,73.0,Washington,Whatcom County,2705,328,WA
+53061,53,61,Washington,Snohomish County,53073,53.0,73.0,Washington,Whatcom County,617,147,WA
+53063,53,63,Washington,Spokane County,53073,53.0,73.0,Washington,Whatcom County,72,58,WA
+53067,53,67,Washington,Thurston County,53073,53.0,73.0,Washington,Whatcom County,45,54,WA
+53073,53,73,Washington,Whatcom County,53073,53.0,73.0,Washington,Whatcom County,88867,1512,WA
+53077,53,77,Washington,Yakima County,53073,53.0,73.0,Washington,Whatcom County,13,20,WA
+53001,53,1,Washington,Adams County,53075,53.0,75.0,Washington,Whitman County,60,39,WA
+53003,53,3,Washington,Asotin County,53075,53.0,75.0,Washington,Whitman County,229,88,WA
+53005,53,5,Washington,Benton County,53075,53.0,75.0,Washington,Whitman County,8,13,WA
+53011,53,11,Washington,Clark County,53075,53.0,75.0,Washington,Whitman County,23,26,WA
+53013,53,13,Washington,Columbia County,53075,53.0,75.0,Washington,Whitman County,21,23,WA
+53017,53,17,Washington,Douglas County,53075,53.0,75.0,Washington,Whitman County,10,16,WA
+53023,53,23,Washington,Garfield County,53075,53.0,75.0,Washington,Whitman County,26,36,WA
+53027,53,27,Washington,Grays Harbor County,53075,53.0,75.0,Washington,Whitman County,17,19,WA
+53033,53,33,Washington,King County,53075,53.0,75.0,Washington,Whitman County,70,56,WA
+53037,53,37,Washington,Kittitas County,53075,53.0,75.0,Washington,Whitman County,3,6,WA
+53043,53,43,Washington,Lincoln County,53075,53.0,75.0,Washington,Whitman County,5,6,WA
+53047,53,47,Washington,Okanogan County,53075,53.0,75.0,Washington,Whitman County,8,11,WA
+53053,53,53,Washington,Pierce County,53075,53.0,75.0,Washington,Whitman County,16,17,WA
+53061,53,61,Washington,Snohomish County,53075,53.0,75.0,Washington,Whitman County,7,12,WA
+53063,53,63,Washington,Spokane County,53075,53.0,75.0,Washington,Whitman County,485,142,WA
+53065,53,65,Washington,Stevens County,53075,53.0,75.0,Washington,Whitman County,5,8,WA
+53075,53,75,Washington,Whitman County,53075,53.0,75.0,Washington,Whitman County,18639,749,WA
+53005,53,5,Washington,Benton County,53077,53.0,77.0,Washington,Yakima County,2265,447,WA
+53009,53,9,Washington,Clallam County,53077,53.0,77.0,Washington,Yakima County,52,73,WA
+53011,53,11,Washington,Clark County,53077,53.0,77.0,Washington,Yakima County,51,38,WA
+53015,53,15,Washington,Cowlitz County,53077,53.0,77.0,Washington,Yakima County,31,48,WA
+53017,53,17,Washington,Douglas County,53077,53.0,77.0,Washington,Yakima County,28,31,WA
+53021,53,21,Washington,Franklin County,53077,53.0,77.0,Washington,Yakima County,285,141,WA
+53025,53,25,Washington,Grant County,53077,53.0,77.0,Washington,Yakima County,97,80,WA
+53033,53,33,Washington,King County,53077,53.0,77.0,Washington,Yakima County,134,72,WA
+53035,53,35,Washington,Kitsap County,53077,53.0,77.0,Washington,Yakima County,9,14,WA
+53037,53,37,Washington,Kittitas County,53077,53.0,77.0,Washington,Yakima County,1040,251,WA
+53039,53,39,Washington,Klickitat County,53077,53.0,77.0,Washington,Yakima County,127,69,WA
+53041,53,41,Washington,Lewis County,53077,53.0,77.0,Washington,Yakima County,56,53,WA
+53045,53,45,Washington,Mason County,53077,53.0,77.0,Washington,Yakima County,8,12,WA
+53053,53,53,Washington,Pierce County,53077,53.0,77.0,Washington,Yakima County,30,36,WA
+53055,53,55,Washington,San Juan County,53077,53.0,77.0,Washington,Yakima County,2,4,WA
+53059,53,59,Washington,Skamania County,53077,53.0,77.0,Washington,Yakima County,39,54,WA
+53061,53,61,Washington,Snohomish County,53077,53.0,77.0,Washington,Yakima County,53,46,WA
+53063,53,63,Washington,Spokane County,53077,53.0,77.0,Washington,Yakima County,138,72,WA
+53067,53,67,Washington,Thurston County,53077,53.0,77.0,Washington,Yakima County,32,39,WA
+53071,53,71,Washington,Walla Walla County,53077,53.0,77.0,Washington,Yakima County,48,37,WA
+53073,53,73,Washington,Whatcom County,53077,53.0,77.0,Washington,Yakima County,15,23,WA
+53075,53,75,Washington,Whitman County,53077,53.0,77.0,Washington,Yakima County,1,2,WA
+53077,53,77,Washington,Yakima County,53077,53.0,77.0,Washington,Yakima County,93481,1614,WA
+53053,53,53,Washington,Pierce County,54027,54.0,27.0,West Virginia,Hampshire County,52,59,WA
+53011,53,11,Washington,Clark County,54033,54.0,33.0,West Virginia,Harrison County,11,17,WA
+53033,53,33,Washington,King County,54039,54.0,39.0,West Virginia,Kanawha County,9,15,WA
+53053,53,53,Washington,Pierce County,54039,54.0,39.0,West Virginia,Kanawha County,16,24,WA
+53027,53,27,Washington,Grays Harbor County,55009,55.0,9.0,Wisconsin,Brown County,7,11,WA
+53053,53,53,Washington,Pierce County,55009,55.0,9.0,Wisconsin,Brown County,12,20,WA
+53063,53,63,Washington,Spokane County,55009,55.0,9.0,Wisconsin,Brown County,19,31,WA
+53033,53,33,Washington,King County,55025,55.0,25.0,Wisconsin,Dane County,34,46,WA
+53063,53,63,Washington,Spokane County,55027,55.0,27.0,Wisconsin,Dodge County,7,11,WA
+53057,53,57,Washington,Skagit County,55049,55.0,49.0,Wisconsin,Iowa County,3,4,WA
+53003,53,3,Washington,Asotin County,55079,55.0,79.0,Wisconsin,Milwaukee County,9,14,WA
+53011,53,11,Washington,Clark County,55079,55.0,79.0,Wisconsin,Milwaukee County,10,15,WA
+53033,53,33,Washington,King County,55079,55.0,79.0,Wisconsin,Milwaukee County,34,53,WA
+53053,53,53,Washington,Pierce County,55079,55.0,79.0,Wisconsin,Milwaukee County,5,7,WA
+53011,53,11,Washington,Clark County,55097,55.0,97.0,Wisconsin,Portage County,59,68,WA
+53029,53,29,Washington,Island County,55117,55.0,117.0,Wisconsin,Sheboygan County,18,28,WA
+53009,53,9,Washington,Clallam County,55127,55.0,127.0,Wisconsin,Walworth County,9,15,WA
+53053,53,53,Washington,Pierce County,55131,55.0,131.0,Wisconsin,Washington County,4,6,WA
+53053,53,53,Washington,Pierce County,55133,55.0,133.0,Wisconsin,Waukesha County,17,26,WA
+53063,53,63,Washington,Spokane County,55133,55.0,133.0,Wisconsin,Waukesha County,8,12,WA
+53071,53,71,Washington,Walla Walla County,56001,56.0,1.0,Wyoming,Albany County,12,20,WA
+53011,53,11,Washington,Clark County,56005,56.0,5.0,Wyoming,Campbell County,13,19,WA
+53063,53,63,Washington,Spokane County,56005,56.0,5.0,Wyoming,Campbell County,10,15,WA
+53033,53,33,Washington,King County,56013,56.0,13.0,Wyoming,Fremont County,6,10,WA
+53015,53,15,Washington,Cowlitz County,56021,56.0,21.0,Wyoming,Laramie County,33,53,WA
+53063,53,63,Washington,Spokane County,56021,56.0,21.0,Wyoming,Laramie County,2,7,WA
+53063,53,63,Washington,Spokane County,56025,56.0,25.0,Wyoming,Natrona County,15,27,WA
+53077,53,77,Washington,Yakima County,56025,56.0,25.0,Wyoming,Natrona County,13,21,WA
+53053,53,53,Washington,Pierce County,56029,56.0,29.0,Wyoming,Park County,3,4,WA
+53027,53,27,Washington,Grays Harbor County,56039,56.0,39.0,Wyoming,Teton County,16,25,WA
+53011,53,11,Washington,Clark County,72127,72.0,127.0,Puerto Rico,San Juan Municipio,26,43,WA
+53009,53,9,Washington,Clallam County,301000,301.0,,Canada,,15,16,WA
+53011,53,11,Washington,Clark County,301000,301.0,,Canada,,38,50,WA
+53021,53,21,Washington,Franklin County,301000,301.0,,Canada,,44,69,WA
+53025,53,25,Washington,Grant County,301000,301.0,,Canada,,20,23,WA
+53029,53,29,Washington,Island County,301000,301.0,,Canada,,18,22,WA
+53031,53,31,Washington,Jefferson County,301000,301.0,,Canada,,4,6,WA
+53033,53,33,Washington,King County,301000,301.0,,Canada,,215,98,WA
+53035,53,35,Washington,Kitsap County,301000,301.0,,Canada,,7,12,WA
+53055,53,55,Washington,San Juan County,301000,301.0,,Canada,,2,4,WA
+53057,53,57,Washington,Skagit County,301000,301.0,,Canada,,13,11,WA
+53061,53,61,Washington,Snohomish County,301000,301.0,,Canada,,32,25,WA
+53063,53,63,Washington,Spokane County,301000,301.0,,Canada,,57,51,WA
+53065,53,65,Washington,Stevens County,301000,301.0,,Canada,,23,27,WA
+53071,53,71,Washington,Walla Walla County,301000,301.0,,Canada,,9,16,WA
+53073,53,73,Washington,Whatcom County,301000,301.0,,Canada,,857,228,WA
+53075,53,75,Washington,Whitman County,301000,301.0,,Canada,,2,3,WA
+53011,53,11,Washington,Clark County,303000,303.0,,Mexico,,49,60,WA
+53029,53,29,Washington,Island County,303000,303.0,,Mexico,,10,15,WA
+53031,53,31,Washington,Jefferson County,303000,303.0,,Mexico,,20,22,WA
+53033,53,33,Washington,King County,303000,303.0,,Mexico,,34,32,WA
+53043,53,43,Washington,Lincoln County,303000,303.0,,Mexico,,13,19,WA
+53053,53,53,Washington,Pierce County,303000,303.0,,Mexico,,5,7,WA
+53061,53,61,Washington,Snohomish County,303000,303.0,,Mexico,,20,21,WA
+53073,53,73,Washington,Whatcom County,303000,303.0,,Mexico,,3,4,WA
+53001,53,1,Washington,Adams County,-1,,,Other workplace outside of the U.S.,,1,2,WA
+53005,53,5,Washington,Benton County,-1,,,Other workplace outside of the U.S.,,17,24,WA
+53009,53,9,Washington,Clallam County,-1,,,Other workplace outside of the U.S.,,39,37,WA
+53011,53,11,Washington,Clark County,-1,,,Other workplace outside of the U.S.,,72,35,WA
+53019,53,19,Washington,Ferry County,-1,,,Other workplace outside of the U.S.,,17,20,WA
+53021,53,21,Washington,Franklin County,-1,,,Other workplace outside of the U.S.,,8,12,WA
+53029,53,29,Washington,Island County,-1,,,Other workplace outside of the U.S.,,154,76,WA
+53031,53,31,Washington,Jefferson County,-1,,,Other workplace outside of the U.S.,,78,83,WA
+53033,53,33,Washington,King County,-1,,,Other workplace outside of the U.S.,,643,174,WA
+53035,53,35,Washington,Kitsap County,-1,,,Other workplace outside of the U.S.,,145,64,WA
+53041,53,41,Washington,Lewis County,-1,,,Other workplace outside of the U.S.,,7,11,WA
+53047,53,47,Washington,Okanogan County,-1,,,Other workplace outside of the U.S.,,9,15,WA
+53053,53,53,Washington,Pierce County,-1,,,Other workplace outside of the U.S.,,365,139,WA
+53055,53,55,Washington,San Juan County,-1,,,Other workplace outside of the U.S.,,14,10,WA
+53057,53,57,Washington,Skagit County,-1,,,Other workplace outside of the U.S.,,5,5,WA
+53061,53,61,Washington,Snohomish County,-1,,,Other workplace outside of the U.S.,,313,108,WA
+53063,53,63,Washington,Spokane County,-1,,,Other workplace outside of the U.S.,,96,75,WA
+53065,53,65,Washington,Stevens County,-1,,,Other workplace outside of the U.S.,,50,49,WA
+53067,53,67,Washington,Thurston County,-1,,,Other workplace outside of the U.S.,,209,107,WA
+53073,53,73,Washington,Whatcom County,-1,,,Other workplace outside of the U.S.,,37,38,WA
+53077,53,77,Washington,Yakima County,-1,,,Other workplace outside of the U.S.,,16,24,WA

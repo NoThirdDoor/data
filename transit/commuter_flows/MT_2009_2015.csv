@@ -1,0 +1,1174 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+30001,30,1,Montana,Beaverhead County,2020,2.0,20.0,Alaska,Anchorage Municipality,3,5,MT
+30013,30,13,Montana,Cascade County,2020,2.0,20.0,Alaska,Anchorage Municipality,5,5,MT
+30029,30,29,Montana,Flathead County,2020,2.0,20.0,Alaska,Anchorage Municipality,49,60,MT
+30031,30,31,Montana,Gallatin County,2020,2.0,20.0,Alaska,Anchorage Municipality,3,4,MT
+30047,30,47,Montana,Lake County,2020,2.0,20.0,Alaska,Anchorage Municipality,6,8,MT
+30093,30,93,Montana,Silver Bow County,2020,2.0,20.0,Alaska,Anchorage Municipality,12,18,MT
+30111,30,111,Montana,Yellowstone County,2020,2.0,20.0,Alaska,Anchorage Municipality,14,20,MT
+30001,30,1,Montana,Beaverhead County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,5,7,MT
+30029,30,29,Montana,Flathead County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,11,18,MT
+30049,30,49,Montana,Lewis and Clark County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,9,14,MT
+30089,30,89,Montana,Sanders County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,3,6,MT
+30095,30,95,Montana,Stillwater County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,6,9,MT
+30009,30,9,Montana,Carbon County,2110,2.0,110.0,Alaska,Juneau City and Borough,8,12,MT
+30097,30,97,Montana,Sweet Grass County,2110,2.0,110.0,Alaska,Juneau City and Borough,4,5,MT
+30007,30,7,Montana,Broadwater County,2185,2.0,185.0,Alaska,North Slope Borough,6,9,MT
+30029,30,29,Montana,Flathead County,2185,2.0,185.0,Alaska,North Slope Borough,18,15,MT
+30053,30,53,Montana,Lincoln County,2185,2.0,185.0,Alaska,North Slope Borough,5,8,MT
+30063,30,63,Montana,Missoula County,2185,2.0,185.0,Alaska,North Slope Borough,17,24,MT
+30073,30,73,Montana,Pondera County,2185,2.0,185.0,Alaska,North Slope Borough,1,2,MT
+30081,30,81,Montana,Ravalli County,2185,2.0,185.0,Alaska,North Slope Borough,8,12,MT
+30111,30,111,Montana,Yellowstone County,2185,2.0,185.0,Alaska,North Slope Borough,23,27,MT
+30097,30,97,Montana,Sweet Grass County,2188,2.0,188.0,Alaska,Northwest Arctic Borough,13,18,MT
+30081,30,81,Montana,Ravalli County,2230,2.0,230.0,Alaska,Skagway Municipality,2,4,MT
+30009,30,9,Montana,Carbon County,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,2,5,MT
+30095,30,95,Montana,Stillwater County,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,18,20,MT
+30097,30,97,Montana,Sweet Grass County,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,2,3,MT
+30111,30,111,Montana,Yellowstone County,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,48,41,MT
+30011,30,11,Montana,Carter County,4013,4.0,13.0,Arizona,Maricopa County,2,3,MT
+30013,30,13,Montana,Cascade County,4013,4.0,13.0,Arizona,Maricopa County,25,38,MT
+30027,30,27,Montana,Fergus County,4013,4.0,13.0,Arizona,Maricopa County,25,35,MT
+30029,30,29,Montana,Flathead County,4013,4.0,13.0,Arizona,Maricopa County,39,47,MT
+30043,30,43,Montana,Jefferson County,4013,4.0,13.0,Arizona,Maricopa County,4,6,MT
+30081,30,81,Montana,Ravalli County,4013,4.0,13.0,Arizona,Maricopa County,3,4,MT
+30047,30,47,Montana,Lake County,4017,4.0,17.0,Arizona,Navajo County,6,9,MT
+30013,30,13,Montana,Cascade County,4019,4.0,19.0,Arizona,Pima County,9,15,MT
+30029,30,29,Montana,Flathead County,4019,4.0,19.0,Arizona,Pima County,23,33,MT
+30111,30,111,Montana,Yellowstone County,4019,4.0,19.0,Arizona,Pima County,19,27,MT
+30081,30,81,Montana,Ravalli County,4027,4.0,27.0,Arizona,Yuma County,17,26,MT
+30031,30,31,Montana,Gallatin County,6001,6.0,1.0,California,Alameda County,4,5,MT
+30063,30,63,Montana,Missoula County,6001,6.0,1.0,California,Alameda County,3,6,MT
+30095,30,95,Montana,Stillwater County,6001,6.0,1.0,California,Alameda County,16,22,MT
+30031,30,31,Montana,Gallatin County,6013,6.0,13.0,California,Contra Costa County,5,8,MT
+30111,30,111,Montana,Yellowstone County,6013,6.0,13.0,California,Contra Costa County,15,24,MT
+30059,30,59,Montana,Meagher County,6019,6.0,19.0,California,Fresno County,3,6,MT
+30053,30,53,Montana,Lincoln County,6023,6.0,23.0,California,Humboldt County,9,15,MT
+30013,30,13,Montana,Cascade County,6025,6.0,25.0,California,Imperial County,20,31,MT
+30013,30,13,Montana,Cascade County,6037,6.0,37.0,California,Los Angeles County,9,13,MT
+30029,30,29,Montana,Flathead County,6037,6.0,37.0,California,Los Angeles County,25,21,MT
+30059,30,59,Montana,Meagher County,6037,6.0,37.0,California,Los Angeles County,6,8,MT
+30081,30,81,Montana,Ravalli County,6037,6.0,37.0,California,Los Angeles County,13,21,MT
+30111,30,111,Montana,Yellowstone County,6037,6.0,37.0,California,Los Angeles County,23,36,MT
+30063,30,63,Montana,Missoula County,6045,6.0,45.0,California,Mendocino County,11,18,MT
+30013,30,13,Montana,Cascade County,6059,6.0,59.0,California,Orange County,12,20,MT
+30029,30,29,Montana,Flathead County,6059,6.0,59.0,California,Orange County,2,3,MT
+30081,30,81,Montana,Ravalli County,6059,6.0,59.0,California,Orange County,23,20,MT
+30035,30,35,Montana,Glacier County,6065,6.0,65.0,California,Riverside County,3,6,MT
+30057,30,57,Montana,Madison County,6067,6.0,67.0,California,Sacramento County,13,19,MT
+30031,30,31,Montana,Gallatin County,6071,6.0,71.0,California,San Bernardino County,34,38,MT
+30111,30,111,Montana,Yellowstone County,6071,6.0,71.0,California,San Bernardino County,6,9,MT
+30009,30,9,Montana,Carbon County,6073,6.0,73.0,California,San Diego County,13,18,MT
+30047,30,47,Montana,Lake County,6073,6.0,73.0,California,San Diego County,4,6,MT
+30061,30,61,Montana,Mineral County,6073,6.0,73.0,California,San Diego County,14,18,MT
+30031,30,31,Montana,Gallatin County,6075,6.0,75.0,California,San Francisco County,25,38,MT
+30067,30,67,Montana,Park County,6075,6.0,75.0,California,San Francisco County,2,3,MT
+30027,30,27,Montana,Fergus County,6077,6.0,77.0,California,San Joaquin County,8,13,MT
+30049,30,49,Montana,Lewis and Clark County,6077,6.0,77.0,California,San Joaquin County,23,37,MT
+30031,30,31,Montana,Gallatin County,6081,6.0,81.0,California,San Mateo County,2,3,MT
+30031,30,31,Montana,Gallatin County,6085,6.0,85.0,California,Santa Clara County,3,5,MT
+30029,30,29,Montana,Flathead County,6095,6.0,95.0,California,Solano County,5,9,MT
+30031,30,31,Montana,Gallatin County,6095,6.0,95.0,California,Solano County,29,44,MT
+30063,30,63,Montana,Missoula County,6097,6.0,97.0,California,Sonoma County,5,7,MT
+30047,30,47,Montana,Lake County,6099,6.0,99.0,California,Stanislaus County,7,10,MT
+30001,30,1,Montana,Beaverhead County,6101,6.0,101.0,California,Sutter County,7,11,MT
+30037,30,37,Montana,Golden Valley County,6111,6.0,111.0,California,Ventura County,2,2,MT
+30063,30,63,Montana,Missoula County,6111,6.0,111.0,California,Ventura County,33,51,MT
+30063,30,63,Montana,Missoula County,6113,6.0,113.0,California,Yolo County,3,4,MT
+30029,30,29,Montana,Flathead County,8001,8.0,1.0,Colorado,Adams County,6,10,MT
+30029,30,29,Montana,Flathead County,8005,8.0,5.0,Colorado,Arapahoe County,14,22,MT
+30111,30,111,Montana,Yellowstone County,8005,8.0,5.0,Colorado,Arapahoe County,4,7,MT
+30111,30,111,Montana,Yellowstone County,8019,8.0,19.0,Colorado,Clear Creek County,6,11,MT
+30027,30,27,Montana,Fergus County,8031,8.0,31.0,Colorado,Denver County,2,3,MT
+30111,30,111,Montana,Yellowstone County,8031,8.0,31.0,Colorado,Denver County,42,48,MT
+30013,30,13,Montana,Cascade County,8037,8.0,37.0,Colorado,Eagle County,26,41,MT
+30049,30,49,Montana,Lewis and Clark County,8037,8.0,37.0,Colorado,Eagle County,3,5,MT
+30111,30,111,Montana,Yellowstone County,8041,8.0,41.0,Colorado,El Paso County,28,46,MT
+30075,30,75,Montana,Powder River County,8045,8.0,45.0,Colorado,Garfield County,5,7,MT
+30031,30,31,Montana,Gallatin County,8059,8.0,59.0,Colorado,Jefferson County,9,15,MT
+30035,30,35,Montana,Glacier County,8059,8.0,59.0,Colorado,Jefferson County,15,22,MT
+30063,30,63,Montana,Missoula County,8059,8.0,59.0,Colorado,Jefferson County,20,31,MT
+30031,30,31,Montana,Gallatin County,8069,8.0,69.0,Colorado,Larimer County,4,6,MT
+30049,30,49,Montana,Lewis and Clark County,8069,8.0,69.0,Colorado,Larimer County,5,9,MT
+30067,30,67,Montana,Park County,8069,8.0,69.0,Colorado,Larimer County,2,3,MT
+30031,30,31,Montana,Gallatin County,8075,8.0,75.0,Colorado,Logan County,47,59,MT
+30047,30,47,Montana,Lake County,8077,8.0,77.0,Colorado,Mesa County,5,7,MT
+30057,30,57,Montana,Madison County,8081,8.0,81.0,Colorado,Moffat County,2,3,MT
+30081,30,81,Montana,Ravalli County,8083,8.0,83.0,Colorado,Montezuma County,8,14,MT
+30047,30,47,Montana,Lake County,8123,8.0,123.0,Colorado,Weld County,9,13,MT
+30049,30,49,Montana,Lewis and Clark County,8123,8.0,123.0,Colorado,Weld County,20,34,MT
+30083,30,83,Montana,Richland County,8123,8.0,123.0,Colorado,Weld County,22,35,MT
+30031,30,31,Montana,Gallatin County,9003,9.0,3.0,Connecticut,Hartford County,5,7,MT
+30031,30,31,Montana,Gallatin County,11001,11.0,1.0,District of Columbia,District of Columbia,2,3,MT
+30047,30,47,Montana,Lake County,12021,12.0,21.0,Florida,Collier County,3,5,MT
+30007,30,7,Montana,Broadwater County,12057,12.0,57.0,Florida,Hillsborough County,17,30,MT
+30019,30,19,Montana,Daniels County,12069,12.0,69.0,Florida,Lake County,1,3,MT
+30013,30,13,Montana,Cascade County,12095,12.0,95.0,Florida,Orange County,14,24,MT
+30031,30,31,Montana,Gallatin County,12095,12.0,95.0,Florida,Orange County,1,3,MT
+30049,30,49,Montana,Lewis and Clark County,12095,12.0,95.0,Florida,Orange County,16,25,MT
+30023,30,23,Montana,Deer Lodge County,13039,13.0,39.0,Georgia,Camden County,5,9,MT
+30081,30,81,Montana,Ravalli County,13053,13.0,53.0,Georgia,Chattahoochee County,31,45,MT
+30063,30,63,Montana,Missoula County,13121,13.0,121.0,Georgia,Fulton County,3,5,MT
+30031,30,31,Montana,Gallatin County,16001,16.0,1.0,Idaho,Ada County,12,15,MT
+30043,30,43,Montana,Jefferson County,16001,16.0,1.0,Idaho,Ada County,37,56,MT
+30095,30,95,Montana,Stillwater County,16001,16.0,1.0,Idaho,Ada County,2,3,MT
+30031,30,31,Montana,Gallatin County,16013,16.0,13.0,Idaho,Blaine County,14,22,MT
+30013,30,13,Montana,Cascade County,16017,16.0,17.0,Idaho,Bonner County,11,17,MT
+30089,30,89,Montana,Sanders County,16017,16.0,17.0,Idaho,Bonner County,152,75,MT
+30053,30,53,Montana,Lincoln County,16019,16.0,19.0,Idaho,Bonneville County,36,57,MT
+30093,30,93,Montana,Silver Bow County,16019,16.0,19.0,Idaho,Bonneville County,6,9,MT
+30053,30,53,Montana,Lincoln County,16021,16.0,21.0,Idaho,Boundary County,111,68,MT
+30001,30,1,Montana,Beaverhead County,16033,16.0,33.0,Idaho,Clark County,13,14,MT
+30049,30,49,Montana,Lewis and Clark County,16033,16.0,33.0,Idaho,Clark County,10,16,MT
+30057,30,57,Montana,Madison County,16043,16.0,43.0,Idaho,Fremont County,3,5,MT
+30087,30,87,Montana,Rosebud County,16043,16.0,43.0,Idaho,Fremont County,6,7,MT
+30047,30,47,Montana,Lake County,16049,16.0,49.0,Idaho,Idaho County,3,7,MT
+30063,30,63,Montana,Missoula County,16049,16.0,49.0,Idaho,Idaho County,17,25,MT
+30031,30,31,Montana,Gallatin County,16053,16.0,53.0,Idaho,Jerome County,2,5,MT
+30015,30,15,Montana,Chouteau County,16055,16.0,55.0,Idaho,Kootenai County,7,7,MT
+30031,30,31,Montana,Gallatin County,16055,16.0,55.0,Idaho,Kootenai County,14,25,MT
+30039,30,39,Montana,Granite County,16055,16.0,55.0,Idaho,Kootenai County,5,7,MT
+30057,30,57,Montana,Madison County,16055,16.0,55.0,Idaho,Kootenai County,4,5,MT
+30089,30,89,Montana,Sanders County,16055,16.0,55.0,Idaho,Kootenai County,5,7,MT
+30063,30,63,Montana,Missoula County,16059,16.0,59.0,Idaho,Lemhi County,16,21,MT
+30063,30,63,Montana,Missoula County,16065,16.0,65.0,Idaho,Madison County,6,10,MT
+30111,30,111,Montana,Yellowstone County,16065,16.0,65.0,Idaho,Madison County,13,20,MT
+30043,30,43,Montana,Jefferson County,16079,16.0,79.0,Idaho,Shoshone County,4,6,MT
+30053,30,53,Montana,Lincoln County,16079,16.0,79.0,Idaho,Shoshone County,3,7,MT
+30057,30,57,Montana,Madison County,16079,16.0,79.0,Idaho,Shoshone County,2,3,MT
+30089,30,89,Montana,Sanders County,16079,16.0,79.0,Idaho,Shoshone County,9,10,MT
+30061,30,61,Montana,Mineral County,16085,16.0,85.0,Idaho,Valley County,8,9,MT
+30001,30,1,Montana,Beaverhead County,17031,17.0,31.0,Illinois,Cook County,1,3,MT
+30029,30,29,Montana,Flathead County,17031,17.0,31.0,Illinois,Cook County,6,11,MT
+30031,30,31,Montana,Gallatin County,17031,17.0,31.0,Illinois,Cook County,54,84,MT
+30029,30,29,Montana,Flathead County,17097,17.0,97.0,Illinois,Lake County,3,4,MT
+30101,30,101,Montana,Toole County,17111,17.0,111.0,Illinois,McHenry County,3,5,MT
+30047,30,47,Montana,Lake County,18021,18.0,21.0,Indiana,Clay County,2,3,MT
+30031,30,31,Montana,Gallatin County,18097,18.0,97.0,Indiana,Marion County,6,9,MT
+30047,30,47,Montana,Lake County,18097,18.0,97.0,Indiana,Marion County,12,18,MT
+30013,30,13,Montana,Cascade County,18105,18.0,105.0,Indiana,Monroe County,21,36,MT
+30047,30,47,Montana,Lake County,18167,18.0,167.0,Indiana,Vigo County,2,3,MT
+30047,30,47,Montana,Lake County,19153,19.0,153.0,Iowa,Polk County,1,3,MT
+30031,30,31,Montana,Gallatin County,19167,19.0,167.0,Iowa,Sioux County,6,8,MT
+30029,30,29,Montana,Flathead County,20005,20.0,5.0,Kansas,Atchison County,15,24,MT
+30031,30,31,Montana,Gallatin County,20035,20.0,35.0,Kansas,Cowley County,2,4,MT
+30043,30,43,Montana,Jefferson County,20059,20.0,59.0,Kansas,Franklin County,2,3,MT
+30089,30,89,Montana,Sanders County,20119,20.0,119.0,Kansas,Meade County,9,11,MT
+30027,30,27,Montana,Fergus County,20125,20.0,125.0,Kansas,Montgomery County,2,3,MT
+30111,30,111,Montana,Yellowstone County,20187,20.0,187.0,Kansas,Stanton County,5,7,MT
+30081,30,81,Montana,Ravalli County,21091,21.0,91.0,Kentucky,Hancock County,5,8,MT
+30029,30,29,Montana,Flathead County,22019,22.0,19.0,Louisiana,Calcasieu Parish,3,6,MT
+30009,30,9,Montana,Carbon County,22071,22.0,71.0,Louisiana,Orleans Parish,14,21,MT
+30049,30,49,Montana,Lewis and Clark County,22071,22.0,71.0,Louisiana,Orleans Parish,4,7,MT
+30003,30,3,Montana,Big Horn County,23005,23.0,5.0,Maine,Cumberland County,4,6,MT
+30031,30,31,Montana,Gallatin County,23007,23.0,7.0,Maine,Franklin County,6,11,MT
+30111,30,111,Montana,Yellowstone County,24003,24.0,3.0,Maryland,Anne Arundel County,5,8,MT
+30009,30,9,Montana,Carbon County,25001,25.0,1.0,Massachusetts,Barnstable County,5,8,MT
+30111,30,111,Montana,Yellowstone County,25009,25.0,9.0,Massachusetts,Essex County,5,10,MT
+30013,30,13,Montana,Cascade County,25013,25.0,13.0,Massachusetts,Hampden County,5,10,MT
+30029,30,29,Montana,Flathead County,25017,25.0,17.0,Massachusetts,Middlesex County,31,50,MT
+30067,30,67,Montana,Park County,25025,25.0,25.0,Massachusetts,Suffolk County,2,4,MT
+30077,30,77,Montana,Powell County,26103,26.0,103.0,Michigan,Marquette County,1,2,MT
+30027,30,27,Montana,Fergus County,26121,26.0,121.0,Michigan,Muskegon County,4,6,MT
+30063,30,63,Montana,Missoula County,26163,26.0,163.0,Michigan,Wayne County,9,17,MT
+30111,30,111,Montana,Yellowstone County,26163,26.0,163.0,Michigan,Wayne County,16,25,MT
+30111,30,111,Montana,Yellowstone County,27003,27.0,3.0,Minnesota,Anoka County,9,15,MT
+30053,30,53,Montana,Lincoln County,27019,27.0,19.0,Minnesota,Carver County,16,25,MT
+30039,30,39,Montana,Granite County,27037,27.0,37.0,Minnesota,Dakota County,7,7,MT
+30043,30,43,Montana,Jefferson County,27037,27.0,37.0,Minnesota,Dakota County,3,4,MT
+30063,30,63,Montana,Missoula County,27053,27.0,53.0,Minnesota,Hennepin County,11,15,MT
+30067,30,67,Montana,Park County,27053,27.0,53.0,Minnesota,Hennepin County,17,21,MT
+30073,30,73,Montana,Pondera County,27053,27.0,53.0,Minnesota,Hennepin County,4,8,MT
+30093,30,93,Montana,Silver Bow County,27053,27.0,53.0,Minnesota,Hennepin County,29,44,MT
+30031,30,31,Montana,Gallatin County,27123,27.0,123.0,Minnesota,Ramsey County,5,8,MT
+30031,30,31,Montana,Gallatin County,27139,27.0,139.0,Minnesota,Scott County,9,14,MT
+30029,30,29,Montana,Flathead County,27157,27.0,157.0,Minnesota,Wabasha County,4,7,MT
+30087,30,87,Montana,Rosebud County,28075,28.0,75.0,Mississippi,Lauderdale County,8,11,MT
+30063,30,63,Montana,Missoula County,29035,29.0,35.0,Missouri,Carter County,5,7,MT
+30067,30,67,Montana,Park County,29077,29.0,77.0,Missouri,Greene County,2,3,MT
+30027,30,27,Montana,Fergus County,29165,29.0,165.0,Missouri,Platte County,18,30,MT
+30063,30,63,Montana,Missoula County,29189,29.0,189.0,Missouri,St. Louis County,13,23,MT
+30001,30,1,Montana,Beaverhead County,30001,30.0,1.0,Montana,Beaverhead County,4011,263,MT
+30023,30,23,Montana,Deer Lodge County,30001,30.0,1.0,Montana,Beaverhead County,24,24,MT
+30031,30,31,Montana,Gallatin County,30001,30.0,1.0,Montana,Beaverhead County,43,33,MT
+30047,30,47,Montana,Lake County,30001,30.0,1.0,Montana,Beaverhead County,3,4,MT
+30057,30,57,Montana,Madison County,30001,30.0,1.0,Montana,Beaverhead County,134,46,MT
+30093,30,93,Montana,Silver Bow County,30001,30.0,1.0,Montana,Beaverhead County,17,13,MT
+30111,30,111,Montana,Yellowstone County,30001,30.0,1.0,Montana,Beaverhead County,12,19,MT
+30003,30,3,Montana,Big Horn County,30003,30.0,3.0,Montana,Big Horn County,4043,239,MT
+30009,30,9,Montana,Carbon County,30003,30.0,3.0,Montana,Big Horn County,2,4,MT
+30045,30,45,Montana,Judith Basin County,30003,30.0,3.0,Montana,Big Horn County,1,2,MT
+30087,30,87,Montana,Rosebud County,30003,30.0,3.0,Montana,Big Horn County,11,10,MT
+30097,30,97,Montana,Sweet Grass County,30003,30.0,3.0,Montana,Big Horn County,4,6,MT
+30103,30,103,Montana,Treasure County,30003,30.0,3.0,Montana,Big Horn County,7,7,MT
+30105,30,105,Montana,Valley County,30003,30.0,3.0,Montana,Big Horn County,1,3,MT
+30111,30,111,Montana,Yellowstone County,30003,30.0,3.0,Montana,Big Horn County,493,164,MT
+30005,30,5,Montana,Blaine County,30005,30.0,5.0,Montana,Blaine County,2219,137,MT
+30013,30,13,Montana,Cascade County,30005,30.0,5.0,Montana,Blaine County,7,11,MT
+30029,30,29,Montana,Flathead County,30005,30.0,5.0,Montana,Blaine County,8,9,MT
+30035,30,35,Montana,Glacier County,30005,30.0,5.0,Montana,Blaine County,5,8,MT
+30041,30,41,Montana,Hill County,30005,30.0,5.0,Montana,Blaine County,86,42,MT
+30051,30,51,Montana,Liberty County,30005,30.0,5.0,Montana,Blaine County,6,10,MT
+30071,30,71,Montana,Phillips County,30005,30.0,5.0,Montana,Blaine County,70,42,MT
+30073,30,73,Montana,Pondera County,30005,30.0,5.0,Montana,Blaine County,7,7,MT
+30105,30,105,Montana,Valley County,30005,30.0,5.0,Montana,Blaine County,1,3,MT
+30003,30,3,Montana,Big Horn County,30007,30.0,7.0,Montana,Broadwater County,13,21,MT
+30007,30,7,Montana,Broadwater County,30007,30.0,7.0,Montana,Broadwater County,1459,164,MT
+30031,30,31,Montana,Gallatin County,30007,30.0,7.0,Montana,Broadwater County,226,78,MT
+30039,30,39,Montana,Granite County,30007,30.0,7.0,Montana,Broadwater County,3,4,MT
+30043,30,43,Montana,Jefferson County,30007,30.0,7.0,Montana,Broadwater County,29,28,MT
+30049,30,49,Montana,Lewis and Clark County,30007,30.0,7.0,Montana,Broadwater County,33,28,MT
+30057,30,57,Montana,Madison County,30007,30.0,7.0,Montana,Broadwater County,17,18,MT
+30059,30,59,Montana,Meagher County,30007,30.0,7.0,Montana,Broadwater County,33,27,MT
+30063,30,63,Montana,Missoula County,30007,30.0,7.0,Montana,Broadwater County,10,17,MT
+30077,30,77,Montana,Powell County,30007,30.0,7.0,Montana,Broadwater County,20,31,MT
+30009,30,9,Montana,Carbon County,30009,30.0,9.0,Montana,Carbon County,3126,194,MT
+30029,30,29,Montana,Flathead County,30009,30.0,9.0,Montana,Carbon County,45,49,MT
+30031,30,31,Montana,Gallatin County,30009,30.0,9.0,Montana,Carbon County,19,30,MT
+30095,30,95,Montana,Stillwater County,30009,30.0,9.0,Montana,Carbon County,52,39,MT
+30097,30,97,Montana,Sweet Grass County,30009,30.0,9.0,Montana,Carbon County,4,7,MT
+30111,30,111,Montana,Yellowstone County,30009,30.0,9.0,Montana,Carbon County,51,34,MT
+30011,30,11,Montana,Carter County,30011,30.0,11.0,Montana,Carter County,498,60,MT
+30025,30,25,Montana,Fallon County,30011,30.0,11.0,Montana,Carter County,20,28,MT
+30027,30,27,Montana,Fergus County,30011,30.0,11.0,Montana,Carter County,3,8,MT
+30075,30,75,Montana,Powder River County,30011,30.0,11.0,Montana,Carter County,3,5,MT
+30001,30,1,Montana,Beaverhead County,30013,30.0,13.0,Montana,Cascade County,7,13,MT
+30005,30,5,Montana,Blaine County,30013,30.0,13.0,Montana,Cascade County,5,7,MT
+30009,30,9,Montana,Carbon County,30013,30.0,13.0,Montana,Cascade County,7,10,MT
+30013,30,13,Montana,Cascade County,30013,30.0,13.0,Montana,Cascade County,37806,648,MT
+30015,30,15,Montana,Chouteau County,30013,30.0,13.0,Montana,Cascade County,237,55,MT
+30023,30,23,Montana,Deer Lodge County,30013,30.0,13.0,Montana,Cascade County,6,12,MT
+30027,30,27,Montana,Fergus County,30013,30.0,13.0,Montana,Cascade County,17,30,MT
+30029,30,29,Montana,Flathead County,30013,30.0,13.0,Montana,Cascade County,5,8,MT
+30031,30,31,Montana,Gallatin County,30013,30.0,13.0,Montana,Cascade County,14,23,MT
+30035,30,35,Montana,Glacier County,30013,30.0,13.0,Montana,Cascade County,22,18,MT
+30037,30,37,Montana,Golden Valley County,30013,30.0,13.0,Montana,Cascade County,1,3,MT
+30041,30,41,Montana,Hill County,30013,30.0,13.0,Montana,Cascade County,1,2,MT
+30043,30,43,Montana,Jefferson County,30013,30.0,13.0,Montana,Cascade County,11,12,MT
+30045,30,45,Montana,Judith Basin County,30013,30.0,13.0,Montana,Cascade County,66,23,MT
+30047,30,47,Montana,Lake County,30013,30.0,13.0,Montana,Cascade County,9,14,MT
+30049,30,49,Montana,Lewis and Clark County,30013,30.0,13.0,Montana,Cascade County,211,90,MT
+30051,30,51,Montana,Liberty County,30013,30.0,13.0,Montana,Cascade County,7,9,MT
+30059,30,59,Montana,Meagher County,30013,30.0,13.0,Montana,Cascade County,8,7,MT
+30061,30,61,Montana,Mineral County,30013,30.0,13.0,Montana,Cascade County,17,25,MT
+30063,30,63,Montana,Missoula County,30013,30.0,13.0,Montana,Cascade County,4,6,MT
+30065,30,65,Montana,Musselshell County,30013,30.0,13.0,Montana,Cascade County,2,3,MT
+30071,30,71,Montana,Phillips County,30013,30.0,13.0,Montana,Cascade County,12,18,MT
+30073,30,73,Montana,Pondera County,30013,30.0,13.0,Montana,Cascade County,35,22,MT
+30077,30,77,Montana,Powell County,30013,30.0,13.0,Montana,Cascade County,12,17,MT
+30089,30,89,Montana,Sanders County,30013,30.0,13.0,Montana,Cascade County,2,4,MT
+30099,30,99,Montana,Teton County,30013,30.0,13.0,Montana,Cascade County,438,72,MT
+30103,30,103,Montana,Treasure County,30013,30.0,13.0,Montana,Cascade County,3,5,MT
+30111,30,111,Montana,Yellowstone County,30013,30.0,13.0,Montana,Cascade County,7,8,MT
+30013,30,13,Montana,Cascade County,30015,30.0,15.0,Montana,Chouteau County,84,51,MT
+30015,30,15,Montana,Chouteau County,30015,30.0,15.0,Montana,Chouteau County,1831,98,MT
+30031,30,31,Montana,Gallatin County,30015,30.0,15.0,Montana,Chouteau County,6,11,MT
+30041,30,41,Montana,Hill County,30015,30.0,15.0,Montana,Chouteau County,36,36,MT
+30045,30,45,Montana,Judith Basin County,30015,30.0,15.0,Montana,Chouteau County,19,25,MT
+30051,30,51,Montana,Liberty County,30015,30.0,15.0,Montana,Chouteau County,1,4,MT
+30009,30,9,Montana,Carbon County,30017,30.0,17.0,Montana,Custer County,2,4,MT
+30017,30,17,Montana,Custer County,30017,30.0,17.0,Montana,Custer County,5866,233,MT
+30025,30,25,Montana,Fallon County,30017,30.0,17.0,Montana,Custer County,10,8,MT
+30031,30,31,Montana,Gallatin County,30017,30.0,17.0,Montana,Custer County,2,4,MT
+30033,30,33,Montana,Garfield County,30017,30.0,17.0,Montana,Custer County,15,13,MT
+30075,30,75,Montana,Powder River County,30017,30.0,17.0,Montana,Custer County,1,3,MT
+30079,30,79,Montana,Prairie County,30017,30.0,17.0,Montana,Custer County,28,17,MT
+30081,30,81,Montana,Ravalli County,30017,30.0,17.0,Montana,Custer County,9,13,MT
+30087,30,87,Montana,Rosebud County,30017,30.0,17.0,Montana,Custer County,33,22,MT
+30109,30,109,Montana,Wibaux County,30017,30.0,17.0,Montana,Custer County,6,9,MT
+30111,30,111,Montana,Yellowstone County,30017,30.0,17.0,Montana,Custer County,49,44,MT
+30019,30,19,Montana,Daniels County,30019,30.0,19.0,Montana,Daniels County,823,96,MT
+30031,30,31,Montana,Gallatin County,30019,30.0,19.0,Montana,Daniels County,2,4,MT
+30085,30,85,Montana,Roosevelt County,30019,30.0,19.0,Montana,Daniels County,41,43,MT
+30091,30,91,Montana,Sheridan County,30019,30.0,19.0,Montana,Daniels County,14,19,MT
+30105,30,105,Montana,Valley County,30019,30.0,19.0,Montana,Daniels County,13,9,MT
+30017,30,17,Montana,Custer County,30021,30.0,21.0,Montana,Dawson County,26,21,MT
+30021,30,21,Montana,Dawson County,30021,30.0,21.0,Montana,Dawson County,4143,246,MT
+30025,30,25,Montana,Fallon County,30021,30.0,21.0,Montana,Dawson County,7,6,MT
+30033,30,33,Montana,Garfield County,30021,30.0,21.0,Montana,Dawson County,2,2,MT
+30055,30,55,Montana,McCone County,30021,30.0,21.0,Montana,Dawson County,15,17,MT
+30079,30,79,Montana,Prairie County,30021,30.0,21.0,Montana,Dawson County,53,34,MT
+30083,30,83,Montana,Richland County,30021,30.0,21.0,Montana,Dawson County,31,21,MT
+30093,30,93,Montana,Silver Bow County,30021,30.0,21.0,Montana,Dawson County,9,16,MT
+30109,30,109,Montana,Wibaux County,30021,30.0,21.0,Montana,Dawson County,27,26,MT
+30111,30,111,Montana,Yellowstone County,30021,30.0,21.0,Montana,Dawson County,72,77,MT
+30001,30,1,Montana,Beaverhead County,30023,30.0,23.0,Montana,Deer Lodge County,3,3,MT
+30007,30,7,Montana,Broadwater County,30023,30.0,23.0,Montana,Deer Lodge County,8,15,MT
+30023,30,23,Montana,Deer Lodge County,30023,30.0,23.0,Montana,Deer Lodge County,2732,371,MT
+30031,30,31,Montana,Gallatin County,30023,30.0,23.0,Montana,Deer Lodge County,4,6,MT
+30039,30,39,Montana,Granite County,30023,30.0,23.0,Montana,Deer Lodge County,69,47,MT
+30043,30,43,Montana,Jefferson County,30023,30.0,23.0,Montana,Deer Lodge County,7,12,MT
+30047,30,47,Montana,Lake County,30023,30.0,23.0,Montana,Deer Lodge County,6,11,MT
+30049,30,49,Montana,Lewis and Clark County,30023,30.0,23.0,Montana,Deer Lodge County,7,9,MT
+30063,30,63,Montana,Missoula County,30023,30.0,23.0,Montana,Deer Lodge County,42,46,MT
+30077,30,77,Montana,Powell County,30023,30.0,23.0,Montana,Deer Lodge County,182,72,MT
+30081,30,81,Montana,Ravalli County,30023,30.0,23.0,Montana,Deer Lodge County,9,15,MT
+30093,30,93,Montana,Silver Bow County,30023,30.0,23.0,Montana,Deer Lodge County,598,176,MT
+30011,30,11,Montana,Carter County,30025,30.0,25.0,Montana,Fallon County,25,14,MT
+30017,30,17,Montana,Custer County,30025,30.0,25.0,Montana,Fallon County,32,24,MT
+30021,30,21,Montana,Dawson County,30025,30.0,25.0,Montana,Fallon County,14,15,MT
+30025,30,25,Montana,Fallon County,30025,30.0,25.0,Montana,Fallon County,1471,128,MT
+30031,30,31,Montana,Gallatin County,30025,30.0,25.0,Montana,Fallon County,6,9,MT
+30063,30,63,Montana,Missoula County,30025,30.0,25.0,Montana,Fallon County,5,9,MT
+30065,30,65,Montana,Musselshell County,30025,30.0,25.0,Montana,Fallon County,8,11,MT
+30075,30,75,Montana,Powder River County,30025,30.0,25.0,Montana,Fallon County,9,13,MT
+30079,30,79,Montana,Prairie County,30025,30.0,25.0,Montana,Fallon County,11,13,MT
+30093,30,93,Montana,Silver Bow County,30025,30.0,25.0,Montana,Fallon County,29,34,MT
+30105,30,105,Montana,Valley County,30025,30.0,25.0,Montana,Fallon County,12,22,MT
+30109,30,109,Montana,Wibaux County,30025,30.0,25.0,Montana,Fallon County,8,9,MT
+30013,30,13,Montana,Cascade County,30027,30.0,27.0,Montana,Fergus County,15,12,MT
+30015,30,15,Montana,Chouteau County,30027,30.0,27.0,Montana,Fergus County,1,4,MT
+30027,30,27,Montana,Fergus County,30027,30.0,27.0,Montana,Fergus County,5092,281,MT
+30031,30,31,Montana,Gallatin County,30027,30.0,27.0,Montana,Fergus County,7,10,MT
+30037,30,37,Montana,Golden Valley County,30027,30.0,27.0,Montana,Fergus County,3,4,MT
+30039,30,39,Montana,Granite County,30027,30.0,27.0,Montana,Fergus County,5,9,MT
+30045,30,45,Montana,Judith Basin County,30027,30.0,27.0,Montana,Fergus County,150,43,MT
+30063,30,63,Montana,Missoula County,30027,30.0,27.0,Montana,Fergus County,12,17,MT
+30069,30,69,Montana,Petroleum County,30027,30.0,27.0,Montana,Fergus County,6,7,MT
+30073,30,73,Montana,Pondera County,30027,30.0,27.0,Montana,Fergus County,1,3,MT
+30107,30,107,Montana,Wheatland County,30027,30.0,27.0,Montana,Fergus County,9,8,MT
+30009,30,9,Montana,Carbon County,30029,30.0,29.0,Montana,Flathead County,20,25,MT
+30013,30,13,Montana,Cascade County,30029,30.0,29.0,Montana,Flathead County,6,10,MT
+30029,30,29,Montana,Flathead County,30029,30.0,29.0,Montana,Flathead County,40745,864,MT
+30031,30,31,Montana,Gallatin County,30029,30.0,29.0,Montana,Flathead County,1,3,MT
+30035,30,35,Montana,Glacier County,30029,30.0,29.0,Montana,Flathead County,12,13,MT
+30047,30,47,Montana,Lake County,30029,30.0,29.0,Montana,Flathead County,759,133,MT
+30049,30,49,Montana,Lewis and Clark County,30029,30.0,29.0,Montana,Flathead County,3,4,MT
+30053,30,53,Montana,Lincoln County,30029,30.0,29.0,Montana,Flathead County,194,79,MT
+30061,30,61,Montana,Mineral County,30029,30.0,29.0,Montana,Flathead County,12,17,MT
+30063,30,63,Montana,Missoula County,30029,30.0,29.0,Montana,Flathead County,90,58,MT
+30073,30,73,Montana,Pondera County,30029,30.0,29.0,Montana,Flathead County,14,20,MT
+30081,30,81,Montana,Ravalli County,30029,30.0,29.0,Montana,Flathead County,35,27,MT
+30089,30,89,Montana,Sanders County,30029,30.0,29.0,Montana,Flathead County,23,15,MT
+30093,30,93,Montana,Silver Bow County,30029,30.0,29.0,Montana,Flathead County,36,43,MT
+30099,30,99,Montana,Teton County,30029,30.0,29.0,Montana,Flathead County,4,6,MT
+30101,30,101,Montana,Toole County,30029,30.0,29.0,Montana,Flathead County,3,5,MT
+30111,30,111,Montana,Yellowstone County,30029,30.0,29.0,Montana,Flathead County,16,26,MT
+30001,30,1,Montana,Beaverhead County,30031,30.0,31.0,Montana,Gallatin County,17,18,MT
+30003,30,3,Montana,Big Horn County,30031,30.0,31.0,Montana,Gallatin County,1,2,MT
+30007,30,7,Montana,Broadwater County,30031,30.0,31.0,Montana,Gallatin County,283,106,MT
+30009,30,9,Montana,Carbon County,30031,30.0,31.0,Montana,Gallatin County,2,4,MT
+30013,30,13,Montana,Cascade County,30031,30.0,31.0,Montana,Gallatin County,24,21,MT
+30015,30,15,Montana,Chouteau County,30031,30.0,31.0,Montana,Gallatin County,5,6,MT
+30023,30,23,Montana,Deer Lodge County,30031,30.0,31.0,Montana,Gallatin County,42,69,MT
+30029,30,29,Montana,Flathead County,30031,30.0,31.0,Montana,Gallatin County,65,61,MT
+30031,30,31,Montana,Gallatin County,30031,30.0,31.0,Montana,Gallatin County,48268,788,MT
+30041,30,41,Montana,Hill County,30031,30.0,31.0,Montana,Gallatin County,2,3,MT
+30043,30,43,Montana,Jefferson County,30031,30.0,31.0,Montana,Gallatin County,194,64,MT
+30045,30,45,Montana,Judith Basin County,30031,30.0,31.0,Montana,Gallatin County,1,4,MT
+30047,30,47,Montana,Lake County,30031,30.0,31.0,Montana,Gallatin County,18,39,MT
+30049,30,49,Montana,Lewis and Clark County,30031,30.0,31.0,Montana,Gallatin County,54,34,MT
+30053,30,53,Montana,Lincoln County,30031,30.0,31.0,Montana,Gallatin County,4,10,MT
+30057,30,57,Montana,Madison County,30031,30.0,31.0,Montana,Gallatin County,454,196,MT
+30059,30,59,Montana,Meagher County,30031,30.0,31.0,Montana,Gallatin County,9,9,MT
+30063,30,63,Montana,Missoula County,30031,30.0,31.0,Montana,Gallatin County,34,31,MT
+30067,30,67,Montana,Park County,30031,30.0,31.0,Montana,Gallatin County,828,155,MT
+30073,30,73,Montana,Pondera County,30031,30.0,31.0,Montana,Gallatin County,12,20,MT
+30075,30,75,Montana,Powder River County,30031,30.0,31.0,Montana,Gallatin County,2,4,MT
+30077,30,77,Montana,Powell County,30031,30.0,31.0,Montana,Gallatin County,49,56,MT
+30081,30,81,Montana,Ravalli County,30031,30.0,31.0,Montana,Gallatin County,13,20,MT
+30083,30,83,Montana,Richland County,30031,30.0,31.0,Montana,Gallatin County,7,10,MT
+30091,30,91,Montana,Sheridan County,30031,30.0,31.0,Montana,Gallatin County,1,2,MT
+30093,30,93,Montana,Silver Bow County,30031,30.0,31.0,Montana,Gallatin County,40,50,MT
+30095,30,95,Montana,Stillwater County,30031,30.0,31.0,Montana,Gallatin County,5,6,MT
+30097,30,97,Montana,Sweet Grass County,30031,30.0,31.0,Montana,Gallatin County,19,13,MT
+30099,30,99,Montana,Teton County,30031,30.0,31.0,Montana,Gallatin County,3,4,MT
+30101,30,101,Montana,Toole County,30031,30.0,31.0,Montana,Gallatin County,17,27,MT
+30111,30,111,Montana,Yellowstone County,30031,30.0,31.0,Montana,Gallatin County,55,48,MT
+30025,30,25,Montana,Fallon County,30033,30.0,33.0,Montana,Garfield County,10,12,MT
+30033,30,33,Montana,Garfield County,30033,30.0,33.0,Montana,Garfield County,527,62,MT
+30005,30,5,Montana,Blaine County,30035,30.0,35.0,Montana,Glacier County,9,12,MT
+30013,30,13,Montana,Cascade County,30035,30.0,35.0,Montana,Glacier County,4,5,MT
+30021,30,21,Montana,Dawson County,30035,30.0,35.0,Montana,Glacier County,2,3,MT
+30029,30,29,Montana,Flathead County,30035,30.0,35.0,Montana,Glacier County,18,17,MT
+30031,30,31,Montana,Gallatin County,30035,30.0,35.0,Montana,Glacier County,11,18,MT
+30035,30,35,Montana,Glacier County,30035,30.0,35.0,Montana,Glacier County,4093,270,MT
+30041,30,41,Montana,Hill County,30035,30.0,35.0,Montana,Glacier County,13,19,MT
+30057,30,57,Montana,Madison County,30035,30.0,35.0,Montana,Glacier County,4,8,MT
+30071,30,71,Montana,Phillips County,30035,30.0,35.0,Montana,Glacier County,12,17,MT
+30073,30,73,Montana,Pondera County,30035,30.0,35.0,Montana,Glacier County,132,31,MT
+30081,30,81,Montana,Ravalli County,30035,30.0,35.0,Montana,Glacier County,16,26,MT
+30099,30,99,Montana,Teton County,30035,30.0,35.0,Montana,Glacier County,2,2,MT
+30101,30,101,Montana,Toole County,30035,30.0,35.0,Montana,Glacier County,212,109,MT
+30037,30,37,Montana,Golden Valley County,30037,30.0,37.0,Montana,Golden Valley County,232,48,MT
+30065,30,65,Montana,Musselshell County,30037,30.0,37.0,Montana,Golden Valley County,20,19,MT
+30107,30,107,Montana,Wheatland County,30037,30.0,37.0,Montana,Golden Valley County,2,3,MT
+30111,30,111,Montana,Yellowstone County,30037,30.0,37.0,Montana,Golden Valley County,15,23,MT
+30007,30,7,Montana,Broadwater County,30039,30.0,39.0,Montana,Granite County,11,18,MT
+30023,30,23,Montana,Deer Lodge County,30039,30.0,39.0,Montana,Granite County,45,33,MT
+30039,30,39,Montana,Granite County,30039,30.0,39.0,Montana,Granite County,840,110,MT
+30041,30,41,Montana,Hill County,30039,30.0,39.0,Montana,Granite County,3,7,MT
+30043,30,43,Montana,Jefferson County,30039,30.0,39.0,Montana,Granite County,10,16,MT
+30063,30,63,Montana,Missoula County,30039,30.0,39.0,Montana,Granite County,21,27,MT
+30073,30,73,Montana,Pondera County,30039,30.0,39.0,Montana,Granite County,5,7,MT
+30077,30,77,Montana,Powell County,30039,30.0,39.0,Montana,Granite County,17,17,MT
+30081,30,81,Montana,Ravalli County,30039,30.0,39.0,Montana,Granite County,21,30,MT
+30003,30,3,Montana,Big Horn County,30041,30.0,41.0,Montana,Hill County,13,19,MT
+30005,30,5,Montana,Blaine County,30041,30.0,41.0,Montana,Hill County,222,54,MT
+30013,30,13,Montana,Cascade County,30041,30.0,41.0,Montana,Hill County,89,84,MT
+30015,30,15,Montana,Chouteau County,30041,30.0,41.0,Montana,Hill County,351,50,MT
+30027,30,27,Montana,Fergus County,30041,30.0,41.0,Montana,Hill County,2,4,MT
+30029,30,29,Montana,Flathead County,30041,30.0,41.0,Montana,Hill County,16,23,MT
+30041,30,41,Montana,Hill County,30041,30.0,41.0,Montana,Hill County,6946,261,MT
+30049,30,49,Montana,Lewis and Clark County,30041,30.0,41.0,Montana,Hill County,9,13,MT
+30051,30,51,Montana,Liberty County,30041,30.0,41.0,Montana,Hill County,48,25,MT
+30059,30,59,Montana,Meagher County,30041,30.0,41.0,Montana,Hill County,9,11,MT
+30071,30,71,Montana,Phillips County,30041,30.0,41.0,Montana,Hill County,4,8,MT
+30085,30,85,Montana,Roosevelt County,30041,30.0,41.0,Montana,Hill County,1,3,MT
+30097,30,97,Montana,Sweet Grass County,30041,30.0,41.0,Montana,Hill County,10,15,MT
+30099,30,99,Montana,Teton County,30041,30.0,41.0,Montana,Hill County,2,3,MT
+30101,30,101,Montana,Toole County,30041,30.0,41.0,Montana,Hill County,9,10,MT
+30105,30,105,Montana,Valley County,30041,30.0,41.0,Montana,Hill County,9,14,MT
+30001,30,1,Montana,Beaverhead County,30043,30.0,43.0,Montana,Jefferson County,84,77,MT
+30007,30,7,Montana,Broadwater County,30043,30.0,43.0,Montana,Jefferson County,12,15,MT
+30009,30,9,Montana,Carbon County,30043,30.0,43.0,Montana,Jefferson County,5,8,MT
+30023,30,23,Montana,Deer Lodge County,30043,30.0,43.0,Montana,Jefferson County,4,8,MT
+30029,30,29,Montana,Flathead County,30043,30.0,43.0,Montana,Jefferson County,3,4,MT
+30031,30,31,Montana,Gallatin County,30043,30.0,43.0,Montana,Jefferson County,34,20,MT
+30043,30,43,Montana,Jefferson County,30043,30.0,43.0,Montana,Jefferson County,1898,169,MT
+30049,30,49,Montana,Lewis and Clark County,30043,30.0,43.0,Montana,Jefferson County,490,183,MT
+30057,30,57,Montana,Madison County,30043,30.0,43.0,Montana,Jefferson County,129,49,MT
+30067,30,67,Montana,Park County,30043,30.0,43.0,Montana,Jefferson County,17,22,MT
+30089,30,89,Montana,Sanders County,30043,30.0,43.0,Montana,Jefferson County,3,5,MT
+30093,30,93,Montana,Silver Bow County,30043,30.0,43.0,Montana,Jefferson County,153,82,MT
+30099,30,99,Montana,Teton County,30043,30.0,43.0,Montana,Jefferson County,1,2,MT
+30111,30,111,Montana,Yellowstone County,30043,30.0,43.0,Montana,Jefferson County,9,14,MT
+30015,30,15,Montana,Chouteau County,30045,30.0,45.0,Montana,Judith Basin County,7,7,MT
+30027,30,27,Montana,Fergus County,30045,30.0,45.0,Montana,Judith Basin County,46,38,MT
+30037,30,37,Montana,Golden Valley County,30045,30.0,45.0,Montana,Judith Basin County,1,3,MT
+30043,30,43,Montana,Jefferson County,30045,30.0,45.0,Montana,Judith Basin County,6,9,MT
+30045,30,45,Montana,Judith Basin County,30045,30.0,45.0,Montana,Judith Basin County,684,67,MT
+30081,30,81,Montana,Ravalli County,30045,30.0,45.0,Montana,Judith Basin County,21,36,MT
+30093,30,93,Montana,Silver Bow County,30045,30.0,45.0,Montana,Judith Basin County,4,7,MT
+30107,30,107,Montana,Wheatland County,30045,30.0,45.0,Montana,Judith Basin County,2,4,MT
+30001,30,1,Montana,Beaverhead County,30047,30.0,47.0,Montana,Lake County,1,3,MT
+30013,30,13,Montana,Cascade County,30047,30.0,47.0,Montana,Lake County,5,7,MT
+30029,30,29,Montana,Flathead County,30047,30.0,47.0,Montana,Lake County,175,71,MT
+30047,30,47,Montana,Lake County,30047,30.0,47.0,Montana,Lake County,9554,376,MT
+30049,30,49,Montana,Lewis and Clark County,30047,30.0,47.0,Montana,Lake County,12,19,MT
+30063,30,63,Montana,Missoula County,30047,30.0,47.0,Montana,Lake County,344,119,MT
+30081,30,81,Montana,Ravalli County,30047,30.0,47.0,Montana,Lake County,164,113,MT
+30089,30,89,Montana,Sanders County,30047,30.0,47.0,Montana,Lake County,134,25,MT
+30001,30,1,Montana,Beaverhead County,30049,30.0,49.0,Montana,Lewis and Clark County,42,32,MT
+30003,30,3,Montana,Big Horn County,30049,30.0,49.0,Montana,Lewis and Clark County,6,9,MT
+30005,30,5,Montana,Blaine County,30049,30.0,49.0,Montana,Lewis and Clark County,5,9,MT
+30007,30,7,Montana,Broadwater County,30049,30.0,49.0,Montana,Lewis and Clark County,621,124,MT
+30013,30,13,Montana,Cascade County,30049,30.0,49.0,Montana,Lewis and Clark County,219,98,MT
+30015,30,15,Montana,Chouteau County,30049,30.0,49.0,Montana,Lewis and Clark County,7,8,MT
+30029,30,29,Montana,Flathead County,30049,30.0,49.0,Montana,Lewis and Clark County,73,77,MT
+30031,30,31,Montana,Gallatin County,30049,30.0,49.0,Montana,Lewis and Clark County,109,64,MT
+30039,30,39,Montana,Granite County,30049,30.0,49.0,Montana,Lewis and Clark County,18,14,MT
+30041,30,41,Montana,Hill County,30049,30.0,49.0,Montana,Lewis and Clark County,4,5,MT
+30043,30,43,Montana,Jefferson County,30049,30.0,49.0,Montana,Lewis and Clark County,2581,184,MT
+30045,30,45,Montana,Judith Basin County,30049,30.0,49.0,Montana,Lewis and Clark County,5,8,MT
+30047,30,47,Montana,Lake County,30049,30.0,49.0,Montana,Lewis and Clark County,13,21,MT
+30049,30,49,Montana,Lewis and Clark County,30049,30.0,49.0,Montana,Lewis and Clark County,31183,817,MT
+30057,30,57,Montana,Madison County,30049,30.0,49.0,Montana,Lewis and Clark County,31,38,MT
+30059,30,59,Montana,Meagher County,30049,30.0,49.0,Montana,Lewis and Clark County,10,9,MT
+30063,30,63,Montana,Missoula County,30049,30.0,49.0,Montana,Lewis and Clark County,235,129,MT
+30065,30,65,Montana,Musselshell County,30049,30.0,49.0,Montana,Lewis and Clark County,10,13,MT
+30067,30,67,Montana,Park County,30049,30.0,49.0,Montana,Lewis and Clark County,6,10,MT
+30073,30,73,Montana,Pondera County,30049,30.0,49.0,Montana,Lewis and Clark County,4,6,MT
+30077,30,77,Montana,Powell County,30049,30.0,49.0,Montana,Lewis and Clark County,215,54,MT
+30081,30,81,Montana,Ravalli County,30049,30.0,49.0,Montana,Lewis and Clark County,23,31,MT
+30087,30,87,Montana,Rosebud County,30049,30.0,49.0,Montana,Lewis and Clark County,4,5,MT
+30089,30,89,Montana,Sanders County,30049,30.0,49.0,Montana,Lewis and Clark County,2,3,MT
+30093,30,93,Montana,Silver Bow County,30049,30.0,49.0,Montana,Lewis and Clark County,113,60,MT
+30095,30,95,Montana,Stillwater County,30049,30.0,49.0,Montana,Lewis and Clark County,1,2,MT
+30099,30,99,Montana,Teton County,30049,30.0,49.0,Montana,Lewis and Clark County,25,17,MT
+30111,30,111,Montana,Yellowstone County,30049,30.0,49.0,Montana,Lewis and Clark County,3,4,MT
+30001,30,1,Montana,Beaverhead County,30051,30.0,51.0,Montana,Liberty County,6,8,MT
+30013,30,13,Montana,Cascade County,30051,30.0,51.0,Montana,Liberty County,20,28,MT
+30029,30,29,Montana,Flathead County,30051,30.0,51.0,Montana,Liberty County,19,30,MT
+30041,30,41,Montana,Hill County,30051,30.0,51.0,Montana,Liberty County,38,21,MT
+30049,30,49,Montana,Lewis and Clark County,30051,30.0,51.0,Montana,Liberty County,11,11,MT
+30051,30,51,Montana,Liberty County,30051,30.0,51.0,Montana,Liberty County,843,112,MT
+30101,30,101,Montana,Toole County,30051,30.0,51.0,Montana,Liberty County,32,23,MT
+30029,30,29,Montana,Flathead County,30053,30.0,53.0,Montana,Lincoln County,116,70,MT
+30031,30,31,Montana,Gallatin County,30053,30.0,53.0,Montana,Lincoln County,18,22,MT
+30053,30,53,Montana,Lincoln County,30053,30.0,53.0,Montana,Lincoln County,6207,467,MT
+30089,30,89,Montana,Sanders County,30053,30.0,53.0,Montana,Lincoln County,30,26,MT
+30021,30,21,Montana,Dawson County,30055,30.0,55.0,Montana,McCone County,39,20,MT
+30031,30,31,Montana,Gallatin County,30055,30.0,55.0,Montana,McCone County,8,12,MT
+30033,30,33,Montana,Garfield County,30055,30.0,55.0,Montana,McCone County,6,7,MT
+30055,30,55,Montana,McCone County,30055,30.0,55.0,Montana,McCone County,721,85,MT
+30083,30,83,Montana,Richland County,30055,30.0,55.0,Montana,McCone County,3,4,MT
+30085,30,85,Montana,Roosevelt County,30055,30.0,55.0,Montana,McCone County,6,9,MT
+30001,30,1,Montana,Beaverhead County,30057,30.0,57.0,Montana,Madison County,67,54,MT
+30007,30,7,Montana,Broadwater County,30057,30.0,57.0,Montana,Madison County,20,31,MT
+30029,30,29,Montana,Flathead County,30057,30.0,57.0,Montana,Madison County,3,5,MT
+30031,30,31,Montana,Gallatin County,30057,30.0,57.0,Montana,Madison County,607,144,MT
+30043,30,43,Montana,Jefferson County,30057,30.0,57.0,Montana,Madison County,53,41,MT
+30057,30,57,Montana,Madison County,30057,30.0,57.0,Montana,Madison County,2750,212,MT
+30067,30,67,Montana,Park County,30057,30.0,57.0,Montana,Madison County,14,20,MT
+30093,30,93,Montana,Silver Bow County,30057,30.0,57.0,Montana,Madison County,46,35,MT
+30013,30,13,Montana,Cascade County,30059,30.0,59.0,Montana,Meagher County,1,3,MT
+30027,30,27,Montana,Fergus County,30059,30.0,59.0,Montana,Meagher County,12,16,MT
+30031,30,31,Montana,Gallatin County,30059,30.0,59.0,Montana,Meagher County,8,10,MT
+30059,30,59,Montana,Meagher County,30059,30.0,59.0,Montana,Meagher County,752,85,MT
+30097,30,97,Montana,Sweet Grass County,30059,30.0,59.0,Montana,Meagher County,3,5,MT
+30107,30,107,Montana,Wheatland County,30059,30.0,59.0,Montana,Meagher County,81,64,MT
+30013,30,13,Montana,Cascade County,30061,30.0,61.0,Montana,Mineral County,18,28,MT
+30029,30,29,Montana,Flathead County,30061,30.0,61.0,Montana,Mineral County,3,6,MT
+30047,30,47,Montana,Lake County,30061,30.0,61.0,Montana,Mineral County,5,5,MT
+30061,30,61,Montana,Mineral County,30061,30.0,61.0,Montana,Mineral County,1093,150,MT
+30063,30,63,Montana,Missoula County,30061,30.0,61.0,Montana,Mineral County,120,69,MT
+30089,30,89,Montana,Sanders County,30061,30.0,61.0,Montana,Mineral County,15,20,MT
+30005,30,5,Montana,Blaine County,30063,30.0,63.0,Montana,Missoula County,2,3,MT
+30007,30,7,Montana,Broadwater County,30063,30.0,63.0,Montana,Missoula County,14,23,MT
+30009,30,9,Montana,Carbon County,30063,30.0,63.0,Montana,Missoula County,7,10,MT
+30013,30,13,Montana,Cascade County,30063,30.0,63.0,Montana,Missoula County,31,36,MT
+30015,30,15,Montana,Chouteau County,30063,30.0,63.0,Montana,Missoula County,4,7,MT
+30027,30,27,Montana,Fergus County,30063,30.0,63.0,Montana,Missoula County,5,8,MT
+30029,30,29,Montana,Flathead County,30063,30.0,63.0,Montana,Missoula County,343,154,MT
+30031,30,31,Montana,Gallatin County,30063,30.0,63.0,Montana,Missoula County,53,69,MT
+30033,30,33,Montana,Garfield County,30063,30.0,63.0,Montana,Missoula County,1,3,MT
+30035,30,35,Montana,Glacier County,30063,30.0,63.0,Montana,Missoula County,3,5,MT
+30039,30,39,Montana,Granite County,30063,30.0,63.0,Montana,Missoula County,150,57,MT
+30041,30,41,Montana,Hill County,30063,30.0,63.0,Montana,Missoula County,1,2,MT
+30043,30,43,Montana,Jefferson County,30063,30.0,63.0,Montana,Missoula County,5,5,MT
+30047,30,47,Montana,Lake County,30063,30.0,63.0,Montana,Missoula County,650,125,MT
+30049,30,49,Montana,Lewis and Clark County,30063,30.0,63.0,Montana,Missoula County,98,57,MT
+30057,30,57,Montana,Madison County,30063,30.0,63.0,Montana,Missoula County,29,36,MT
+30059,30,59,Montana,Meagher County,30063,30.0,63.0,Montana,Missoula County,6,8,MT
+30061,30,61,Montana,Mineral County,30063,30.0,63.0,Montana,Missoula County,308,81,MT
+30063,30,63,Montana,Missoula County,30063,30.0,63.0,Montana,Missoula County,54962,1071,MT
+30067,30,67,Montana,Park County,30063,30.0,63.0,Montana,Missoula County,6,9,MT
+30073,30,73,Montana,Pondera County,30063,30.0,63.0,Montana,Missoula County,4,8,MT
+30077,30,77,Montana,Powell County,30063,30.0,63.0,Montana,Missoula County,29,22,MT
+30081,30,81,Montana,Ravalli County,30063,30.0,63.0,Montana,Missoula County,3541,444,MT
+30083,30,83,Montana,Richland County,30063,30.0,63.0,Montana,Missoula County,1,2,MT
+30089,30,89,Montana,Sanders County,30063,30.0,63.0,Montana,Missoula County,66,30,MT
+30093,30,93,Montana,Silver Bow County,30063,30.0,63.0,Montana,Missoula County,48,55,MT
+30111,30,111,Montana,Yellowstone County,30063,30.0,63.0,Montana,Missoula County,49,44,MT
+30003,30,3,Montana,Big Horn County,30065,30.0,65.0,Montana,Musselshell County,3,5,MT
+30027,30,27,Montana,Fergus County,30065,30.0,65.0,Montana,Musselshell County,20,22,MT
+30037,30,37,Montana,Golden Valley County,30065,30.0,65.0,Montana,Musselshell County,8,6,MT
+30065,30,65,Montana,Musselshell County,30065,30.0,65.0,Montana,Musselshell County,1361,164,MT
+30069,30,69,Montana,Petroleum County,30065,30.0,65.0,Montana,Musselshell County,25,13,MT
+30087,30,87,Montana,Rosebud County,30065,30.0,65.0,Montana,Musselshell County,2,4,MT
+30095,30,95,Montana,Stillwater County,30065,30.0,65.0,Montana,Musselshell County,9,10,MT
+30111,30,111,Montana,Yellowstone County,30065,30.0,65.0,Montana,Musselshell County,380,114,MT
+30013,30,13,Montana,Cascade County,30067,30.0,67.0,Montana,Park County,8,13,MT
+30031,30,31,Montana,Gallatin County,30067,30.0,67.0,Montana,Park County,417,121,MT
+30041,30,41,Montana,Hill County,30067,30.0,67.0,Montana,Park County,25,33,MT
+30059,30,59,Montana,Meagher County,30067,30.0,67.0,Montana,Park County,4,4,MT
+30067,30,67,Montana,Park County,30067,30.0,67.0,Montana,Park County,6233,371,MT
+30083,30,83,Montana,Richland County,30067,30.0,67.0,Montana,Park County,12,18,MT
+30095,30,95,Montana,Stillwater County,30067,30.0,67.0,Montana,Park County,8,9,MT
+30097,30,97,Montana,Sweet Grass County,30067,30.0,67.0,Montana,Park County,38,27,MT
+30111,30,111,Montana,Yellowstone County,30067,30.0,67.0,Montana,Park County,54,50,MT
+30013,30,13,Montana,Cascade County,30069,30.0,69.0,Montana,Petroleum County,1,3,MT
+30029,30,29,Montana,Flathead County,30069,30.0,69.0,Montana,Petroleum County,8,14,MT
+30033,30,33,Montana,Garfield County,30069,30.0,69.0,Montana,Petroleum County,2,3,MT
+30069,30,69,Montana,Petroleum County,30069,30.0,69.0,Montana,Petroleum County,215,43,MT
+30005,30,5,Montana,Blaine County,30071,30.0,71.0,Montana,Phillips County,1,2,MT
+30007,30,7,Montana,Broadwater County,30071,30.0,71.0,Montana,Phillips County,3,6,MT
+30011,30,11,Montana,Carter County,30071,30.0,71.0,Montana,Phillips County,5,6,MT
+30013,30,13,Montana,Cascade County,30071,30.0,71.0,Montana,Phillips County,2,3,MT
+30041,30,41,Montana,Hill County,30071,30.0,71.0,Montana,Phillips County,16,13,MT
+30071,30,71,Montana,Phillips County,30071,30.0,71.0,Montana,Phillips County,1487,122,MT
+30073,30,73,Montana,Pondera County,30071,30.0,71.0,Montana,Phillips County,4,5,MT
+30105,30,105,Montana,Valley County,30071,30.0,71.0,Montana,Phillips County,15,15,MT
+30013,30,13,Montana,Cascade County,30073,30.0,73.0,Montana,Pondera County,59,73,MT
+30015,30,15,Montana,Chouteau County,30073,30.0,73.0,Montana,Pondera County,4,5,MT
+30029,30,29,Montana,Flathead County,30073,30.0,73.0,Montana,Pondera County,9,14,MT
+30031,30,31,Montana,Gallatin County,30073,30.0,73.0,Montana,Pondera County,9,13,MT
+30035,30,35,Montana,Glacier County,30073,30.0,73.0,Montana,Pondera County,49,38,MT
+30047,30,47,Montana,Lake County,30073,30.0,73.0,Montana,Pondera County,3,5,MT
+30049,30,49,Montana,Lewis and Clark County,30073,30.0,73.0,Montana,Pondera County,6,10,MT
+30059,30,59,Montana,Meagher County,30073,30.0,73.0,Montana,Pondera County,5,7,MT
+30073,30,73,Montana,Pondera County,30073,30.0,73.0,Montana,Pondera County,2093,119,MT
+30099,30,99,Montana,Teton County,30073,30.0,73.0,Montana,Pondera County,121,33,MT
+30101,30,101,Montana,Toole County,30073,30.0,73.0,Montana,Pondera County,38,31,MT
+30011,30,11,Montana,Carter County,30075,30.0,75.0,Montana,Powder River County,23,12,MT
+30017,30,17,Montana,Custer County,30075,30.0,75.0,Montana,Powder River County,11,7,MT
+30025,30,25,Montana,Fallon County,30075,30.0,75.0,Montana,Powder River County,6,9,MT
+30043,30,43,Montana,Jefferson County,30075,30.0,75.0,Montana,Powder River County,6,6,MT
+30049,30,49,Montana,Lewis and Clark County,30075,30.0,75.0,Montana,Powder River County,20,24,MT
+30075,30,75,Montana,Powder River County,30075,30.0,75.0,Montana,Powder River County,885,70,MT
+30111,30,111,Montana,Yellowstone County,30075,30.0,75.0,Montana,Powder River County,3,5,MT
+30007,30,7,Montana,Broadwater County,30077,30.0,77.0,Montana,Powell County,5,9,MT
+30023,30,23,Montana,Deer Lodge County,30077,30.0,77.0,Montana,Powell County,382,133,MT
+30027,30,27,Montana,Fergus County,30077,30.0,77.0,Montana,Powell County,4,7,MT
+30039,30,39,Montana,Granite County,30077,30.0,77.0,Montana,Powell County,51,31,MT
+30043,30,43,Montana,Jefferson County,30077,30.0,77.0,Montana,Powell County,10,16,MT
+30049,30,49,Montana,Lewis and Clark County,30077,30.0,77.0,Montana,Powell County,119,150,MT
+30063,30,63,Montana,Missoula County,30077,30.0,77.0,Montana,Powell County,33,26,MT
+30077,30,77,Montana,Powell County,30077,30.0,77.0,Montana,Powell County,1924,197,MT
+30081,30,81,Montana,Ravalli County,30077,30.0,77.0,Montana,Powell County,26,27,MT
+30093,30,93,Montana,Silver Bow County,30077,30.0,77.0,Montana,Powell County,177,118,MT
+30079,30,79,Montana,Prairie County,30079,30.0,79.0,Montana,Prairie County,444,65,MT
+30029,30,29,Montana,Flathead County,30081,30.0,81.0,Montana,Ravalli County,11,14,MT
+30031,30,31,Montana,Gallatin County,30081,30.0,81.0,Montana,Ravalli County,35,31,MT
+30039,30,39,Montana,Granite County,30081,30.0,81.0,Montana,Ravalli County,2,3,MT
+30049,30,49,Montana,Lewis and Clark County,30081,30.0,81.0,Montana,Ravalli County,9,15,MT
+30061,30,61,Montana,Mineral County,30081,30.0,81.0,Montana,Ravalli County,3,4,MT
+30063,30,63,Montana,Missoula County,30081,30.0,81.0,Montana,Ravalli County,789,249,MT
+30077,30,77,Montana,Powell County,30081,30.0,81.0,Montana,Ravalli County,1,3,MT
+30081,30,81,Montana,Ravalli County,30081,30.0,81.0,Montana,Ravalli County,12350,569,MT
+30089,30,89,Montana,Sanders County,30081,30.0,81.0,Montana,Ravalli County,3,5,MT
+30111,30,111,Montana,Yellowstone County,30081,30.0,81.0,Montana,Ravalli County,9,16,MT
+30005,30,5,Montana,Blaine County,30083,30.0,83.0,Montana,Richland County,1,3,MT
+30015,30,15,Montana,Chouteau County,30083,30.0,83.0,Montana,Richland County,8,11,MT
+30017,30,17,Montana,Custer County,30083,30.0,83.0,Montana,Richland County,2,6,MT
+30019,30,19,Montana,Daniels County,30083,30.0,83.0,Montana,Richland County,5,7,MT
+30021,30,21,Montana,Dawson County,30083,30.0,83.0,Montana,Richland County,198,79,MT
+30027,30,27,Montana,Fergus County,30083,30.0,83.0,Montana,Richland County,1,2,MT
+30029,30,29,Montana,Flathead County,30083,30.0,83.0,Montana,Richland County,15,18,MT
+30035,30,35,Montana,Glacier County,30083,30.0,83.0,Montana,Richland County,16,22,MT
+30049,30,49,Montana,Lewis and Clark County,30083,30.0,83.0,Montana,Richland County,28,30,MT
+30057,30,57,Montana,Madison County,30083,30.0,83.0,Montana,Richland County,3,4,MT
+30081,30,81,Montana,Ravalli County,30083,30.0,83.0,Montana,Richland County,11,13,MT
+30083,30,83,Montana,Richland County,30083,30.0,83.0,Montana,Richland County,5070,251,MT
+30085,30,85,Montana,Roosevelt County,30083,30.0,83.0,Montana,Richland County,40,21,MT
+30087,30,87,Montana,Rosebud County,30083,30.0,83.0,Montana,Richland County,33,42,MT
+30091,30,91,Montana,Sheridan County,30083,30.0,83.0,Montana,Richland County,25,32,MT
+30095,30,95,Montana,Stillwater County,30083,30.0,83.0,Montana,Richland County,21,30,MT
+30099,30,99,Montana,Teton County,30083,30.0,83.0,Montana,Richland County,1,3,MT
+30105,30,105,Montana,Valley County,30083,30.0,83.0,Montana,Richland County,2,4,MT
+30109,30,109,Montana,Wibaux County,30083,30.0,83.0,Montana,Richland County,10,11,MT
+30111,30,111,Montana,Yellowstone County,30083,30.0,83.0,Montana,Richland County,28,26,MT
+30005,30,5,Montana,Blaine County,30085,30.0,85.0,Montana,Roosevelt County,3,5,MT
+30019,30,19,Montana,Daniels County,30085,30.0,85.0,Montana,Roosevelt County,34,23,MT
+30021,30,21,Montana,Dawson County,30085,30.0,85.0,Montana,Roosevelt County,4,4,MT
+30031,30,31,Montana,Gallatin County,30085,30.0,85.0,Montana,Roosevelt County,9,14,MT
+30055,30,55,Montana,McCone County,30085,30.0,85.0,Montana,Roosevelt County,166,52,MT
+30071,30,71,Montana,Phillips County,30085,30.0,85.0,Montana,Roosevelt County,38,35,MT
+30083,30,83,Montana,Richland County,30085,30.0,85.0,Montana,Roosevelt County,72,34,MT
+30085,30,85,Montana,Roosevelt County,30085,30.0,85.0,Montana,Roosevelt County,3202,236,MT
+30089,30,89,Montana,Sanders County,30085,30.0,85.0,Montana,Roosevelt County,7,11,MT
+30091,30,91,Montana,Sheridan County,30085,30.0,85.0,Montana,Roosevelt County,51,27,MT
+30105,30,105,Montana,Valley County,30085,30.0,85.0,Montana,Roosevelt County,230,68,MT
+30111,30,111,Montana,Yellowstone County,30085,30.0,85.0,Montana,Roosevelt County,35,51,MT
+30003,30,3,Montana,Big Horn County,30087,30.0,87.0,Montana,Rosebud County,293,57,MT
+30017,30,17,Montana,Custer County,30087,30.0,87.0,Montana,Rosebud County,70,61,MT
+30027,30,27,Montana,Fergus County,30087,30.0,87.0,Montana,Rosebud County,2,3,MT
+30029,30,29,Montana,Flathead County,30087,30.0,87.0,Montana,Rosebud County,3,5,MT
+30031,30,31,Montana,Gallatin County,30087,30.0,87.0,Montana,Rosebud County,14,16,MT
+30041,30,41,Montana,Hill County,30087,30.0,87.0,Montana,Rosebud County,8,12,MT
+30063,30,63,Montana,Missoula County,30087,30.0,87.0,Montana,Rosebud County,46,50,MT
+30065,30,65,Montana,Musselshell County,30087,30.0,87.0,Montana,Rosebud County,24,25,MT
+30067,30,67,Montana,Park County,30087,30.0,87.0,Montana,Rosebud County,55,64,MT
+30075,30,75,Montana,Powder River County,30087,30.0,87.0,Montana,Rosebud County,25,20,MT
+30087,30,87,Montana,Rosebud County,30087,30.0,87.0,Montana,Rosebud County,3752,181,MT
+30093,30,93,Montana,Silver Bow County,30087,30.0,87.0,Montana,Rosebud County,25,31,MT
+30097,30,97,Montana,Sweet Grass County,30087,30.0,87.0,Montana,Rosebud County,1,3,MT
+30103,30,103,Montana,Treasure County,30087,30.0,87.0,Montana,Rosebud County,58,19,MT
+30111,30,111,Montana,Yellowstone County,30087,30.0,87.0,Montana,Rosebud County,86,54,MT
+30029,30,29,Montana,Flathead County,30089,30.0,89.0,Montana,Sanders County,71,77,MT
+30047,30,47,Montana,Lake County,30089,30.0,89.0,Montana,Sanders County,173,102,MT
+30053,30,53,Montana,Lincoln County,30089,30.0,89.0,Montana,Sanders County,25,21,MT
+30061,30,61,Montana,Mineral County,30089,30.0,89.0,Montana,Sanders County,9,10,MT
+30063,30,63,Montana,Missoula County,30089,30.0,89.0,Montana,Sanders County,24,31,MT
+30089,30,89,Montana,Sanders County,30089,30.0,89.0,Montana,Sanders County,3410,262,MT
+30005,30,5,Montana,Blaine County,30091,30.0,91.0,Montana,Sheridan County,17,17,MT
+30017,30,17,Montana,Custer County,30091,30.0,91.0,Montana,Sheridan County,5,10,MT
+30019,30,19,Montana,Daniels County,30091,30.0,91.0,Montana,Sheridan County,36,26,MT
+30021,30,21,Montana,Dawson County,30091,30.0,91.0,Montana,Sheridan County,14,18,MT
+30031,30,31,Montana,Gallatin County,30091,30.0,91.0,Montana,Sheridan County,112,91,MT
+30073,30,73,Montana,Pondera County,30091,30.0,91.0,Montana,Sheridan County,7,12,MT
+30083,30,83,Montana,Richland County,30091,30.0,91.0,Montana,Sheridan County,1,4,MT
+30085,30,85,Montana,Roosevelt County,30091,30.0,91.0,Montana,Sheridan County,33,16,MT
+30091,30,91,Montana,Sheridan County,30091,30.0,91.0,Montana,Sheridan County,1673,121,MT
+30105,30,105,Montana,Valley County,30091,30.0,91.0,Montana,Sheridan County,3,4,MT
+30001,30,1,Montana,Beaverhead County,30093,30.0,93.0,Montana,Silver Bow County,111,51,MT
+30007,30,7,Montana,Broadwater County,30093,30.0,93.0,Montana,Silver Bow County,19,29,MT
+30009,30,9,Montana,Carbon County,30093,30.0,93.0,Montana,Silver Bow County,13,15,MT
+30013,30,13,Montana,Cascade County,30093,30.0,93.0,Montana,Silver Bow County,31,30,MT
+30015,30,15,Montana,Chouteau County,30093,30.0,93.0,Montana,Silver Bow County,5,6,MT
+30017,30,17,Montana,Custer County,30093,30.0,93.0,Montana,Silver Bow County,9,14,MT
+30023,30,23,Montana,Deer Lodge County,30093,30.0,93.0,Montana,Silver Bow County,501,137,MT
+30029,30,29,Montana,Flathead County,30093,30.0,93.0,Montana,Silver Bow County,11,17,MT
+30031,30,31,Montana,Gallatin County,30093,30.0,93.0,Montana,Silver Bow County,83,53,MT
+30039,30,39,Montana,Granite County,30093,30.0,93.0,Montana,Silver Bow County,30,21,MT
+30043,30,43,Montana,Jefferson County,30093,30.0,93.0,Montana,Silver Bow County,225,75,MT
+30049,30,49,Montana,Lewis and Clark County,30093,30.0,93.0,Montana,Silver Bow County,104,86,MT
+30057,30,57,Montana,Madison County,30093,30.0,93.0,Montana,Silver Bow County,87,36,MT
+30063,30,63,Montana,Missoula County,30093,30.0,93.0,Montana,Silver Bow County,13,21,MT
+30077,30,77,Montana,Powell County,30093,30.0,93.0,Montana,Silver Bow County,96,50,MT
+30081,30,81,Montana,Ravalli County,30093,30.0,93.0,Montana,Silver Bow County,41,62,MT
+30093,30,93,Montana,Silver Bow County,30093,30.0,93.0,Montana,Silver Bow County,14629,562,MT
+30111,30,111,Montana,Yellowstone County,30093,30.0,93.0,Montana,Silver Bow County,21,20,MT
+30009,30,9,Montana,Carbon County,30095,30.0,95.0,Montana,Stillwater County,310,79,MT
+30015,30,15,Montana,Chouteau County,30095,30.0,95.0,Montana,Stillwater County,2,3,MT
+30017,30,17,Montana,Custer County,30095,30.0,95.0,Montana,Stillwater County,8,12,MT
+30027,30,27,Montana,Fergus County,30095,30.0,95.0,Montana,Stillwater County,2,3,MT
+30031,30,31,Montana,Gallatin County,30095,30.0,95.0,Montana,Stillwater County,6,10,MT
+30037,30,37,Montana,Golden Valley County,30095,30.0,95.0,Montana,Stillwater County,2,3,MT
+30041,30,41,Montana,Hill County,30095,30.0,95.0,Montana,Stillwater County,2,3,MT
+30043,30,43,Montana,Jefferson County,30095,30.0,95.0,Montana,Stillwater County,10,16,MT
+30059,30,59,Montana,Meagher County,30095,30.0,95.0,Montana,Stillwater County,3,4,MT
+30063,30,63,Montana,Missoula County,30095,30.0,95.0,Montana,Stillwater County,53,47,MT
+30067,30,67,Montana,Park County,30095,30.0,95.0,Montana,Stillwater County,4,7,MT
+30095,30,95,Montana,Stillwater County,30095,30.0,95.0,Montana,Stillwater County,2748,202,MT
+30097,30,97,Montana,Sweet Grass County,30095,30.0,95.0,Montana,Stillwater County,43,22,MT
+30111,30,111,Montana,Yellowstone County,30095,30.0,95.0,Montana,Stillwater County,575,166,MT
+30027,30,27,Montana,Fergus County,30097,30.0,97.0,Montana,Sweet Grass County,6,9,MT
+30031,30,31,Montana,Gallatin County,30097,30.0,97.0,Montana,Sweet Grass County,17,22,MT
+30039,30,39,Montana,Granite County,30097,30.0,97.0,Montana,Sweet Grass County,12,14,MT
+30059,30,59,Montana,Meagher County,30097,30.0,97.0,Montana,Sweet Grass County,3,5,MT
+30065,30,65,Montana,Musselshell County,30097,30.0,97.0,Montana,Sweet Grass County,13,14,MT
+30067,30,67,Montana,Park County,30097,30.0,97.0,Montana,Sweet Grass County,201,104,MT
+30095,30,95,Montana,Stillwater County,30097,30.0,97.0,Montana,Sweet Grass County,53,35,MT
+30097,30,97,Montana,Sweet Grass County,30097,30.0,97.0,Montana,Sweet Grass County,1391,104,MT
+30107,30,107,Montana,Wheatland County,30097,30.0,97.0,Montana,Sweet Grass County,4,5,MT
+30111,30,111,Montana,Yellowstone County,30097,30.0,97.0,Montana,Sweet Grass County,51,46,MT
+30013,30,13,Montana,Cascade County,30099,30.0,99.0,Montana,Teton County,147,77,MT
+30027,30,27,Montana,Fergus County,30099,30.0,99.0,Montana,Teton County,2,4,MT
+30031,30,31,Montana,Gallatin County,30099,30.0,99.0,Montana,Teton County,17,25,MT
+30045,30,45,Montana,Judith Basin County,30099,30.0,99.0,Montana,Teton County,2,2,MT
+30049,30,49,Montana,Lewis and Clark County,30099,30.0,99.0,Montana,Teton County,31,26,MT
+30073,30,73,Montana,Pondera County,30099,30.0,99.0,Montana,Teton County,82,48,MT
+30077,30,77,Montana,Powell County,30099,30.0,99.0,Montana,Teton County,1,3,MT
+30095,30,95,Montana,Stillwater County,30099,30.0,99.0,Montana,Teton County,22,29,MT
+30099,30,99,Montana,Teton County,30099,30.0,99.0,Montana,Teton County,2067,127,MT
+30107,30,107,Montana,Wheatland County,30099,30.0,99.0,Montana,Teton County,12,17,MT
+30005,30,5,Montana,Blaine County,30101,30.0,101.0,Montana,Toole County,3,4,MT
+30013,30,13,Montana,Cascade County,30101,30.0,101.0,Montana,Toole County,18,26,MT
+30027,30,27,Montana,Fergus County,30101,30.0,101.0,Montana,Toole County,14,23,MT
+30029,30,29,Montana,Flathead County,30101,30.0,101.0,Montana,Toole County,31,34,MT
+30031,30,31,Montana,Gallatin County,30101,30.0,101.0,Montana,Toole County,2,4,MT
+30035,30,35,Montana,Glacier County,30101,30.0,101.0,Montana,Toole County,108,64,MT
+30041,30,41,Montana,Hill County,30101,30.0,101.0,Montana,Toole County,19,17,MT
+30049,30,49,Montana,Lewis and Clark County,30101,30.0,101.0,Montana,Toole County,27,31,MT
+30051,30,51,Montana,Liberty County,30101,30.0,101.0,Montana,Toole County,24,13,MT
+30067,30,67,Montana,Park County,30101,30.0,101.0,Montana,Toole County,15,24,MT
+30073,30,73,Montana,Pondera County,30101,30.0,101.0,Montana,Toole County,218,57,MT
+30095,30,95,Montana,Stillwater County,30101,30.0,101.0,Montana,Toole County,5,7,MT
+30099,30,99,Montana,Teton County,30101,30.0,101.0,Montana,Toole County,11,7,MT
+30101,30,101,Montana,Toole County,30101,30.0,101.0,Montana,Toole County,1919,167,MT
+30003,30,3,Montana,Big Horn County,30103,30.0,103.0,Montana,Treasure County,24,26,MT
+30017,30,17,Montana,Custer County,30103,30.0,103.0,Montana,Treasure County,3,5,MT
+30087,30,87,Montana,Rosebud County,30103,30.0,103.0,Montana,Treasure County,5,7,MT
+30095,30,95,Montana,Stillwater County,30103,30.0,103.0,Montana,Treasure County,9,10,MT
+30103,30,103,Montana,Treasure County,30103,30.0,103.0,Montana,Treasure County,261,37,MT
+30111,30,111,Montana,Yellowstone County,30103,30.0,103.0,Montana,Treasure County,23,22,MT
+30009,30,9,Montana,Carbon County,30105,30.0,105.0,Montana,Valley County,3,4,MT
+30013,30,13,Montana,Cascade County,30105,30.0,105.0,Montana,Valley County,3,5,MT
+30019,30,19,Montana,Daniels County,30105,30.0,105.0,Montana,Valley County,4,7,MT
+30021,30,21,Montana,Dawson County,30105,30.0,105.0,Montana,Valley County,35,41,MT
+30027,30,27,Montana,Fergus County,30105,30.0,105.0,Montana,Valley County,1,2,MT
+30049,30,49,Montana,Lewis and Clark County,30105,30.0,105.0,Montana,Valley County,3,4,MT
+30055,30,55,Montana,McCone County,30105,30.0,105.0,Montana,Valley County,10,8,MT
+30071,30,71,Montana,Phillips County,30105,30.0,105.0,Montana,Valley County,49,26,MT
+30085,30,85,Montana,Roosevelt County,30105,30.0,105.0,Montana,Valley County,29,16,MT
+30093,30,93,Montana,Silver Bow County,30105,30.0,105.0,Montana,Valley County,6,11,MT
+30099,30,99,Montana,Teton County,30105,30.0,105.0,Montana,Valley County,8,11,MT
+30101,30,101,Montana,Toole County,30105,30.0,105.0,Montana,Valley County,4,7,MT
+30105,30,105,Montana,Valley County,30105,30.0,105.0,Montana,Valley County,3351,141,MT
+30111,30,111,Montana,Yellowstone County,30105,30.0,105.0,Montana,Valley County,8,14,MT
+30007,30,7,Montana,Broadwater County,30107,30.0,107.0,Montana,Wheatland County,3,4,MT
+30015,30,15,Montana,Chouteau County,30107,30.0,107.0,Montana,Wheatland County,1,3,MT
+30027,30,27,Montana,Fergus County,30107,30.0,107.0,Montana,Wheatland County,12,13,MT
+30029,30,29,Montana,Flathead County,30107,30.0,107.0,Montana,Wheatland County,15,23,MT
+30037,30,37,Montana,Golden Valley County,30107,30.0,107.0,Montana,Wheatland County,27,16,MT
+30045,30,45,Montana,Judith Basin County,30107,30.0,107.0,Montana,Wheatland County,8,9,MT
+30059,30,59,Montana,Meagher County,30107,30.0,107.0,Montana,Wheatland County,5,6,MT
+30107,30,107,Montana,Wheatland County,30107,30.0,107.0,Montana,Wheatland County,761,97,MT
+30021,30,21,Montana,Dawson County,30109,30.0,109.0,Montana,Wibaux County,17,18,MT
+30025,30,25,Montana,Fallon County,30109,30.0,109.0,Montana,Wibaux County,4,6,MT
+30095,30,95,Montana,Stillwater County,30109,30.0,109.0,Montana,Wibaux County,1,3,MT
+30109,30,109,Montana,Wibaux County,30109,30.0,109.0,Montana,Wibaux County,327,64,MT
+30003,30,3,Montana,Big Horn County,30111,30.0,111.0,Montana,Yellowstone County,157,53,MT
+30005,30,5,Montana,Blaine County,30111,30.0,111.0,Montana,Yellowstone County,4,4,MT
+30007,30,7,Montana,Broadwater County,30111,30.0,111.0,Montana,Yellowstone County,37,39,MT
+30009,30,9,Montana,Carbon County,30111,30.0,111.0,Montana,Yellowstone County,1362,131,MT
+30013,30,13,Montana,Cascade County,30111,30.0,111.0,Montana,Yellowstone County,48,41,MT
+30015,30,15,Montana,Chouteau County,30111,30.0,111.0,Montana,Yellowstone County,5,5,MT
+30027,30,27,Montana,Fergus County,30111,30.0,111.0,Montana,Yellowstone County,17,20,MT
+30029,30,29,Montana,Flathead County,30111,30.0,111.0,Montana,Yellowstone County,2,5,MT
+30031,30,31,Montana,Gallatin County,30111,30.0,111.0,Montana,Yellowstone County,293,195,MT
+30035,30,35,Montana,Glacier County,30111,30.0,111.0,Montana,Yellowstone County,9,19,MT
+30037,30,37,Montana,Golden Valley County,30111,30.0,111.0,Montana,Yellowstone County,71,18,MT
+30043,30,43,Montana,Jefferson County,30111,30.0,111.0,Montana,Yellowstone County,13,12,MT
+30047,30,47,Montana,Lake County,30111,30.0,111.0,Montana,Yellowstone County,30,31,MT
+30049,30,49,Montana,Lewis and Clark County,30111,30.0,111.0,Montana,Yellowstone County,83,59,MT
+30059,30,59,Montana,Meagher County,30111,30.0,111.0,Montana,Yellowstone County,3,4,MT
+30061,30,61,Montana,Mineral County,30111,30.0,111.0,Montana,Yellowstone County,14,18,MT
+30063,30,63,Montana,Missoula County,30111,30.0,111.0,Montana,Yellowstone County,38,41,MT
+30065,30,65,Montana,Musselshell County,30111,30.0,111.0,Montana,Yellowstone County,390,93,MT
+30067,30,67,Montana,Park County,30111,30.0,111.0,Montana,Yellowstone County,39,30,MT
+30069,30,69,Montana,Petroleum County,30111,30.0,111.0,Montana,Yellowstone County,2,4,MT
+30073,30,73,Montana,Pondera County,30111,30.0,111.0,Montana,Yellowstone County,9,10,MT
+30081,30,81,Montana,Ravalli County,30111,30.0,111.0,Montana,Yellowstone County,44,37,MT
+30083,30,83,Montana,Richland County,30111,30.0,111.0,Montana,Yellowstone County,3,4,MT
+30087,30,87,Montana,Rosebud County,30111,30.0,111.0,Montana,Yellowstone County,41,31,MT
+30091,30,91,Montana,Sheridan County,30111,30.0,111.0,Montana,Yellowstone County,1,2,MT
+30093,30,93,Montana,Silver Bow County,30111,30.0,111.0,Montana,Yellowstone County,17,32,MT
+30095,30,95,Montana,Stillwater County,30111,30.0,111.0,Montana,Yellowstone County,1285,169,MT
+30097,30,97,Montana,Sweet Grass County,30111,30.0,111.0,Montana,Yellowstone County,37,28,MT
+30103,30,103,Montana,Treasure County,30111,30.0,111.0,Montana,Yellowstone County,17,10,MT
+30107,30,107,Montana,Wheatland County,30111,30.0,111.0,Montana,Yellowstone County,2,3,MT
+30111,30,111,Montana,Yellowstone County,30111,30.0,111.0,Montana,Yellowstone County,74345,860,MT
+30073,30,73,Montana,Pondera County,31003,31.0,3.0,Nebraska,Antelope County,3,4,MT
+30089,30,89,Montana,Sanders County,31045,31.0,45.0,Nebraska,Dawes County,2,3,MT
+30029,30,29,Montana,Flathead County,31055,31.0,55.0,Nebraska,Douglas County,3,5,MT
+30013,30,13,Montana,Cascade County,31067,31.0,67.0,Nebraska,Gage County,3,4,MT
+30093,30,93,Montana,Silver Bow County,31111,31.0,111.0,Nebraska,Lincoln County,4,6,MT
+30077,30,77,Montana,Powell County,31153,31.0,153.0,Nebraska,Sarpy County,21,30,MT
+30001,30,1,Montana,Beaverhead County,32001,32.0,1.0,Nevada,Churchill County,24,35,MT
+30029,30,29,Montana,Flathead County,32003,32.0,3.0,Nevada,Clark County,14,18,MT
+30031,30,31,Montana,Gallatin County,32003,32.0,3.0,Nevada,Clark County,26,27,MT
+30045,30,45,Montana,Judith Basin County,32003,32.0,3.0,Nevada,Clark County,1,2,MT
+30111,30,111,Montana,Yellowstone County,32003,32.0,3.0,Nevada,Clark County,36,39,MT
+30063,30,63,Montana,Missoula County,32007,32.0,7.0,Nevada,Elko County,4,3,MT
+30067,30,67,Montana,Park County,32007,32.0,7.0,Nevada,Elko County,3,5,MT
+30077,30,77,Montana,Powell County,32007,32.0,7.0,Nevada,Elko County,10,13,MT
+30057,30,57,Montana,Madison County,32013,32.0,13.0,Nevada,Humboldt County,9,13,MT
+30095,30,95,Montana,Stillwater County,32013,32.0,13.0,Nevada,Humboldt County,4,6,MT
+30047,30,47,Montana,Lake County,32023,32.0,23.0,Nevada,Nye County,6,9,MT
+30057,30,57,Montana,Madison County,34003,34.0,3.0,New Jersey,Bergen County,8,11,MT
+30031,30,31,Montana,Gallatin County,34007,34.0,7.0,New Jersey,Camden County,9,15,MT
+30029,30,29,Montana,Flathead County,34035,34.0,35.0,New Jersey,Somerset County,58,59,MT
+30001,30,1,Montana,Beaverhead County,35001,35.0,1.0,New Mexico,Bernalillo County,2,3,MT
+30003,30,3,Montana,Big Horn County,35015,35.0,15.0,New Mexico,Eddy County,9,11,MT
+30047,30,47,Montana,Lake County,35039,35.0,39.0,New Mexico,Rio Arriba County,5,7,MT
+30053,30,53,Montana,Lincoln County,35049,35.0,49.0,New Mexico,Santa Fe County,22,26,MT
+30041,30,41,Montana,Hill County,36029,36.0,29.0,New York,Erie County,3,7,MT
+30057,30,57,Montana,Madison County,36029,36.0,29.0,New York,Erie County,7,9,MT
+30049,30,49,Montana,Lewis and Clark County,36039,36.0,39.0,New York,Greene County,17,24,MT
+30013,30,13,Montana,Cascade County,36053,36.0,53.0,New York,Madison County,9,15,MT
+30067,30,67,Montana,Park County,36059,36.0,59.0,New York,Nassau County,5,7,MT
+30015,30,15,Montana,Chouteau County,36061,36.0,61.0,New York,New York County,5,7,MT
+30081,30,81,Montana,Ravalli County,36103,36.0,103.0,New York,Suffolk County,12,21,MT
+30029,30,29,Montana,Flathead County,36107,36.0,107.0,New York,Tioga County,5,7,MT
+30029,30,29,Montana,Flathead County,37051,37.0,51.0,North Carolina,Cumberland County,9,14,MT
+30029,30,29,Montana,Flathead County,37119,37.0,119.0,North Carolina,Mecklenburg County,20,30,MT
+30083,30,83,Montana,Richland County,38003,38.0,3.0,North Dakota,Barnes County,9,14,MT
+30003,30,3,Montana,Big Horn County,38007,38.0,7.0,North Dakota,Billings County,5,9,MT
+30031,30,31,Montana,Gallatin County,38007,38.0,7.0,North Dakota,Billings County,16,26,MT
+30083,30,83,Montana,Richland County,38011,38.0,11.0,North Dakota,Bowman County,2,3,MT
+30105,30,105,Montana,Valley County,38013,38.0,13.0,North Dakota,Burke County,16,25,MT
+30017,30,17,Montana,Custer County,38015,38.0,15.0,North Dakota,Burleigh County,3,5,MT
+30025,30,25,Montana,Fallon County,38015,38.0,15.0,North Dakota,Burleigh County,11,14,MT
+30049,30,49,Montana,Lewis and Clark County,38015,38.0,15.0,North Dakota,Burleigh County,14,21,MT
+30025,30,25,Montana,Fallon County,38017,38.0,17.0,North Dakota,Cass County,4,5,MT
+30035,30,35,Montana,Glacier County,38017,38.0,17.0,North Dakota,Cass County,3,5,MT
+30039,30,39,Montana,Granite County,38017,38.0,17.0,North Dakota,Cass County,1,4,MT
+30043,30,43,Montana,Jefferson County,38017,38.0,17.0,North Dakota,Cass County,5,9,MT
+30045,30,45,Montana,Judith Basin County,38017,38.0,17.0,North Dakota,Cass County,2,4,MT
+30071,30,71,Montana,Phillips County,38017,38.0,17.0,North Dakota,Cass County,5,8,MT
+30081,30,81,Montana,Ravalli County,38017,38.0,17.0,North Dakota,Cass County,11,15,MT
+30083,30,83,Montana,Richland County,38017,38.0,17.0,North Dakota,Cass County,11,19,MT
+30087,30,87,Montana,Rosebud County,38017,38.0,17.0,North Dakota,Cass County,10,18,MT
+30091,30,91,Montana,Sheridan County,38017,38.0,17.0,North Dakota,Cass County,2,4,MT
+30029,30,29,Montana,Flathead County,38019,38.0,19.0,North Dakota,Cavalier County,6,13,MT
+30021,30,21,Montana,Dawson County,38023,38.0,23.0,North Dakota,Divide County,2,4,MT
+30091,30,91,Montana,Sheridan County,38023,38.0,23.0,North Dakota,Divide County,10,9,MT
+30001,30,1,Montana,Beaverhead County,38025,38.0,25.0,North Dakota,Dunn County,8,14,MT
+30005,30,5,Montana,Blaine County,38025,38.0,25.0,North Dakota,Dunn County,2,4,MT
+30009,30,9,Montana,Carbon County,38025,38.0,25.0,North Dakota,Dunn County,8,13,MT
+30013,30,13,Montana,Cascade County,38025,38.0,25.0,North Dakota,Dunn County,16,27,MT
+30021,30,21,Montana,Dawson County,38025,38.0,25.0,North Dakota,Dunn County,22,32,MT
+30047,30,47,Montana,Lake County,38025,38.0,25.0,North Dakota,Dunn County,3,5,MT
+30083,30,83,Montana,Richland County,38025,38.0,25.0,North Dakota,Dunn County,3,5,MT
+30093,30,93,Montana,Silver Bow County,38025,38.0,25.0,North Dakota,Dunn County,16,26,MT
+30109,30,109,Montana,Wibaux County,38025,38.0,25.0,North Dakota,Dunn County,2,5,MT
+30109,30,109,Montana,Wibaux County,38033,38.0,33.0,North Dakota,Golden Valley County,30,17,MT
+30057,30,57,Montana,Madison County,38039,38.0,39.0,North Dakota,Griggs County,4,4,MT
+30001,30,1,Montana,Beaverhead County,38053,38.0,53.0,North Dakota,McKenzie County,10,16,MT
+30009,30,9,Montana,Carbon County,38053,38.0,53.0,North Dakota,McKenzie County,6,6,MT
+30013,30,13,Montana,Cascade County,38053,38.0,53.0,North Dakota,McKenzie County,8,12,MT
+30017,30,17,Montana,Custer County,38053,38.0,53.0,North Dakota,McKenzie County,13,18,MT
+30021,30,21,Montana,Dawson County,38053,38.0,53.0,North Dakota,McKenzie County,5,5,MT
+30027,30,27,Montana,Fergus County,38053,38.0,53.0,North Dakota,McKenzie County,36,40,MT
+30029,30,29,Montana,Flathead County,38053,38.0,53.0,North Dakota,McKenzie County,86,59,MT
+30031,30,31,Montana,Gallatin County,38053,38.0,53.0,North Dakota,McKenzie County,21,34,MT
+30037,30,37,Montana,Golden Valley County,38053,38.0,53.0,North Dakota,McKenzie County,2,3,MT
+30039,30,39,Montana,Granite County,38053,38.0,53.0,North Dakota,McKenzie County,7,7,MT
+30041,30,41,Montana,Hill County,38053,38.0,53.0,North Dakota,McKenzie County,9,14,MT
+30047,30,47,Montana,Lake County,38053,38.0,53.0,North Dakota,McKenzie County,72,53,MT
+30049,30,49,Montana,Lewis and Clark County,38053,38.0,53.0,North Dakota,McKenzie County,4,7,MT
+30059,30,59,Montana,Meagher County,38053,38.0,53.0,North Dakota,McKenzie County,5,8,MT
+30063,30,63,Montana,Missoula County,38053,38.0,53.0,North Dakota,McKenzie County,17,26,MT
+30065,30,65,Montana,Musselshell County,38053,38.0,53.0,North Dakota,McKenzie County,4,6,MT
+30071,30,71,Montana,Phillips County,38053,38.0,53.0,North Dakota,McKenzie County,2,7,MT
+30077,30,77,Montana,Powell County,38053,38.0,53.0,North Dakota,McKenzie County,2,4,MT
+30079,30,79,Montana,Prairie County,38053,38.0,53.0,North Dakota,McKenzie County,4,6,MT
+30081,30,81,Montana,Ravalli County,38053,38.0,53.0,North Dakota,McKenzie County,19,22,MT
+30083,30,83,Montana,Richland County,38053,38.0,53.0,North Dakota,McKenzie County,267,118,MT
+30085,30,85,Montana,Roosevelt County,38053,38.0,53.0,North Dakota,McKenzie County,7,10,MT
+30087,30,87,Montana,Rosebud County,38053,38.0,53.0,North Dakota,McKenzie County,10,13,MT
+30105,30,105,Montana,Valley County,38053,38.0,53.0,North Dakota,McKenzie County,9,14,MT
+30107,30,107,Montana,Wheatland County,38053,38.0,53.0,North Dakota,McKenzie County,7,10,MT
+30109,30,109,Montana,Wibaux County,38053,38.0,53.0,North Dakota,McKenzie County,8,10,MT
+30111,30,111,Montana,Yellowstone County,38053,38.0,53.0,North Dakota,McKenzie County,65,56,MT
+30049,30,49,Montana,Lewis and Clark County,38057,38.0,57.0,North Dakota,Mercer County,6,9,MT
+30065,30,65,Montana,Musselshell County,38059,38.0,59.0,North Dakota,Morton County,12,18,MT
+30003,30,3,Montana,Big Horn County,38061,38.0,61.0,North Dakota,Mountrail County,8,13,MT
+30021,30,21,Montana,Dawson County,38061,38.0,61.0,North Dakota,Mountrail County,1,2,MT
+30031,30,31,Montana,Gallatin County,38061,38.0,61.0,North Dakota,Mountrail County,5,10,MT
+30047,30,47,Montana,Lake County,38061,38.0,61.0,North Dakota,Mountrail County,20,19,MT
+30067,30,67,Montana,Park County,38061,38.0,61.0,North Dakota,Mountrail County,2,3,MT
+30081,30,81,Montana,Ravalli County,38061,38.0,61.0,North Dakota,Mountrail County,7,11,MT
+30083,30,83,Montana,Richland County,38061,38.0,61.0,North Dakota,Mountrail County,7,8,MT
+30085,30,85,Montana,Roosevelt County,38061,38.0,61.0,North Dakota,Mountrail County,3,3,MT
+30091,30,91,Montana,Sheridan County,38061,38.0,61.0,North Dakota,Mountrail County,17,13,MT
+30111,30,111,Montana,Yellowstone County,38061,38.0,61.0,North Dakota,Mountrail County,41,38,MT
+30105,30,105,Montana,Valley County,38069,38.0,69.0,North Dakota,Pierce County,2,3,MT
+30027,30,27,Montana,Fergus County,38075,38.0,75.0,North Dakota,Renville County,3,4,MT
+30031,30,31,Montana,Gallatin County,38077,38.0,77.0,North Dakota,Richland County,19,29,MT
+30111,30,111,Montana,Yellowstone County,38081,38.0,81.0,North Dakota,Sargent County,9,15,MT
+30011,30,11,Montana,Carter County,38087,38.0,87.0,North Dakota,Slope County,22,26,MT
+30025,30,25,Montana,Fallon County,38087,38.0,87.0,North Dakota,Slope County,34,23,MT
+30001,30,1,Montana,Beaverhead County,38089,38.0,89.0,North Dakota,Stark County,39,56,MT
+30007,30,7,Montana,Broadwater County,38089,38.0,89.0,North Dakota,Stark County,38,46,MT
+30013,30,13,Montana,Cascade County,38089,38.0,89.0,North Dakota,Stark County,2,3,MT
+30017,30,17,Montana,Custer County,38089,38.0,89.0,North Dakota,Stark County,7,12,MT
+30021,30,21,Montana,Dawson County,38089,38.0,89.0,North Dakota,Stark County,21,17,MT
+30023,30,23,Montana,Deer Lodge County,38089,38.0,89.0,North Dakota,Stark County,46,65,MT
+30027,30,27,Montana,Fergus County,38089,38.0,89.0,North Dakota,Stark County,1,3,MT
+30029,30,29,Montana,Flathead County,38089,38.0,89.0,North Dakota,Stark County,39,38,MT
+30031,30,31,Montana,Gallatin County,38089,38.0,89.0,North Dakota,Stark County,3,4,MT
+30047,30,47,Montana,Lake County,38089,38.0,89.0,North Dakota,Stark County,22,27,MT
+30057,30,57,Montana,Madison County,38089,38.0,89.0,North Dakota,Stark County,1,2,MT
+30065,30,65,Montana,Musselshell County,38089,38.0,89.0,North Dakota,Stark County,6,9,MT
+30083,30,83,Montana,Richland County,38089,38.0,89.0,North Dakota,Stark County,8,10,MT
+30085,30,85,Montana,Roosevelt County,38089,38.0,89.0,North Dakota,Stark County,8,10,MT
+30105,30,105,Montana,Valley County,38089,38.0,89.0,North Dakota,Stark County,9,16,MT
+30109,30,109,Montana,Wibaux County,38089,38.0,89.0,North Dakota,Stark County,21,18,MT
+30111,30,111,Montana,Yellowstone County,38089,38.0,89.0,North Dakota,Stark County,59,40,MT
+30011,30,11,Montana,Carter County,38093,38.0,93.0,North Dakota,Stutsman County,7,9,MT
+30005,30,5,Montana,Blaine County,38101,38.0,101.0,North Dakota,Ward County,10,14,MT
+30009,30,9,Montana,Carbon County,38101,38.0,101.0,North Dakota,Ward County,3,5,MT
+30013,30,13,Montana,Cascade County,38101,38.0,101.0,North Dakota,Ward County,90,78,MT
+30017,30,17,Montana,Custer County,38101,38.0,101.0,North Dakota,Ward County,2,3,MT
+30031,30,31,Montana,Gallatin County,38101,38.0,101.0,North Dakota,Ward County,6,10,MT
+30039,30,39,Montana,Granite County,38101,38.0,101.0,North Dakota,Ward County,4,5,MT
+30053,30,53,Montana,Lincoln County,38101,38.0,101.0,North Dakota,Ward County,13,20,MT
+30073,30,73,Montana,Pondera County,38101,38.0,101.0,North Dakota,Ward County,3,4,MT
+30091,30,91,Montana,Sheridan County,38101,38.0,101.0,North Dakota,Ward County,4,7,MT
+30111,30,111,Montana,Yellowstone County,38101,38.0,101.0,North Dakota,Ward County,32,38,MT
+30005,30,5,Montana,Blaine County,38105,38.0,105.0,North Dakota,Williams County,2,3,MT
+30007,30,7,Montana,Broadwater County,38105,38.0,105.0,North Dakota,Williams County,53,59,MT
+30009,30,9,Montana,Carbon County,38105,38.0,105.0,North Dakota,Williams County,26,19,MT
+30011,30,11,Montana,Carter County,38105,38.0,105.0,North Dakota,Williams County,2,3,MT
+30013,30,13,Montana,Cascade County,38105,38.0,105.0,North Dakota,Williams County,75,81,MT
+30017,30,17,Montana,Custer County,38105,38.0,105.0,North Dakota,Williams County,53,37,MT
+30019,30,19,Montana,Daniels County,38105,38.0,105.0,North Dakota,Williams County,8,12,MT
+30021,30,21,Montana,Dawson County,38105,38.0,105.0,North Dakota,Williams County,48,48,MT
+30029,30,29,Montana,Flathead County,38105,38.0,105.0,North Dakota,Williams County,179,105,MT
+30031,30,31,Montana,Gallatin County,38105,38.0,105.0,North Dakota,Williams County,66,57,MT
+30041,30,41,Montana,Hill County,38105,38.0,105.0,North Dakota,Williams County,8,12,MT
+30043,30,43,Montana,Jefferson County,38105,38.0,105.0,North Dakota,Williams County,17,19,MT
+30047,30,47,Montana,Lake County,38105,38.0,105.0,North Dakota,Williams County,55,35,MT
+30049,30,49,Montana,Lewis and Clark County,38105,38.0,105.0,North Dakota,Williams County,13,20,MT
+30053,30,53,Montana,Lincoln County,38105,38.0,105.0,North Dakota,Williams County,19,27,MT
+30055,30,55,Montana,McCone County,38105,38.0,105.0,North Dakota,Williams County,2,3,MT
+30063,30,63,Montana,Missoula County,38105,38.0,105.0,North Dakota,Williams County,142,89,MT
+30065,30,65,Montana,Musselshell County,38105,38.0,105.0,North Dakota,Williams County,19,17,MT
+30067,30,67,Montana,Park County,38105,38.0,105.0,North Dakota,Williams County,11,14,MT
+30071,30,71,Montana,Phillips County,38105,38.0,105.0,North Dakota,Williams County,1,3,MT
+30073,30,73,Montana,Pondera County,38105,38.0,105.0,North Dakota,Williams County,11,10,MT
+30081,30,81,Montana,Ravalli County,38105,38.0,105.0,North Dakota,Williams County,111,69,MT
+30083,30,83,Montana,Richland County,38105,38.0,105.0,North Dakota,Williams County,199,64,MT
+30085,30,85,Montana,Roosevelt County,38105,38.0,105.0,North Dakota,Williams County,131,48,MT
+30087,30,87,Montana,Rosebud County,38105,38.0,105.0,North Dakota,Williams County,2,4,MT
+30089,30,89,Montana,Sanders County,38105,38.0,105.0,North Dakota,Williams County,19,24,MT
+30091,30,91,Montana,Sheridan County,38105,38.0,105.0,North Dakota,Williams County,41,20,MT
+30095,30,95,Montana,Stillwater County,38105,38.0,105.0,North Dakota,Williams County,21,21,MT
+30097,30,97,Montana,Sweet Grass County,38105,38.0,105.0,North Dakota,Williams County,4,5,MT
+30099,30,99,Montana,Teton County,38105,38.0,105.0,North Dakota,Williams County,10,10,MT
+30103,30,103,Montana,Treasure County,38105,38.0,105.0,North Dakota,Williams County,14,9,MT
+30105,30,105,Montana,Valley County,38105,38.0,105.0,North Dakota,Williams County,17,24,MT
+30107,30,107,Montana,Wheatland County,38105,38.0,105.0,North Dakota,Williams County,11,17,MT
+30109,30,109,Montana,Wibaux County,38105,38.0,105.0,North Dakota,Williams County,10,16,MT
+30111,30,111,Montana,Yellowstone County,38105,38.0,105.0,North Dakota,Williams County,472,180,MT
+30029,30,29,Montana,Flathead County,39035,39.0,35.0,Ohio,Cuyahoga County,26,40,MT
+30049,30,49,Montana,Lewis and Clark County,39035,39.0,35.0,Ohio,Cuyahoga County,20,28,MT
+30103,30,103,Montana,Treasure County,39035,39.0,35.0,Ohio,Cuyahoga County,2,3,MT
+30111,30,111,Montana,Yellowstone County,39035,39.0,35.0,Ohio,Cuyahoga County,13,15,MT
+30095,30,95,Montana,Stillwater County,39049,39.0,49.0,Ohio,Franklin County,10,9,MT
+30111,30,111,Montana,Yellowstone County,39049,39.0,49.0,Ohio,Franklin County,11,18,MT
+30031,30,31,Montana,Gallatin County,39151,39.0,151.0,Ohio,Stark County,4,7,MT
+30057,30,57,Montana,Madison County,39153,39.0,153.0,Ohio,Summit County,2,2,MT
+30009,30,9,Montana,Carbon County,40119,40.0,119.0,Oklahoma,Payne County,8,12,MT
+30053,30,53,Montana,Lincoln County,41031,41.0,31.0,Oregon,Jefferson County,3,4,MT
+30031,30,31,Montana,Gallatin County,41039,41.0,39.0,Oregon,Lane County,12,18,MT
+30029,30,29,Montana,Flathead County,41047,41.0,47.0,Oregon,Marion County,14,21,MT
+30063,30,63,Montana,Missoula County,41047,41.0,47.0,Oregon,Marion County,9,14,MT
+30001,30,1,Montana,Beaverhead County,41051,41.0,51.0,Oregon,Multnomah County,4,6,MT
+30047,30,47,Montana,Lake County,41051,41.0,51.0,Oregon,Multnomah County,4,6,MT
+30049,30,49,Montana,Lewis and Clark County,41051,41.0,51.0,Oregon,Multnomah County,42,42,MT
+30057,30,57,Montana,Madison County,41051,41.0,51.0,Oregon,Multnomah County,13,18,MT
+30111,30,111,Montana,Yellowstone County,41051,41.0,51.0,Oregon,Multnomah County,16,29,MT
+30081,30,81,Montana,Ravalli County,41059,41.0,59.0,Oregon,Umatilla County,9,15,MT
+30111,30,111,Montana,Yellowstone County,41067,41.0,67.0,Oregon,Washington County,4,6,MT
+30063,30,63,Montana,Missoula County,42091,42.0,91.0,Pennsylvania,Montgomery County,11,18,MT
+30095,30,95,Montana,Stillwater County,42101,42.0,101.0,Pennsylvania,Philadelphia County,16,23,MT
+30111,30,111,Montana,Yellowstone County,42101,42.0,101.0,Pennsylvania,Philadelphia County,1,3,MT
+30067,30,67,Montana,Park County,42129,42.0,129.0,Pennsylvania,Westmoreland County,3,5,MT
+30031,30,31,Montana,Gallatin County,45019,45.0,19.0,South Carolina,Charleston County,7,11,MT
+30063,30,63,Montana,Missoula County,45041,45.0,41.0,South Carolina,Florence County,2,4,MT
+30111,30,111,Montana,Yellowstone County,46055,46.0,55.0,South Dakota,Haakon County,15,19,MT
+30011,30,11,Montana,Carter County,46063,46.0,63.0,South Dakota,Harding County,5,6,MT
+30063,30,63,Montana,Missoula County,46065,46.0,65.0,South Dakota,Hughes County,15,25,MT
+30011,30,11,Montana,Carter County,46081,46.0,81.0,South Dakota,Lawrence County,9,12,MT
+30029,30,29,Montana,Flathead County,46081,46.0,81.0,South Dakota,Lawrence County,4,7,MT
+30095,30,95,Montana,Stillwater County,46097,46.0,97.0,South Dakota,Miner County,7,9,MT
+30013,30,13,Montana,Cascade County,46099,46.0,99.0,South Dakota,Minnehaha County,47,63,MT
+30017,30,17,Montana,Custer County,46099,46.0,99.0,South Dakota,Minnehaha County,2,2,MT
+30093,30,93,Montana,Silver Bow County,46099,46.0,99.0,South Dakota,Minnehaha County,34,44,MT
+30017,30,17,Montana,Custer County,46103,46.0,103.0,South Dakota,Pennington County,5,8,MT
+30021,30,21,Montana,Dawson County,46103,46.0,103.0,South Dakota,Pennington County,8,13,MT
+30041,30,41,Montana,Hill County,46103,46.0,103.0,South Dakota,Pennington County,1,2,MT
+30111,30,111,Montana,Yellowstone County,46109,46.0,109.0,South Dakota,Roberts County,3,5,MT
+30111,30,111,Montana,Yellowstone County,46137,46.0,137.0,South Dakota,Ziebach County,16,26,MT
+30043,30,43,Montana,Jefferson County,47037,47.0,37.0,Tennessee,Davidson County,4,6,MT
+30095,30,95,Montana,Stillwater County,47149,47.0,149.0,Tennessee,Rutherford County,10,11,MT
+30013,30,13,Montana,Cascade County,47157,47.0,157.0,Tennessee,Shelby County,22,34,MT
+30049,30,49,Montana,Lewis and Clark County,48029,48.0,29.0,Texas,Bexar County,6,7,MT
+30065,30,65,Montana,Musselshell County,48029,48.0,29.0,Texas,Bexar County,4,6,MT
+30013,30,13,Montana,Cascade County,48051,48.0,51.0,Texas,Burleson County,4,6,MT
+30047,30,47,Montana,Lake County,48105,48.0,105.0,Texas,Crockett County,5,7,MT
+30057,30,57,Montana,Madison County,48139,48.0,139.0,Texas,Ellis County,12,17,MT
+30093,30,93,Montana,Silver Bow County,48167,48.0,167.0,Texas,Galveston County,7,13,MT
+30001,30,1,Montana,Beaverhead County,48201,48.0,201.0,Texas,Harris County,8,12,MT
+30013,30,13,Montana,Cascade County,48201,48.0,201.0,Texas,Harris County,8,13,MT
+30031,30,31,Montana,Gallatin County,48201,48.0,201.0,Texas,Harris County,39,40,MT
+30041,30,41,Montana,Hill County,48201,48.0,201.0,Texas,Harris County,6,10,MT
+30049,30,49,Montana,Lewis and Clark County,48201,48.0,201.0,Texas,Harris County,3,5,MT
+30109,30,109,Montana,Wibaux County,48201,48.0,201.0,Texas,Harris County,3,4,MT
+30029,30,29,Montana,Flathead County,48227,48.0,227.0,Texas,Howard County,10,16,MT
+30031,30,31,Montana,Gallatin County,48309,48.0,309.0,Texas,McLennan County,12,12,MT
+30081,30,81,Montana,Ravalli County,48309,48.0,309.0,Texas,McLennan County,21,33,MT
+30049,30,49,Montana,Lewis and Clark County,48329,48.0,329.0,Texas,Midland County,36,51,MT
+30017,30,17,Montana,Custer County,48375,48.0,375.0,Texas,Potter County,8,11,MT
+30029,30,29,Montana,Flathead County,48427,48.0,427.0,Texas,Starr County,5,7,MT
+30063,30,63,Montana,Missoula County,48439,48.0,439.0,Texas,Tarrant County,19,31,MT
+30103,30,103,Montana,Treasure County,48439,48.0,439.0,Texas,Tarrant County,2,5,MT
+30013,30,13,Montana,Cascade County,48441,48.0,441.0,Texas,Taylor County,8,13,MT
+30081,30,81,Montana,Ravalli County,48453,48.0,453.0,Texas,Travis County,25,40,MT
+30071,30,71,Montana,Phillips County,49003,49.0,3.0,Utah,Box Elder County,3,4,MT
+30063,30,63,Montana,Missoula County,49013,49.0,13.0,Utah,Duchesne County,69,102,MT
+30009,30,9,Montana,Carbon County,49035,49.0,35.0,Utah,Salt Lake County,9,11,MT
+30013,30,13,Montana,Cascade County,49035,49.0,35.0,Utah,Salt Lake County,7,10,MT
+30029,30,29,Montana,Flathead County,49035,49.0,35.0,Utah,Salt Lake County,19,25,MT
+30031,30,31,Montana,Gallatin County,49035,49.0,35.0,Utah,Salt Lake County,2,5,MT
+30043,30,43,Montana,Jefferson County,49035,49.0,35.0,Utah,Salt Lake County,2,3,MT
+30047,30,47,Montana,Lake County,49035,49.0,35.0,Utah,Salt Lake County,12,14,MT
+30081,30,81,Montana,Ravalli County,49035,49.0,35.0,Utah,Salt Lake County,17,27,MT
+30089,30,89,Montana,Sanders County,49035,49.0,35.0,Utah,Salt Lake County,3,5,MT
+30093,30,93,Montana,Silver Bow County,49035,49.0,35.0,Utah,Salt Lake County,2,3,MT
+30111,30,111,Montana,Yellowstone County,49035,49.0,35.0,Utah,Salt Lake County,1,3,MT
+30029,30,29,Montana,Flathead County,49043,49.0,43.0,Utah,Summit County,11,17,MT
+30009,30,9,Montana,Carbon County,49047,49.0,47.0,Utah,Uintah County,20,25,MT
+30031,30,31,Montana,Gallatin County,49049,49.0,49.0,Utah,Utah County,3,4,MT
+30029,30,29,Montana,Flathead County,49057,49.0,57.0,Utah,Weber County,8,13,MT
+30065,30,65,Montana,Musselshell County,51155,51.0,155.0,Virginia,Pulaski County,20,20,MT
+30067,30,67,Montana,Park County,51760,51.0,760.0,Virginia,Richmond city,2,5,MT
+30029,30,29,Montana,Flathead County,53005,53.0,5.0,Washington,Benton County,11,17,MT
+30061,30,61,Montana,Mineral County,53005,53.0,5.0,Washington,Benton County,17,19,MT
+30089,30,89,Montana,Sanders County,53005,53.0,5.0,Washington,Benton County,4,7,MT
+30047,30,47,Montana,Lake County,53013,53.0,13.0,Washington,Columbia County,7,10,MT
+30053,30,53,Montana,Lincoln County,53015,53.0,15.0,Washington,Cowlitz County,4,5,MT
+30087,30,87,Montana,Rosebud County,53021,53.0,21.0,Washington,Franklin County,5,8,MT
+30007,30,7,Montana,Broadwater County,53033,53.0,33.0,Washington,King County,29,42,MT
+30013,30,13,Montana,Cascade County,53033,53.0,33.0,Washington,King County,8,12,MT
+30029,30,29,Montana,Flathead County,53033,53.0,33.0,Washington,King County,26,28,MT
+30031,30,31,Montana,Gallatin County,53033,53.0,33.0,Washington,King County,13,14,MT
+30047,30,47,Montana,Lake County,53033,53.0,33.0,Washington,King County,15,24,MT
+30049,30,49,Montana,Lewis and Clark County,53033,53.0,33.0,Washington,King County,13,16,MT
+30111,30,111,Montana,Yellowstone County,53033,53.0,33.0,Washington,King County,16,20,MT
+30047,30,47,Montana,Lake County,53035,53.0,35.0,Washington,Kitsap County,6,8,MT
+30067,30,67,Montana,Park County,53035,53.0,35.0,Washington,Kitsap County,7,7,MT
+30061,30,61,Montana,Mineral County,53047,53.0,47.0,Washington,Okanogan County,12,11,MT
+30081,30,81,Montana,Ravalli County,53051,53.0,51.0,Washington,Pend Oreille County,13,21,MT
+30029,30,29,Montana,Flathead County,53053,53.0,53.0,Washington,Pierce County,5,8,MT
+30031,30,31,Montana,Gallatin County,53053,53.0,53.0,Washington,Pierce County,7,15,MT
+30089,30,89,Montana,Sanders County,53061,53.0,61.0,Washington,Snohomish County,5,7,MT
+30029,30,29,Montana,Flathead County,53063,53.0,63.0,Washington,Spokane County,6,6,MT
+30031,30,31,Montana,Gallatin County,53063,53.0,63.0,Washington,Spokane County,7,12,MT
+30049,30,49,Montana,Lewis and Clark County,53063,53.0,63.0,Washington,Spokane County,11,16,MT
+30063,30,63,Montana,Missoula County,53063,53.0,63.0,Washington,Spokane County,9,10,MT
+30081,30,81,Montana,Ravalli County,53063,53.0,63.0,Washington,Spokane County,17,27,MT
+30093,30,93,Montana,Silver Bow County,53063,53.0,63.0,Washington,Spokane County,24,38,MT
+30063,30,63,Montana,Missoula County,53065,53.0,65.0,Washington,Stevens County,21,33,MT
+30029,30,29,Montana,Flathead County,53067,53.0,67.0,Washington,Thurston County,8,12,MT
+30049,30,49,Montana,Lewis and Clark County,53067,53.0,67.0,Washington,Thurston County,38,57,MT
+30023,30,23,Montana,Deer Lodge County,53073,53.0,73.0,Washington,Whatcom County,22,27,MT
+30053,30,53,Montana,Lincoln County,53075,53.0,75.0,Washington,Whitman County,2,3,MT
+30067,30,67,Montana,Park County,54039,54.0,39.0,West Virginia,Kanawha County,4,6,MT
+30067,30,67,Montana,Park County,55009,55.0,9.0,Wisconsin,Brown County,5,8,MT
+30111,30,111,Montana,Yellowstone County,55041,55.0,41.0,Wisconsin,Forest County,9,14,MT
+30013,30,13,Montana,Cascade County,55075,55.0,75.0,Wisconsin,Marinette County,3,5,MT
+30111,30,111,Montana,Yellowstone County,55081,55.0,81.0,Wisconsin,Monroe County,3,5,MT
+30031,30,31,Montana,Gallatin County,55085,55.0,85.0,Wisconsin,Oneida County,115,180,MT
+30029,30,29,Montana,Flathead County,55133,55.0,133.0,Wisconsin,Waukesha County,4,6,MT
+30013,30,13,Montana,Cascade County,55141,55.0,141.0,Wisconsin,Wood County,9,14,MT
+30027,30,27,Montana,Fergus County,56001,56.0,1.0,Wyoming,Albany County,17,28,MT
+30003,30,3,Montana,Big Horn County,56003,56.0,3.0,Wyoming,Big Horn County,13,20,MT
+30009,30,9,Montana,Carbon County,56003,56.0,3.0,Wyoming,Big Horn County,6,9,MT
+30013,30,13,Montana,Cascade County,56005,56.0,5.0,Wyoming,Campbell County,22,32,MT
+30021,30,21,Montana,Dawson County,56005,56.0,5.0,Wyoming,Campbell County,29,45,MT
+30025,30,25,Montana,Fallon County,56005,56.0,5.0,Wyoming,Campbell County,13,16,MT
+30029,30,29,Montana,Flathead County,56005,56.0,5.0,Wyoming,Campbell County,3,5,MT
+30047,30,47,Montana,Lake County,56005,56.0,5.0,Wyoming,Campbell County,10,18,MT
+30063,30,63,Montana,Missoula County,56005,56.0,5.0,Wyoming,Campbell County,21,32,MT
+30065,30,65,Montana,Musselshell County,56005,56.0,5.0,Wyoming,Campbell County,1,5,MT
+30075,30,75,Montana,Powder River County,56005,56.0,5.0,Wyoming,Campbell County,4,5,MT
+30081,30,81,Montana,Ravalli County,56005,56.0,5.0,Wyoming,Campbell County,8,11,MT
+30103,30,103,Montana,Treasure County,56005,56.0,5.0,Wyoming,Campbell County,8,9,MT
+30111,30,111,Montana,Yellowstone County,56005,56.0,5.0,Wyoming,Campbell County,3,6,MT
+30021,30,21,Montana,Dawson County,56009,56.0,9.0,Wyoming,Converse County,20,28,MT
+30049,30,49,Montana,Lewis and Clark County,56009,56.0,9.0,Wyoming,Converse County,14,22,MT
+30067,30,67,Montana,Park County,56009,56.0,9.0,Wyoming,Converse County,5,8,MT
+30087,30,87,Montana,Rosebud County,56009,56.0,9.0,Wyoming,Converse County,7,11,MT
+30111,30,111,Montana,Yellowstone County,56009,56.0,9.0,Wyoming,Converse County,16,24,MT
+30011,30,11,Montana,Carter County,56011,56.0,11.0,Wyoming,Crook County,3,4,MT
+30075,30,75,Montana,Powder River County,56011,56.0,11.0,Wyoming,Crook County,9,11,MT
+30111,30,111,Montana,Yellowstone County,56013,56.0,13.0,Wyoming,Fremont County,6,9,MT
+30031,30,31,Montana,Gallatin County,56019,56.0,19.0,Wyoming,Johnson County,6,7,MT
+30041,30,41,Montana,Hill County,56019,56.0,19.0,Wyoming,Johnson County,26,31,MT
+30017,30,17,Montana,Custer County,56021,56.0,21.0,Wyoming,Laramie County,2,3,MT
+30027,30,27,Montana,Fergus County,56021,56.0,21.0,Wyoming,Laramie County,39,39,MT
+30029,30,29,Montana,Flathead County,56021,56.0,21.0,Wyoming,Laramie County,9,15,MT
+30007,30,7,Montana,Broadwater County,56025,56.0,25.0,Wyoming,Natrona County,18,27,MT
+30009,30,9,Montana,Carbon County,56025,56.0,25.0,Wyoming,Natrona County,8,9,MT
+30047,30,47,Montana,Lake County,56025,56.0,25.0,Wyoming,Natrona County,10,13,MT
+30057,30,57,Montana,Madison County,56025,56.0,25.0,Wyoming,Natrona County,3,4,MT
+30065,30,65,Montana,Musselshell County,56025,56.0,25.0,Wyoming,Natrona County,8,13,MT
+30089,30,89,Montana,Sanders County,56025,56.0,25.0,Wyoming,Natrona County,1,2,MT
+30095,30,95,Montana,Stillwater County,56025,56.0,25.0,Wyoming,Natrona County,3,4,MT
+30111,30,111,Montana,Yellowstone County,56025,56.0,25.0,Wyoming,Natrona County,34,34,MT
+30001,30,1,Montana,Beaverhead County,56029,56.0,29.0,Wyoming,Park County,1,3,MT
+30009,30,9,Montana,Carbon County,56029,56.0,29.0,Wyoming,Park County,25,15,MT
+30031,30,31,Montana,Gallatin County,56029,56.0,29.0,Wyoming,Park County,107,80,MT
+30063,30,63,Montana,Missoula County,56029,56.0,29.0,Wyoming,Park County,32,31,MT
+30067,30,67,Montana,Park County,56029,56.0,29.0,Wyoming,Park County,163,57,MT
+30095,30,95,Montana,Stillwater County,56029,56.0,29.0,Wyoming,Park County,1,3,MT
+30111,30,111,Montana,Yellowstone County,56029,56.0,29.0,Wyoming,Park County,87,72,MT
+30003,30,3,Montana,Big Horn County,56033,56.0,33.0,Wyoming,Sheridan County,22,13,MT
+30075,30,75,Montana,Powder River County,56033,56.0,33.0,Wyoming,Sheridan County,5,7,MT
+30087,30,87,Montana,Rosebud County,56033,56.0,33.0,Wyoming,Sheridan County,2,3,MT
+30093,30,93,Montana,Silver Bow County,56033,56.0,33.0,Wyoming,Sheridan County,3,5,MT
+30043,30,43,Montana,Jefferson County,56035,56.0,35.0,Wyoming,Sublette County,9,14,MT
+30009,30,9,Montana,Carbon County,56037,56.0,37.0,Wyoming,Sweetwater County,3,4,MT
+30065,30,65,Montana,Musselshell County,56037,56.0,37.0,Wyoming,Sweetwater County,6,9,MT
+30087,30,87,Montana,Rosebud County,56037,56.0,37.0,Wyoming,Sweetwater County,6,8,MT
+30097,30,97,Montana,Sweet Grass County,56037,56.0,37.0,Wyoming,Sweetwater County,4,5,MT
+30013,30,13,Montana,Cascade County,56039,56.0,39.0,Wyoming,Teton County,5,5,MT
+30029,30,29,Montana,Flathead County,56039,56.0,39.0,Wyoming,Teton County,14,23,MT
+30031,30,31,Montana,Gallatin County,56039,56.0,39.0,Wyoming,Teton County,8,11,MT
+30049,30,49,Montana,Lewis and Clark County,56039,56.0,39.0,Wyoming,Teton County,2,5,MT
+30067,30,67,Montana,Park County,56039,56.0,39.0,Wyoming,Teton County,9,8,MT
+30009,30,9,Montana,Carbon County,56043,56.0,43.0,Wyoming,Washakie County,3,5,MT
+30111,30,111,Montana,Yellowstone County,56043,56.0,43.0,Wyoming,Washakie County,14,14,MT
+30011,30,11,Montana,Carter County,56045,56.0,45.0,Wyoming,Weston County,1,2,MT
+30029,30,29,Montana,Flathead County,301000,301.0,,Canada,,3,6,MT
+30031,30,31,Montana,Gallatin County,301000,301.0,,Canada,,8,18,MT
+30047,30,47,Montana,Lake County,301000,301.0,,Canada,,11,18,MT
+30063,30,63,Montana,Missoula County,301000,301.0,,Canada,,47,77,MT
+30067,30,67,Montana,Park County,301000,301.0,,Canada,,6,8,MT
+30087,30,87,Montana,Rosebud County,301000,301.0,,Canada,,10,11,MT
+30091,30,91,Montana,Sheridan County,301000,301.0,,Canada,,3,5,MT
+30101,30,101,Montana,Toole County,301000,301.0,,Canada,,2,4,MT
+30029,30,29,Montana,Flathead County,-1,,,Other workplace outside of the U.S.,,4,6,MT
+30031,30,31,Montana,Gallatin County,-1,,,Other workplace outside of the U.S.,,22,18,MT
+30043,30,43,Montana,Jefferson County,-1,,,Other workplace outside of the U.S.,,7,10,MT
+30049,30,49,Montana,Lewis and Clark County,-1,,,Other workplace outside of the U.S.,,20,28,MT
+30057,30,57,Montana,Madison County,-1,,,Other workplace outside of the U.S.,,3,7,MT
+30063,30,63,Montana,Missoula County,-1,,,Other workplace outside of the U.S.,,59,64,MT
+30077,30,77,Montana,Powell County,-1,,,Other workplace outside of the U.S.,,2,3,MT
+30081,30,81,Montana,Ravalli County,-1,,,Other workplace outside of the U.S.,,21,22,MT

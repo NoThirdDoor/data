@@ -1,0 +1,323 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+2013,2,13,Alaska,Aleutians East Borough,2013,2.0,13.0,Alaska,Aleutians East Borough,2504,148,AK
+2016,2,16,Alaska,Aleutians West Census Area,2013,2.0,13.0,Alaska,Aleutians East Borough,1,2,AK
+2020,2,20,Alaska,Anchorage Municipality,2013,2.0,13.0,Alaska,Aleutians East Borough,15,27,AK
+2070,2,70,Alaska,Dillingham Census Area,2013,2.0,13.0,Alaska,Aleutians East Borough,1,1,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2013,2.0,13.0,Alaska,Aleutians East Borough,7,7,AK
+2164,2,164,Alaska,Lake and Peninsula Borough,2013,2.0,13.0,Alaska,Aleutians East Borough,2,2,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2013,2.0,13.0,Alaska,Aleutians East Borough,25,36,AK
+2016,2,16,Alaska,Aleutians West Census Area,2016,2.0,16.0,Alaska,Aleutians West Census Area,3788,114,AK
+2020,2,20,Alaska,Anchorage Municipality,2016,2.0,16.0,Alaska,Aleutians West Census Area,97,104,AK
+2050,2,50,Alaska,Bethel Census Area,2016,2.0,16.0,Alaska,Aleutians West Census Area,1,2,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2016,2.0,16.0,Alaska,Aleutians West Census Area,25,19,AK
+2150,2,150,Alaska,Kodiak Island Borough,2016,2.0,16.0,Alaska,Aleutians West Census Area,2,3,AK
+2158,2,158,Alaska,Kusilvak Census Area,2016,2.0,16.0,Alaska,Aleutians West Census Area,2,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2016,2.0,16.0,Alaska,Aleutians West Census Area,19,17,AK
+2013,2,13,Alaska,Aleutians East Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,2,3,AK
+2020,2,20,Alaska,Anchorage Municipality,2020,2.0,20.0,Alaska,Anchorage Municipality,151009,1783,AK
+2050,2,50,Alaska,Bethel Census Area,2020,2.0,20.0,Alaska,Anchorage Municipality,7,5,AK
+2060,2,60,Alaska,Bristol Bay Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,5,5,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,75,79,AK
+2110,2,110,Alaska,Juneau City and Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,65,64,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,306,95,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,8,8,AK
+2150,2,150,Alaska,Kodiak Island Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,29,36,AK
+2158,2,158,Alaska,Kusilvak Census Area,2020,2.0,20.0,Alaska,Anchorage Municipality,3,4,AK
+2164,2,164,Alaska,Lake and Peninsula Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,2,2,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,11787,487,AK
+2180,2,180,Alaska,Nome Census Area,2020,2.0,20.0,Alaska,Anchorage Municipality,1,2,AK
+2185,2,185,Alaska,North Slope Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,33,29,AK
+2188,2,188,Alaska,Northwest Arctic Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,15,19,AK
+2220,2,220,Alaska,Sitka City and Borough,2020,2.0,20.0,Alaska,Anchorage Municipality,6,7,AK
+2230,2,230,Alaska,Skagway Municipality,2020,2.0,20.0,Alaska,Anchorage Municipality,15,29,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,2020,2.0,20.0,Alaska,Anchorage Municipality,20,13,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2020,2.0,20.0,Alaska,Anchorage Municipality,14,7,AK
+2020,2,20,Alaska,Anchorage Municipality,2050,2.0,50.0,Alaska,Bethel Census Area,5,9,AK
+2050,2,50,Alaska,Bethel Census Area,2050,2.0,50.0,Alaska,Bethel Census Area,6017,215,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2050,2.0,50.0,Alaska,Bethel Census Area,13,19,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2050,2.0,50.0,Alaska,Bethel Census Area,26,36,AK
+2158,2,158,Alaska,Kusilvak Census Area,2050,2.0,50.0,Alaska,Bethel Census Area,12,8,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2050,2.0,50.0,Alaska,Bethel Census Area,36,24,AK
+2188,2,188,Alaska,Northwest Arctic Borough,2050,2.0,50.0,Alaska,Bethel Census Area,2,3,AK
+2240,2,240,Alaska,Southeast Fairbanks Census Area,2050,2.0,50.0,Alaska,Bethel Census Area,15,22,AK
+2020,2,20,Alaska,Anchorage Municipality,2060,2.0,60.0,Alaska,Bristol Bay Borough,134,85,AK
+2060,2,60,Alaska,Bristol Bay Borough,2060,2.0,60.0,Alaska,Bristol Bay Borough,502,61,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2060,2.0,60.0,Alaska,Bristol Bay Borough,3,5,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2060,2.0,60.0,Alaska,Bristol Bay Borough,25,23,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2060,2.0,60.0,Alaska,Bristol Bay Borough,5,4,AK
+2220,2,220,Alaska,Sitka City and Borough,2060,2.0,60.0,Alaska,Bristol Bay Borough,4,6,AK
+2275,2,275,Alaska,Wrangell City and Borough,2060,2.0,60.0,Alaska,Bristol Bay Borough,2,3,AK
+2068,2,68,Alaska,Denali Borough,2068,2.0,68.0,Alaska,Denali Borough,1160,153,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2068,2.0,68.0,Alaska,Denali Borough,335,183,AK
+2150,2,150,Alaska,Kodiak Island Borough,2068,2.0,68.0,Alaska,Denali Borough,23,38,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2068,2.0,68.0,Alaska,Denali Borough,45,36,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2068,2.0,68.0,Alaska,Denali Borough,32,15,AK
+2050,2,50,Alaska,Bethel Census Area,2070,2.0,70.0,Alaska,Dillingham Census Area,2,2,AK
+2060,2,60,Alaska,Bristol Bay Borough,2070,2.0,70.0,Alaska,Dillingham Census Area,5,4,AK
+2070,2,70,Alaska,Dillingham Census Area,2070,2.0,70.0,Alaska,Dillingham Census Area,1782,86,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2070,2.0,70.0,Alaska,Dillingham Census Area,4,7,AK
+2164,2,164,Alaska,Lake and Peninsula Borough,2070,2.0,70.0,Alaska,Dillingham Census Area,1,2,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2070,2.0,70.0,Alaska,Dillingham Census Area,24,21,AK
+2016,2,16,Alaska,Aleutians West Census Area,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,3,6,AK
+2020,2,20,Alaska,Anchorage Municipality,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,135,86,AK
+2050,2,50,Alaska,Bethel Census Area,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,17,37,AK
+2068,2,68,Alaska,Denali Borough,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,29,18,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,49307,1028,AK
+2110,2,110,Alaska,Juneau City and Borough,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,8,14,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,42,33,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,110,50,AK
+2180,2,180,Alaska,Nome Census Area,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,8,8,AK
+2220,2,220,Alaska,Sitka City and Borough,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,4,6,AK
+2240,2,240,Alaska,Southeast Fairbanks Census Area,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,32,23,AK
+2275,2,275,Alaska,Wrangell City and Borough,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,10,14,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,50,21,AK
+2100,2,100,Alaska,Haines Borough,2100,2.0,100.0,Alaska,Haines Borough,1271,181,AK
+2105,2,105,Alaska,Hoonah-Angoon Census Area,2100,2.0,100.0,Alaska,Haines Borough,9,6,AK
+2110,2,110,Alaska,Juneau City and Borough,2100,2.0,100.0,Alaska,Haines Borough,6,10,AK
+2020,2,20,Alaska,Anchorage Municipality,2105,2.0,105.0,Alaska,Hoonah-Angoon Census Area,17,27,AK
+2100,2,100,Alaska,Haines Borough,2105,2.0,105.0,Alaska,Hoonah-Angoon Census Area,3,4,AK
+2105,2,105,Alaska,Hoonah-Angoon Census Area,2105,2.0,105.0,Alaska,Hoonah-Angoon Census Area,945,83,AK
+2110,2,110,Alaska,Juneau City and Borough,2105,2.0,105.0,Alaska,Hoonah-Angoon Census Area,27,32,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2105,2.0,105.0,Alaska,Hoonah-Angoon Census Area,4,5,AK
+2195,2,195,Alaska,Petersburg Borough,2105,2.0,105.0,Alaska,Hoonah-Angoon Census Area,24,31,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2105,2.0,105.0,Alaska,Hoonah-Angoon Census Area,4,4,AK
+2020,2,20,Alaska,Anchorage Municipality,2110,2.0,110.0,Alaska,Juneau City and Borough,95,100,AK
+2050,2,50,Alaska,Bethel Census Area,2110,2.0,110.0,Alaska,Juneau City and Borough,1,3,AK
+2100,2,100,Alaska,Haines Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,105,88,AK
+2105,2,105,Alaska,Hoonah-Angoon Census Area,2110,2.0,110.0,Alaska,Juneau City and Borough,57,25,AK
+2110,2,110,Alaska,Juneau City and Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,17273,435,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,27,27,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,13,13,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,52,30,AK
+2195,2,195,Alaska,Petersburg Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,7,5,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2110,2.0,110.0,Alaska,Juneau City and Borough,5,5,AK
+2220,2,220,Alaska,Sitka City and Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,3,4,AK
+2230,2,230,Alaska,Skagway Municipality,2110,2.0,110.0,Alaska,Juneau City and Borough,3,3,AK
+2275,2,275,Alaska,Wrangell City and Borough,2110,2.0,110.0,Alaska,Juneau City and Borough,8,8,AK
+2020,2,20,Alaska,Anchorage Municipality,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,206,91,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,13,12,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,22706,563,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2122,2.0,122.0,Alaska,Kenai Peninsula Borough,122,41,AK
+2105,2,105,Alaska,Hoonah-Angoon Census Area,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,30,16,AK
+2110,2,110,Alaska,Juneau City and Borough,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,37,30,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,10,9,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,6542,209,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,5,7,AK
+2195,2,195,Alaska,Petersburg Borough,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,5,4,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,40,18,AK
+2230,2,230,Alaska,Skagway Municipality,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,3,3,AK
+2275,2,275,Alaska,Wrangell City and Borough,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,20,15,AK
+2282,2,282,Alaska,Yakutat City and Borough,2130,2.0,130.0,Alaska,Ketchikan Gateway Borough,6,13,AK
+2020,2,20,Alaska,Anchorage Municipality,2150,2.0,150.0,Alaska,Kodiak Island Borough,24,28,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2150,2.0,150.0,Alaska,Kodiak Island Borough,24,12,AK
+2150,2,150,Alaska,Kodiak Island Borough,2150,2.0,150.0,Alaska,Kodiak Island Borough,7338,267,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2150,2.0,150.0,Alaska,Kodiak Island Borough,34,25,AK
+2188,2,188,Alaska,Northwest Arctic Borough,2150,2.0,150.0,Alaska,Kodiak Island Borough,1,3,AK
+2020,2,20,Alaska,Anchorage Municipality,2158,2.0,158.0,Alaska,Kusilvak Census Area,120,67,AK
+2050,2,50,Alaska,Bethel Census Area,2158,2.0,158.0,Alaska,Kusilvak Census Area,6,5,AK
+2110,2,110,Alaska,Juneau City and Borough,2158,2.0,158.0,Alaska,Kusilvak Census Area,3,4,AK
+2158,2,158,Alaska,Kusilvak Census Area,2158,2.0,158.0,Alaska,Kusilvak Census Area,2000,82,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2158,2.0,158.0,Alaska,Kusilvak Census Area,2,5,AK
+2020,2,20,Alaska,Anchorage Municipality,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,20,30,AK
+2060,2,60,Alaska,Bristol Bay Borough,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,20,11,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,41,37,AK
+2164,2,164,Alaska,Lake and Peninsula Borough,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,620,86,AK
+2195,2,195,Alaska,Petersburg Borough,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,1,4,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,2164,2.0,164.0,Alaska,Lake and Peninsula Borough,2,3,AK
+2020,2,20,Alaska,Anchorage Municipality,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,1234,275,AK
+2060,2,60,Alaska,Bristol Bay Borough,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,1,2,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,8,14,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,4,6,AK
+2164,2,164,Alaska,Lake and Peninsula Borough,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,2,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,25038,635,AK
+2180,2,180,Alaska,Nome Census Area,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,3,6,AK
+2185,2,185,Alaska,North Slope Borough,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,11,13,AK
+2240,2,240,Alaska,Southeast Fairbanks Census Area,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,6,9,AK
+2282,2,282,Alaska,Yakutat City and Borough,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,1,2,AK
+2020,2,20,Alaska,Anchorage Municipality,2180,2.0,180.0,Alaska,Nome Census Area,70,45,AK
+2050,2,50,Alaska,Bethel Census Area,2180,2.0,180.0,Alaska,Nome Census Area,2,3,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2180,2.0,180.0,Alaska,Nome Census Area,9,12,AK
+2158,2,158,Alaska,Kusilvak Census Area,2180,2.0,180.0,Alaska,Nome Census Area,2,2,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2180,2.0,180.0,Alaska,Nome Census Area,19,18,AK
+2180,2,180,Alaska,Nome Census Area,2180,2.0,180.0,Alaska,Nome Census Area,3469,101,AK
+2230,2,230,Alaska,Skagway Municipality,2180,2.0,180.0,Alaska,Nome Census Area,3,6,AK
+2013,2,13,Alaska,Aleutians East Borough,2185,2.0,185.0,Alaska,North Slope Borough,1,3,AK
+2016,2,16,Alaska,Aleutians West Census Area,2185,2.0,185.0,Alaska,North Slope Borough,1,3,AK
+2020,2,20,Alaska,Anchorage Municipality,2185,2.0,185.0,Alaska,North Slope Borough,2774,432,AK
+2060,2,60,Alaska,Bristol Bay Borough,2185,2.0,185.0,Alaska,North Slope Borough,5,4,AK
+2068,2,68,Alaska,Denali Borough,2185,2.0,185.0,Alaska,North Slope Borough,7,8,AK
+2070,2,70,Alaska,Dillingham Census Area,2185,2.0,185.0,Alaska,North Slope Borough,11,8,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2185,2.0,185.0,Alaska,North Slope Borough,421,152,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2185,2.0,185.0,Alaska,North Slope Borough,1089,191,AK
+2150,2,150,Alaska,Kodiak Island Borough,2185,2.0,185.0,Alaska,North Slope Borough,21,33,AK
+2158,2,158,Alaska,Kusilvak Census Area,2185,2.0,185.0,Alaska,North Slope Borough,1,3,AK
+2164,2,164,Alaska,Lake and Peninsula Borough,2185,2.0,185.0,Alaska,North Slope Borough,8,6,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2185,2.0,185.0,Alaska,North Slope Borough,2048,250,AK
+2180,2,180,Alaska,Nome Census Area,2185,2.0,185.0,Alaska,North Slope Borough,1,3,AK
+2185,2,185,Alaska,North Slope Borough,2185,2.0,185.0,Alaska,North Slope Borough,5345,196,AK
+2188,2,188,Alaska,Northwest Arctic Borough,2185,2.0,185.0,Alaska,North Slope Borough,19,20,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2185,2.0,185.0,Alaska,North Slope Borough,2,3,AK
+2240,2,240,Alaska,Southeast Fairbanks Census Area,2185,2.0,185.0,Alaska,North Slope Borough,26,17,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,2185,2.0,185.0,Alaska,North Slope Borough,22,16,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2185,2.0,185.0,Alaska,North Slope Borough,31,11,AK
+2020,2,20,Alaska,Anchorage Municipality,2188,2.0,188.0,Alaska,Northwest Arctic Borough,233,107,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2188,2.0,188.0,Alaska,Northwest Arctic Borough,54,82,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2188,2.0,188.0,Alaska,Northwest Arctic Borough,13,12,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2188,2.0,188.0,Alaska,Northwest Arctic Borough,5,7,AK
+2158,2,158,Alaska,Kusilvak Census Area,2188,2.0,188.0,Alaska,Northwest Arctic Borough,1,2,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2188,2.0,188.0,Alaska,Northwest Arctic Borough,77,43,AK
+2185,2,185,Alaska,North Slope Borough,2188,2.0,188.0,Alaska,Northwest Arctic Borough,2,3,AK
+2188,2,188,Alaska,Northwest Arctic Borough,2188,2.0,188.0,Alaska,Northwest Arctic Borough,2456,121,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2188,2.0,188.0,Alaska,Northwest Arctic Borough,2,2,AK
+2020,2,20,Alaska,Anchorage Municipality,2195,2.0,195.0,Alaska,Petersburg Borough,22,36,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2195,2.0,195.0,Alaska,Petersburg Borough,2,4,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2195,2.0,195.0,Alaska,Petersburg Borough,7,10,AK
+2185,2,185,Alaska,North Slope Borough,2195,2.0,195.0,Alaska,Petersburg Borough,34,23,AK
+2195,2,195,Alaska,Petersburg Borough,2195,2.0,195.0,Alaska,Petersburg Borough,1442,119,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2195,2.0,195.0,Alaska,Petersburg Borough,9,6,AK
+2220,2,220,Alaska,Sitka City and Borough,2195,2.0,195.0,Alaska,Petersburg Borough,27,29,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2198,2.0,198.0,Alaska,Prince of Wales-Hyder Census Area,8,11,AK
+2100,2,100,Alaska,Haines Borough,2198,2.0,198.0,Alaska,Prince of Wales-Hyder Census Area,2,4,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2198,2.0,198.0,Alaska,Prince of Wales-Hyder Census Area,16,16,AK
+2195,2,195,Alaska,Petersburg Borough,2198,2.0,198.0,Alaska,Prince of Wales-Hyder Census Area,56,42,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2198,2.0,198.0,Alaska,Prince of Wales-Hyder Census Area,2570,114,AK
+2220,2,220,Alaska,Sitka City and Borough,2198,2.0,198.0,Alaska,Prince of Wales-Hyder Census Area,5,7,AK
+2050,2,50,Alaska,Bethel Census Area,2220,2.0,220.0,Alaska,Sitka City and Borough,1,2,AK
+2105,2,105,Alaska,Hoonah-Angoon Census Area,2220,2.0,220.0,Alaska,Sitka City and Borough,5,7,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2220,2.0,220.0,Alaska,Sitka City and Borough,3,5,AK
+2180,2,180,Alaska,Nome Census Area,2220,2.0,220.0,Alaska,Sitka City and Borough,3,4,AK
+2195,2,195,Alaska,Petersburg Borough,2220,2.0,220.0,Alaska,Sitka City and Borough,26,23,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2220,2.0,220.0,Alaska,Sitka City and Borough,7,8,AK
+2220,2,220,Alaska,Sitka City and Borough,2220,2.0,220.0,Alaska,Sitka City and Borough,4579,208,AK
+2230,2,230,Alaska,Skagway Municipality,2230,2.0,230.0,Alaska,Skagway Municipality,622,120,AK
+2020,2,20,Alaska,Anchorage Municipality,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,11,18,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,324,176,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,31,30,AK
+2240,2,240,Alaska,Southeast Fairbanks Census Area,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,2910,185,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,41,63,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2240,2.0,240.0,Alaska,Southeast Fairbanks Census Area,5,6,AK
+2020,2,20,Alaska,Anchorage Municipality,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,282,204,AK
+2070,2,70,Alaska,Dillingham Census Area,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,4,6,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,57,74,AK
+2100,2,100,Alaska,Haines Borough,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,1,2,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,185,162,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,10,14,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,97,51,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,2,3,AK
+2220,2,220,Alaska,Sitka City and Borough,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,9,11,AK
+2240,2,240,Alaska,Southeast Fairbanks Census Area,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,9,12,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,4304,352,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2261,2.0,261.0,Alaska,Valdez-Cordova Census Area,6,7,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,2275,2.0,275.0,Alaska,Wrangell City and Borough,5,8,AK
+2195,2,195,Alaska,Petersburg Borough,2275,2.0,275.0,Alaska,Wrangell City and Borough,4,4,AK
+2275,2,275,Alaska,Wrangell City and Borough,2275,2.0,275.0,Alaska,Wrangell City and Borough,985,98,AK
+2110,2,110,Alaska,Juneau City and Borough,2282,2.0,282.0,Alaska,Yakutat City and Borough,4,6,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,2282,2.0,282.0,Alaska,Yakutat City and Borough,7,12,AK
+2282,2,282,Alaska,Yakutat City and Borough,2282,2.0,282.0,Alaska,Yakutat City and Borough,342,92,AK
+2016,2,16,Alaska,Aleutians West Census Area,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,2,6,AK
+2020,2,20,Alaska,Anchorage Municipality,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,85,83,AK
+2050,2,50,Alaska,Bethel Census Area,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,2,4,AK
+2068,2,68,Alaska,Denali Borough,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,34,19,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,60,56,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,22,25,AK
+2158,2,158,Alaska,Kusilvak Census Area,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,1,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,6,9,AK
+2188,2,188,Alaska,Northwest Arctic Borough,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,3,4,AK
+2290,2,290,Alaska,Yukon-Koyukuk Census Area,2290,2.0,290.0,Alaska,Yukon-Koyukuk Census Area,1855,88,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,4013,4.0,13.0,Arizona,Maricopa County,2,3,AK
+2020,2,20,Alaska,Anchorage Municipality,4021,4.0,21.0,Arizona,Pinal County,28,45,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,6037,6.0,37.0,California,Los Angeles County,3,5,AK
+2195,2,195,Alaska,Petersburg Borough,6037,6.0,37.0,California,Los Angeles County,1,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,6073,6.0,73.0,California,San Diego County,7,11,AK
+2020,2,20,Alaska,Anchorage Municipality,6081,6.0,81.0,California,San Mateo County,71,59,AK
+2020,2,20,Alaska,Anchorage Municipality,8013,8.0,13.0,Colorado,Boulder County,7,12,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,8013,8.0,13.0,Colorado,Boulder County,15,24,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,8031,8.0,31.0,Colorado,Denver County,5,7,AK
+2020,2,20,Alaska,Anchorage Municipality,8067,8.0,67.0,Colorado,La Plata County,15,24,AK
+2110,2,110,Alaska,Juneau City and Borough,8069,8.0,69.0,Colorado,Larimer County,3,5,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,8069,8.0,69.0,Colorado,Larimer County,2,5,AK
+2185,2,185,Alaska,North Slope Borough,8077,8.0,77.0,Colorado,Mesa County,11,13,AK
+2020,2,20,Alaska,Anchorage Municipality,8101,8.0,101.0,Colorado,Pueblo County,6,9,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,9001,9.0,1.0,Connecticut,Fairfield County,3,7,AK
+2020,2,20,Alaska,Anchorage Municipality,10001,10.0,1.0,Delaware,Kent County,20,32,AK
+2020,2,20,Alaska,Anchorage Municipality,11001,11.0,1.0,District of Columbia,District of Columbia,24,28,AK
+2110,2,110,Alaska,Juneau City and Borough,11001,11.0,1.0,District of Columbia,District of Columbia,3,4,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,11001,11.0,1.0,District of Columbia,District of Columbia,15,23,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,12069,12.0,69.0,Florida,Lake County,4,6,AK
+2020,2,20,Alaska,Anchorage Municipality,12086,12.0,86.0,Florida,Miami-Dade County,13,22,AK
+2020,2,20,Alaska,Anchorage Municipality,13053,13.0,53.0,Georgia,Chattahoochee County,53,46,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,13121,13.0,121.0,Georgia,Fulton County,3,5,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,15003,15.0,3.0,Hawaii,Honolulu County,13,21,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,15003,15.0,3.0,Hawaii,Honolulu County,10,16,AK
+2020,2,20,Alaska,Anchorage Municipality,16027,16.0,27.0,Idaho,Canyon County,10,17,AK
+2110,2,110,Alaska,Juneau City and Borough,18097,18.0,97.0,Indiana,Marion County,2,4,AK
+2020,2,20,Alaska,Anchorage Municipality,18157,18.0,157.0,Indiana,Tippecanoe County,7,14,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,18157,18.0,157.0,Indiana,Tippecanoe County,1,2,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,21093,21.0,93.0,Kentucky,Hardin County,77,115,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,18,18,AK
+2020,2,20,Alaska,Anchorage Municipality,22055,22.0,55.0,Louisiana,Lafayette Parish,30,35,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,24033,24.0,33.0,Maryland,Prince George's County,4,5,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,26045,26.0,45.0,Michigan,Eaton County,3,4,AK
+2100,2,100,Alaska,Haines Borough,26067,26.0,67.0,Michigan,Ionia County,10,16,AK
+2020,2,20,Alaska,Anchorage Municipality,26073,26.0,73.0,Michigan,Isabella County,8,12,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,26163,26.0,163.0,Michigan,Wayne County,7,9,AK
+2185,2,185,Alaska,North Slope Borough,26163,26.0,163.0,Michigan,Wayne County,2,6,AK
+2020,2,20,Alaska,Anchorage Municipality,27047,27.0,47.0,Minnesota,Freeborn County,15,24,AK
+2180,2,180,Alaska,Nome Census Area,27123,27.0,123.0,Minnesota,Ramsey County,2,5,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,28075,28.0,75.0,Mississippi,Lauderdale County,2,3,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,28087,28.0,87.0,Mississippi,Lowndes County,7,9,AK
+2164,2,164,Alaska,Lake and Peninsula Borough,30031,30.0,31.0,Montana,Gallatin County,1,3,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,31067,31.0,67.0,Nebraska,Gage County,36,49,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,31153,31.0,153.0,Nebraska,Sarpy County,2,3,AK
+2020,2,20,Alaska,Anchorage Municipality,32003,32.0,3.0,Nevada,Clark County,20,24,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,32003,32.0,3.0,Nevada,Clark County,13,22,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,32007,32.0,7.0,Nevada,Elko County,12,21,AK
+2100,2,100,Alaska,Haines Borough,32007,32.0,7.0,Nevada,Elko County,5,10,AK
+2020,2,20,Alaska,Anchorage Municipality,33013,33.0,13.0,New Hampshire,Merrimack County,11,17,AK
+2020,2,20,Alaska,Anchorage Municipality,34003,34.0,3.0,New Jersey,Bergen County,51,63,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,34005,34.0,5.0,New Jersey,Burlington County,7,11,AK
+2261,2,261,Alaska,Valdez-Cordova Census Area,36077,36.0,77.0,New York,Otsego County,1,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,38053,38.0,53.0,North Dakota,McKenzie County,7,7,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,38061,38.0,61.0,North Dakota,Mountrail County,3,5,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,38089,38.0,89.0,North Dakota,Stark County,4,7,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,38105,38.0,105.0,North Dakota,Williams County,26,25,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,38105,38.0,105.0,North Dakota,Williams County,6,10,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,40009,40.0,9.0,Oklahoma,Beckham County,4,6,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,40109,40.0,109.0,Oklahoma,Oklahoma County,3,5,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,41003,41.0,3.0,Oregon,Benton County,11,18,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,41053,41.0,53.0,Oregon,Polk County,2,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,42003,42.0,3.0,Pennsylvania,Allegheny County,11,11,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,42011,42.0,11.0,Pennsylvania,Berks County,6,9,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,42069,42.0,69.0,Pennsylvania,Lackawanna County,3,5,AK
+2020,2,20,Alaska,Anchorage Municipality,46102,46.0,102.0,South Dakota,Oglala Lakota County,33,52,AK
+2020,2,20,Alaska,Anchorage Municipality,47157,47.0,157.0,Tennessee,Shelby County,9,14,AK
+2198,2,198,Alaska,Prince of Wales-Hyder Census Area,48113,48.0,113.0,Texas,Dallas County,2,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,48135,48.0,135.0,Texas,Ector County,11,13,AK
+2020,2,20,Alaska,Anchorage Municipality,48201,48.0,201.0,Texas,Harris County,49,37,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,48201,48.0,201.0,Texas,Harris County,6,9,AK
+2020,2,20,Alaska,Anchorage Municipality,48285,48.0,285.0,Texas,Lavaca County,12,21,AK
+2020,2,20,Alaska,Anchorage Municipality,49035,49.0,35.0,Utah,Salt Lake County,29,45,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,49035,49.0,35.0,Utah,Salt Lake County,6,10,AK
+2220,2,220,Alaska,Sitka City and Borough,49035,49.0,35.0,Utah,Salt Lake County,3,5,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,51041,51.0,41.0,Virginia,Chesterfield County,5,9,AK
+2220,2,220,Alaska,Sitka City and Borough,51700,51.0,700.0,Virginia,Newport News city,9,13,AK
+2220,2,220,Alaska,Sitka City and Borough,51710,51.0,710.0,Virginia,Norfolk city,2,4,AK
+2020,2,20,Alaska,Anchorage Municipality,53011,53.0,11.0,Washington,Clark County,3,5,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,53031,53.0,31.0,Washington,Jefferson County,9,8,AK
+2016,2,16,Alaska,Aleutians West Census Area,53033,53.0,33.0,Washington,King County,14,30,AK
+2020,2,20,Alaska,Anchorage Municipality,53033,53.0,33.0,Washington,King County,132,129,AK
+2110,2,110,Alaska,Juneau City and Borough,53033,53.0,33.0,Washington,King County,3,4,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,53033,53.0,33.0,Washington,King County,2,4,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,53033,53.0,33.0,Washington,King County,5,7,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,53033,53.0,33.0,Washington,King County,8,6,AK
+2220,2,220,Alaska,Sitka City and Borough,53033,53.0,33.0,Washington,King County,57,68,AK
+2282,2,282,Alaska,Yakutat City and Borough,53033,53.0,33.0,Washington,King County,1,3,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,53053,53.0,53.0,Washington,Pierce County,16,12,AK
+2070,2,70,Alaska,Dillingham Census Area,53055,53.0,55.0,Washington,San Juan County,7,9,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,56033,56.0,33.0,Wyoming,Sheridan County,12,23,AK
+2130,2,130,Alaska,Ketchikan Gateway Borough,303000,303.0,,Mexico,,4,7,AK
+2020,2,20,Alaska,Anchorage Municipality,-1,,,Other workplace outside of the U.S.,,129,64,AK
+2090,2,90,Alaska,Fairbanks North Star Borough,-1,,,Other workplace outside of the U.S.,,51,48,AK
+2122,2,122,Alaska,Kenai Peninsula Borough,-1,,,Other workplace outside of the U.S.,,7,9,AK
+2150,2,150,Alaska,Kodiak Island Borough,-1,,,Other workplace outside of the U.S.,,19,28,AK
+2170,2,170,Alaska,Matanuska-Susitna Borough,-1,,,Other workplace outside of the U.S.,,16,11,AK

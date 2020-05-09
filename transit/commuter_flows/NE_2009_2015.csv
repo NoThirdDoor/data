@@ -1,0 +1,2135 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+31087,31,87,Nebraska,Hitchcock County,1073,1.0,73.0,Alabama,Jefferson County,5,6,NE
+31055,31,55,Nebraska,Douglas County,2020,2.0,20.0,Alaska,Anchorage Municipality,12,18,NE
+31153,31,153,Nebraska,Sarpy County,2090,2.0,90.0,Alaska,Fairbanks North Star Borough,7,13,NE
+31153,31,153,Nebraska,Sarpy County,2185,2.0,185.0,Alaska,North Slope Borough,9,15,NE
+31095,31,95,Nebraska,Jefferson County,2275,2.0,275.0,Alaska,Wrangell City and Borough,2,3,NE
+31141,31,141,Nebraska,Platte County,4001,4.0,1.0,Arizona,Apache County,26,41,NE
+31055,31,55,Nebraska,Douglas County,4013,4.0,13.0,Arizona,Maricopa County,17,18,NE
+31127,31,127,Nebraska,Nemaha County,4013,4.0,13.0,Arizona,Maricopa County,2,3,NE
+31145,31,145,Nebraska,Red Willow County,4013,4.0,13.0,Arizona,Maricopa County,13,20,NE
+31147,31,147,Nebraska,Richardson County,4013,4.0,13.0,Arizona,Maricopa County,1,4,NE
+31153,31,153,Nebraska,Sarpy County,4013,4.0,13.0,Arizona,Maricopa County,8,14,NE
+31055,31,55,Nebraska,Douglas County,4017,4.0,17.0,Arizona,Navajo County,11,18,NE
+31019,31,19,Nebraska,Buffalo County,4019,4.0,19.0,Arizona,Pima County,6,10,NE
+31055,31,55,Nebraska,Douglas County,5007,5.0,7.0,Arkansas,Benton County,14,14,NE
+31033,31,33,Nebraska,Cheyenne County,5045,5.0,45.0,Arkansas,Faulkner County,1,2,NE
+31153,31,153,Nebraska,Sarpy County,5063,5.0,63.0,Arkansas,Independence County,11,18,NE
+31147,31,147,Nebraska,Richardson County,5097,5.0,97.0,Arkansas,Montgomery County,2,3,NE
+31055,31,55,Nebraska,Douglas County,5115,5.0,115.0,Arkansas,Pope County,6,9,NE
+31047,31,47,Nebraska,Dawson County,5143,5.0,143.0,Arkansas,Washington County,9,14,NE
+31021,31,21,Nebraska,Burt County,5149,5.0,149.0,Arkansas,Yell County,2,4,NE
+31177,31,177,Nebraska,Washington County,6001,6.0,1.0,California,Alameda County,12,17,NE
+31055,31,55,Nebraska,Douglas County,6037,6.0,37.0,California,Los Angeles County,33,35,NE
+31109,31,109,Nebraska,Lancaster County,6037,6.0,37.0,California,Los Angeles County,28,44,NE
+31147,31,147,Nebraska,Richardson County,6037,6.0,37.0,California,Los Angeles County,1,2,NE
+31055,31,55,Nebraska,Douglas County,6053,6.0,53.0,California,Monterey County,13,22,NE
+31055,31,55,Nebraska,Douglas County,6059,6.0,59.0,California,Orange County,8,12,NE
+31055,31,55,Nebraska,Douglas County,6067,6.0,67.0,California,Sacramento County,19,29,NE
+31131,31,131,Nebraska,Otoe County,6067,6.0,67.0,California,Sacramento County,2,3,NE
+31155,31,155,Nebraska,Saunders County,6067,6.0,67.0,California,Sacramento County,4,6,NE
+31153,31,153,Nebraska,Sarpy County,6071,6.0,71.0,California,San Bernardino County,13,20,NE
+31055,31,55,Nebraska,Douglas County,6073,6.0,73.0,California,San Diego County,14,21,NE
+31055,31,55,Nebraska,Douglas County,6075,6.0,75.0,California,San Francisco County,21,26,NE
+31051,31,51,Nebraska,Dixon County,6079,6.0,79.0,California,San Luis Obispo County,2,3,NE
+31055,31,55,Nebraska,Douglas County,6081,6.0,81.0,California,San Mateo County,12,18,NE
+31153,31,153,Nebraska,Sarpy County,6081,6.0,81.0,California,San Mateo County,24,27,NE
+31053,31,53,Nebraska,Dodge County,6085,6.0,85.0,California,Santa Clara County,11,17,NE
+31055,31,55,Nebraska,Douglas County,6085,6.0,85.0,California,Santa Clara County,10,15,NE
+31153,31,153,Nebraska,Sarpy County,6085,6.0,85.0,California,Santa Clara County,9,15,NE
+31029,31,29,Nebraska,Chase County,8001,8.0,1.0,Colorado,Adams County,7,10,NE
+31049,31,49,Nebraska,Deuel County,8001,8.0,1.0,Colorado,Adams County,4,6,NE
+31081,31,81,Nebraska,Hamilton County,8001,8.0,1.0,Colorado,Adams County,2,3,NE
+31101,31,101,Nebraska,Keith County,8001,8.0,1.0,Colorado,Adams County,15,15,NE
+31151,31,151,Nebraska,Saline County,8001,8.0,1.0,Colorado,Adams County,3,5,NE
+31145,31,145,Nebraska,Red Willow County,8005,8.0,5.0,Colorado,Arapahoe County,8,14,NE
+31053,31,53,Nebraska,Dodge County,8013,8.0,13.0,Colorado,Boulder County,6,10,NE
+31055,31,55,Nebraska,Douglas County,8013,8.0,13.0,Colorado,Boulder County,11,17,NE
+31101,31,101,Nebraska,Keith County,8013,8.0,13.0,Colorado,Boulder County,4,5,NE
+31109,31,109,Nebraska,Lancaster County,8013,8.0,13.0,Colorado,Boulder County,15,20,NE
+31157,31,157,Nebraska,Scotts Bluff County,8013,8.0,13.0,Colorado,Boulder County,7,9,NE
+31135,31,135,Nebraska,Perkins County,8014,8.0,14.0,Colorado,Broomfield County,2,4,NE
+31109,31,109,Nebraska,Lancaster County,8027,8.0,27.0,Colorado,Custer County,6,10,NE
+31019,31,19,Nebraska,Buffalo County,8031,8.0,31.0,Colorado,Denver County,7,10,NE
+31033,31,33,Nebraska,Cheyenne County,8031,8.0,31.0,Colorado,Denver County,11,16,NE
+31045,31,45,Nebraska,Dawes County,8031,8.0,31.0,Colorado,Denver County,3,5,NE
+31055,31,55,Nebraska,Douglas County,8031,8.0,31.0,Colorado,Denver County,16,17,NE
+31087,31,87,Nebraska,Hitchcock County,8031,8.0,31.0,Colorado,Denver County,4,5,NE
+31109,31,109,Nebraska,Lancaster County,8031,8.0,31.0,Colorado,Denver County,9,15,NE
+31111,31,111,Nebraska,Lincoln County,8031,8.0,31.0,Colorado,Denver County,9,10,NE
+31113,31,113,Nebraska,Logan County,8031,8.0,31.0,Colorado,Denver County,1,3,NE
+31119,31,119,Nebraska,Madison County,8031,8.0,31.0,Colorado,Denver County,8,13,NE
+31123,31,123,Nebraska,Morrill County,8031,8.0,31.0,Colorado,Denver County,13,18,NE
+31157,31,157,Nebraska,Scotts Bluff County,8031,8.0,31.0,Colorado,Denver County,46,41,NE
+31001,31,1,Nebraska,Adams County,8035,8.0,35.0,Colorado,Douglas County,20,26,NE
+31143,31,143,Nebraska,Polk County,8037,8.0,37.0,Colorado,Eagle County,3,6,NE
+31005,31,5,Nebraska,Arthur County,8041,8.0,41.0,Colorado,El Paso County,2,2,NE
+31055,31,55,Nebraska,Douglas County,8041,8.0,41.0,Colorado,El Paso County,20,31,NE
+31089,31,89,Nebraska,Holt County,8041,8.0,41.0,Colorado,El Paso County,2,3,NE
+31109,31,109,Nebraska,Lancaster County,8041,8.0,41.0,Colorado,El Paso County,9,14,NE
+31141,31,141,Nebraska,Platte County,8041,8.0,41.0,Colorado,El Paso County,32,47,NE
+31153,31,153,Nebraska,Sarpy County,8041,8.0,41.0,Colorado,El Paso County,25,42,NE
+31159,31,159,Nebraska,Seward County,8041,8.0,41.0,Colorado,El Paso County,2,3,NE
+31179,31,179,Nebraska,Wayne County,8041,8.0,41.0,Colorado,El Paso County,18,29,NE
+31111,31,111,Nebraska,Lincoln County,8045,8.0,45.0,Colorado,Garfield County,40,61,NE
+31175,31,175,Nebraska,Valley County,8045,8.0,45.0,Colorado,Garfield County,5,8,NE
+31153,31,153,Nebraska,Sarpy County,8055,8.0,55.0,Colorado,Huerfano County,10,17,NE
+31115,31,115,Nebraska,Loup County,8059,8.0,59.0,Colorado,Jefferson County,2,3,NE
+31007,31,7,Nebraska,Banner County,8069,8.0,69.0,Colorado,Larimer County,4,5,NE
+31185,31,185,Nebraska,York County,8069,8.0,69.0,Colorado,Larimer County,13,23,NE
+31007,31,7,Nebraska,Banner County,8075,8.0,75.0,Colorado,Logan County,3,4,NE
+31033,31,33,Nebraska,Cheyenne County,8075,8.0,75.0,Colorado,Logan County,34,23,NE
+31049,31,49,Nebraska,Deuel County,8075,8.0,75.0,Colorado,Logan County,2,3,NE
+31111,31,111,Nebraska,Lincoln County,8075,8.0,75.0,Colorado,Logan County,15,20,NE
+31135,31,135,Nebraska,Perkins County,8075,8.0,75.0,Colorado,Logan County,8,12,NE
+31157,31,157,Nebraska,Scotts Bluff County,8075,8.0,75.0,Colorado,Logan County,34,40,NE
+31169,31,169,Nebraska,Thayer County,8075,8.0,75.0,Colorado,Logan County,2,4,NE
+31135,31,135,Nebraska,Perkins County,8087,8.0,87.0,Colorado,Morgan County,2,3,NE
+31157,31,157,Nebraska,Scotts Bluff County,8087,8.0,87.0,Colorado,Morgan County,22,24,NE
+31161,31,161,Nebraska,Sheridan County,8087,8.0,87.0,Colorado,Morgan County,9,13,NE
+31029,31,29,Nebraska,Chase County,8095,8.0,95.0,Colorado,Phillips County,14,14,NE
+31049,31,49,Nebraska,Deuel County,8095,8.0,95.0,Colorado,Phillips County,12,11,NE
+31057,31,57,Nebraska,Dundy County,8095,8.0,95.0,Colorado,Phillips County,4,6,NE
+31101,31,101,Nebraska,Keith County,8095,8.0,95.0,Colorado,Phillips County,3,5,NE
+31135,31,135,Nebraska,Perkins County,8095,8.0,95.0,Colorado,Phillips County,9,8,NE
+31183,31,183,Nebraska,Wheeler County,8103,8.0,103.0,Colorado,Rio Blanco County,3,4,NE
+31005,31,5,Nebraska,Arthur County,8115,8.0,115.0,Colorado,Sedgwick County,1,2,NE
+31033,31,33,Nebraska,Cheyenne County,8115,8.0,115.0,Colorado,Sedgwick County,3,3,NE
+31049,31,49,Nebraska,Deuel County,8115,8.0,115.0,Colorado,Sedgwick County,45,20,NE
+31069,31,69,Nebraska,Garden County,8115,8.0,115.0,Colorado,Sedgwick County,11,15,NE
+31135,31,135,Nebraska,Perkins County,8115,8.0,115.0,Colorado,Sedgwick County,3,7,NE
+31033,31,33,Nebraska,Cheyenne County,8123,8.0,123.0,Colorado,Weld County,5,7,NE
+31105,31,105,Nebraska,Kimball County,8123,8.0,123.0,Colorado,Weld County,6,10,NE
+31111,31,111,Nebraska,Lincoln County,8123,8.0,123.0,Colorado,Weld County,1,2,NE
+31153,31,153,Nebraska,Sarpy County,8123,8.0,123.0,Colorado,Weld County,18,21,NE
+31157,31,157,Nebraska,Scotts Bluff County,8123,8.0,123.0,Colorado,Weld County,9,12,NE
+31163,31,163,Nebraska,Sherman County,8123,8.0,123.0,Colorado,Weld County,1,3,NE
+31165,31,165,Nebraska,Sioux County,8123,8.0,123.0,Colorado,Weld County,4,5,NE
+31029,31,29,Nebraska,Chase County,8125,8.0,125.0,Colorado,Yuma County,6,12,NE
+31057,31,57,Nebraska,Dundy County,8125,8.0,125.0,Colorado,Yuma County,29,15,NE
+31153,31,153,Nebraska,Sarpy County,9009,9.0,9.0,Connecticut,New Haven County,7,12,NE
+31151,31,151,Nebraska,Saline County,10003,10.0,3.0,Delaware,New Castle County,5,7,NE
+31055,31,55,Nebraska,Douglas County,11001,11.0,1.0,District of Columbia,District of Columbia,17,19,NE
+31153,31,153,Nebraska,Sarpy County,12011,12.0,11.0,Florida,Broward County,11,17,NE
+31153,31,153,Nebraska,Sarpy County,12057,12.0,57.0,Florida,Hillsborough County,16,20,NE
+31089,31,89,Nebraska,Holt County,12085,12.0,85.0,Florida,Martin County,3,4,NE
+31163,31,163,Nebraska,Sherman County,12117,12.0,117.0,Florida,Seminole County,4,5,NE
+31119,31,119,Nebraska,Madison County,13053,13.0,53.0,Georgia,Chattahoochee County,18,26,NE
+31163,31,163,Nebraska,Sherman County,13121,13.0,121.0,Georgia,Fulton County,3,5,NE
+31155,31,155,Nebraska,Saunders County,13245,13.0,245.0,Georgia,Richmond County,4,5,NE
+31129,31,129,Nebraska,Nuckolls County,16035,16.0,35.0,Idaho,Clearwater County,2,3,NE
+31025,31,25,Nebraska,Cass County,17017,17.0,17.0,Illinois,Cass County,2,3,NE
+31155,31,155,Nebraska,Saunders County,17017,17.0,17.0,Illinois,Cass County,5,8,NE
+31109,31,109,Nebraska,Lancaster County,17029,17.0,29.0,Illinois,Coles County,33,47,NE
+31037,31,37,Nebraska,Colfax County,17031,17.0,31.0,Illinois,Cook County,8,13,NE
+31055,31,55,Nebraska,Douglas County,17031,17.0,31.0,Illinois,Cook County,28,25,NE
+31109,31,109,Nebraska,Lancaster County,17031,17.0,31.0,Illinois,Cook County,8,14,NE
+31153,31,153,Nebraska,Sarpy County,17031,17.0,31.0,Illinois,Cook County,9,17,NE
+31169,31,169,Nebraska,Thayer County,17031,17.0,31.0,Illinois,Cook County,2,3,NE
+31173,31,173,Nebraska,Thurston County,17031,17.0,31.0,Illinois,Cook County,3,4,NE
+31171,31,171,Nebraska,Thomas County,17041,17.0,41.0,Illinois,Douglas County,2,3,NE
+31055,31,55,Nebraska,Douglas County,17043,17.0,43.0,Illinois,DuPage County,11,16,NE
+31127,31,127,Nebraska,Nemaha County,17063,17.0,63.0,Illinois,Grundy County,4,8,NE
+31159,31,159,Nebraska,Seward County,17095,17.0,95.0,Illinois,Knox County,7,15,NE
+31049,31,49,Nebraska,Deuel County,17105,17.0,105.0,Illinois,Livingston County,15,20,NE
+31079,31,79,Nebraska,Hall County,17113,17.0,113.0,Illinois,McLean County,8,13,NE
+31055,31,55,Nebraska,Douglas County,17119,17.0,119.0,Illinois,Madison County,10,15,NE
+31023,31,23,Nebraska,Butler County,17141,17.0,141.0,Illinois,Ogle County,2,3,NE
+31055,31,55,Nebraska,Douglas County,17163,17.0,163.0,Illinois,St. Clair County,12,20,NE
+31109,31,109,Nebraska,Lancaster County,17163,17.0,163.0,Illinois,St. Clair County,5,8,NE
+31147,31,147,Nebraska,Richardson County,18007,18.0,7.0,Indiana,Benton County,2,3,NE
+31027,31,27,Nebraska,Cedar County,18039,18.0,39.0,Indiana,Elkhart County,1,4,NE
+31051,31,51,Nebraska,Dixon County,18039,18.0,39.0,Indiana,Elkhart County,2,4,NE
+31015,31,15,Nebraska,Boyd County,18067,18.0,67.0,Indiana,Howard County,5,5,NE
+31065,31,65,Nebraska,Furnas County,18085,18.0,85.0,Indiana,Kosciusko County,5,6,NE
+31055,31,55,Nebraska,Douglas County,18097,18.0,97.0,Indiana,Marion County,10,15,NE
+31055,31,55,Nebraska,Douglas County,18129,18.0,129.0,Indiana,Posey County,10,13,NE
+31153,31,153,Nebraska,Sarpy County,18141,18.0,141.0,Indiana,St. Joseph County,2,5,NE
+31051,31,51,Nebraska,Dixon County,18167,18.0,167.0,Indiana,Vigo County,2,3,NE
+31055,31,55,Nebraska,Douglas County,19003,19.0,3.0,Iowa,Adams County,11,16,NE
+31153,31,153,Nebraska,Sarpy County,19003,19.0,3.0,Iowa,Adams County,8,14,NE
+31109,31,109,Nebraska,Lancaster County,19015,19.0,15.0,Iowa,Boone County,2,3,NE
+31003,31,3,Nebraska,Antelope County,19021,19.0,21.0,Iowa,Buena Vista County,4,5,NE
+31037,31,37,Nebraska,Colfax County,19021,19.0,21.0,Iowa,Buena Vista County,3,4,NE
+31055,31,55,Nebraska,Douglas County,19021,19.0,21.0,Iowa,Buena Vista County,3,7,NE
+31121,31,121,Nebraska,Merrick County,19021,19.0,21.0,Iowa,Buena Vista County,1,3,NE
+31179,31,179,Nebraska,Wayne County,19025,19.0,25.0,Iowa,Calhoun County,1,2,NE
+31055,31,55,Nebraska,Douglas County,19027,19.0,27.0,Iowa,Carroll County,14,21,NE
+31131,31,131,Nebraska,Otoe County,19027,19.0,27.0,Iowa,Carroll County,2,3,NE
+31153,31,153,Nebraska,Sarpy County,19027,19.0,27.0,Iowa,Carroll County,12,15,NE
+31055,31,55,Nebraska,Douglas County,19029,19.0,29.0,Iowa,Cass County,10,14,NE
+31125,31,125,Nebraska,Nance County,19029,19.0,29.0,Iowa,Cass County,5,7,NE
+31177,31,177,Nebraska,Washington County,19029,19.0,29.0,Iowa,Cass County,2,3,NE
+31055,31,55,Nebraska,Douglas County,19041,19.0,41.0,Iowa,Clay County,4,7,NE
+31001,31,1,Nebraska,Adams County,19047,19.0,47.0,Iowa,Crawford County,1,3,NE
+31043,31,43,Nebraska,Dakota County,19047,19.0,47.0,Iowa,Crawford County,4,8,NE
+31055,31,55,Nebraska,Douglas County,19047,19.0,47.0,Iowa,Crawford County,13,20,NE
+31151,31,151,Nebraska,Saline County,19047,19.0,47.0,Iowa,Crawford County,4,6,NE
+31001,31,1,Nebraska,Adams County,19049,19.0,49.0,Iowa,Dallas County,2,3,NE
+31025,31,25,Nebraska,Cass County,19049,19.0,49.0,Iowa,Dallas County,2,3,NE
+31043,31,43,Nebraska,Dakota County,19049,19.0,49.0,Iowa,Dallas County,23,35,NE
+31053,31,53,Nebraska,Dodge County,19049,19.0,49.0,Iowa,Dallas County,4,5,NE
+31055,31,55,Nebraska,Douglas County,19057,19.0,57.0,Iowa,Des Moines County,7,11,NE
+31107,31,107,Nebraska,Knox County,19057,19.0,57.0,Iowa,Des Moines County,2,3,NE
+31055,31,55,Nebraska,Douglas County,19065,19.0,65.0,Iowa,Fayette County,10,17,NE
+31025,31,25,Nebraska,Cass County,19071,19.0,71.0,Iowa,Fremont County,1,2,NE
+31055,31,55,Nebraska,Douglas County,19071,19.0,71.0,Iowa,Fremont County,3,4,NE
+31109,31,109,Nebraska,Lancaster County,19071,19.0,71.0,Iowa,Fremont County,9,16,NE
+31127,31,127,Nebraska,Nemaha County,19071,19.0,71.0,Iowa,Fremont County,3,4,NE
+31131,31,131,Nebraska,Otoe County,19071,19.0,71.0,Iowa,Fremont County,128,100,NE
+31131,31,131,Nebraska,Otoe County,19077,19.0,77.0,Iowa,Guthrie County,8,9,NE
+31055,31,55,Nebraska,Douglas County,19083,19.0,83.0,Iowa,Hardin County,13,19,NE
+31003,31,3,Nebraska,Antelope County,19085,19.0,85.0,Iowa,Harrison County,8,12,NE
+31021,31,21,Nebraska,Burt County,19085,19.0,85.0,Iowa,Harrison County,7,12,NE
+31025,31,25,Nebraska,Cass County,19085,19.0,85.0,Iowa,Harrison County,1,4,NE
+31053,31,53,Nebraska,Dodge County,19085,19.0,85.0,Iowa,Harrison County,2,5,NE
+31055,31,55,Nebraska,Douglas County,19085,19.0,85.0,Iowa,Harrison County,130,82,NE
+31153,31,153,Nebraska,Sarpy County,19085,19.0,85.0,Iowa,Harrison County,29,34,NE
+31177,31,177,Nebraska,Washington County,19085,19.0,85.0,Iowa,Harrison County,60,50,NE
+31019,31,19,Nebraska,Buffalo County,19093,19.0,93.0,Iowa,Ida County,10,16,NE
+31179,31,179,Nebraska,Wayne County,19093,19.0,93.0,Iowa,Ida County,1,2,NE
+31131,31,131,Nebraska,Otoe County,19095,19.0,95.0,Iowa,Iowa County,55,62,NE
+31143,31,143,Nebraska,Polk County,19099,19.0,99.0,Iowa,Jasper County,3,4,NE
+31055,31,55,Nebraska,Douglas County,19107,19.0,107.0,Iowa,Keokuk County,14,22,NE
+31043,31,43,Nebraska,Dakota County,19109,19.0,109.0,Iowa,Kossuth County,1,3,NE
+31153,31,153,Nebraska,Sarpy County,19111,19.0,111.0,Iowa,Lee County,13,20,NE
+31055,31,55,Nebraska,Douglas County,19113,19.0,113.0,Iowa,Linn County,15,26,NE
+31153,31,153,Nebraska,Sarpy County,19113,19.0,113.0,Iowa,Linn County,12,20,NE
+31131,31,131,Nebraska,Otoe County,19123,19.0,123.0,Iowa,Mahaska County,1,2,NE
+31135,31,135,Nebraska,Perkins County,19125,19.0,125.0,Iowa,Marion County,2,3,NE
+31055,31,55,Nebraska,Douglas County,19127,19.0,127.0,Iowa,Marshall County,15,24,NE
+31025,31,25,Nebraska,Cass County,19129,19.0,129.0,Iowa,Mills County,41,29,NE
+31055,31,55,Nebraska,Douglas County,19129,19.0,129.0,Iowa,Mills County,150,62,NE
+31127,31,127,Nebraska,Nemaha County,19129,19.0,129.0,Iowa,Mills County,19,27,NE
+31131,31,131,Nebraska,Otoe County,19129,19.0,129.0,Iowa,Mills County,45,41,NE
+31153,31,153,Nebraska,Sarpy County,19129,19.0,129.0,Iowa,Mills County,114,58,NE
+31019,31,19,Nebraska,Buffalo County,19133,19.0,133.0,Iowa,Monona County,2,4,NE
+31021,31,21,Nebraska,Burt County,19133,19.0,133.0,Iowa,Monona County,54,32,NE
+31039,31,39,Nebraska,Cuming County,19133,19.0,133.0,Iowa,Monona County,2,3,NE
+31043,31,43,Nebraska,Dakota County,19133,19.0,133.0,Iowa,Monona County,22,29,NE
+31055,31,55,Nebraska,Douglas County,19133,19.0,133.0,Iowa,Monona County,7,12,NE
+31173,31,173,Nebraska,Thurston County,19133,19.0,133.0,Iowa,Monona County,45,15,NE
+31025,31,25,Nebraska,Cass County,19137,19.0,137.0,Iowa,Montgomery County,19,22,NE
+31137,31,137,Nebraska,Phelps County,19141,19.0,141.0,Iowa,O'Brien County,10,15,NE
+31055,31,55,Nebraska,Douglas County,19145,19.0,145.0,Iowa,Page County,12,18,NE
+31109,31,109,Nebraska,Lancaster County,19145,19.0,145.0,Iowa,Page County,4,6,NE
+31127,31,127,Nebraska,Nemaha County,19145,19.0,145.0,Iowa,Page County,11,16,NE
+31153,31,153,Nebraska,Sarpy County,19145,19.0,145.0,Iowa,Page County,22,23,NE
+31159,31,159,Nebraska,Seward County,19145,19.0,145.0,Iowa,Page County,7,9,NE
+31021,31,21,Nebraska,Burt County,19149,19.0,149.0,Iowa,Plymouth County,2,4,NE
+31043,31,43,Nebraska,Dakota County,19149,19.0,149.0,Iowa,Plymouth County,92,81,NE
+31051,31,51,Nebraska,Dixon County,19149,19.0,149.0,Iowa,Plymouth County,2,3,NE
+31107,31,107,Nebraska,Knox County,19149,19.0,149.0,Iowa,Plymouth County,2,3,NE
+31021,31,21,Nebraska,Burt County,19153,19.0,153.0,Iowa,Polk County,3,4,NE
+31023,31,23,Nebraska,Butler County,19153,19.0,153.0,Iowa,Polk County,3,4,NE
+31053,31,53,Nebraska,Dodge County,19153,19.0,153.0,Iowa,Polk County,1,3,NE
+31055,31,55,Nebraska,Douglas County,19153,19.0,153.0,Iowa,Polk County,146,96,NE
+31063,31,63,Nebraska,Frontier County,19153,19.0,153.0,Iowa,Polk County,1,2,NE
+31067,31,67,Nebraska,Gage County,19153,19.0,153.0,Iowa,Polk County,2,3,NE
+31081,31,81,Nebraska,Hamilton County,19153,19.0,153.0,Iowa,Polk County,8,8,NE
+31109,31,109,Nebraska,Lancaster County,19153,19.0,153.0,Iowa,Polk County,16,17,NE
+31111,31,111,Nebraska,Lincoln County,19153,19.0,153.0,Iowa,Polk County,3,5,NE
+31119,31,119,Nebraska,Madison County,19153,19.0,153.0,Iowa,Polk County,9,13,NE
+31121,31,121,Nebraska,Merrick County,19153,19.0,153.0,Iowa,Polk County,10,15,NE
+31141,31,141,Nebraska,Platte County,19153,19.0,153.0,Iowa,Polk County,1,3,NE
+31153,31,153,Nebraska,Sarpy County,19153,19.0,153.0,Iowa,Polk County,29,23,NE
+31177,31,177,Nebraska,Washington County,19153,19.0,153.0,Iowa,Polk County,7,12,NE
+31001,31,1,Nebraska,Adams County,19155,19.0,155.0,Iowa,Pottawattamie County,10,14,NE
+31013,31,13,Nebraska,Box Butte County,19155,19.0,155.0,Iowa,Pottawattamie County,3,7,NE
+31021,31,21,Nebraska,Burt County,19155,19.0,155.0,Iowa,Pottawattamie County,8,10,NE
+31025,31,25,Nebraska,Cass County,19155,19.0,155.0,Iowa,Pottawattamie County,307,100,NE
+31045,31,45,Nebraska,Dawes County,19155,19.0,155.0,Iowa,Pottawattamie County,3,7,NE
+31053,31,53,Nebraska,Dodge County,19155,19.0,155.0,Iowa,Pottawattamie County,29,29,NE
+31055,31,55,Nebraska,Douglas County,19155,19.0,155.0,Iowa,Pottawattamie County,7542,530,NE
+31067,31,67,Nebraska,Gage County,19155,19.0,155.0,Iowa,Pottawattamie County,1,3,NE
+31079,31,79,Nebraska,Hall County,19155,19.0,155.0,Iowa,Pottawattamie County,2,4,NE
+31109,31,109,Nebraska,Lancaster County,19155,19.0,155.0,Iowa,Pottawattamie County,105,61,NE
+31119,31,119,Nebraska,Madison County,19155,19.0,155.0,Iowa,Pottawattamie County,11,26,NE
+31131,31,131,Nebraska,Otoe County,19155,19.0,155.0,Iowa,Pottawattamie County,64,35,NE
+31141,31,141,Nebraska,Platte County,19155,19.0,155.0,Iowa,Pottawattamie County,4,6,NE
+31143,31,143,Nebraska,Polk County,19155,19.0,155.0,Iowa,Pottawattamie County,2,3,NE
+31153,31,153,Nebraska,Sarpy County,19155,19.0,155.0,Iowa,Pottawattamie County,2394,312,NE
+31155,31,155,Nebraska,Saunders County,19155,19.0,155.0,Iowa,Pottawattamie County,84,49,NE
+31159,31,159,Nebraska,Seward County,19155,19.0,155.0,Iowa,Pottawattamie County,8,13,NE
+31163,31,163,Nebraska,Sherman County,19155,19.0,155.0,Iowa,Pottawattamie County,2,4,NE
+31177,31,177,Nebraska,Washington County,19155,19.0,155.0,Iowa,Pottawattamie County,62,43,NE
+31153,31,153,Nebraska,Sarpy County,19163,19.0,163.0,Iowa,Scott County,7,11,NE
+31055,31,55,Nebraska,Douglas County,19165,19.0,165.0,Iowa,Shelby County,61,48,NE
+31177,31,177,Nebraska,Washington County,19165,19.0,165.0,Iowa,Shelby County,3,4,NE
+31043,31,43,Nebraska,Dakota County,19167,19.0,167.0,Iowa,Sioux County,3,4,NE
+31055,31,55,Nebraska,Douglas County,19167,19.0,167.0,Iowa,Sioux County,14,23,NE
+31109,31,109,Nebraska,Lancaster County,19167,19.0,167.0,Iowa,Sioux County,4,6,NE
+31131,31,131,Nebraska,Otoe County,19167,19.0,167.0,Iowa,Sioux County,4,7,NE
+31019,31,19,Nebraska,Buffalo County,19169,19.0,169.0,Iowa,Story County,6,10,NE
+31041,31,41,Nebraska,Custer County,19169,19.0,169.0,Iowa,Story County,4,5,NE
+31079,31,79,Nebraska,Hall County,19169,19.0,169.0,Iowa,Story County,14,24,NE
+31141,31,141,Nebraska,Platte County,19169,19.0,169.0,Iowa,Story County,1,3,NE
+31159,31,159,Nebraska,Seward County,19169,19.0,169.0,Iowa,Story County,8,12,NE
+31067,31,67,Nebraska,Gage County,19173,19.0,173.0,Iowa,Taylor County,4,5,NE
+31109,31,109,Nebraska,Lancaster County,19175,19.0,175.0,Iowa,Union County,14,22,NE
+31109,31,109,Nebraska,Lancaster County,19179,19.0,179.0,Iowa,Wapello County,10,15,NE
+31109,31,109,Nebraska,Lancaster County,19187,19.0,187.0,Iowa,Webster County,48,72,NE
+31153,31,153,Nebraska,Sarpy County,19189,19.0,189.0,Iowa,Winnebago County,7,10,NE
+31155,31,155,Nebraska,Saunders County,19191,19.0,191.0,Iowa,Winneshiek County,3,6,NE
+31019,31,19,Nebraska,Buffalo County,19193,19.0,193.0,Iowa,Woodbury County,10,16,NE
+31021,31,21,Nebraska,Burt County,19193,19.0,193.0,Iowa,Woodbury County,48,23,NE
+31023,31,23,Nebraska,Butler County,19193,19.0,193.0,Iowa,Woodbury County,13,23,NE
+31025,31,25,Nebraska,Cass County,19193,19.0,193.0,Iowa,Woodbury County,11,14,NE
+31027,31,27,Nebraska,Cedar County,19193,19.0,193.0,Iowa,Woodbury County,57,27,NE
+31037,31,37,Nebraska,Colfax County,19193,19.0,193.0,Iowa,Woodbury County,6,11,NE
+31039,31,39,Nebraska,Cuming County,19193,19.0,193.0,Iowa,Woodbury County,15,11,NE
+31043,31,43,Nebraska,Dakota County,19193,19.0,193.0,Iowa,Woodbury County,3676,452,NE
+31051,31,51,Nebraska,Dixon County,19193,19.0,193.0,Iowa,Woodbury County,397,62,NE
+31055,31,55,Nebraska,Douglas County,19193,19.0,193.0,Iowa,Woodbury County,56,38,NE
+31079,31,79,Nebraska,Hall County,19193,19.0,193.0,Iowa,Woodbury County,20,34,NE
+31107,31,107,Nebraska,Knox County,19193,19.0,193.0,Iowa,Woodbury County,13,11,NE
+31119,31,119,Nebraska,Madison County,19193,19.0,193.0,Iowa,Woodbury County,46,68,NE
+31127,31,127,Nebraska,Nemaha County,19193,19.0,193.0,Iowa,Woodbury County,9,13,NE
+31131,31,131,Nebraska,Otoe County,19193,19.0,193.0,Iowa,Woodbury County,6,11,NE
+31139,31,139,Nebraska,Pierce County,19193,19.0,193.0,Iowa,Woodbury County,4,6,NE
+31141,31,141,Nebraska,Platte County,19193,19.0,193.0,Iowa,Woodbury County,23,22,NE
+31149,31,149,Nebraska,Rock County,19193,19.0,193.0,Iowa,Woodbury County,2,3,NE
+31153,31,153,Nebraska,Sarpy County,19193,19.0,193.0,Iowa,Woodbury County,6,9,NE
+31155,31,155,Nebraska,Saunders County,19193,19.0,193.0,Iowa,Woodbury County,9,15,NE
+31173,31,173,Nebraska,Thurston County,19193,19.0,193.0,Iowa,Woodbury County,170,37,NE
+31175,31,175,Nebraska,Valley County,19193,19.0,193.0,Iowa,Woodbury County,10,14,NE
+31177,31,177,Nebraska,Washington County,19193,19.0,193.0,Iowa,Woodbury County,9,14,NE
+31179,31,179,Nebraska,Wayne County,19193,19.0,193.0,Iowa,Woodbury County,39,29,NE
+31141,31,141,Nebraska,Platte County,19197,19.0,197.0,Iowa,Wright County,20,18,NE
+31015,31,15,Nebraska,Boyd County,20005,20.0,5.0,Kansas,Atchison County,2,3,NE
+31109,31,109,Nebraska,Lancaster County,20005,20.0,5.0,Kansas,Atchison County,5,8,NE
+31147,31,147,Nebraska,Richardson County,20005,20.0,5.0,Kansas,Atchison County,31,37,NE
+31153,31,153,Nebraska,Sarpy County,20005,20.0,5.0,Kansas,Atchison County,5,13,NE
+31109,31,109,Nebraska,Lancaster County,20009,20.0,9.0,Kansas,Barton County,11,16,NE
+31109,31,109,Nebraska,Lancaster County,20013,20.0,13.0,Kansas,Brown County,5,8,NE
+31147,31,147,Nebraska,Richardson County,20013,20.0,13.0,Kansas,Brown County,293,120,NE
+31057,31,57,Nebraska,Dundy County,20023,20.0,23.0,Kansas,Cheyenne County,2,3,NE
+31159,31,159,Nebraska,Seward County,20027,20.0,27.0,Kansas,Clay County,3,4,NE
+31095,31,95,Nebraska,Jefferson County,20029,20.0,29.0,Kansas,Cloud County,3,5,NE
+31169,31,169,Nebraska,Thayer County,20029,20.0,29.0,Kansas,Cloud County,2,3,NE
+31079,31,79,Nebraska,Hall County,20037,20.0,37.0,Kansas,Crawford County,16,25,NE
+31145,31,145,Nebraska,Red Willow County,20039,20.0,39.0,Kansas,Decatur County,4,5,NE
+31127,31,127,Nebraska,Nemaha County,20043,20.0,43.0,Kansas,Doniphan County,25,38,NE
+31147,31,147,Nebraska,Richardson County,20043,20.0,43.0,Kansas,Doniphan County,32,31,NE
+31109,31,109,Nebraska,Lancaster County,20045,20.0,45.0,Kansas,Douglas County,21,28,NE
+31147,31,147,Nebraska,Richardson County,20045,20.0,45.0,Kansas,Douglas County,1,3,NE
+31011,31,11,Nebraska,Boone County,20051,20.0,51.0,Kansas,Ellis County,2,3,NE
+31101,31,101,Nebraska,Keith County,20051,20.0,51.0,Kansas,Ellis County,5,8,NE
+31181,31,181,Nebraska,Webster County,20051,20.0,51.0,Kansas,Ellis County,3,5,NE
+31025,31,25,Nebraska,Cass County,20055,20.0,55.0,Kansas,Finney County,8,13,NE
+31083,31,83,Nebraska,Harlan County,20055,20.0,55.0,Kansas,Finney County,3,4,NE
+31143,31,143,Nebraska,Polk County,20055,20.0,55.0,Kansas,Finney County,4,7,NE
+31159,31,159,Nebraska,Seward County,20057,20.0,57.0,Kansas,Ford County,4,5,NE
+31097,31,97,Nebraska,Johnson County,20059,20.0,59.0,Kansas,Franklin County,2,4,NE
+31043,31,43,Nebraska,Dakota County,20061,20.0,61.0,Kansas,Geary County,1,2,NE
+31087,31,87,Nebraska,Hitchcock County,20065,20.0,65.0,Kansas,Graham County,1,4,NE
+31137,31,137,Nebraska,Phelps County,20065,20.0,65.0,Kansas,Graham County,1,3,NE
+31129,31,129,Nebraska,Nuckolls County,20089,20.0,89.0,Kansas,Jewell County,42,38,NE
+31159,31,159,Nebraska,Seward County,20089,20.0,89.0,Kansas,Jewell County,3,6,NE
+31181,31,181,Nebraska,Webster County,20089,20.0,89.0,Kansas,Jewell County,6,6,NE
+31011,31,11,Nebraska,Boone County,20091,20.0,91.0,Kansas,Johnson County,9,13,NE
+31017,31,17,Nebraska,Brown County,20091,20.0,91.0,Kansas,Johnson County,2,4,NE
+31055,31,55,Nebraska,Douglas County,20091,20.0,91.0,Kansas,Johnson County,12,12,NE
+31057,31,57,Nebraska,Dundy County,20091,20.0,91.0,Kansas,Johnson County,3,4,NE
+31087,31,87,Nebraska,Hitchcock County,20091,20.0,91.0,Kansas,Johnson County,2,3,NE
+31109,31,109,Nebraska,Lancaster County,20091,20.0,91.0,Kansas,Johnson County,26,41,NE
+31119,31,119,Nebraska,Madison County,20091,20.0,91.0,Kansas,Johnson County,28,42,NE
+31153,31,153,Nebraska,Sarpy County,20091,20.0,91.0,Kansas,Johnson County,8,13,NE
+31169,31,169,Nebraska,Thayer County,20095,20.0,95.0,Kansas,Kingman County,2,3,NE
+31151,31,151,Nebraska,Saline County,20103,20.0,103.0,Kansas,Leavenworth County,6,9,NE
+31153,31,153,Nebraska,Sarpy County,20103,20.0,103.0,Kansas,Leavenworth County,55,58,NE
+31055,31,55,Nebraska,Douglas County,20111,20.0,111.0,Kansas,Lyon County,37,30,NE
+31155,31,155,Nebraska,Saunders County,20111,20.0,111.0,Kansas,Lyon County,36,40,NE
+31001,31,1,Nebraska,Adams County,20113,20.0,113.0,Kansas,McPherson County,14,21,NE
+31059,31,59,Nebraska,Fillmore County,20113,20.0,113.0,Kansas,McPherson County,3,5,NE
+31079,31,79,Nebraska,Hall County,20113,20.0,113.0,Kansas,McPherson County,45,59,NE
+31101,31,101,Nebraska,Keith County,20113,20.0,113.0,Kansas,McPherson County,3,5,NE
+31067,31,67,Nebraska,Gage County,20117,20.0,117.0,Kansas,Marshall County,335,88,NE
+31095,31,95,Nebraska,Jefferson County,20117,20.0,117.0,Kansas,Marshall County,36,26,NE
+31109,31,109,Nebraska,Lancaster County,20117,20.0,117.0,Kansas,Marshall County,32,31,NE
+31133,31,133,Nebraska,Pawnee County,20117,20.0,117.0,Kansas,Marshall County,12,11,NE
+31181,31,181,Nebraska,Webster County,20123,20.0,123.0,Kansas,Mitchell County,12,15,NE
+31059,31,59,Nebraska,Fillmore County,20125,20.0,125.0,Kansas,Montgomery County,5,7,NE
+31131,31,131,Nebraska,Otoe County,20127,20.0,127.0,Kansas,Morris County,15,21,NE
+31025,31,25,Nebraska,Cass County,20131,20.0,131.0,Kansas,Nemaha County,2,4,NE
+31055,31,55,Nebraska,Douglas County,20131,20.0,131.0,Kansas,Nemaha County,12,18,NE
+31097,31,97,Nebraska,Johnson County,20131,20.0,131.0,Kansas,Nemaha County,14,15,NE
+31109,31,109,Nebraska,Lancaster County,20131,20.0,131.0,Kansas,Nemaha County,14,23,NE
+31133,31,133,Nebraska,Pawnee County,20131,20.0,131.0,Kansas,Nemaha County,90,24,NE
+31147,31,147,Nebraska,Richardson County,20131,20.0,131.0,Kansas,Nemaha County,217,73,NE
+31063,31,63,Nebraska,Frontier County,20137,20.0,137.0,Kansas,Norton County,1,3,NE
+31065,31,65,Nebraska,Furnas County,20137,20.0,137.0,Kansas,Norton County,67,38,NE
+31073,31,73,Nebraska,Gosper County,20137,20.0,137.0,Kansas,Norton County,7,11,NE
+31083,31,83,Nebraska,Harlan County,20137,20.0,137.0,Kansas,Norton County,4,4,NE
+31001,31,1,Nebraska,Adams County,20141,20.0,141.0,Kansas,Osborne County,3,8,NE
+31181,31,181,Nebraska,Webster County,20141,20.0,141.0,Kansas,Osborne County,3,5,NE
+31063,31,63,Nebraska,Frontier County,20147,20.0,147.0,Kansas,Phillips County,4,5,NE
+31083,31,83,Nebraska,Harlan County,20147,20.0,147.0,Kansas,Phillips County,27,22,NE
+31125,31,125,Nebraska,Nance County,20147,20.0,147.0,Kansas,Phillips County,2,3,NE
+31169,31,169,Nebraska,Thayer County,20149,20.0,149.0,Kansas,Pottawatomie County,2,3,NE
+31147,31,147,Nebraska,Richardson County,20151,20.0,151.0,Kansas,Pratt County,8,10,NE
+31029,31,29,Nebraska,Chase County,20153,20.0,153.0,Kansas,Rawlins County,2,4,NE
+31081,31,81,Nebraska,Hamilton County,20153,20.0,153.0,Kansas,Rawlins County,4,6,NE
+31087,31,87,Nebraska,Hitchcock County,20153,20.0,153.0,Kansas,Rawlins County,1,2,NE
+31145,31,145,Nebraska,Red Willow County,20153,20.0,153.0,Kansas,Rawlins County,4,4,NE
+31095,31,95,Nebraska,Jefferson County,20157,20.0,157.0,Kansas,Republic County,11,10,NE
+31129,31,129,Nebraska,Nuckolls County,20157,20.0,157.0,Kansas,Republic County,43,27,NE
+31169,31,169,Nebraska,Thayer County,20157,20.0,157.0,Kansas,Republic County,17,10,NE
+31055,31,55,Nebraska,Douglas County,20161,20.0,161.0,Kansas,Riley County,4,8,NE
+31093,31,93,Nebraska,Howard County,20161,20.0,161.0,Kansas,Riley County,8,11,NE
+31109,31,109,Nebraska,Lancaster County,20161,20.0,161.0,Kansas,Riley County,7,11,NE
+31153,31,153,Nebraska,Sarpy County,20161,20.0,161.0,Kansas,Riley County,14,15,NE
+31159,31,159,Nebraska,Seward County,20161,20.0,161.0,Kansas,Riley County,5,9,NE
+31169,31,169,Nebraska,Thayer County,20161,20.0,161.0,Kansas,Riley County,1,2,NE
+31067,31,67,Nebraska,Gage County,20167,20.0,167.0,Kansas,Russell County,3,4,NE
+31067,31,67,Nebraska,Gage County,20169,20.0,169.0,Kansas,Saline County,5,9,NE
+31081,31,81,Nebraska,Hamilton County,20169,20.0,169.0,Kansas,Saline County,2,3,NE
+31099,31,99,Nebraska,Kearney County,20169,20.0,169.0,Kansas,Saline County,10,15,NE
+31019,31,19,Nebraska,Buffalo County,20173,20.0,173.0,Kansas,Sedgwick County,15,24,NE
+31047,31,47,Nebraska,Dawson County,20173,20.0,173.0,Kansas,Sedgwick County,5,6,NE
+31055,31,55,Nebraska,Douglas County,20173,20.0,173.0,Kansas,Sedgwick County,14,21,NE
+31059,31,59,Nebraska,Fillmore County,20173,20.0,173.0,Kansas,Sedgwick County,4,6,NE
+31109,31,109,Nebraska,Lancaster County,20173,20.0,173.0,Kansas,Sedgwick County,22,30,NE
+31111,31,111,Nebraska,Lincoln County,20173,20.0,173.0,Kansas,Sedgwick County,2,3,NE
+31139,31,139,Nebraska,Pierce County,20173,20.0,173.0,Kansas,Sedgwick County,6,6,NE
+31151,31,151,Nebraska,Saline County,20173,20.0,173.0,Kansas,Sedgwick County,3,5,NE
+31001,31,1,Nebraska,Adams County,20177,20.0,177.0,Kansas,Shawnee County,2,3,NE
+31109,31,109,Nebraska,Lancaster County,20177,20.0,177.0,Kansas,Shawnee County,2,4,NE
+31153,31,153,Nebraska,Sarpy County,20177,20.0,177.0,Kansas,Shawnee County,4,9,NE
+31159,31,159,Nebraska,Seward County,20177,20.0,177.0,Kansas,Shawnee County,2,3,NE
+31169,31,169,Nebraska,Thayer County,20177,20.0,177.0,Kansas,Shawnee County,6,7,NE
+31061,31,61,Nebraska,Franklin County,20183,20.0,183.0,Kansas,Smith County,2,3,NE
+31181,31,181,Nebraska,Webster County,20183,20.0,183.0,Kansas,Smith County,7,7,NE
+31087,31,87,Nebraska,Hitchcock County,20193,20.0,193.0,Kansas,Thomas County,7,10,NE
+31067,31,67,Nebraska,Gage County,20201,20.0,201.0,Kansas,Washington County,3,4,NE
+31095,31,95,Nebraska,Jefferson County,20201,20.0,201.0,Kansas,Washington County,3,4,NE
+31151,31,151,Nebraska,Saline County,20201,20.0,201.0,Kansas,Washington County,2,3,NE
+31169,31,169,Nebraska,Thayer County,20201,20.0,201.0,Kansas,Washington County,43,38,NE
+31141,31,141,Nebraska,Platte County,20203,20.0,203.0,Kansas,Wichita County,10,12,NE
+31055,31,55,Nebraska,Douglas County,20209,20.0,209.0,Kansas,Wyandotte County,38,36,NE
+31081,31,81,Nebraska,Hamilton County,20209,20.0,209.0,Kansas,Wyandotte County,1,3,NE
+31147,31,147,Nebraska,Richardson County,20209,20.0,209.0,Kansas,Wyandotte County,4,5,NE
+31153,31,153,Nebraska,Sarpy County,20209,20.0,209.0,Kansas,Wyandotte County,4,7,NE
+31109,31,109,Nebraska,Lancaster County,21017,21.0,17.0,Kentucky,Bourbon County,12,19,NE
+31119,31,119,Nebraska,Madison County,21041,21.0,41.0,Kentucky,Carroll County,5,9,NE
+31109,31,109,Nebraska,Lancaster County,21067,21.0,67.0,Kentucky,Fayette County,15,23,NE
+31055,31,55,Nebraska,Douglas County,21093,21.0,93.0,Kentucky,Hardin County,8,12,NE
+31127,31,127,Nebraska,Nemaha County,21211,21.0,211.0,Kentucky,Shelby County,2,5,NE
+31019,31,19,Nebraska,Buffalo County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,6,9,NE
+31147,31,147,Nebraska,Richardson County,22101,22.0,101.0,Louisiana,St. Mary Parish,1,4,NE
+31153,31,153,Nebraska,Sarpy County,24003,24.0,3.0,Maryland,Anne Arundel County,14,20,NE
+31055,31,55,Nebraska,Douglas County,24031,24.0,31.0,Maryland,Montgomery County,10,17,NE
+31055,31,55,Nebraska,Douglas County,25003,25.0,3.0,Massachusetts,Berkshire County,40,47,NE
+31055,31,55,Nebraska,Douglas County,25015,25.0,15.0,Massachusetts,Hampshire County,25,43,NE
+31109,31,109,Nebraska,Lancaster County,25017,25.0,17.0,Massachusetts,Middlesex County,11,19,NE
+31141,31,141,Nebraska,Platte County,25017,25.0,17.0,Massachusetts,Middlesex County,8,12,NE
+31055,31,55,Nebraska,Douglas County,25025,25.0,25.0,Massachusetts,Suffolk County,7,11,NE
+31079,31,79,Nebraska,Hall County,25025,25.0,25.0,Massachusetts,Suffolk County,21,33,NE
+31055,31,55,Nebraska,Douglas County,25027,25.0,27.0,Massachusetts,Worcester County,35,34,NE
+31055,31,55,Nebraska,Douglas County,26005,26.0,5.0,Michigan,Allegan County,7,11,NE
+31141,31,141,Nebraska,Platte County,26021,26.0,21.0,Michigan,Berrien County,12,13,NE
+31143,31,143,Nebraska,Polk County,26065,26.0,65.0,Michigan,Ingham County,3,5,NE
+31019,31,19,Nebraska,Buffalo County,26093,26.0,93.0,Michigan,Livingston County,6,12,NE
+31177,31,177,Nebraska,Washington County,26111,26.0,111.0,Michigan,Midland County,3,5,NE
+31035,31,35,Nebraska,Clay County,26163,26.0,163.0,Michigan,Wayne County,1,2,NE
+31109,31,109,Nebraska,Lancaster County,26163,26.0,163.0,Michigan,Wayne County,3,10,NE
+31055,31,55,Nebraska,Douglas County,27003,27.0,3.0,Minnesota,Anoka County,10,15,NE
+31087,31,87,Nebraska,Hitchcock County,27005,27.0,5.0,Minnesota,Becker County,1,3,NE
+31055,31,55,Nebraska,Douglas County,27033,27.0,33.0,Minnesota,Cottonwood County,15,24,NE
+31135,31,135,Nebraska,Perkins County,27037,27.0,37.0,Minnesota,Dakota County,3,4,NE
+31023,31,23,Nebraska,Butler County,27053,27.0,53.0,Minnesota,Hennepin County,2,3,NE
+31055,31,55,Nebraska,Douglas County,27053,27.0,53.0,Minnesota,Hennepin County,80,56,NE
+31067,31,67,Nebraska,Gage County,27053,27.0,53.0,Minnesota,Hennepin County,6,10,NE
+31079,31,79,Nebraska,Hall County,27053,27.0,53.0,Minnesota,Hennepin County,14,21,NE
+31141,31,141,Nebraska,Platte County,27053,27.0,53.0,Minnesota,Hennepin County,2,3,NE
+31153,31,153,Nebraska,Sarpy County,27053,27.0,53.0,Minnesota,Hennepin County,19,26,NE
+31177,31,177,Nebraska,Washington County,27053,27.0,53.0,Minnesota,Hennepin County,13,18,NE
+31141,31,141,Nebraska,Platte County,27063,27.0,63.0,Minnesota,Jackson County,1,2,NE
+31019,31,19,Nebraska,Buffalo County,27079,27.0,79.0,Minnesota,Le Sueur County,16,23,NE
+31109,31,109,Nebraska,Lancaster County,27115,27.0,115.0,Minnesota,Pine County,1,2,NE
+31055,31,55,Nebraska,Douglas County,27123,27.0,123.0,Minnesota,Ramsey County,5,7,NE
+31109,31,109,Nebraska,Lancaster County,27123,27.0,123.0,Minnesota,Ramsey County,1,2,NE
+31055,31,55,Nebraska,Douglas County,27139,27.0,139.0,Minnesota,Scott County,3,6,NE
+31155,31,155,Nebraska,Saunders County,27139,27.0,139.0,Minnesota,Scott County,2,3,NE
+31001,31,1,Nebraska,Adams County,27173,27.0,173.0,Minnesota,Yellow Medicine County,2,4,NE
+31047,31,47,Nebraska,Dawson County,27173,27.0,173.0,Minnesota,Yellow Medicine County,3,7,NE
+31027,31,27,Nebraska,Cedar County,28001,28.0,1.0,Mississippi,Adams County,2,4,NE
+31025,31,25,Nebraska,Cass County,28095,28.0,95.0,Mississippi,Monroe County,3,6,NE
+31055,31,55,Nebraska,Douglas County,28121,28.0,121.0,Mississippi,Rankin County,24,29,NE
+31055,31,55,Nebraska,Douglas County,29005,29.0,5.0,Missouri,Atchison County,7,11,NE
+31127,31,127,Nebraska,Nemaha County,29005,29.0,5.0,Missouri,Atchison County,21,21,NE
+31131,31,131,Nebraska,Otoe County,29005,29.0,5.0,Missouri,Atchison County,2,4,NE
+31147,31,147,Nebraska,Richardson County,29005,29.0,5.0,Missouri,Atchison County,2,5,NE
+31055,31,55,Nebraska,Douglas County,29017,29.0,17.0,Missouri,Bollinger County,7,11,NE
+31051,31,51,Nebraska,Dixon County,29021,29.0,21.0,Missouri,Buchanan County,1,2,NE
+31055,31,55,Nebraska,Douglas County,29021,29.0,21.0,Missouri,Buchanan County,15,17,NE
+31093,31,93,Nebraska,Howard County,29021,29.0,21.0,Missouri,Buchanan County,7,10,NE
+31109,31,109,Nebraska,Lancaster County,29021,29.0,21.0,Missouri,Buchanan County,20,24,NE
+31141,31,141,Nebraska,Platte County,29021,29.0,21.0,Missouri,Buchanan County,8,13,NE
+31147,31,147,Nebraska,Richardson County,29021,29.0,21.0,Missouri,Buchanan County,5,6,NE
+31153,31,153,Nebraska,Sarpy County,29021,29.0,21.0,Missouri,Buchanan County,37,57,NE
+31157,31,157,Nebraska,Scotts Bluff County,29021,29.0,21.0,Missouri,Buchanan County,10,15,NE
+31025,31,25,Nebraska,Cass County,29037,29.0,37.0,Missouri,Cass County,10,18,NE
+31055,31,55,Nebraska,Douglas County,29037,29.0,37.0,Missouri,Cass County,50,83,NE
+31141,31,141,Nebraska,Platte County,29047,29.0,47.0,Missouri,Clay County,1,4,NE
+31147,31,147,Nebraska,Richardson County,29047,29.0,47.0,Missouri,Clay County,1,2,NE
+31151,31,151,Nebraska,Saline County,29051,29.0,51.0,Missouri,Cole County,3,5,NE
+31055,31,55,Nebraska,Douglas County,29069,29.0,69.0,Missouri,Dunklin County,6,10,NE
+31001,31,1,Nebraska,Adams County,29077,29.0,77.0,Missouri,Greene County,4,10,NE
+31019,31,19,Nebraska,Buffalo County,29077,29.0,77.0,Missouri,Greene County,17,26,NE
+31025,31,25,Nebraska,Cass County,29077,29.0,77.0,Missouri,Greene County,1,4,NE
+31051,31,51,Nebraska,Dixon County,29077,29.0,77.0,Missouri,Greene County,2,3,NE
+31127,31,127,Nebraska,Nemaha County,29077,29.0,77.0,Missouri,Greene County,3,6,NE
+31079,31,79,Nebraska,Hall County,29079,29.0,79.0,Missouri,Grundy County,10,16,NE
+31147,31,147,Nebraska,Richardson County,29087,29.0,87.0,Missouri,Holt County,23,14,NE
+31019,31,19,Nebraska,Buffalo County,29095,29.0,95.0,Missouri,Jackson County,13,22,NE
+31025,31,25,Nebraska,Cass County,29095,29.0,95.0,Missouri,Jackson County,13,18,NE
+31055,31,55,Nebraska,Douglas County,29095,29.0,95.0,Missouri,Jackson County,113,56,NE
+31109,31,109,Nebraska,Lancaster County,29095,29.0,95.0,Missouri,Jackson County,42,32,NE
+31147,31,147,Nebraska,Richardson County,29095,29.0,95.0,Missouri,Jackson County,22,34,NE
+31153,31,153,Nebraska,Sarpy County,29095,29.0,95.0,Missouri,Jackson County,19,20,NE
+31157,31,157,Nebraska,Scotts Bluff County,29095,29.0,95.0,Missouri,Jackson County,36,46,NE
+31157,31,157,Nebraska,Scotts Bluff County,29097,29.0,97.0,Missouri,Jasper County,5,8,NE
+31041,31,41,Nebraska,Custer County,29099,29.0,99.0,Missouri,Jefferson County,3,4,NE
+31109,31,109,Nebraska,Lancaster County,29119,29.0,119.0,Missouri,McDonald County,4,7,NE
+31025,31,25,Nebraska,Cass County,29141,29.0,141.0,Missouri,Morgan County,4,7,NE
+31099,31,99,Nebraska,Kearney County,29145,29.0,145.0,Missouri,Newton County,2,3,NE
+31055,31,55,Nebraska,Douglas County,29147,29.0,147.0,Missouri,Nodaway County,17,21,NE
+31131,31,131,Nebraska,Otoe County,29147,29.0,147.0,Missouri,Nodaway County,14,18,NE
+31133,31,133,Nebraska,Pawnee County,29147,29.0,147.0,Missouri,Nodaway County,8,10,NE
+31155,31,155,Nebraska,Saunders County,29165,29.0,165.0,Missouri,Platte County,5,7,NE
+31053,31,53,Nebraska,Dodge County,29169,29.0,169.0,Missouri,Pulaski County,11,19,NE
+31153,31,153,Nebraska,Sarpy County,29169,29.0,169.0,Missouri,Pulaski County,14,20,NE
+31055,31,55,Nebraska,Douglas County,29189,29.0,189.0,Missouri,St. Louis County,16,22,NE
+31109,31,109,Nebraska,Lancaster County,29189,29.0,189.0,Missouri,St. Louis County,5,10,NE
+31151,31,151,Nebraska,Saline County,29189,29.0,189.0,Missouri,St. Louis County,2,4,NE
+31155,31,155,Nebraska,Saunders County,29189,29.0,189.0,Missouri,St. Louis County,3,4,NE
+31055,31,55,Nebraska,Douglas County,29221,29.0,221.0,Missouri,Washington County,7,12,NE
+31177,31,177,Nebraska,Washington County,29229,29.0,229.0,Missouri,Wright County,3,4,NE
+31055,31,55,Nebraska,Douglas County,29510,29.0,510.0,Missouri,St. Louis city,10,18,NE
+31119,31,119,Nebraska,Madison County,30031,30.0,31.0,Montana,Gallatin County,2,3,NE
+31099,31,99,Nebraska,Kearney County,30041,30.0,41.0,Montana,Hill County,1,3,NE
+31109,31,109,Nebraska,Lancaster County,30083,30.0,83.0,Montana,Richland County,40,67,NE
+31001,31,1,Nebraska,Adams County,31001,31.0,1.0,Nebraska,Adams County,12794,418,NE
+31019,31,19,Nebraska,Buffalo County,31001,31.0,1.0,Nebraska,Adams County,132,58,NE
+31035,31,35,Nebraska,Clay County,31001,31.0,1.0,Nebraska,Adams County,736,75,NE
+31047,31,47,Nebraska,Dawson County,31001,31.0,1.0,Nebraska,Adams County,15,23,NE
+31053,31,53,Nebraska,Dodge County,31001,31.0,1.0,Nebraska,Adams County,34,48,NE
+31059,31,59,Nebraska,Fillmore County,31001,31.0,1.0,Nebraska,Adams County,4,5,NE
+31061,31,61,Nebraska,Franklin County,31001,31.0,1.0,Nebraska,Adams County,28,19,NE
+31063,31,63,Nebraska,Frontier County,31001,31.0,1.0,Nebraska,Adams County,6,7,NE
+31079,31,79,Nebraska,Hall County,31001,31.0,1.0,Nebraska,Adams County,629,144,NE
+31081,31,81,Nebraska,Hamilton County,31001,31.0,1.0,Nebraska,Adams County,133,45,NE
+31083,31,83,Nebraska,Harlan County,31001,31.0,1.0,Nebraska,Adams County,3,4,NE
+31099,31,99,Nebraska,Kearney County,31001,31.0,1.0,Nebraska,Adams County,75,31,NE
+31109,31,109,Nebraska,Lancaster County,31001,31.0,1.0,Nebraska,Adams County,15,16,NE
+31121,31,121,Nebraska,Merrick County,31001,31.0,1.0,Nebraska,Adams County,5,8,NE
+31125,31,125,Nebraska,Nance County,31001,31.0,1.0,Nebraska,Adams County,2,4,NE
+31129,31,129,Nebraska,Nuckolls County,31001,31.0,1.0,Nebraska,Adams County,149,52,NE
+31137,31,137,Nebraska,Phelps County,31001,31.0,1.0,Nebraska,Adams County,13,16,NE
+31139,31,139,Nebraska,Pierce County,31001,31.0,1.0,Nebraska,Adams County,1,3,NE
+31143,31,143,Nebraska,Polk County,31001,31.0,1.0,Nebraska,Adams County,3,4,NE
+31147,31,147,Nebraska,Richardson County,31001,31.0,1.0,Nebraska,Adams County,5,6,NE
+31153,31,153,Nebraska,Sarpy County,31001,31.0,1.0,Nebraska,Adams County,11,17,NE
+31169,31,169,Nebraska,Thayer County,31001,31.0,1.0,Nebraska,Adams County,6,6,NE
+31179,31,179,Nebraska,Wayne County,31001,31.0,1.0,Nebraska,Adams County,4,8,NE
+31181,31,181,Nebraska,Webster County,31001,31.0,1.0,Nebraska,Adams County,412,66,NE
+31185,31,185,Nebraska,York County,31001,31.0,1.0,Nebraska,Adams County,13,8,NE
+31003,31,3,Nebraska,Antelope County,31003,31.0,3.0,Nebraska,Antelope County,2278,96,NE
+31011,31,11,Nebraska,Boone County,31003,31.0,3.0,Nebraska,Antelope County,68,26,NE
+31089,31,89,Nebraska,Holt County,31003,31.0,3.0,Nebraska,Antelope County,78,41,NE
+31107,31,107,Nebraska,Knox County,31003,31.0,3.0,Nebraska,Antelope County,60,26,NE
+31109,31,109,Nebraska,Lancaster County,31003,31.0,3.0,Nebraska,Antelope County,32,49,NE
+31119,31,119,Nebraska,Madison County,31003,31.0,3.0,Nebraska,Antelope County,131,58,NE
+31139,31,139,Nebraska,Pierce County,31003,31.0,3.0,Nebraska,Antelope County,91,32,NE
+31141,31,141,Nebraska,Platte County,31003,31.0,3.0,Nebraska,Antelope County,21,25,NE
+31143,31,143,Nebraska,Polk County,31003,31.0,3.0,Nebraska,Antelope County,7,10,NE
+31183,31,183,Nebraska,Wheeler County,31003,31.0,3.0,Nebraska,Antelope County,4,6,NE
+31005,31,5,Nebraska,Arthur County,31005,31.0,5.0,Nebraska,Arthur County,142,25,NE
+31041,31,41,Nebraska,Custer County,31005,31.0,5.0,Nebraska,Arthur County,6,10,NE
+31069,31,69,Nebraska,Garden County,31005,31.0,5.0,Nebraska,Arthur County,1,3,NE
+31111,31,111,Nebraska,Lincoln County,31005,31.0,5.0,Nebraska,Arthur County,2,3,NE
+31117,31,117,Nebraska,McPherson County,31005,31.0,5.0,Nebraska,Arthur County,4,5,NE
+31007,31,7,Nebraska,Banner County,31007,31.0,7.0,Nebraska,Banner County,241,47,NE
+31109,31,109,Nebraska,Lancaster County,31007,31.0,7.0,Nebraska,Banner County,32,47,NE
+31157,31,157,Nebraska,Scotts Bluff County,31007,31.0,7.0,Nebraska,Banner County,33,30,NE
+31009,31,9,Nebraska,Blaine County,31009,31.0,9.0,Nebraska,Blaine County,181,29,NE
+31017,31,17,Nebraska,Brown County,31009,31.0,9.0,Nebraska,Blaine County,7,6,NE
+31031,31,31,Nebraska,Cherry County,31009,31.0,9.0,Nebraska,Blaine County,6,9,NE
+31041,31,41,Nebraska,Custer County,31009,31.0,9.0,Nebraska,Blaine County,18,14,NE
+31113,31,113,Nebraska,Logan County,31009,31.0,9.0,Nebraska,Blaine County,2,3,NE
+31125,31,125,Nebraska,Nance County,31009,31.0,9.0,Nebraska,Blaine County,2,3,NE
+31141,31,141,Nebraska,Platte County,31009,31.0,9.0,Nebraska,Blaine County,3,5,NE
+31171,31,171,Nebraska,Thomas County,31009,31.0,9.0,Nebraska,Blaine County,6,6,NE
+31003,31,3,Nebraska,Antelope County,31011,31.0,11.0,Nebraska,Boone County,87,36,NE
+31011,31,11,Nebraska,Boone County,31011,31.0,11.0,Nebraska,Boone County,2156,115,NE
+31019,31,19,Nebraska,Buffalo County,31011,31.0,11.0,Nebraska,Boone County,7,14,NE
+31021,31,21,Nebraska,Burt County,31011,31.0,11.0,Nebraska,Boone County,4,5,NE
+31037,31,37,Nebraska,Colfax County,31011,31.0,11.0,Nebraska,Boone County,2,3,NE
+31039,31,39,Nebraska,Cuming County,31011,31.0,11.0,Nebraska,Boone County,2,3,NE
+31041,31,41,Nebraska,Custer County,31011,31.0,11.0,Nebraska,Boone County,1,2,NE
+31077,31,77,Nebraska,Greeley County,31011,31.0,11.0,Nebraska,Boone County,64,19,NE
+31089,31,89,Nebraska,Holt County,31011,31.0,11.0,Nebraska,Boone County,4,5,NE
+31093,31,93,Nebraska,Howard County,31011,31.0,11.0,Nebraska,Boone County,8,12,NE
+31109,31,109,Nebraska,Lancaster County,31011,31.0,11.0,Nebraska,Boone County,7,10,NE
+31119,31,119,Nebraska,Madison County,31011,31.0,11.0,Nebraska,Boone County,100,42,NE
+31121,31,121,Nebraska,Merrick County,31011,31.0,11.0,Nebraska,Boone County,19,18,NE
+31125,31,125,Nebraska,Nance County,31011,31.0,11.0,Nebraska,Boone County,165,50,NE
+31133,31,133,Nebraska,Pawnee County,31011,31.0,11.0,Nebraska,Boone County,3,5,NE
+31141,31,141,Nebraska,Platte County,31011,31.0,11.0,Nebraska,Boone County,110,41,NE
+31143,31,143,Nebraska,Polk County,31011,31.0,11.0,Nebraska,Boone County,3,5,NE
+31159,31,159,Nebraska,Seward County,31011,31.0,11.0,Nebraska,Boone County,12,16,NE
+31175,31,175,Nebraska,Valley County,31011,31.0,11.0,Nebraska,Boone County,8,9,NE
+31183,31,183,Nebraska,Wheeler County,31011,31.0,11.0,Nebraska,Boone County,8,6,NE
+31013,31,13,Nebraska,Box Butte County,31013,31.0,13.0,Nebraska,Box Butte County,5287,233,NE
+31045,31,45,Nebraska,Dawes County,31013,31.0,13.0,Nebraska,Box Butte County,69,51,NE
+31049,31,49,Nebraska,Deuel County,31013,31.0,13.0,Nebraska,Box Butte County,2,4,NE
+31075,31,75,Nebraska,Grant County,31013,31.0,13.0,Nebraska,Box Butte County,26,19,NE
+31109,31,109,Nebraska,Lancaster County,31013,31.0,13.0,Nebraska,Box Butte County,7,11,NE
+31123,31,123,Nebraska,Morrill County,31013,31.0,13.0,Nebraska,Box Butte County,64,32,NE
+31157,31,157,Nebraska,Scotts Bluff County,31013,31.0,13.0,Nebraska,Box Butte County,265,93,NE
+31161,31,161,Nebraska,Sheridan County,31013,31.0,13.0,Nebraska,Box Butte County,106,41,NE
+31163,31,163,Nebraska,Sherman County,31013,31.0,13.0,Nebraska,Box Butte County,7,9,NE
+31165,31,165,Nebraska,Sioux County,31013,31.0,13.0,Nebraska,Box Butte County,7,6,NE
+31003,31,3,Nebraska,Antelope County,31015,31.0,15.0,Nebraska,Boyd County,1,4,NE
+31015,31,15,Nebraska,Boyd County,31015,31.0,15.0,Nebraska,Boyd County,777,64,NE
+31033,31,33,Nebraska,Cheyenne County,31015,31.0,15.0,Nebraska,Boyd County,2,3,NE
+31089,31,89,Nebraska,Holt County,31015,31.0,15.0,Nebraska,Boyd County,23,14,NE
+31103,31,103,Nebraska,Keya Paha County,31015,31.0,15.0,Nebraska,Boyd County,10,16,NE
+31107,31,107,Nebraska,Knox County,31015,31.0,15.0,Nebraska,Boyd County,9,8,NE
+31139,31,139,Nebraska,Pierce County,31015,31.0,15.0,Nebraska,Boyd County,16,14,NE
+31163,31,163,Nebraska,Sherman County,31015,31.0,15.0,Nebraska,Boyd County,2,3,NE
+31185,31,185,Nebraska,York County,31015,31.0,15.0,Nebraska,Boyd County,1,2,NE
+31009,31,9,Nebraska,Blaine County,31017,31.0,17.0,Nebraska,Brown County,8,7,NE
+31017,31,17,Nebraska,Brown County,31017,31.0,17.0,Nebraska,Brown County,1368,120,NE
+31025,31,25,Nebraska,Cass County,31017,31.0,17.0,Nebraska,Brown County,20,32,NE
+31031,31,31,Nebraska,Cherry County,31017,31.0,17.0,Nebraska,Brown County,30,23,NE
+31055,31,55,Nebraska,Douglas County,31017,31.0,17.0,Nebraska,Brown County,7,12,NE
+31077,31,77,Nebraska,Greeley County,31017,31.0,17.0,Nebraska,Brown County,2,3,NE
+31089,31,89,Nebraska,Holt County,31017,31.0,17.0,Nebraska,Brown County,2,3,NE
+31103,31,103,Nebraska,Keya Paha County,31017,31.0,17.0,Nebraska,Brown County,39,19,NE
+31141,31,141,Nebraska,Platte County,31017,31.0,17.0,Nebraska,Brown County,6,10,NE
+31149,31,149,Nebraska,Rock County,31017,31.0,17.0,Nebraska,Brown County,107,37,NE
+31171,31,171,Nebraska,Thomas County,31017,31.0,17.0,Nebraska,Brown County,2,3,NE
+31001,31,1,Nebraska,Adams County,31019,31.0,19.0,Nebraska,Buffalo County,238,97,NE
+31013,31,13,Nebraska,Box Butte County,31019,31.0,19.0,Nebraska,Buffalo County,7,12,NE
+31015,31,15,Nebraska,Boyd County,31019,31.0,19.0,Nebraska,Buffalo County,1,4,NE
+31019,31,19,Nebraska,Buffalo County,31019,31.0,19.0,Nebraska,Buffalo County,23998,528,NE
+31029,31,29,Nebraska,Chase County,31019,31.0,19.0,Nebraska,Buffalo County,7,11,NE
+31035,31,35,Nebraska,Clay County,31019,31.0,19.0,Nebraska,Buffalo County,19,16,NE
+31037,31,37,Nebraska,Colfax County,31019,31.0,19.0,Nebraska,Buffalo County,1,3,NE
+31041,31,41,Nebraska,Custer County,31019,31.0,19.0,Nebraska,Buffalo County,90,32,NE
+31047,31,47,Nebraska,Dawson County,31019,31.0,19.0,Nebraska,Buffalo County,703,209,NE
+31049,31,49,Nebraska,Deuel County,31019,31.0,19.0,Nebraska,Buffalo County,5,7,NE
+31055,31,55,Nebraska,Douglas County,31019,31.0,19.0,Nebraska,Buffalo County,55,50,NE
+31059,31,59,Nebraska,Fillmore County,31019,31.0,19.0,Nebraska,Buffalo County,8,8,NE
+31061,31,61,Nebraska,Franklin County,31019,31.0,19.0,Nebraska,Buffalo County,121,27,NE
+31063,31,63,Nebraska,Frontier County,31019,31.0,19.0,Nebraska,Buffalo County,4,4,NE
+31065,31,65,Nebraska,Furnas County,31019,31.0,19.0,Nebraska,Buffalo County,5,6,NE
+31067,31,67,Nebraska,Gage County,31019,31.0,19.0,Nebraska,Buffalo County,2,3,NE
+31071,31,71,Nebraska,Garfield County,31019,31.0,19.0,Nebraska,Buffalo County,10,10,NE
+31073,31,73,Nebraska,Gosper County,31019,31.0,19.0,Nebraska,Buffalo County,41,22,NE
+31077,31,77,Nebraska,Greeley County,31019,31.0,19.0,Nebraska,Buffalo County,2,4,NE
+31079,31,79,Nebraska,Hall County,31019,31.0,19.0,Nebraska,Buffalo County,719,160,NE
+31081,31,81,Nebraska,Hamilton County,31019,31.0,19.0,Nebraska,Buffalo County,15,20,NE
+31083,31,83,Nebraska,Harlan County,31019,31.0,19.0,Nebraska,Buffalo County,36,19,NE
+31085,31,85,Nebraska,Hayes County,31019,31.0,19.0,Nebraska,Buffalo County,6,6,NE
+31093,31,93,Nebraska,Howard County,31019,31.0,19.0,Nebraska,Buffalo County,37,21,NE
+31099,31,99,Nebraska,Kearney County,31019,31.0,19.0,Nebraska,Buffalo County,898,151,NE
+31101,31,101,Nebraska,Keith County,31019,31.0,19.0,Nebraska,Buffalo County,11,18,NE
+31109,31,109,Nebraska,Lancaster County,31019,31.0,19.0,Nebraska,Buffalo County,42,30,NE
+31111,31,111,Nebraska,Lincoln County,31019,31.0,19.0,Nebraska,Buffalo County,38,41,NE
+31119,31,119,Nebraska,Madison County,31019,31.0,19.0,Nebraska,Buffalo County,14,17,NE
+31121,31,121,Nebraska,Merrick County,31019,31.0,19.0,Nebraska,Buffalo County,3,4,NE
+31129,31,129,Nebraska,Nuckolls County,31019,31.0,19.0,Nebraska,Buffalo County,1,2,NE
+31135,31,135,Nebraska,Perkins County,31019,31.0,19.0,Nebraska,Buffalo County,1,2,NE
+31137,31,137,Nebraska,Phelps County,31019,31.0,19.0,Nebraska,Buffalo County,280,64,NE
+31145,31,145,Nebraska,Red Willow County,31019,31.0,19.0,Nebraska,Buffalo County,8,13,NE
+31153,31,153,Nebraska,Sarpy County,31019,31.0,19.0,Nebraska,Buffalo County,9,14,NE
+31157,31,157,Nebraska,Scotts Bluff County,31019,31.0,19.0,Nebraska,Buffalo County,5,6,NE
+31159,31,159,Nebraska,Seward County,31019,31.0,19.0,Nebraska,Buffalo County,14,10,NE
+31163,31,163,Nebraska,Sherman County,31019,31.0,19.0,Nebraska,Buffalo County,327,66,NE
+31171,31,171,Nebraska,Thomas County,31019,31.0,19.0,Nebraska,Buffalo County,2,4,NE
+31175,31,175,Nebraska,Valley County,31019,31.0,19.0,Nebraska,Buffalo County,14,14,NE
+31181,31,181,Nebraska,Webster County,31019,31.0,19.0,Nebraska,Buffalo County,3,7,NE
+31021,31,21,Nebraska,Burt County,31021,31.0,21.0,Nebraska,Burt County,1805,111,NE
+31035,31,35,Nebraska,Clay County,31021,31.0,21.0,Nebraska,Burt County,3,5,NE
+31039,31,39,Nebraska,Cuming County,31021,31.0,21.0,Nebraska,Burt County,100,41,NE
+31043,31,43,Nebraska,Dakota County,31021,31.0,21.0,Nebraska,Burt County,2,3,NE
+31051,31,51,Nebraska,Dixon County,31021,31.0,21.0,Nebraska,Burt County,9,12,NE
+31053,31,53,Nebraska,Dodge County,31021,31.0,21.0,Nebraska,Burt County,52,37,NE
+31055,31,55,Nebraska,Douglas County,31021,31.0,21.0,Nebraska,Burt County,156,132,NE
+31173,31,173,Nebraska,Thurston County,31021,31.0,21.0,Nebraska,Burt County,49,17,NE
+31177,31,177,Nebraska,Washington County,31021,31.0,21.0,Nebraska,Burt County,89,67,NE
+31179,31,179,Nebraska,Wayne County,31021,31.0,21.0,Nebraska,Burt County,2,4,NE
+31011,31,11,Nebraska,Boone County,31023,31.0,23.0,Nebraska,Butler County,9,14,NE
+31023,31,23,Nebraska,Butler County,31023,31.0,23.0,Nebraska,Butler County,2479,174,NE
+31037,31,37,Nebraska,Colfax County,31023,31.0,23.0,Nebraska,Butler County,80,53,NE
+31053,31,53,Nebraska,Dodge County,31023,31.0,23.0,Nebraska,Butler County,19,26,NE
+31055,31,55,Nebraska,Douglas County,31023,31.0,23.0,Nebraska,Butler County,12,18,NE
+31109,31,109,Nebraska,Lancaster County,31023,31.0,23.0,Nebraska,Butler County,79,89,NE
+31141,31,141,Nebraska,Platte County,31023,31.0,23.0,Nebraska,Butler County,99,60,NE
+31143,31,143,Nebraska,Polk County,31023,31.0,23.0,Nebraska,Butler County,53,20,NE
+31155,31,155,Nebraska,Saunders County,31023,31.0,23.0,Nebraska,Butler County,134,53,NE
+31159,31,159,Nebraska,Seward County,31023,31.0,23.0,Nebraska,Butler County,51,31,NE
+31185,31,185,Nebraska,York County,31023,31.0,23.0,Nebraska,Butler County,11,15,NE
+31025,31,25,Nebraska,Cass County,31025,31.0,25.0,Nebraska,Cass County,4419,324,NE
+31053,31,53,Nebraska,Dodge County,31025,31.0,25.0,Nebraska,Cass County,8,12,NE
+31055,31,55,Nebraska,Douglas County,31025,31.0,25.0,Nebraska,Cass County,330,116,NE
+31067,31,67,Nebraska,Gage County,31025,31.0,25.0,Nebraska,Cass County,2,3,NE
+31077,31,77,Nebraska,Greeley County,31025,31.0,25.0,Nebraska,Cass County,2,3,NE
+31097,31,97,Nebraska,Johnson County,31025,31.0,25.0,Nebraska,Cass County,13,9,NE
+31109,31,109,Nebraska,Lancaster County,31025,31.0,25.0,Nebraska,Cass County,475,180,NE
+31127,31,127,Nebraska,Nemaha County,31025,31.0,25.0,Nebraska,Cass County,22,20,NE
+31131,31,131,Nebraska,Otoe County,31025,31.0,25.0,Nebraska,Cass County,204,68,NE
+31143,31,143,Nebraska,Polk County,31025,31.0,25.0,Nebraska,Cass County,8,12,NE
+31147,31,147,Nebraska,Richardson County,31025,31.0,25.0,Nebraska,Cass County,3,4,NE
+31153,31,153,Nebraska,Sarpy County,31025,31.0,25.0,Nebraska,Cass County,609,187,NE
+31155,31,155,Nebraska,Saunders County,31025,31.0,25.0,Nebraska,Cass County,198,72,NE
+31159,31,159,Nebraska,Seward County,31025,31.0,25.0,Nebraska,Cass County,1,3,NE
+31173,31,173,Nebraska,Thurston County,31025,31.0,25.0,Nebraska,Cass County,4,6,NE
+31179,31,179,Nebraska,Wayne County,31025,31.0,25.0,Nebraska,Cass County,5,8,NE
+31003,31,3,Nebraska,Antelope County,31027,31.0,27.0,Nebraska,Cedar County,4,7,NE
+31015,31,15,Nebraska,Boyd County,31027,31.0,27.0,Nebraska,Cedar County,5,5,NE
+31027,31,27,Nebraska,Cedar County,31027,31.0,27.0,Nebraska,Cedar County,2957,140,NE
+31043,31,43,Nebraska,Dakota County,31027,31.0,27.0,Nebraska,Cedar County,3,4,NE
+31051,31,51,Nebraska,Dixon County,31027,31.0,27.0,Nebraska,Cedar County,79,27,NE
+31067,31,67,Nebraska,Gage County,31027,31.0,27.0,Nebraska,Cedar County,9,13,NE
+31107,31,107,Nebraska,Knox County,31027,31.0,27.0,Nebraska,Cedar County,133,35,NE
+31119,31,119,Nebraska,Madison County,31027,31.0,27.0,Nebraska,Cedar County,35,53,NE
+31135,31,135,Nebraska,Perkins County,31027,31.0,27.0,Nebraska,Cedar County,1,3,NE
+31139,31,139,Nebraska,Pierce County,31027,31.0,27.0,Nebraska,Cedar County,66,21,NE
+31153,31,153,Nebraska,Sarpy County,31027,31.0,27.0,Nebraska,Cedar County,11,17,NE
+31167,31,167,Nebraska,Stanton County,31027,31.0,27.0,Nebraska,Cedar County,33,43,NE
+31173,31,173,Nebraska,Thurston County,31027,31.0,27.0,Nebraska,Cedar County,1,3,NE
+31179,31,179,Nebraska,Wayne County,31027,31.0,27.0,Nebraska,Cedar County,120,71,NE
+31029,31,29,Nebraska,Chase County,31029,31.0,29.0,Nebraska,Chase County,1810,136,NE
+31057,31,57,Nebraska,Dundy County,31029,31.0,29.0,Nebraska,Chase County,40,17,NE
+31063,31,63,Nebraska,Frontier County,31029,31.0,29.0,Nebraska,Chase County,4,5,NE
+31085,31,85,Nebraska,Hayes County,31029,31.0,29.0,Nebraska,Chase County,81,34,NE
+31087,31,87,Nebraska,Hitchcock County,31029,31.0,29.0,Nebraska,Chase County,64,27,NE
+31101,31,101,Nebraska,Keith County,31029,31.0,29.0,Nebraska,Chase County,1,2,NE
+31109,31,109,Nebraska,Lancaster County,31029,31.0,29.0,Nebraska,Chase County,16,19,NE
+31135,31,135,Nebraska,Perkins County,31029,31.0,29.0,Nebraska,Chase County,63,26,NE
+31145,31,145,Nebraska,Red Willow County,31029,31.0,29.0,Nebraska,Chase County,4,10,NE
+31015,31,15,Nebraska,Boyd County,31031,31.0,31.0,Nebraska,Cherry County,2,3,NE
+31017,31,17,Nebraska,Brown County,31031,31.0,31.0,Nebraska,Cherry County,50,42,NE
+31031,31,31,Nebraska,Cherry County,31031,31.0,31.0,Nebraska,Cherry County,3056,191,NE
+31041,31,41,Nebraska,Custer County,31031,31.0,31.0,Nebraska,Cherry County,4,5,NE
+31045,31,45,Nebraska,Dawes County,31031,31.0,31.0,Nebraska,Cherry County,4,5,NE
+31047,31,47,Nebraska,Dawson County,31031,31.0,31.0,Nebraska,Cherry County,9,14,NE
+31071,31,71,Nebraska,Garfield County,31031,31.0,31.0,Nebraska,Cherry County,12,16,NE
+31091,31,91,Nebraska,Hooker County,31031,31.0,31.0,Nebraska,Cherry County,8,11,NE
+31103,31,103,Nebraska,Keya Paha County,31031,31.0,31.0,Nebraska,Cherry County,20,14,NE
+31111,31,111,Nebraska,Lincoln County,31031,31.0,31.0,Nebraska,Cherry County,37,35,NE
+31157,31,157,Nebraska,Scotts Bluff County,31031,31.0,31.0,Nebraska,Cherry County,15,22,NE
+31161,31,161,Nebraska,Sheridan County,31031,31.0,31.0,Nebraska,Cherry County,7,7,NE
+31171,31,171,Nebraska,Thomas County,31031,31.0,31.0,Nebraska,Cherry County,15,11,NE
+31005,31,5,Nebraska,Arthur County,31033,31.0,33.0,Nebraska,Cheyenne County,2,2,NE
+31007,31,7,Nebraska,Banner County,31033,31.0,33.0,Nebraska,Cheyenne County,3,4,NE
+31013,31,13,Nebraska,Box Butte County,31033,31.0,33.0,Nebraska,Cheyenne County,10,17,NE
+31033,31,33,Nebraska,Cheyenne County,31033,31.0,33.0,Nebraska,Cheyenne County,5262,186,NE
+31049,31,49,Nebraska,Deuel County,31033,31.0,33.0,Nebraska,Cheyenne County,246,61,NE
+31059,31,59,Nebraska,Fillmore County,31033,31.0,33.0,Nebraska,Cheyenne County,8,11,NE
+31069,31,69,Nebraska,Garden County,31033,31.0,33.0,Nebraska,Cheyenne County,61,33,NE
+31101,31,101,Nebraska,Keith County,31033,31.0,33.0,Nebraska,Cheyenne County,35,28,NE
+31105,31,105,Nebraska,Kimball County,31033,31.0,33.0,Nebraska,Cheyenne County,140,51,NE
+31123,31,123,Nebraska,Morrill County,31033,31.0,33.0,Nebraska,Cheyenne County,67,35,NE
+31129,31,129,Nebraska,Nuckolls County,31033,31.0,33.0,Nebraska,Cheyenne County,8,11,NE
+31157,31,157,Nebraska,Scotts Bluff County,31033,31.0,33.0,Nebraska,Cheyenne County,21,24,NE
+31001,31,1,Nebraska,Adams County,31035,31.0,35.0,Nebraska,Clay County,325,125,NE
+31033,31,33,Nebraska,Cheyenne County,31035,31.0,35.0,Nebraska,Clay County,7,7,NE
+31035,31,35,Nebraska,Clay County,31035,31.0,35.0,Nebraska,Clay County,1741,119,NE
+31059,31,59,Nebraska,Fillmore County,31035,31.0,35.0,Nebraska,Clay County,59,25,NE
+31061,31,61,Nebraska,Franklin County,31035,31.0,35.0,Nebraska,Clay County,18,13,NE
+31067,31,67,Nebraska,Gage County,31035,31.0,35.0,Nebraska,Clay County,6,11,NE
+31079,31,79,Nebraska,Hall County,31035,31.0,35.0,Nebraska,Clay County,43,51,NE
+31081,31,81,Nebraska,Hamilton County,31035,31.0,35.0,Nebraska,Clay County,44,25,NE
+31093,31,93,Nebraska,Howard County,31035,31.0,35.0,Nebraska,Clay County,5,7,NE
+31129,31,129,Nebraska,Nuckolls County,31035,31.0,35.0,Nebraska,Clay County,133,54,NE
+31137,31,137,Nebraska,Phelps County,31035,31.0,35.0,Nebraska,Clay County,3,4,NE
+31141,31,141,Nebraska,Platte County,31035,31.0,35.0,Nebraska,Clay County,7,10,NE
+31169,31,169,Nebraska,Thayer County,31035,31.0,35.0,Nebraska,Clay County,6,5,NE
+31175,31,175,Nebraska,Valley County,31035,31.0,35.0,Nebraska,Clay County,5,8,NE
+31181,31,181,Nebraska,Webster County,31035,31.0,35.0,Nebraska,Clay County,30,19,NE
+31185,31,185,Nebraska,York County,31035,31.0,35.0,Nebraska,Clay County,67,51,NE
+31023,31,23,Nebraska,Butler County,31037,31.0,37.0,Nebraska,Colfax County,132,39,NE
+31037,31,37,Nebraska,Colfax County,31037,31.0,37.0,Nebraska,Colfax County,3387,249,NE
+31039,31,39,Nebraska,Cuming County,31037,31.0,37.0,Nebraska,Colfax County,76,45,NE
+31053,31,53,Nebraska,Dodge County,31037,31.0,37.0,Nebraska,Colfax County,272,103,NE
+31055,31,55,Nebraska,Douglas County,31037,31.0,37.0,Nebraska,Colfax County,36,39,NE
+31089,31,89,Nebraska,Holt County,31037,31.0,37.0,Nebraska,Colfax County,8,12,NE
+31109,31,109,Nebraska,Lancaster County,31037,31.0,37.0,Nebraska,Colfax County,2,3,NE
+31119,31,119,Nebraska,Madison County,31037,31.0,37.0,Nebraska,Colfax County,84,57,NE
+31121,31,121,Nebraska,Merrick County,31037,31.0,37.0,Nebraska,Colfax County,2,6,NE
+31125,31,125,Nebraska,Nance County,31037,31.0,37.0,Nebraska,Colfax County,3,4,NE
+31141,31,141,Nebraska,Platte County,31037,31.0,37.0,Nebraska,Colfax County,1031,214,NE
+31143,31,143,Nebraska,Polk County,31037,31.0,37.0,Nebraska,Colfax County,13,12,NE
+31153,31,153,Nebraska,Sarpy County,31037,31.0,37.0,Nebraska,Colfax County,11,18,NE
+31155,31,155,Nebraska,Saunders County,31037,31.0,37.0,Nebraska,Colfax County,43,26,NE
+31167,31,167,Nebraska,Stanton County,31037,31.0,37.0,Nebraska,Colfax County,70,22,NE
+31179,31,179,Nebraska,Wayne County,31037,31.0,37.0,Nebraska,Colfax County,15,19,NE
+31019,31,19,Nebraska,Buffalo County,31039,31.0,39.0,Nebraska,Cuming County,7,10,NE
+31021,31,21,Nebraska,Burt County,31039,31.0,39.0,Nebraska,Cuming County,159,74,NE
+31027,31,27,Nebraska,Cedar County,31039,31.0,39.0,Nebraska,Cuming County,6,8,NE
+31037,31,37,Nebraska,Colfax County,31039,31.0,39.0,Nebraska,Cuming County,61,18,NE
+31039,31,39,Nebraska,Cuming County,31039,31.0,39.0,Nebraska,Cuming County,3465,208,NE
+31043,31,43,Nebraska,Dakota County,31039,31.0,39.0,Nebraska,Cuming County,3,4,NE
+31051,31,51,Nebraska,Dixon County,31039,31.0,39.0,Nebraska,Cuming County,13,9,NE
+31053,31,53,Nebraska,Dodge County,31039,31.0,39.0,Nebraska,Cuming County,227,70,NE
+31055,31,55,Nebraska,Douglas County,31039,31.0,39.0,Nebraska,Cuming County,3,5,NE
+31109,31,109,Nebraska,Lancaster County,31039,31.0,39.0,Nebraska,Cuming County,3,6,NE
+31119,31,119,Nebraska,Madison County,31039,31.0,39.0,Nebraska,Cuming County,30,25,NE
+31125,31,125,Nebraska,Nance County,31039,31.0,39.0,Nebraska,Cuming County,4,5,NE
+31155,31,155,Nebraska,Saunders County,31039,31.0,39.0,Nebraska,Cuming County,17,15,NE
+31159,31,159,Nebraska,Seward County,31039,31.0,39.0,Nebraska,Cuming County,9,12,NE
+31167,31,167,Nebraska,Stanton County,31039,31.0,39.0,Nebraska,Cuming County,65,27,NE
+31173,31,173,Nebraska,Thurston County,31039,31.0,39.0,Nebraska,Cuming County,79,23,NE
+31177,31,177,Nebraska,Washington County,31039,31.0,39.0,Nebraska,Cuming County,15,17,NE
+31179,31,179,Nebraska,Wayne County,31039,31.0,39.0,Nebraska,Cuming County,123,77,NE
+31001,31,1,Nebraska,Adams County,31041,31.0,41.0,Nebraska,Custer County,10,18,NE
+31009,31,9,Nebraska,Blaine County,31041,31.0,41.0,Nebraska,Custer County,57,25,NE
+31017,31,17,Nebraska,Brown County,31041,31.0,41.0,Nebraska,Custer County,8,9,NE
+31019,31,19,Nebraska,Buffalo County,31041,31.0,41.0,Nebraska,Custer County,52,45,NE
+31041,31,41,Nebraska,Custer County,31041,31.0,41.0,Nebraska,Custer County,4879,196,NE
+31047,31,47,Nebraska,Dawson County,31041,31.0,41.0,Nebraska,Custer County,171,73,NE
+31071,31,71,Nebraska,Garfield County,31041,31.0,41.0,Nebraska,Custer County,4,7,NE
+31079,31,79,Nebraska,Hall County,31041,31.0,41.0,Nebraska,Custer County,18,27,NE
+31083,31,83,Nebraska,Harlan County,31041,31.0,41.0,Nebraska,Custer County,8,13,NE
+31087,31,87,Nebraska,Hitchcock County,31041,31.0,41.0,Nebraska,Custer County,9,9,NE
+31109,31,109,Nebraska,Lancaster County,31041,31.0,41.0,Nebraska,Custer County,22,26,NE
+31111,31,111,Nebraska,Lincoln County,31041,31.0,41.0,Nebraska,Custer County,19,17,NE
+31113,31,113,Nebraska,Logan County,31041,31.0,41.0,Nebraska,Custer County,15,12,NE
+31115,31,115,Nebraska,Loup County,31041,31.0,41.0,Nebraska,Custer County,29,15,NE
+31141,31,141,Nebraska,Platte County,31041,31.0,41.0,Nebraska,Custer County,15,25,NE
+31157,31,157,Nebraska,Scotts Bluff County,31041,31.0,41.0,Nebraska,Custer County,7,16,NE
+31163,31,163,Nebraska,Sherman County,31041,31.0,41.0,Nebraska,Custer County,85,35,NE
+31171,31,171,Nebraska,Thomas County,31041,31.0,41.0,Nebraska,Custer County,8,7,NE
+31175,31,175,Nebraska,Valley County,31041,31.0,41.0,Nebraska,Custer County,32,16,NE
+31177,31,177,Nebraska,Washington County,31041,31.0,41.0,Nebraska,Custer County,3,5,NE
+31021,31,21,Nebraska,Burt County,31043,31.0,43.0,Nebraska,Dakota County,25,12,NE
+31027,31,27,Nebraska,Cedar County,31043,31.0,43.0,Nebraska,Dakota County,36,23,NE
+31039,31,39,Nebraska,Cuming County,31043,31.0,43.0,Nebraska,Dakota County,15,12,NE
+31043,31,43,Nebraska,Dakota County,31043,31.0,43.0,Nebraska,Dakota County,5085,397,NE
+31051,31,51,Nebraska,Dixon County,31043,31.0,43.0,Nebraska,Dakota County,303,63,NE
+31107,31,107,Nebraska,Knox County,31043,31.0,43.0,Nebraska,Dakota County,3,4,NE
+31109,31,109,Nebraska,Lancaster County,31043,31.0,43.0,Nebraska,Dakota County,3,4,NE
+31119,31,119,Nebraska,Madison County,31043,31.0,43.0,Nebraska,Dakota County,4,7,NE
+31139,31,139,Nebraska,Pierce County,31043,31.0,43.0,Nebraska,Dakota County,4,7,NE
+31155,31,155,Nebraska,Saunders County,31043,31.0,43.0,Nebraska,Dakota County,7,10,NE
+31169,31,169,Nebraska,Thayer County,31043,31.0,43.0,Nebraska,Dakota County,5,5,NE
+31173,31,173,Nebraska,Thurston County,31043,31.0,43.0,Nebraska,Dakota County,133,31,NE
+31179,31,179,Nebraska,Wayne County,31043,31.0,43.0,Nebraska,Dakota County,11,10,NE
+31013,31,13,Nebraska,Box Butte County,31045,31.0,45.0,Nebraska,Dawes County,56,40,NE
+31045,31,45,Nebraska,Dawes County,31045,31.0,45.0,Nebraska,Dawes County,4062,278,NE
+31051,31,51,Nebraska,Dixon County,31045,31.0,45.0,Nebraska,Dawes County,2,3,NE
+31055,31,55,Nebraska,Douglas County,31045,31.0,45.0,Nebraska,Dawes County,15,21,NE
+31063,31,63,Nebraska,Frontier County,31045,31.0,45.0,Nebraska,Dawes County,2,3,NE
+31099,31,99,Nebraska,Kearney County,31045,31.0,45.0,Nebraska,Dawes County,1,4,NE
+31105,31,105,Nebraska,Kimball County,31045,31.0,45.0,Nebraska,Dawes County,23,26,NE
+31123,31,123,Nebraska,Morrill County,31045,31.0,45.0,Nebraska,Dawes County,6,9,NE
+31137,31,137,Nebraska,Phelps County,31045,31.0,45.0,Nebraska,Dawes County,2,3,NE
+31161,31,161,Nebraska,Sheridan County,31045,31.0,45.0,Nebraska,Dawes County,193,73,NE
+31165,31,165,Nebraska,Sioux County,31045,31.0,45.0,Nebraska,Dawes County,51,23,NE
+31001,31,1,Nebraska,Adams County,31047,31.0,47.0,Nebraska,Dawson County,12,19,NE
+31003,31,3,Nebraska,Antelope County,31047,31.0,47.0,Nebraska,Dawson County,3,4,NE
+31011,31,11,Nebraska,Boone County,31047,31.0,47.0,Nebraska,Dawson County,2,3,NE
+31017,31,17,Nebraska,Brown County,31047,31.0,47.0,Nebraska,Dawson County,1,3,NE
+31019,31,19,Nebraska,Buffalo County,31047,31.0,47.0,Nebraska,Dawson County,447,119,NE
+31029,31,29,Nebraska,Chase County,31047,31.0,47.0,Nebraska,Dawson County,5,8,NE
+31037,31,37,Nebraska,Colfax County,31047,31.0,47.0,Nebraska,Dawson County,2,3,NE
+31041,31,41,Nebraska,Custer County,31047,31.0,47.0,Nebraska,Dawson County,160,46,NE
+31047,31,47,Nebraska,Dawson County,31047,31.0,47.0,Nebraska,Dawson County,10477,435,NE
+31055,31,55,Nebraska,Douglas County,31047,31.0,47.0,Nebraska,Dawson County,16,21,NE
+31061,31,61,Nebraska,Franklin County,31047,31.0,47.0,Nebraska,Dawson County,3,4,NE
+31063,31,63,Nebraska,Frontier County,31047,31.0,47.0,Nebraska,Dawson County,114,26,NE
+31065,31,65,Nebraska,Furnas County,31047,31.0,47.0,Nebraska,Dawson County,21,16,NE
+31069,31,69,Nebraska,Garden County,31047,31.0,47.0,Nebraska,Dawson County,6,9,NE
+31073,31,73,Nebraska,Gosper County,31047,31.0,47.0,Nebraska,Dawson County,311,64,NE
+31081,31,81,Nebraska,Hamilton County,31047,31.0,47.0,Nebraska,Dawson County,1,2,NE
+31083,31,83,Nebraska,Harlan County,31047,31.0,47.0,Nebraska,Dawson County,20,17,NE
+31099,31,99,Nebraska,Kearney County,31047,31.0,47.0,Nebraska,Dawson County,7,8,NE
+31101,31,101,Nebraska,Keith County,31047,31.0,47.0,Nebraska,Dawson County,2,3,NE
+31111,31,111,Nebraska,Lincoln County,31047,31.0,47.0,Nebraska,Dawson County,84,36,NE
+31113,31,113,Nebraska,Logan County,31047,31.0,47.0,Nebraska,Dawson County,2,4,NE
+31119,31,119,Nebraska,Madison County,31047,31.0,47.0,Nebraska,Dawson County,11,17,NE
+31137,31,137,Nebraska,Phelps County,31047,31.0,47.0,Nebraska,Dawson County,151,54,NE
+31143,31,143,Nebraska,Polk County,31047,31.0,47.0,Nebraska,Dawson County,3,4,NE
+31145,31,145,Nebraska,Red Willow County,31047,31.0,47.0,Nebraska,Dawson County,12,19,NE
+31175,31,175,Nebraska,Valley County,31047,31.0,47.0,Nebraska,Dawson County,1,3,NE
+31033,31,33,Nebraska,Cheyenne County,31049,31.0,49.0,Nebraska,Deuel County,46,32,NE
+31049,31,49,Nebraska,Deuel County,31049,31.0,49.0,Nebraska,Deuel County,577,60,NE
+31069,31,69,Nebraska,Garden County,31049,31.0,49.0,Nebraska,Deuel County,26,17,NE
+31101,31,101,Nebraska,Keith County,31049,31.0,49.0,Nebraska,Deuel County,55,29,NE
+31135,31,135,Nebraska,Perkins County,31049,31.0,49.0,Nebraska,Deuel County,6,7,NE
+31003,31,3,Nebraska,Antelope County,31051,31.0,51.0,Nebraska,Dixon County,2,5,NE
+31027,31,27,Nebraska,Cedar County,31051,31.0,51.0,Nebraska,Dixon County,38,15,NE
+31039,31,39,Nebraska,Cuming County,31051,31.0,51.0,Nebraska,Dixon County,12,15,NE
+31043,31,43,Nebraska,Dakota County,31051,31.0,51.0,Nebraska,Dixon County,119,34,NE
+31051,31,51,Nebraska,Dixon County,31051,31.0,51.0,Nebraska,Dixon County,1278,104,NE
+31119,31,119,Nebraska,Madison County,31051,31.0,51.0,Nebraska,Dixon County,30,44,NE
+31153,31,153,Nebraska,Sarpy County,31051,31.0,51.0,Nebraska,Dixon County,25,35,NE
+31173,31,173,Nebraska,Thurston County,31051,31.0,51.0,Nebraska,Dixon County,35,16,NE
+31179,31,179,Nebraska,Wayne County,31051,31.0,51.0,Nebraska,Dixon County,200,80,NE
+31011,31,11,Nebraska,Boone County,31053,31.0,53.0,Nebraska,Dodge County,5,8,NE
+31021,31,21,Nebraska,Burt County,31053,31.0,53.0,Nebraska,Dodge County,207,42,NE
+31023,31,23,Nebraska,Butler County,31053,31.0,53.0,Nebraska,Dodge County,88,56,NE
+31025,31,25,Nebraska,Cass County,31053,31.0,53.0,Nebraska,Dodge County,5,9,NE
+31037,31,37,Nebraska,Colfax County,31053,31.0,53.0,Nebraska,Dodge County,227,79,NE
+31039,31,39,Nebraska,Cuming County,31053,31.0,53.0,Nebraska,Dodge County,220,62,NE
+31043,31,43,Nebraska,Dakota County,31053,31.0,53.0,Nebraska,Dodge County,54,72,NE
+31051,31,51,Nebraska,Dixon County,31053,31.0,53.0,Nebraska,Dodge County,5,6,NE
+31053,31,53,Nebraska,Dodge County,31053,31.0,53.0,Nebraska,Dodge County,13007,446,NE
+31055,31,55,Nebraska,Douglas County,31053,31.0,53.0,Nebraska,Dodge County,1267,230,NE
+31061,31,61,Nebraska,Franklin County,31053,31.0,53.0,Nebraska,Dodge County,3,4,NE
+31063,31,63,Nebraska,Frontier County,31053,31.0,53.0,Nebraska,Dodge County,4,7,NE
+31067,31,67,Nebraska,Gage County,31053,31.0,53.0,Nebraska,Dodge County,4,6,NE
+31079,31,79,Nebraska,Hall County,31053,31.0,53.0,Nebraska,Dodge County,42,57,NE
+31107,31,107,Nebraska,Knox County,31053,31.0,53.0,Nebraska,Dodge County,1,4,NE
+31109,31,109,Nebraska,Lancaster County,31053,31.0,53.0,Nebraska,Dodge County,87,51,NE
+31119,31,119,Nebraska,Madison County,31053,31.0,53.0,Nebraska,Dodge County,24,21,NE
+31131,31,131,Nebraska,Otoe County,31053,31.0,53.0,Nebraska,Dodge County,5,7,NE
+31139,31,139,Nebraska,Pierce County,31053,31.0,53.0,Nebraska,Dodge County,2,3,NE
+31141,31,141,Nebraska,Platte County,31053,31.0,53.0,Nebraska,Dodge County,17,18,NE
+31143,31,143,Nebraska,Polk County,31053,31.0,53.0,Nebraska,Dodge County,16,18,NE
+31153,31,153,Nebraska,Sarpy County,31053,31.0,53.0,Nebraska,Dodge County,176,97,NE
+31155,31,155,Nebraska,Saunders County,31053,31.0,53.0,Nebraska,Dodge County,890,154,NE
+31159,31,159,Nebraska,Seward County,31053,31.0,53.0,Nebraska,Dodge County,7,15,NE
+31167,31,167,Nebraska,Stanton County,31053,31.0,53.0,Nebraska,Dodge County,6,8,NE
+31173,31,173,Nebraska,Thurston County,31053,31.0,53.0,Nebraska,Dodge County,12,10,NE
+31177,31,177,Nebraska,Washington County,31053,31.0,53.0,Nebraska,Dodge County,716,149,NE
+31179,31,179,Nebraska,Wayne County,31053,31.0,53.0,Nebraska,Dodge County,42,39,NE
+31001,31,1,Nebraska,Adams County,31055,31.0,55.0,Nebraska,Douglas County,23,29,NE
+31003,31,3,Nebraska,Antelope County,31055,31.0,55.0,Nebraska,Douglas County,6,6,NE
+31011,31,11,Nebraska,Boone County,31055,31.0,55.0,Nebraska,Douglas County,3,4,NE
+31013,31,13,Nebraska,Box Butte County,31055,31.0,55.0,Nebraska,Douglas County,3,4,NE
+31019,31,19,Nebraska,Buffalo County,31055,31.0,55.0,Nebraska,Douglas County,57,38,NE
+31021,31,21,Nebraska,Burt County,31055,31.0,55.0,Nebraska,Douglas County,229,57,NE
+31023,31,23,Nebraska,Butler County,31055,31.0,55.0,Nebraska,Douglas County,23,16,NE
+31025,31,25,Nebraska,Cass County,31055,31.0,55.0,Nebraska,Douglas County,3384,294,NE
+31035,31,35,Nebraska,Clay County,31055,31.0,55.0,Nebraska,Douglas County,16,14,NE
+31037,31,37,Nebraska,Colfax County,31055,31.0,55.0,Nebraska,Douglas County,36,21,NE
+31039,31,39,Nebraska,Cuming County,31055,31.0,55.0,Nebraska,Douglas County,16,14,NE
+31043,31,43,Nebraska,Dakota County,31055,31.0,55.0,Nebraska,Douglas County,4,6,NE
+31051,31,51,Nebraska,Dixon County,31055,31.0,55.0,Nebraska,Douglas County,5,5,NE
+31053,31,53,Nebraska,Dodge County,31055,31.0,55.0,Nebraska,Douglas County,3004,277,NE
+31055,31,55,Nebraska,Douglas County,31055,31.0,55.0,Nebraska,Douglas County,236631,1716,NE
+31059,31,59,Nebraska,Fillmore County,31055,31.0,55.0,Nebraska,Douglas County,5,8,NE
+31065,31,65,Nebraska,Furnas County,31055,31.0,55.0,Nebraska,Douglas County,3,5,NE
+31067,31,67,Nebraska,Gage County,31055,31.0,55.0,Nebraska,Douglas County,10,10,NE
+31079,31,79,Nebraska,Hall County,31055,31.0,55.0,Nebraska,Douglas County,101,54,NE
+31083,31,83,Nebraska,Harlan County,31055,31.0,55.0,Nebraska,Douglas County,4,5,NE
+31089,31,89,Nebraska,Holt County,31055,31.0,55.0,Nebraska,Douglas County,19,26,NE
+31093,31,93,Nebraska,Howard County,31055,31.0,55.0,Nebraska,Douglas County,15,21,NE
+31095,31,95,Nebraska,Jefferson County,31055,31.0,55.0,Nebraska,Douglas County,44,47,NE
+31097,31,97,Nebraska,Johnson County,31055,31.0,55.0,Nebraska,Douglas County,27,20,NE
+31101,31,101,Nebraska,Keith County,31055,31.0,55.0,Nebraska,Douglas County,14,21,NE
+31107,31,107,Nebraska,Knox County,31055,31.0,55.0,Nebraska,Douglas County,9,11,NE
+31109,31,109,Nebraska,Lancaster County,31055,31.0,55.0,Nebraska,Douglas County,2971,362,NE
+31111,31,111,Nebraska,Lincoln County,31055,31.0,55.0,Nebraska,Douglas County,8,7,NE
+31119,31,119,Nebraska,Madison County,31055,31.0,55.0,Nebraska,Douglas County,42,29,NE
+31125,31,125,Nebraska,Nance County,31055,31.0,55.0,Nebraska,Douglas County,4,6,NE
+31127,31,127,Nebraska,Nemaha County,31055,31.0,55.0,Nebraska,Douglas County,58,34,NE
+31131,31,131,Nebraska,Otoe County,31055,31.0,55.0,Nebraska,Douglas County,212,68,NE
+31133,31,133,Nebraska,Pawnee County,31055,31.0,55.0,Nebraska,Douglas County,1,3,NE
+31137,31,137,Nebraska,Phelps County,31055,31.0,55.0,Nebraska,Douglas County,2,3,NE
+31141,31,141,Nebraska,Platte County,31055,31.0,55.0,Nebraska,Douglas County,92,69,NE
+31143,31,143,Nebraska,Polk County,31055,31.0,55.0,Nebraska,Douglas County,2,3,NE
+31147,31,147,Nebraska,Richardson County,31055,31.0,55.0,Nebraska,Douglas County,41,33,NE
+31151,31,151,Nebraska,Saline County,31055,31.0,55.0,Nebraska,Douglas County,18,17,NE
+31153,31,153,Nebraska,Sarpy County,31055,31.0,55.0,Nebraska,Douglas County,46665,957,NE
+31155,31,155,Nebraska,Saunders County,31055,31.0,55.0,Nebraska,Douglas County,2207,168,NE
+31157,31,157,Nebraska,Scotts Bluff County,31055,31.0,55.0,Nebraska,Douglas County,2,3,NE
+31159,31,159,Nebraska,Seward County,31055,31.0,55.0,Nebraska,Douglas County,36,22,NE
+31167,31,167,Nebraska,Stanton County,31055,31.0,55.0,Nebraska,Douglas County,9,9,NE
+31169,31,169,Nebraska,Thayer County,31055,31.0,55.0,Nebraska,Douglas County,2,3,NE
+31173,31,173,Nebraska,Thurston County,31055,31.0,55.0,Nebraska,Douglas County,6,6,NE
+31175,31,175,Nebraska,Valley County,31055,31.0,55.0,Nebraska,Douglas County,5,8,NE
+31177,31,177,Nebraska,Washington County,31055,31.0,55.0,Nebraska,Douglas County,4218,314,NE
+31179,31,179,Nebraska,Wayne County,31055,31.0,55.0,Nebraska,Douglas County,67,49,NE
+31185,31,185,Nebraska,York County,31055,31.0,55.0,Nebraska,Douglas County,21,23,NE
+31019,31,19,Nebraska,Buffalo County,31057,31.0,57.0,Nebraska,Dundy County,5,8,NE
+31029,31,29,Nebraska,Chase County,31057,31.0,57.0,Nebraska,Dundy County,31,22,NE
+31057,31,57,Nebraska,Dundy County,31057,31.0,57.0,Nebraska,Dundy County,784,96,NE
+31087,31,87,Nebraska,Hitchcock County,31057,31.0,57.0,Nebraska,Dundy County,62,26,NE
+31093,31,93,Nebraska,Howard County,31057,31.0,57.0,Nebraska,Dundy County,2,3,NE
+31109,31,109,Nebraska,Lancaster County,31057,31.0,57.0,Nebraska,Dundy County,10,16,NE
+31145,31,145,Nebraska,Red Willow County,31057,31.0,57.0,Nebraska,Dundy County,38,42,NE
+31035,31,35,Nebraska,Clay County,31059,31.0,59.0,Nebraska,Fillmore County,125,34,NE
+31039,31,39,Nebraska,Cuming County,31059,31.0,59.0,Nebraska,Fillmore County,3,5,NE
+31053,31,53,Nebraska,Dodge County,31059,31.0,59.0,Nebraska,Fillmore County,4,6,NE
+31055,31,55,Nebraska,Douglas County,31059,31.0,59.0,Nebraska,Fillmore County,3,5,NE
+31059,31,59,Nebraska,Fillmore County,31059,31.0,59.0,Nebraska,Fillmore County,2161,115,NE
+31093,31,93,Nebraska,Howard County,31059,31.0,59.0,Nebraska,Fillmore County,9,12,NE
+31095,31,95,Nebraska,Jefferson County,31059,31.0,59.0,Nebraska,Fillmore County,5,5,NE
+31097,31,97,Nebraska,Johnson County,31059,31.0,59.0,Nebraska,Fillmore County,2,4,NE
+31109,31,109,Nebraska,Lancaster County,31059,31.0,59.0,Nebraska,Fillmore County,84,53,NE
+31129,31,129,Nebraska,Nuckolls County,31059,31.0,59.0,Nebraska,Fillmore County,1,4,NE
+31151,31,151,Nebraska,Saline County,31059,31.0,59.0,Nebraska,Fillmore County,114,43,NE
+31159,31,159,Nebraska,Seward County,31059,31.0,59.0,Nebraska,Fillmore County,23,18,NE
+31169,31,169,Nebraska,Thayer County,31059,31.0,59.0,Nebraska,Fillmore County,93,30,NE
+31175,31,175,Nebraska,Valley County,31059,31.0,59.0,Nebraska,Fillmore County,5,8,NE
+31185,31,185,Nebraska,York County,31059,31.0,59.0,Nebraska,Fillmore County,168,70,NE
+31001,31,1,Nebraska,Adams County,31061,31.0,61.0,Nebraska,Franklin County,1,2,NE
+31019,31,19,Nebraska,Buffalo County,31061,31.0,61.0,Nebraska,Franklin County,7,12,NE
+31061,31,61,Nebraska,Franklin County,31061,31.0,61.0,Nebraska,Franklin County,950,78,NE
+31083,31,83,Nebraska,Harlan County,31061,31.0,61.0,Nebraska,Franklin County,41,17,NE
+31099,31,99,Nebraska,Kearney County,31061,31.0,61.0,Nebraska,Franklin County,36,24,NE
+31137,31,137,Nebraska,Phelps County,31061,31.0,61.0,Nebraska,Franklin County,6,7,NE
+31155,31,155,Nebraska,Saunders County,31061,31.0,61.0,Nebraska,Franklin County,4,6,NE
+31181,31,181,Nebraska,Webster County,31061,31.0,61.0,Nebraska,Franklin County,45,25,NE
+31025,31,25,Nebraska,Cass County,31063,31.0,63.0,Nebraska,Frontier County,21,22,NE
+31035,31,35,Nebraska,Clay County,31063,31.0,63.0,Nebraska,Frontier County,1,3,NE
+31047,31,47,Nebraska,Dawson County,31063,31.0,63.0,Nebraska,Frontier County,72,35,NE
+31057,31,57,Nebraska,Dundy County,31063,31.0,63.0,Nebraska,Frontier County,3,4,NE
+31063,31,63,Nebraska,Frontier County,31063,31.0,63.0,Nebraska,Frontier County,898,65,NE
+31065,31,65,Nebraska,Furnas County,31063,31.0,63.0,Nebraska,Frontier County,22,21,NE
+31073,31,73,Nebraska,Gosper County,31063,31.0,63.0,Nebraska,Frontier County,16,12,NE
+31079,31,79,Nebraska,Hall County,31063,31.0,63.0,Nebraska,Frontier County,19,21,NE
+31081,31,81,Nebraska,Hamilton County,31063,31.0,63.0,Nebraska,Frontier County,7,12,NE
+31085,31,85,Nebraska,Hayes County,31063,31.0,63.0,Nebraska,Frontier County,17,10,NE
+31111,31,111,Nebraska,Lincoln County,31063,31.0,63.0,Nebraska,Frontier County,56,20,NE
+31137,31,137,Nebraska,Phelps County,31063,31.0,63.0,Nebraska,Frontier County,6,9,NE
+31145,31,145,Nebraska,Red Willow County,31063,31.0,63.0,Nebraska,Frontier County,6,7,NE
+31157,31,157,Nebraska,Scotts Bluff County,31063,31.0,63.0,Nebraska,Frontier County,10,14,NE
+31175,31,175,Nebraska,Valley County,31063,31.0,63.0,Nebraska,Frontier County,1,2,NE
+31001,31,1,Nebraska,Adams County,31065,31.0,65.0,Nebraska,Furnas County,13,18,NE
+31019,31,19,Nebraska,Buffalo County,31065,31.0,65.0,Nebraska,Furnas County,3,4,NE
+31035,31,35,Nebraska,Clay County,31065,31.0,65.0,Nebraska,Furnas County,2,4,NE
+31041,31,41,Nebraska,Custer County,31065,31.0,65.0,Nebraska,Furnas County,2,3,NE
+31047,31,47,Nebraska,Dawson County,31065,31.0,65.0,Nebraska,Furnas County,21,24,NE
+31063,31,63,Nebraska,Frontier County,31065,31.0,65.0,Nebraska,Furnas County,15,14,NE
+31065,31,65,Nebraska,Furnas County,31065,31.0,65.0,Nebraska,Furnas County,1762,114,NE
+31073,31,73,Nebraska,Gosper County,31065,31.0,65.0,Nebraska,Furnas County,30,17,NE
+31079,31,79,Nebraska,Hall County,31065,31.0,65.0,Nebraska,Furnas County,2,3,NE
+31083,31,83,Nebraska,Harlan County,31065,31.0,65.0,Nebraska,Furnas County,131,47,NE
+31087,31,87,Nebraska,Hitchcock County,31065,31.0,65.0,Nebraska,Furnas County,9,9,NE
+31099,31,99,Nebraska,Kearney County,31065,31.0,65.0,Nebraska,Furnas County,7,11,NE
+31137,31,137,Nebraska,Phelps County,31065,31.0,65.0,Nebraska,Furnas County,137,94,NE
+31145,31,145,Nebraska,Red Willow County,31065,31.0,65.0,Nebraska,Furnas County,87,36,NE
+31067,31,67,Nebraska,Gage County,31067,31.0,67.0,Nebraska,Gage County,8068,373,NE
+31077,31,77,Nebraska,Greeley County,31067,31.0,67.0,Nebraska,Gage County,1,2,NE
+31095,31,95,Nebraska,Jefferson County,31067,31.0,67.0,Nebraska,Gage County,343,84,NE
+31097,31,97,Nebraska,Johnson County,31067,31.0,67.0,Nebraska,Gage County,125,45,NE
+31109,31,109,Nebraska,Lancaster County,31067,31.0,67.0,Nebraska,Gage County,566,139,NE
+31127,31,127,Nebraska,Nemaha County,31067,31.0,67.0,Nebraska,Gage County,11,13,NE
+31129,31,129,Nebraska,Nuckolls County,31067,31.0,67.0,Nebraska,Gage County,18,18,NE
+31131,31,131,Nebraska,Otoe County,31067,31.0,67.0,Nebraska,Gage County,19,14,NE
+31133,31,133,Nebraska,Pawnee County,31067,31.0,67.0,Nebraska,Gage County,63,24,NE
+31147,31,147,Nebraska,Richardson County,31067,31.0,67.0,Nebraska,Gage County,3,5,NE
+31151,31,151,Nebraska,Saline County,31067,31.0,67.0,Nebraska,Gage County,225,42,NE
+31159,31,159,Nebraska,Seward County,31067,31.0,67.0,Nebraska,Gage County,8,10,NE
+31169,31,169,Nebraska,Thayer County,31067,31.0,67.0,Nebraska,Gage County,1,3,NE
+31177,31,177,Nebraska,Washington County,31067,31.0,67.0,Nebraska,Gage County,8,12,NE
+31005,31,5,Nebraska,Arthur County,31069,31.0,69.0,Nebraska,Garden County,2,3,NE
+31013,31,13,Nebraska,Box Butte County,31069,31.0,69.0,Nebraska,Garden County,2,7,NE
+31033,31,33,Nebraska,Cheyenne County,31069,31.0,69.0,Nebraska,Garden County,1,2,NE
+31049,31,49,Nebraska,Deuel County,31069,31.0,69.0,Nebraska,Garden County,21,17,NE
+31069,31,69,Nebraska,Garden County,31069,31.0,69.0,Nebraska,Garden County,757,71,NE
+31075,31,75,Nebraska,Grant County,31069,31.0,69.0,Nebraska,Garden County,16,20,NE
+31081,31,81,Nebraska,Hamilton County,31069,31.0,69.0,Nebraska,Garden County,1,2,NE
+31101,31,101,Nebraska,Keith County,31069,31.0,69.0,Nebraska,Garden County,20,23,NE
+31123,31,123,Nebraska,Morrill County,31069,31.0,69.0,Nebraska,Garden County,24,34,NE
+31157,31,157,Nebraska,Scotts Bluff County,31069,31.0,69.0,Nebraska,Garden County,3,7,NE
+31161,31,161,Nebraska,Sheridan County,31069,31.0,69.0,Nebraska,Garden County,9,14,NE
+31041,31,41,Nebraska,Custer County,31071,31.0,71.0,Nebraska,Garfield County,36,17,NE
+31071,31,71,Nebraska,Garfield County,31071,31.0,71.0,Nebraska,Garfield County,823,94,NE
+31077,31,77,Nebraska,Greeley County,31071,31.0,71.0,Nebraska,Garfield County,7,6,NE
+31089,31,89,Nebraska,Holt County,31071,31.0,71.0,Nebraska,Garfield County,2,3,NE
+31109,31,109,Nebraska,Lancaster County,31071,31.0,71.0,Nebraska,Garfield County,8,14,NE
+31115,31,115,Nebraska,Loup County,31071,31.0,71.0,Nebraska,Garfield County,63,25,NE
+31149,31,149,Nebraska,Rock County,31071,31.0,71.0,Nebraska,Garfield County,1,2,NE
+31175,31,175,Nebraska,Valley County,31071,31.0,71.0,Nebraska,Garfield County,60,30,NE
+31183,31,183,Nebraska,Wheeler County,31071,31.0,71.0,Nebraska,Garfield County,10,8,NE
+31019,31,19,Nebraska,Buffalo County,31073,31.0,73.0,Nebraska,Gosper County,5,6,NE
+31047,31,47,Nebraska,Dawson County,31073,31.0,73.0,Nebraska,Gosper County,98,60,NE
+31063,31,63,Nebraska,Frontier County,31073,31.0,73.0,Nebraska,Gosper County,22,13,NE
+31065,31,65,Nebraska,Furnas County,31073,31.0,73.0,Nebraska,Gosper County,1,2,NE
+31073,31,73,Nebraska,Gosper County,31073,31.0,73.0,Nebraska,Gosper County,557,72,NE
+31111,31,111,Nebraska,Lincoln County,31073,31.0,73.0,Nebraska,Gosper County,2,3,NE
+31137,31,137,Nebraska,Phelps County,31073,31.0,73.0,Nebraska,Gosper County,35,17,NE
+31005,31,5,Nebraska,Arthur County,31075,31.0,75.0,Nebraska,Grant County,3,3,NE
+31031,31,31,Nebraska,Cherry County,31075,31.0,75.0,Nebraska,Grant County,22,18,NE
+31075,31,75,Nebraska,Grant County,31075,31.0,75.0,Nebraska,Grant County,340,45,NE
+31091,31,91,Nebraska,Hooker County,31075,31.0,75.0,Nebraska,Grant County,1,2,NE
+31109,31,109,Nebraska,Lancaster County,31075,31.0,75.0,Nebraska,Grant County,14,21,NE
+31161,31,161,Nebraska,Sheridan County,31075,31.0,75.0,Nebraska,Grant County,5,7,NE
+31011,31,11,Nebraska,Boone County,31077,31.0,77.0,Nebraska,Greeley County,30,20,NE
+31041,31,41,Nebraska,Custer County,31077,31.0,77.0,Nebraska,Greeley County,4,4,NE
+31071,31,71,Nebraska,Garfield County,31077,31.0,77.0,Nebraska,Greeley County,6,8,NE
+31077,31,77,Nebraska,Greeley County,31077,31.0,77.0,Nebraska,Greeley County,671,58,NE
+31079,31,79,Nebraska,Hall County,31077,31.0,77.0,Nebraska,Greeley County,30,31,NE
+31089,31,89,Nebraska,Holt County,31077,31.0,77.0,Nebraska,Greeley County,4,6,NE
+31093,31,93,Nebraska,Howard County,31077,31.0,77.0,Nebraska,Greeley County,32,20,NE
+31119,31,119,Nebraska,Madison County,31077,31.0,77.0,Nebraska,Greeley County,10,18,NE
+31121,31,121,Nebraska,Merrick County,31077,31.0,77.0,Nebraska,Greeley County,1,2,NE
+31125,31,125,Nebraska,Nance County,31077,31.0,77.0,Nebraska,Greeley County,19,17,NE
+31163,31,163,Nebraska,Sherman County,31077,31.0,77.0,Nebraska,Greeley County,1,3,NE
+31175,31,175,Nebraska,Valley County,31077,31.0,77.0,Nebraska,Greeley County,37,19,NE
+31183,31,183,Nebraska,Wheeler County,31077,31.0,77.0,Nebraska,Greeley County,27,25,NE
+31001,31,1,Nebraska,Adams County,31079,31.0,79.0,Nebraska,Hall County,1352,215,NE
+31011,31,11,Nebraska,Boone County,31079,31.0,79.0,Nebraska,Hall County,24,17,NE
+31019,31,19,Nebraska,Buffalo County,31079,31.0,79.0,Nebraska,Hall County,791,169,NE
+31035,31,35,Nebraska,Clay County,31079,31.0,79.0,Nebraska,Hall County,182,50,NE
+31037,31,37,Nebraska,Colfax County,31079,31.0,79.0,Nebraska,Hall County,1,2,NE
+31041,31,41,Nebraska,Custer County,31079,31.0,79.0,Nebraska,Hall County,14,9,NE
+31047,31,47,Nebraska,Dawson County,31079,31.0,79.0,Nebraska,Hall County,73,54,NE
+31049,31,49,Nebraska,Deuel County,31079,31.0,79.0,Nebraska,Hall County,8,8,NE
+31055,31,55,Nebraska,Douglas County,31079,31.0,79.0,Nebraska,Hall County,50,31,NE
+31059,31,59,Nebraska,Fillmore County,31079,31.0,79.0,Nebraska,Hall County,12,13,NE
+31061,31,61,Nebraska,Franklin County,31079,31.0,79.0,Nebraska,Hall County,20,17,NE
+31063,31,63,Nebraska,Frontier County,31079,31.0,79.0,Nebraska,Hall County,3,6,NE
+31067,31,67,Nebraska,Gage County,31079,31.0,79.0,Nebraska,Hall County,4,5,NE
+31069,31,69,Nebraska,Garden County,31079,31.0,79.0,Nebraska,Hall County,5,8,NE
+31071,31,71,Nebraska,Garfield County,31079,31.0,79.0,Nebraska,Hall County,5,7,NE
+31077,31,77,Nebraska,Greeley County,31079,31.0,79.0,Nebraska,Hall County,112,31,NE
+31079,31,79,Nebraska,Hall County,31079,31.0,79.0,Nebraska,Hall County,27937,577,NE
+31081,31,81,Nebraska,Hamilton County,31079,31.0,79.0,Nebraska,Hall County,1114,148,NE
+31089,31,89,Nebraska,Holt County,31079,31.0,79.0,Nebraska,Hall County,21,22,NE
+31093,31,93,Nebraska,Howard County,31079,31.0,79.0,Nebraska,Hall County,1510,119,NE
+31097,31,97,Nebraska,Johnson County,31079,31.0,79.0,Nebraska,Hall County,13,15,NE
+31099,31,99,Nebraska,Kearney County,31079,31.0,79.0,Nebraska,Hall County,39,39,NE
+31101,31,101,Nebraska,Keith County,31079,31.0,79.0,Nebraska,Hall County,3,5,NE
+31109,31,109,Nebraska,Lancaster County,31079,31.0,79.0,Nebraska,Hall County,97,63,NE
+31111,31,111,Nebraska,Lincoln County,31079,31.0,79.0,Nebraska,Hall County,13,20,NE
+31113,31,113,Nebraska,Logan County,31079,31.0,79.0,Nebraska,Hall County,2,3,NE
+31121,31,121,Nebraska,Merrick County,31079,31.0,79.0,Nebraska,Hall County,1106,154,NE
+31125,31,125,Nebraska,Nance County,31079,31.0,79.0,Nebraska,Hall County,57,29,NE
+31129,31,129,Nebraska,Nuckolls County,31079,31.0,79.0,Nebraska,Hall County,15,11,NE
+31137,31,137,Nebraska,Phelps County,31079,31.0,79.0,Nebraska,Hall County,22,23,NE
+31141,31,141,Nebraska,Platte County,31079,31.0,79.0,Nebraska,Hall County,79,70,NE
+31143,31,143,Nebraska,Polk County,31079,31.0,79.0,Nebraska,Hall County,52,25,NE
+31145,31,145,Nebraska,Red Willow County,31079,31.0,79.0,Nebraska,Hall County,25,35,NE
+31153,31,153,Nebraska,Sarpy County,31079,31.0,79.0,Nebraska,Hall County,7,11,NE
+31155,31,155,Nebraska,Saunders County,31079,31.0,79.0,Nebraska,Hall County,8,10,NE
+31159,31,159,Nebraska,Seward County,31079,31.0,79.0,Nebraska,Hall County,17,19,NE
+31163,31,163,Nebraska,Sherman County,31079,31.0,79.0,Nebraska,Hall County,128,33,NE
+31175,31,175,Nebraska,Valley County,31079,31.0,79.0,Nebraska,Hall County,35,22,NE
+31179,31,179,Nebraska,Wayne County,31079,31.0,79.0,Nebraska,Hall County,8,15,NE
+31181,31,181,Nebraska,Webster County,31079,31.0,79.0,Nebraska,Hall County,28,16,NE
+31183,31,183,Nebraska,Wheeler County,31079,31.0,79.0,Nebraska,Hall County,4,4,NE
+31185,31,185,Nebraska,York County,31079,31.0,79.0,Nebraska,Hall County,64,30,NE
+31001,31,1,Nebraska,Adams County,31081,31.0,81.0,Nebraska,Hamilton County,80,48,NE
+31003,31,3,Nebraska,Antelope County,31081,31.0,81.0,Nebraska,Hamilton County,3,4,NE
+31019,31,19,Nebraska,Buffalo County,31081,31.0,81.0,Nebraska,Hamilton County,64,71,NE
+31035,31,35,Nebraska,Clay County,31081,31.0,81.0,Nebraska,Hamilton County,98,36,NE
+31079,31,79,Nebraska,Hall County,31081,31.0,81.0,Nebraska,Hamilton County,346,123,NE
+31081,31,81,Nebraska,Hamilton County,31081,31.0,81.0,Nebraska,Hamilton County,2882,193,NE
+31093,31,93,Nebraska,Howard County,31081,31.0,81.0,Nebraska,Hamilton County,6,7,NE
+31099,31,99,Nebraska,Kearney County,31081,31.0,81.0,Nebraska,Hamilton County,1,2,NE
+31109,31,109,Nebraska,Lancaster County,31081,31.0,81.0,Nebraska,Hamilton County,13,21,NE
+31121,31,121,Nebraska,Merrick County,31081,31.0,81.0,Nebraska,Hamilton County,163,64,NE
+31125,31,125,Nebraska,Nance County,31081,31.0,81.0,Nebraska,Hamilton County,6,7,NE
+31129,31,129,Nebraska,Nuckolls County,31081,31.0,81.0,Nebraska,Hamilton County,3,4,NE
+31143,31,143,Nebraska,Polk County,31081,31.0,81.0,Nebraska,Hamilton County,29,15,NE
+31151,31,151,Nebraska,Saline County,31081,31.0,81.0,Nebraska,Hamilton County,4,6,NE
+31155,31,155,Nebraska,Saunders County,31081,31.0,81.0,Nebraska,Hamilton County,5,7,NE
+31159,31,159,Nebraska,Seward County,31081,31.0,81.0,Nebraska,Hamilton County,10,13,NE
+31167,31,167,Nebraska,Stanton County,31081,31.0,81.0,Nebraska,Hamilton County,8,10,NE
+31181,31,181,Nebraska,Webster County,31081,31.0,81.0,Nebraska,Hamilton County,11,9,NE
+31185,31,185,Nebraska,York County,31081,31.0,81.0,Nebraska,Hamilton County,120,50,NE
+31001,31,1,Nebraska,Adams County,31083,31.0,83.0,Nebraska,Harlan County,7,11,NE
+31019,31,19,Nebraska,Buffalo County,31083,31.0,83.0,Nebraska,Harlan County,1,3,NE
+31061,31,61,Nebraska,Franklin County,31083,31.0,83.0,Nebraska,Harlan County,73,32,NE
+31065,31,65,Nebraska,Furnas County,31083,31.0,83.0,Nebraska,Harlan County,76,38,NE
+31083,31,83,Nebraska,Harlan County,31083,31.0,83.0,Nebraska,Harlan County,990,82,NE
+31099,31,99,Nebraska,Kearney County,31083,31.0,83.0,Nebraska,Harlan County,14,14,NE
+31109,31,109,Nebraska,Lancaster County,31083,31.0,83.0,Nebraska,Harlan County,61,97,NE
+31137,31,137,Nebraska,Phelps County,31083,31.0,83.0,Nebraska,Harlan County,64,50,NE
+31153,31,153,Nebraska,Sarpy County,31083,31.0,83.0,Nebraska,Harlan County,4,6,NE
+31029,31,29,Nebraska,Chase County,31085,31.0,85.0,Nebraska,Hayes County,6,6,NE
+31053,31,53,Nebraska,Dodge County,31085,31.0,85.0,Nebraska,Hayes County,3,4,NE
+31063,31,63,Nebraska,Frontier County,31085,31.0,85.0,Nebraska,Hayes County,9,9,NE
+31085,31,85,Nebraska,Hayes County,31085,31.0,85.0,Nebraska,Hayes County,340,51,NE
+31087,31,87,Nebraska,Hitchcock County,31085,31.0,85.0,Nebraska,Hayes County,41,17,NE
+31145,31,145,Nebraska,Red Willow County,31085,31.0,85.0,Nebraska,Hayes County,28,27,NE
+31029,31,29,Nebraska,Chase County,31087,31.0,87.0,Nebraska,Hitchcock County,19,13,NE
+31057,31,57,Nebraska,Dundy County,31087,31.0,87.0,Nebraska,Hitchcock County,20,13,NE
+31065,31,65,Nebraska,Furnas County,31087,31.0,87.0,Nebraska,Hitchcock County,2,3,NE
+31085,31,85,Nebraska,Hayes County,31087,31.0,87.0,Nebraska,Hitchcock County,24,18,NE
+31087,31,87,Nebraska,Hitchcock County,31087,31.0,87.0,Nebraska,Hitchcock County,751,58,NE
+31111,31,111,Nebraska,Lincoln County,31087,31.0,87.0,Nebraska,Hitchcock County,4,7,NE
+31113,31,113,Nebraska,Logan County,31087,31.0,87.0,Nebraska,Hitchcock County,6,7,NE
+31145,31,145,Nebraska,Red Willow County,31087,31.0,87.0,Nebraska,Hitchcock County,47,37,NE
+31003,31,3,Nebraska,Antelope County,31089,31.0,89.0,Nebraska,Holt County,113,29,NE
+31015,31,15,Nebraska,Boyd County,31089,31.0,89.0,Nebraska,Holt County,95,24,NE
+31017,31,17,Nebraska,Brown County,31089,31.0,89.0,Nebraska,Holt County,17,24,NE
+31031,31,31,Nebraska,Cherry County,31089,31.0,89.0,Nebraska,Holt County,17,25,NE
+31039,31,39,Nebraska,Cuming County,31089,31.0,89.0,Nebraska,Holt County,2,5,NE
+31077,31,77,Nebraska,Greeley County,31089,31.0,89.0,Nebraska,Holt County,2,3,NE
+31089,31,89,Nebraska,Holt County,31089,31.0,89.0,Nebraska,Holt County,5138,199,NE
+31103,31,103,Nebraska,Keya Paha County,31089,31.0,89.0,Nebraska,Holt County,7,7,NE
+31107,31,107,Nebraska,Knox County,31089,31.0,89.0,Nebraska,Holt County,75,32,NE
+31119,31,119,Nebraska,Madison County,31089,31.0,89.0,Nebraska,Holt County,3,4,NE
+31149,31,149,Nebraska,Rock County,31089,31.0,89.0,Nebraska,Holt County,48,19,NE
+31157,31,157,Nebraska,Scotts Bluff County,31089,31.0,89.0,Nebraska,Holt County,11,19,NE
+31159,31,159,Nebraska,Seward County,31089,31.0,89.0,Nebraska,Holt County,2,3,NE
+31183,31,183,Nebraska,Wheeler County,31089,31.0,89.0,Nebraska,Holt County,30,17,NE
+31031,31,31,Nebraska,Cherry County,31091,31.0,91.0,Nebraska,Hooker County,60,28,NE
+31075,31,75,Nebraska,Grant County,31091,31.0,91.0,Nebraska,Hooker County,14,13,NE
+31091,31,91,Nebraska,Hooker County,31091,31.0,91.0,Nebraska,Hooker County,291,54,NE
+31117,31,117,Nebraska,McPherson County,31091,31.0,91.0,Nebraska,Hooker County,7,5,NE
+31151,31,151,Nebraska,Saline County,31091,31.0,91.0,Nebraska,Hooker County,22,24,NE
+31171,31,171,Nebraska,Thomas County,31091,31.0,91.0,Nebraska,Hooker County,16,9,NE
+31019,31,19,Nebraska,Buffalo County,31093,31.0,93.0,Nebraska,Howard County,13,8,NE
+31041,31,41,Nebraska,Custer County,31093,31.0,93.0,Nebraska,Howard County,5,5,NE
+31053,31,53,Nebraska,Dodge County,31093,31.0,93.0,Nebraska,Howard County,2,3,NE
+31055,31,55,Nebraska,Douglas County,31093,31.0,93.0,Nebraska,Howard County,3,4,NE
+31077,31,77,Nebraska,Greeley County,31093,31.0,93.0,Nebraska,Howard County,47,22,NE
+31079,31,79,Nebraska,Hall County,31093,31.0,93.0,Nebraska,Howard County,148,59,NE
+31093,31,93,Nebraska,Howard County,31093,31.0,93.0,Nebraska,Howard County,1481,134,NE
+31121,31,121,Nebraska,Merrick County,31093,31.0,93.0,Nebraska,Howard County,67,29,NE
+31125,31,125,Nebraska,Nance County,31093,31.0,93.0,Nebraska,Howard County,9,11,NE
+31159,31,159,Nebraska,Seward County,31093,31.0,93.0,Nebraska,Howard County,9,12,NE
+31163,31,163,Nebraska,Sherman County,31093,31.0,93.0,Nebraska,Howard County,63,28,NE
+31175,31,175,Nebraska,Valley County,31093,31.0,93.0,Nebraska,Howard County,2,3,NE
+31059,31,59,Nebraska,Fillmore County,31095,31.0,95.0,Nebraska,Jefferson County,10,8,NE
+31067,31,67,Nebraska,Gage County,31095,31.0,95.0,Nebraska,Jefferson County,318,89,NE
+31095,31,95,Nebraska,Jefferson County,31095,31.0,95.0,Nebraska,Jefferson County,2922,165,NE
+31107,31,107,Nebraska,Knox County,31095,31.0,95.0,Nebraska,Jefferson County,7,7,NE
+31109,31,109,Nebraska,Lancaster County,31095,31.0,95.0,Nebraska,Jefferson County,49,56,NE
+31129,31,129,Nebraska,Nuckolls County,31095,31.0,95.0,Nebraska,Jefferson County,1,3,NE
+31133,31,133,Nebraska,Pawnee County,31095,31.0,95.0,Nebraska,Jefferson County,4,5,NE
+31147,31,147,Nebraska,Richardson County,31095,31.0,95.0,Nebraska,Jefferson County,1,2,NE
+31151,31,151,Nebraska,Saline County,31095,31.0,95.0,Nebraska,Jefferson County,278,74,NE
+31169,31,169,Nebraska,Thayer County,31095,31.0,95.0,Nebraska,Jefferson County,95,34,NE
+31025,31,25,Nebraska,Cass County,31097,31.0,97.0,Nebraska,Johnson County,13,11,NE
+31055,31,55,Nebraska,Douglas County,31097,31.0,97.0,Nebraska,Johnson County,56,76,NE
+31067,31,67,Nebraska,Gage County,31097,31.0,97.0,Nebraska,Johnson County,110,37,NE
+31075,31,75,Nebraska,Grant County,31097,31.0,97.0,Nebraska,Johnson County,10,20,NE
+31097,31,97,Nebraska,Johnson County,31097,31.0,97.0,Nebraska,Johnson County,1246,135,NE
+31109,31,109,Nebraska,Lancaster County,31097,31.0,97.0,Nebraska,Johnson County,93,55,NE
+31127,31,127,Nebraska,Nemaha County,31097,31.0,97.0,Nebraska,Johnson County,99,39,NE
+31131,31,131,Nebraska,Otoe County,31097,31.0,97.0,Nebraska,Johnson County,153,48,NE
+31133,31,133,Nebraska,Pawnee County,31097,31.0,97.0,Nebraska,Johnson County,67,29,NE
+31147,31,147,Nebraska,Richardson County,31097,31.0,97.0,Nebraska,Johnson County,94,70,NE
+31153,31,153,Nebraska,Sarpy County,31097,31.0,97.0,Nebraska,Johnson County,16,24,NE
+31159,31,159,Nebraska,Seward County,31097,31.0,97.0,Nebraska,Johnson County,3,5,NE
+31169,31,169,Nebraska,Thayer County,31097,31.0,97.0,Nebraska,Johnson County,3,4,NE
+31001,31,1,Nebraska,Adams County,31099,31.0,99.0,Nebraska,Kearney County,195,78,NE
+31019,31,19,Nebraska,Buffalo County,31099,31.0,99.0,Nebraska,Kearney County,661,198,NE
+31061,31,61,Nebraska,Franklin County,31099,31.0,99.0,Nebraska,Kearney County,177,41,NE
+31065,31,65,Nebraska,Furnas County,31099,31.0,99.0,Nebraska,Kearney County,9,9,NE
+31079,31,79,Nebraska,Hall County,31099,31.0,99.0,Nebraska,Kearney County,15,22,NE
+31083,31,83,Nebraska,Harlan County,31099,31.0,99.0,Nebraska,Kearney County,33,24,NE
+31087,31,87,Nebraska,Hitchcock County,31099,31.0,99.0,Nebraska,Kearney County,4,5,NE
+31099,31,99,Nebraska,Kearney County,31099,31.0,99.0,Nebraska,Kearney County,1978,174,NE
+31121,31,121,Nebraska,Merrick County,31099,31.0,99.0,Nebraska,Kearney County,7,9,NE
+31137,31,137,Nebraska,Phelps County,31099,31.0,99.0,Nebraska,Kearney County,108,49,NE
+31145,31,145,Nebraska,Red Willow County,31099,31.0,99.0,Nebraska,Kearney County,2,5,NE
+31149,31,149,Nebraska,Rock County,31099,31.0,99.0,Nebraska,Kearney County,2,4,NE
+31155,31,155,Nebraska,Saunders County,31099,31.0,99.0,Nebraska,Kearney County,3,4,NE
+31163,31,163,Nebraska,Sherman County,31099,31.0,99.0,Nebraska,Kearney County,10,11,NE
+31175,31,175,Nebraska,Valley County,31099,31.0,99.0,Nebraska,Kearney County,2,3,NE
+31181,31,181,Nebraska,Webster County,31099,31.0,99.0,Nebraska,Kearney County,13,13,NE
+31005,31,5,Nebraska,Arthur County,31101,31.0,101.0,Nebraska,Keith County,28,9,NE
+31019,31,19,Nebraska,Buffalo County,31101,31.0,101.0,Nebraska,Keith County,14,19,NE
+31029,31,29,Nebraska,Chase County,31101,31.0,101.0,Nebraska,Keith County,35,28,NE
+31047,31,47,Nebraska,Dawson County,31101,31.0,101.0,Nebraska,Keith County,8,12,NE
+31049,31,49,Nebraska,Deuel County,31101,31.0,101.0,Nebraska,Keith County,63,22,NE
+31069,31,69,Nebraska,Garden County,31101,31.0,101.0,Nebraska,Keith County,30,19,NE
+31101,31,101,Nebraska,Keith County,31101,31.0,101.0,Nebraska,Keith County,3536,183,NE
+31109,31,109,Nebraska,Lancaster County,31101,31.0,101.0,Nebraska,Keith County,54,83,NE
+31111,31,111,Nebraska,Lincoln County,31101,31.0,101.0,Nebraska,Keith County,122,79,NE
+31117,31,117,Nebraska,McPherson County,31101,31.0,101.0,Nebraska,Keith County,7,6,NE
+31133,31,133,Nebraska,Pawnee County,31101,31.0,101.0,Nebraska,Keith County,3,4,NE
+31135,31,135,Nebraska,Perkins County,31101,31.0,101.0,Nebraska,Keith County,62,31,NE
+31141,31,141,Nebraska,Platte County,31101,31.0,101.0,Nebraska,Keith County,18,31,NE
+31175,31,175,Nebraska,Valley County,31101,31.0,101.0,Nebraska,Keith County,7,12,NE
+31017,31,17,Nebraska,Brown County,31103,31.0,103.0,Nebraska,Keya Paha County,6,9,NE
+31103,31,103,Nebraska,Keya Paha County,31103,31.0,103.0,Nebraska,Keya Paha County,337,57,NE
+31149,31,149,Nebraska,Rock County,31103,31.0,103.0,Nebraska,Keya Paha County,19,15,NE
+31007,31,7,Nebraska,Banner County,31105,31.0,105.0,Nebraska,Kimball County,21,15,NE
+31033,31,33,Nebraska,Cheyenne County,31105,31.0,105.0,Nebraska,Kimball County,53,29,NE
+31041,31,41,Nebraska,Custer County,31105,31.0,105.0,Nebraska,Kimball County,7,11,NE
+31049,31,49,Nebraska,Deuel County,31105,31.0,105.0,Nebraska,Kimball County,3,5,NE
+31105,31,105,Nebraska,Kimball County,31105,31.0,105.0,Nebraska,Kimball County,1380,96,NE
+31157,31,157,Nebraska,Scotts Bluff County,31105,31.0,105.0,Nebraska,Kimball County,61,45,NE
+31003,31,3,Nebraska,Antelope County,31107,31.0,107.0,Nebraska,Knox County,97,39,NE
+31015,31,15,Nebraska,Boyd County,31107,31.0,107.0,Nebraska,Knox County,11,10,NE
+31025,31,25,Nebraska,Cass County,31107,31.0,107.0,Nebraska,Knox County,5,6,NE
+31027,31,27,Nebraska,Cedar County,31107,31.0,107.0,Nebraska,Knox County,103,33,NE
+31051,31,51,Nebraska,Dixon County,31107,31.0,107.0,Nebraska,Knox County,7,7,NE
+31055,31,55,Nebraska,Douglas County,31107,31.0,107.0,Nebraska,Knox County,2,6,NE
+31089,31,89,Nebraska,Holt County,31107,31.0,107.0,Nebraska,Knox County,2,3,NE
+31107,31,107,Nebraska,Knox County,31107,31.0,107.0,Nebraska,Knox County,3157,172,NE
+31119,31,119,Nebraska,Madison County,31107,31.0,107.0,Nebraska,Knox County,27,28,NE
+31139,31,139,Nebraska,Pierce County,31107,31.0,107.0,Nebraska,Knox County,93,33,NE
+31179,31,179,Nebraska,Wayne County,31107,31.0,107.0,Nebraska,Knox County,9,15,NE
+31181,31,181,Nebraska,Webster County,31107,31.0,107.0,Nebraska,Knox County,4,6,NE
+31001,31,1,Nebraska,Adams County,31109,31.0,109.0,Nebraska,Lancaster County,42,34,NE
+31003,31,3,Nebraska,Antelope County,31109,31.0,109.0,Nebraska,Lancaster County,3,5,NE
+31011,31,11,Nebraska,Boone County,31109,31.0,109.0,Nebraska,Lancaster County,16,22,NE
+31015,31,15,Nebraska,Boyd County,31109,31.0,109.0,Nebraska,Lancaster County,2,3,NE
+31019,31,19,Nebraska,Buffalo County,31109,31.0,109.0,Nebraska,Lancaster County,9,8,NE
+31021,31,21,Nebraska,Burt County,31109,31.0,109.0,Nebraska,Lancaster County,15,14,NE
+31023,31,23,Nebraska,Butler County,31109,31.0,109.0,Nebraska,Lancaster County,203,51,NE
+31025,31,25,Nebraska,Cass County,31109,31.0,109.0,Nebraska,Lancaster County,2034,231,NE
+31027,31,27,Nebraska,Cedar County,31109,31.0,109.0,Nebraska,Lancaster County,4,5,NE
+31033,31,33,Nebraska,Cheyenne County,31109,31.0,109.0,Nebraska,Lancaster County,85,64,NE
+31035,31,35,Nebraska,Clay County,31109,31.0,109.0,Nebraska,Lancaster County,18,12,NE
+31039,31,39,Nebraska,Cuming County,31109,31.0,109.0,Nebraska,Lancaster County,66,40,NE
+31043,31,43,Nebraska,Dakota County,31109,31.0,109.0,Nebraska,Lancaster County,12,16,NE
+31047,31,47,Nebraska,Dawson County,31109,31.0,109.0,Nebraska,Lancaster County,15,16,NE
+31053,31,53,Nebraska,Dodge County,31109,31.0,109.0,Nebraska,Lancaster County,134,67,NE
+31055,31,55,Nebraska,Douglas County,31109,31.0,109.0,Nebraska,Lancaster County,2392,267,NE
+31059,31,59,Nebraska,Fillmore County,31109,31.0,109.0,Nebraska,Lancaster County,42,18,NE
+31061,31,61,Nebraska,Franklin County,31109,31.0,109.0,Nebraska,Lancaster County,6,6,NE
+31065,31,65,Nebraska,Furnas County,31109,31.0,109.0,Nebraska,Lancaster County,5,8,NE
+31067,31,67,Nebraska,Gage County,31109,31.0,109.0,Nebraska,Lancaster County,1604,159,NE
+31079,31,79,Nebraska,Hall County,31109,31.0,109.0,Nebraska,Lancaster County,63,36,NE
+31081,31,81,Nebraska,Hamilton County,31109,31.0,109.0,Nebraska,Lancaster County,20,15,NE
+31083,31,83,Nebraska,Harlan County,31109,31.0,109.0,Nebraska,Lancaster County,5,7,NE
+31089,31,89,Nebraska,Holt County,31109,31.0,109.0,Nebraska,Lancaster County,10,9,NE
+31093,31,93,Nebraska,Howard County,31109,31.0,109.0,Nebraska,Lancaster County,5,8,NE
+31095,31,95,Nebraska,Jefferson County,31109,31.0,109.0,Nebraska,Lancaster County,78,39,NE
+31097,31,97,Nebraska,Johnson County,31109,31.0,109.0,Nebraska,Lancaster County,269,61,NE
+31099,31,99,Nebraska,Kearney County,31109,31.0,109.0,Nebraska,Lancaster County,17,20,NE
+31109,31,109,Nebraska,Lancaster County,31109,31.0,109.0,Nebraska,Lancaster County,149092,1368,NE
+31111,31,111,Nebraska,Lincoln County,31109,31.0,109.0,Nebraska,Lancaster County,23,19,NE
+31119,31,119,Nebraska,Madison County,31109,31.0,109.0,Nebraska,Lancaster County,5,7,NE
+31121,31,121,Nebraska,Merrick County,31109,31.0,109.0,Nebraska,Lancaster County,7,9,NE
+31127,31,127,Nebraska,Nemaha County,31109,31.0,109.0,Nebraska,Lancaster County,28,20,NE
+31129,31,129,Nebraska,Nuckolls County,31109,31.0,109.0,Nebraska,Lancaster County,19,12,NE
+31131,31,131,Nebraska,Otoe County,31109,31.0,109.0,Nebraska,Lancaster County,1582,140,NE
+31133,31,133,Nebraska,Pawnee County,31109,31.0,109.0,Nebraska,Lancaster County,29,15,NE
+31137,31,137,Nebraska,Phelps County,31109,31.0,109.0,Nebraska,Lancaster County,12,17,NE
+31141,31,141,Nebraska,Platte County,31109,31.0,109.0,Nebraska,Lancaster County,70,51,NE
+31143,31,143,Nebraska,Polk County,31109,31.0,109.0,Nebraska,Lancaster County,19,13,NE
+31145,31,145,Nebraska,Red Willow County,31109,31.0,109.0,Nebraska,Lancaster County,2,3,NE
+31147,31,147,Nebraska,Richardson County,31109,31.0,109.0,Nebraska,Lancaster County,7,6,NE
+31151,31,151,Nebraska,Saline County,31109,31.0,109.0,Nebraska,Lancaster County,1042,198,NE
+31153,31,153,Nebraska,Sarpy County,31109,31.0,109.0,Nebraska,Lancaster County,1438,218,NE
+31155,31,155,Nebraska,Saunders County,31109,31.0,109.0,Nebraska,Lancaster County,1917,186,NE
+31157,31,157,Nebraska,Scotts Bluff County,31109,31.0,109.0,Nebraska,Lancaster County,7,10,NE
+31159,31,159,Nebraska,Seward County,31109,31.0,109.0,Nebraska,Lancaster County,2389,200,NE
+31169,31,169,Nebraska,Thayer County,31109,31.0,109.0,Nebraska,Lancaster County,3,5,NE
+31177,31,177,Nebraska,Washington County,31109,31.0,109.0,Nebraska,Lancaster County,45,39,NE
+31185,31,185,Nebraska,York County,31109,31.0,109.0,Nebraska,Lancaster County,155,61,NE
+31001,31,1,Nebraska,Adams County,31111,31.0,111.0,Nebraska,Lincoln County,15,21,NE
+31005,31,5,Nebraska,Arthur County,31111,31.0,111.0,Nebraska,Lincoln County,3,3,NE
+31009,31,9,Nebraska,Blaine County,31111,31.0,111.0,Nebraska,Lincoln County,4,4,NE
+31011,31,11,Nebraska,Boone County,31111,31.0,111.0,Nebraska,Lincoln County,3,4,NE
+31019,31,19,Nebraska,Buffalo County,31111,31.0,111.0,Nebraska,Lincoln County,28,26,NE
+31029,31,29,Nebraska,Chase County,31111,31.0,111.0,Nebraska,Lincoln County,3,5,NE
+31031,31,31,Nebraska,Cherry County,31111,31.0,111.0,Nebraska,Lincoln County,4,8,NE
+31041,31,41,Nebraska,Custer County,31111,31.0,111.0,Nebraska,Lincoln County,69,26,NE
+31047,31,47,Nebraska,Dawson County,31111,31.0,111.0,Nebraska,Lincoln County,317,90,NE
+31049,31,49,Nebraska,Deuel County,31111,31.0,111.0,Nebraska,Lincoln County,2,2,NE
+31055,31,55,Nebraska,Douglas County,31111,31.0,111.0,Nebraska,Lincoln County,45,43,NE
+31059,31,59,Nebraska,Fillmore County,31111,31.0,111.0,Nebraska,Lincoln County,4,5,NE
+31063,31,63,Nebraska,Frontier County,31111,31.0,111.0,Nebraska,Lincoln County,117,39,NE
+31067,31,67,Nebraska,Gage County,31111,31.0,111.0,Nebraska,Lincoln County,13,16,NE
+31069,31,69,Nebraska,Garden County,31111,31.0,111.0,Nebraska,Lincoln County,16,20,NE
+31073,31,73,Nebraska,Gosper County,31111,31.0,111.0,Nebraska,Lincoln County,10,11,NE
+31079,31,79,Nebraska,Hall County,31111,31.0,111.0,Nebraska,Lincoln County,6,10,NE
+31081,31,81,Nebraska,Hamilton County,31111,31.0,111.0,Nebraska,Lincoln County,17,15,NE
+31083,31,83,Nebraska,Harlan County,31111,31.0,111.0,Nebraska,Lincoln County,4,6,NE
+31085,31,85,Nebraska,Hayes County,31111,31.0,111.0,Nebraska,Lincoln County,19,11,NE
+31087,31,87,Nebraska,Hitchcock County,31111,31.0,111.0,Nebraska,Lincoln County,2,2,NE
+31089,31,89,Nebraska,Holt County,31111,31.0,111.0,Nebraska,Lincoln County,11,36,NE
+31091,31,91,Nebraska,Hooker County,31111,31.0,111.0,Nebraska,Lincoln County,3,4,NE
+31099,31,99,Nebraska,Kearney County,31111,31.0,111.0,Nebraska,Lincoln County,4,5,NE
+31101,31,101,Nebraska,Keith County,31111,31.0,111.0,Nebraska,Lincoln County,197,59,NE
+31107,31,107,Nebraska,Knox County,31111,31.0,111.0,Nebraska,Lincoln County,1,2,NE
+31109,31,109,Nebraska,Lancaster County,31111,31.0,111.0,Nebraska,Lincoln County,86,90,NE
+31111,31,111,Nebraska,Lincoln County,31111,31.0,111.0,Nebraska,Lincoln County,16336,518,NE
+31113,31,113,Nebraska,Logan County,31111,31.0,111.0,Nebraska,Lincoln County,126,28,NE
+31117,31,117,Nebraska,McPherson County,31111,31.0,111.0,Nebraska,Lincoln County,64,25,NE
+31119,31,119,Nebraska,Madison County,31111,31.0,111.0,Nebraska,Lincoln County,21,23,NE
+31121,31,121,Nebraska,Merrick County,31111,31.0,111.0,Nebraska,Lincoln County,14,29,NE
+31129,31,129,Nebraska,Nuckolls County,31111,31.0,111.0,Nebraska,Lincoln County,2,5,NE
+31131,31,131,Nebraska,Otoe County,31111,31.0,111.0,Nebraska,Lincoln County,10,16,NE
+31135,31,135,Nebraska,Perkins County,31111,31.0,111.0,Nebraska,Lincoln County,55,28,NE
+31145,31,145,Nebraska,Red Willow County,31111,31.0,111.0,Nebraska,Lincoln County,7,8,NE
+31157,31,157,Nebraska,Scotts Bluff County,31111,31.0,111.0,Nebraska,Lincoln County,2,4,NE
+31163,31,163,Nebraska,Sherman County,31111,31.0,111.0,Nebraska,Lincoln County,3,4,NE
+31171,31,171,Nebraska,Thomas County,31111,31.0,111.0,Nebraska,Lincoln County,4,6,NE
+31175,31,175,Nebraska,Valley County,31111,31.0,111.0,Nebraska,Lincoln County,4,6,NE
+31181,31,181,Nebraska,Webster County,31111,31.0,111.0,Nebraska,Lincoln County,7,7,NE
+31041,31,41,Nebraska,Custer County,31113,31.0,113.0,Nebraska,Logan County,23,12,NE
+31111,31,111,Nebraska,Lincoln County,31113,31.0,113.0,Nebraska,Logan County,31,28,NE
+31113,31,113,Nebraska,Logan County,31113,31.0,113.0,Nebraska,Logan County,285,42,NE
+31041,31,41,Nebraska,Custer County,31115,31.0,115.0,Nebraska,Loup County,11,8,NE
+31071,31,71,Nebraska,Garfield County,31115,31.0,115.0,Nebraska,Loup County,22,20,NE
+31089,31,89,Nebraska,Holt County,31115,31.0,115.0,Nebraska,Loup County,10,14,NE
+31115,31,115,Nebraska,Loup County,31115,31.0,115.0,Nebraska,Loup County,170,29,NE
+31175,31,175,Nebraska,Valley County,31115,31.0,115.0,Nebraska,Loup County,5,7,NE
+31091,31,91,Nebraska,Hooker County,31117,31.0,117.0,Nebraska,McPherson County,6,9,NE
+31117,31,117,Nebraska,McPherson County,31117,31.0,117.0,Nebraska,McPherson County,124,35,NE
+31001,31,1,Nebraska,Adams County,31119,31.0,119.0,Nebraska,Madison County,3,8,NE
+31003,31,3,Nebraska,Antelope County,31119,31.0,119.0,Nebraska,Madison County,441,61,NE
+31011,31,11,Nebraska,Boone County,31119,31.0,119.0,Nebraska,Madison County,94,36,NE
+31021,31,21,Nebraska,Burt County,31119,31.0,119.0,Nebraska,Madison County,4,4,NE
+31023,31,23,Nebraska,Butler County,31119,31.0,119.0,Nebraska,Madison County,19,20,NE
+31027,31,27,Nebraska,Cedar County,31119,31.0,119.0,Nebraska,Madison County,148,43,NE
+31035,31,35,Nebraska,Clay County,31119,31.0,119.0,Nebraska,Madison County,4,6,NE
+31037,31,37,Nebraska,Colfax County,31119,31.0,119.0,Nebraska,Madison County,85,36,NE
+31039,31,39,Nebraska,Cuming County,31119,31.0,119.0,Nebraska,Madison County,100,32,NE
+31051,31,51,Nebraska,Dixon County,31119,31.0,119.0,Nebraska,Madison County,13,10,NE
+31053,31,53,Nebraska,Dodge County,31119,31.0,119.0,Nebraska,Madison County,43,50,NE
+31055,31,55,Nebraska,Douglas County,31119,31.0,119.0,Nebraska,Madison County,275,194,NE
+31077,31,77,Nebraska,Greeley County,31119,31.0,119.0,Nebraska,Madison County,10,13,NE
+31089,31,89,Nebraska,Holt County,31119,31.0,119.0,Nebraska,Madison County,18,13,NE
+31095,31,95,Nebraska,Jefferson County,31119,31.0,119.0,Nebraska,Madison County,24,23,NE
+31107,31,107,Nebraska,Knox County,31119,31.0,119.0,Nebraska,Madison County,114,40,NE
+31109,31,109,Nebraska,Lancaster County,31119,31.0,119.0,Nebraska,Madison County,50,46,NE
+31119,31,119,Nebraska,Madison County,31119,31.0,119.0,Nebraska,Madison County,15825,386,NE
+31125,31,125,Nebraska,Nance County,31119,31.0,119.0,Nebraska,Madison County,8,8,NE
+31127,31,127,Nebraska,Nemaha County,31119,31.0,119.0,Nebraska,Madison County,26,21,NE
+31129,31,129,Nebraska,Nuckolls County,31119,31.0,119.0,Nebraska,Madison County,2,3,NE
+31139,31,139,Nebraska,Pierce County,31119,31.0,119.0,Nebraska,Madison County,1350,118,NE
+31141,31,141,Nebraska,Platte County,31119,31.0,119.0,Nebraska,Madison County,349,88,NE
+31153,31,153,Nebraska,Sarpy County,31119,31.0,119.0,Nebraska,Madison County,8,13,NE
+31159,31,159,Nebraska,Seward County,31119,31.0,119.0,Nebraska,Madison County,19,27,NE
+31167,31,167,Nebraska,Stanton County,31119,31.0,119.0,Nebraska,Madison County,1769,143,NE
+31173,31,173,Nebraska,Thurston County,31119,31.0,119.0,Nebraska,Madison County,8,6,NE
+31177,31,177,Nebraska,Washington County,31119,31.0,119.0,Nebraska,Madison County,19,23,NE
+31179,31,179,Nebraska,Wayne County,31119,31.0,119.0,Nebraska,Madison County,504,115,NE
+31001,31,1,Nebraska,Adams County,31121,31.0,121.0,Nebraska,Merrick County,7,12,NE
+31023,31,23,Nebraska,Butler County,31121,31.0,121.0,Nebraska,Merrick County,1,2,NE
+31037,31,37,Nebraska,Colfax County,31121,31.0,121.0,Nebraska,Merrick County,20,20,NE
+31041,31,41,Nebraska,Custer County,31121,31.0,121.0,Nebraska,Merrick County,11,13,NE
+31055,31,55,Nebraska,Douglas County,31121,31.0,121.0,Nebraska,Merrick County,17,26,NE
+31071,31,71,Nebraska,Garfield County,31121,31.0,121.0,Nebraska,Merrick County,5,9,NE
+31077,31,77,Nebraska,Greeley County,31121,31.0,121.0,Nebraska,Merrick County,4,7,NE
+31079,31,79,Nebraska,Hall County,31121,31.0,121.0,Nebraska,Merrick County,138,67,NE
+31081,31,81,Nebraska,Hamilton County,31121,31.0,121.0,Nebraska,Merrick County,219,75,NE
+31093,31,93,Nebraska,Howard County,31121,31.0,121.0,Nebraska,Merrick County,25,17,NE
+31109,31,109,Nebraska,Lancaster County,31121,31.0,121.0,Nebraska,Merrick County,63,78,NE
+31119,31,119,Nebraska,Madison County,31121,31.0,121.0,Nebraska,Merrick County,3,4,NE
+31121,31,121,Nebraska,Merrick County,31121,31.0,121.0,Nebraska,Merrick County,2346,193,NE
+31125,31,125,Nebraska,Nance County,31121,31.0,121.0,Nebraska,Merrick County,57,25,NE
+31137,31,137,Nebraska,Phelps County,31121,31.0,121.0,Nebraska,Merrick County,2,3,NE
+31141,31,141,Nebraska,Platte County,31121,31.0,121.0,Nebraska,Merrick County,57,71,NE
+31143,31,143,Nebraska,Polk County,31121,31.0,121.0,Nebraska,Merrick County,104,39,NE
+31159,31,159,Nebraska,Seward County,31121,31.0,121.0,Nebraska,Merrick County,13,18,NE
+31185,31,185,Nebraska,York County,31121,31.0,121.0,Nebraska,Merrick County,3,5,NE
+31007,31,7,Nebraska,Banner County,31123,31.0,123.0,Nebraska,Morrill County,14,11,NE
+31013,31,13,Nebraska,Box Butte County,31123,31.0,123.0,Nebraska,Morrill County,30,32,NE
+31033,31,33,Nebraska,Cheyenne County,31123,31.0,123.0,Nebraska,Morrill County,22,20,NE
+31069,31,69,Nebraska,Garden County,31123,31.0,123.0,Nebraska,Morrill County,19,12,NE
+31079,31,79,Nebraska,Hall County,31123,31.0,123.0,Nebraska,Morrill County,59,77,NE
+31101,31,101,Nebraska,Keith County,31123,31.0,123.0,Nebraska,Morrill County,6,11,NE
+31105,31,105,Nebraska,Kimball County,31123,31.0,123.0,Nebraska,Morrill County,13,12,NE
+31123,31,123,Nebraska,Morrill County,31123,31.0,123.0,Nebraska,Morrill County,1811,139,NE
+31157,31,157,Nebraska,Scotts Bluff County,31123,31.0,123.0,Nebraska,Morrill County,137,55,NE
+31011,31,11,Nebraska,Boone County,31125,31.0,125.0,Nebraska,Nance County,80,36,NE
+31023,31,23,Nebraska,Butler County,31125,31.0,125.0,Nebraska,Nance County,3,4,NE
+31035,31,35,Nebraska,Clay County,31125,31.0,125.0,Nebraska,Nance County,1,2,NE
+31037,31,37,Nebraska,Colfax County,31125,31.0,125.0,Nebraska,Nance County,9,15,NE
+31041,31,41,Nebraska,Custer County,31125,31.0,125.0,Nebraska,Nance County,2,4,NE
+31077,31,77,Nebraska,Greeley County,31125,31.0,125.0,Nebraska,Nance County,3,4,NE
+31093,31,93,Nebraska,Howard County,31125,31.0,125.0,Nebraska,Nance County,2,3,NE
+31121,31,121,Nebraska,Merrick County,31125,31.0,125.0,Nebraska,Nance County,85,35,NE
+31125,31,125,Nebraska,Nance County,31125,31.0,125.0,Nebraska,Nance County,1072,105,NE
+31141,31,141,Nebraska,Platte County,31125,31.0,125.0,Nebraska,Nance County,65,29,NE
+31143,31,143,Nebraska,Polk County,31125,31.0,125.0,Nebraska,Nance County,10,9,NE
+31159,31,159,Nebraska,Seward County,31125,31.0,125.0,Nebraska,Nance County,2,3,NE
+31025,31,25,Nebraska,Cass County,31127,31.0,127.0,Nebraska,Nemaha County,6,9,NE
+31055,31,55,Nebraska,Douglas County,31127,31.0,127.0,Nebraska,Nemaha County,17,19,NE
+31067,31,67,Nebraska,Gage County,31127,31.0,127.0,Nebraska,Nemaha County,3,5,NE
+31097,31,97,Nebraska,Johnson County,31127,31.0,127.0,Nebraska,Nemaha County,103,36,NE
+31109,31,109,Nebraska,Lancaster County,31127,31.0,127.0,Nebraska,Nemaha County,79,59,NE
+31119,31,119,Nebraska,Madison County,31127,31.0,127.0,Nebraska,Nemaha County,4,7,NE
+31127,31,127,Nebraska,Nemaha County,31127,31.0,127.0,Nebraska,Nemaha County,2603,185,NE
+31131,31,131,Nebraska,Otoe County,31127,31.0,127.0,Nebraska,Nemaha County,249,76,NE
+31133,31,133,Nebraska,Pawnee County,31127,31.0,127.0,Nebraska,Nemaha County,20,13,NE
+31147,31,147,Nebraska,Richardson County,31127,31.0,127.0,Nebraska,Nemaha County,338,97,NE
+31153,31,153,Nebraska,Sarpy County,31127,31.0,127.0,Nebraska,Nemaha County,13,20,NE
+31155,31,155,Nebraska,Saunders County,31127,31.0,127.0,Nebraska,Nemaha County,2,4,NE
+31169,31,169,Nebraska,Thayer County,31127,31.0,127.0,Nebraska,Nemaha County,1,3,NE
+31001,31,1,Nebraska,Adams County,31129,31.0,129.0,Nebraska,Nuckolls County,34,28,NE
+31019,31,19,Nebraska,Buffalo County,31129,31.0,129.0,Nebraska,Nuckolls County,21,31,NE
+31035,31,35,Nebraska,Clay County,31129,31.0,129.0,Nebraska,Nuckolls County,38,22,NE
+31051,31,51,Nebraska,Dixon County,31129,31.0,129.0,Nebraska,Nuckolls County,2,3,NE
+31055,31,55,Nebraska,Douglas County,31129,31.0,129.0,Nebraska,Nuckolls County,7,12,NE
+31061,31,61,Nebraska,Franklin County,31129,31.0,129.0,Nebraska,Nuckolls County,8,11,NE
+31129,31,129,Nebraska,Nuckolls County,31129,31.0,129.0,Nebraska,Nuckolls County,1538,100,NE
+31169,31,169,Nebraska,Thayer County,31129,31.0,129.0,Nebraska,Nuckolls County,49,21,NE
+31181,31,181,Nebraska,Webster County,31129,31.0,129.0,Nebraska,Nuckolls County,45,23,NE
+31025,31,25,Nebraska,Cass County,31131,31.0,131.0,Nebraska,Otoe County,263,71,NE
+31053,31,53,Nebraska,Dodge County,31131,31.0,131.0,Nebraska,Otoe County,2,5,NE
+31055,31,55,Nebraska,Douglas County,31131,31.0,131.0,Nebraska,Otoe County,90,65,NE
+31067,31,67,Nebraska,Gage County,31131,31.0,131.0,Nebraska,Otoe County,65,49,NE
+31089,31,89,Nebraska,Holt County,31131,31.0,131.0,Nebraska,Otoe County,2,4,NE
+31097,31,97,Nebraska,Johnson County,31131,31.0,131.0,Nebraska,Otoe County,135,44,NE
+31109,31,109,Nebraska,Lancaster County,31131,31.0,131.0,Nebraska,Otoe County,272,110,NE
+31127,31,127,Nebraska,Nemaha County,31131,31.0,131.0,Nebraska,Otoe County,397,95,NE
+31131,31,131,Nebraska,Otoe County,31131,31.0,131.0,Nebraska,Otoe County,5045,294,NE
+31133,31,133,Nebraska,Pawnee County,31131,31.0,131.0,Nebraska,Otoe County,5,5,NE
+31147,31,147,Nebraska,Richardson County,31131,31.0,131.0,Nebraska,Otoe County,38,28,NE
+31153,31,153,Nebraska,Sarpy County,31131,31.0,131.0,Nebraska,Otoe County,109,80,NE
+31159,31,159,Nebraska,Seward County,31131,31.0,131.0,Nebraska,Otoe County,18,26,NE
+31169,31,169,Nebraska,Thayer County,31131,31.0,131.0,Nebraska,Otoe County,2,3,NE
+31025,31,25,Nebraska,Cass County,31133,31.0,133.0,Nebraska,Pawnee County,2,4,NE
+31067,31,67,Nebraska,Gage County,31133,31.0,133.0,Nebraska,Pawnee County,54,35,NE
+31097,31,97,Nebraska,Johnson County,31133,31.0,133.0,Nebraska,Pawnee County,47,23,NE
+31127,31,127,Nebraska,Nemaha County,31133,31.0,133.0,Nebraska,Pawnee County,4,6,NE
+31133,31,133,Nebraska,Pawnee County,31133,31.0,133.0,Nebraska,Pawnee County,879,84,NE
+31147,31,147,Nebraska,Richardson County,31133,31.0,133.0,Nebraska,Pawnee County,74,33,NE
+31179,31,179,Nebraska,Wayne County,31133,31.0,133.0,Nebraska,Pawnee County,12,19,NE
+31005,31,5,Nebraska,Arthur County,31135,31.0,135.0,Nebraska,Perkins County,1,2,NE
+31029,31,29,Nebraska,Chase County,31135,31.0,135.0,Nebraska,Perkins County,52,35,NE
+31049,31,49,Nebraska,Deuel County,31135,31.0,135.0,Nebraska,Perkins County,8,8,NE
+31085,31,85,Nebraska,Hayes County,31135,31.0,135.0,Nebraska,Perkins County,8,11,NE
+31093,31,93,Nebraska,Howard County,31135,31.0,135.0,Nebraska,Perkins County,2,4,NE
+31101,31,101,Nebraska,Keith County,31135,31.0,135.0,Nebraska,Perkins County,91,43,NE
+31111,31,111,Nebraska,Lincoln County,31135,31.0,135.0,Nebraska,Perkins County,97,50,NE
+31135,31,135,Nebraska,Perkins County,31135,31.0,135.0,Nebraska,Perkins County,1261,90,NE
+31145,31,145,Nebraska,Red Willow County,31135,31.0,135.0,Nebraska,Perkins County,4,7,NE
+31153,31,153,Nebraska,Sarpy County,31135,31.0,135.0,Nebraska,Perkins County,82,114,NE
+31001,31,1,Nebraska,Adams County,31137,31.0,137.0,Nebraska,Phelps County,13,14,NE
+31019,31,19,Nebraska,Buffalo County,31137,31.0,137.0,Nebraska,Phelps County,217,67,NE
+31041,31,41,Nebraska,Custer County,31137,31.0,137.0,Nebraska,Phelps County,2,3,NE
+31047,31,47,Nebraska,Dawson County,31137,31.0,137.0,Nebraska,Phelps County,92,46,NE
+31061,31,61,Nebraska,Franklin County,31137,31.0,137.0,Nebraska,Phelps County,65,20,NE
+31063,31,63,Nebraska,Frontier County,31137,31.0,137.0,Nebraska,Phelps County,5,4,NE
+31065,31,65,Nebraska,Furnas County,31137,31.0,137.0,Nebraska,Phelps County,154,41,NE
+31073,31,73,Nebraska,Gosper County,31137,31.0,137.0,Nebraska,Phelps County,90,31,NE
+31083,31,83,Nebraska,Harlan County,31137,31.0,137.0,Nebraska,Phelps County,334,76,NE
+31097,31,97,Nebraska,Johnson County,31137,31.0,137.0,Nebraska,Phelps County,5,9,NE
+31099,31,99,Nebraska,Kearney County,31137,31.0,137.0,Nebraska,Phelps County,307,82,NE
+31109,31,109,Nebraska,Lancaster County,31137,31.0,137.0,Nebraska,Phelps County,6,9,NE
+31111,31,111,Nebraska,Lincoln County,31137,31.0,137.0,Nebraska,Phelps County,2,3,NE
+31121,31,121,Nebraska,Merrick County,31137,31.0,137.0,Nebraska,Phelps County,1,3,NE
+31137,31,137,Nebraska,Phelps County,31137,31.0,137.0,Nebraska,Phelps County,3636,186,NE
+31161,31,161,Nebraska,Sheridan County,31137,31.0,137.0,Nebraska,Phelps County,8,12,NE
+31181,31,181,Nebraska,Webster County,31137,31.0,137.0,Nebraska,Phelps County,4,5,NE
+31003,31,3,Nebraska,Antelope County,31139,31.0,139.0,Nebraska,Pierce County,108,35,NE
+31011,31,11,Nebraska,Boone County,31139,31.0,139.0,Nebraska,Pierce County,4,5,NE
+31027,31,27,Nebraska,Cedar County,31139,31.0,139.0,Nebraska,Pierce County,87,28,NE
+31039,31,39,Nebraska,Cuming County,31139,31.0,139.0,Nebraska,Pierce County,3,4,NE
+31043,31,43,Nebraska,Dakota County,31139,31.0,139.0,Nebraska,Pierce County,2,3,NE
+31107,31,107,Nebraska,Knox County,31139,31.0,139.0,Nebraska,Pierce County,104,37,NE
+31119,31,119,Nebraska,Madison County,31139,31.0,139.0,Nebraska,Pierce County,174,83,NE
+31139,31,139,Nebraska,Pierce County,31139,31.0,139.0,Nebraska,Pierce County,1820,139,NE
+31167,31,167,Nebraska,Stanton County,31139,31.0,139.0,Nebraska,Pierce County,21,17,NE
+31179,31,179,Nebraska,Wayne County,31139,31.0,139.0,Nebraska,Pierce County,22,19,NE
+31003,31,3,Nebraska,Antelope County,31141,31.0,141.0,Nebraska,Platte County,18,11,NE
+31009,31,9,Nebraska,Blaine County,31141,31.0,141.0,Nebraska,Platte County,2,3,NE
+31011,31,11,Nebraska,Boone County,31141,31.0,141.0,Nebraska,Platte County,199,54,NE
+31015,31,15,Nebraska,Boyd County,31141,31.0,141.0,Nebraska,Platte County,2,3,NE
+31021,31,21,Nebraska,Burt County,31141,31.0,141.0,Nebraska,Platte County,2,3,NE
+31023,31,23,Nebraska,Butler County,31141,31.0,141.0,Nebraska,Platte County,846,111,NE
+31025,31,25,Nebraska,Cass County,31141,31.0,141.0,Nebraska,Platte County,2,3,NE
+31037,31,37,Nebraska,Colfax County,31141,31.0,141.0,Nebraska,Platte County,970,145,NE
+31039,31,39,Nebraska,Cuming County,31141,31.0,141.0,Nebraska,Platte County,5,8,NE
+31041,31,41,Nebraska,Custer County,31141,31.0,141.0,Nebraska,Platte County,5,8,NE
+31051,31,51,Nebraska,Dixon County,31141,31.0,141.0,Nebraska,Platte County,3,4,NE
+31053,31,53,Nebraska,Dodge County,31141,31.0,141.0,Nebraska,Platte County,232,128,NE
+31055,31,55,Nebraska,Douglas County,31141,31.0,141.0,Nebraska,Platte County,15,17,NE
+31061,31,61,Nebraska,Franklin County,31141,31.0,141.0,Nebraska,Platte County,3,4,NE
+31063,31,63,Nebraska,Frontier County,31141,31.0,141.0,Nebraska,Platte County,3,4,NE
+31067,31,67,Nebraska,Gage County,31141,31.0,141.0,Nebraska,Platte County,13,13,NE
+31077,31,77,Nebraska,Greeley County,31141,31.0,141.0,Nebraska,Platte County,9,7,NE
+31079,31,79,Nebraska,Hall County,31141,31.0,141.0,Nebraska,Platte County,43,33,NE
+31081,31,81,Nebraska,Hamilton County,31141,31.0,141.0,Nebraska,Platte County,8,8,NE
+31089,31,89,Nebraska,Holt County,31141,31.0,141.0,Nebraska,Platte County,1,4,NE
+31101,31,101,Nebraska,Keith County,31141,31.0,141.0,Nebraska,Platte County,3,4,NE
+31107,31,107,Nebraska,Knox County,31141,31.0,141.0,Nebraska,Platte County,5,8,NE
+31109,31,109,Nebraska,Lancaster County,31141,31.0,141.0,Nebraska,Platte County,72,44,NE
+31111,31,111,Nebraska,Lincoln County,31141,31.0,141.0,Nebraska,Platte County,8,12,NE
+31113,31,113,Nebraska,Logan County,31141,31.0,141.0,Nebraska,Platte County,1,2,NE
+31119,31,119,Nebraska,Madison County,31141,31.0,141.0,Nebraska,Platte County,557,150,NE
+31121,31,121,Nebraska,Merrick County,31141,31.0,141.0,Nebraska,Platte County,163,49,NE
+31125,31,125,Nebraska,Nance County,31141,31.0,141.0,Nebraska,Platte County,323,61,NE
+31131,31,131,Nebraska,Otoe County,31141,31.0,141.0,Nebraska,Platte County,13,14,NE
+31139,31,139,Nebraska,Pierce County,31141,31.0,141.0,Nebraska,Platte County,38,34,NE
+31141,31,141,Nebraska,Platte County,31141,31.0,141.0,Nebraska,Platte County,14919,471,NE
+31143,31,143,Nebraska,Polk County,31141,31.0,141.0,Nebraska,Platte County,494,83,NE
+31151,31,151,Nebraska,Saline County,31141,31.0,141.0,Nebraska,Platte County,5,6,NE
+31153,31,153,Nebraska,Sarpy County,31141,31.0,141.0,Nebraska,Platte County,11,18,NE
+31155,31,155,Nebraska,Saunders County,31141,31.0,141.0,Nebraska,Platte County,22,13,NE
+31159,31,159,Nebraska,Seward County,31141,31.0,141.0,Nebraska,Platte County,53,30,NE
+31167,31,167,Nebraska,Stanton County,31141,31.0,141.0,Nebraska,Platte County,79,35,NE
+31177,31,177,Nebraska,Washington County,31141,31.0,141.0,Nebraska,Platte County,10,15,NE
+31179,31,179,Nebraska,Wayne County,31141,31.0,141.0,Nebraska,Platte County,12,10,NE
+31185,31,185,Nebraska,York County,31141,31.0,141.0,Nebraska,Platte County,7,8,NE
+31023,31,23,Nebraska,Butler County,31143,31.0,143.0,Nebraska,Polk County,81,42,NE
+31037,31,37,Nebraska,Colfax County,31143,31.0,143.0,Nebraska,Polk County,35,52,NE
+31081,31,81,Nebraska,Hamilton County,31143,31.0,143.0,Nebraska,Polk County,1,3,NE
+31121,31,121,Nebraska,Merrick County,31143,31.0,143.0,Nebraska,Polk County,51,26,NE
+31125,31,125,Nebraska,Nance County,31143,31.0,143.0,Nebraska,Polk County,14,15,NE
+31141,31,141,Nebraska,Platte County,31143,31.0,143.0,Nebraska,Polk County,93,80,NE
+31143,31,143,Nebraska,Polk County,31143,31.0,143.0,Nebraska,Polk County,1548,105,NE
+31159,31,159,Nebraska,Seward County,31143,31.0,143.0,Nebraska,Polk County,28,29,NE
+31185,31,185,Nebraska,York County,31143,31.0,143.0,Nebraska,Polk County,46,19,NE
+31019,31,19,Nebraska,Buffalo County,31145,31.0,145.0,Nebraska,Red Willow County,5,10,NE
+31029,31,29,Nebraska,Chase County,31145,31.0,145.0,Nebraska,Red Willow County,7,8,NE
+31035,31,35,Nebraska,Clay County,31145,31.0,145.0,Nebraska,Red Willow County,4,6,NE
+31047,31,47,Nebraska,Dawson County,31145,31.0,145.0,Nebraska,Red Willow County,18,16,NE
+31057,31,57,Nebraska,Dundy County,31145,31.0,145.0,Nebraska,Red Willow County,8,7,NE
+31063,31,63,Nebraska,Frontier County,31145,31.0,145.0,Nebraska,Red Willow County,43,23,NE
+31065,31,65,Nebraska,Furnas County,31145,31.0,145.0,Nebraska,Red Willow County,128,31,NE
+31073,31,73,Nebraska,Gosper County,31145,31.0,145.0,Nebraska,Red Willow County,7,8,NE
+31083,31,83,Nebraska,Harlan County,31145,31.0,145.0,Nebraska,Red Willow County,9,11,NE
+31085,31,85,Nebraska,Hayes County,31145,31.0,145.0,Nebraska,Red Willow County,42,20,NE
+31087,31,87,Nebraska,Hitchcock County,31145,31.0,145.0,Nebraska,Red Willow County,358,59,NE
+31093,31,93,Nebraska,Howard County,31145,31.0,145.0,Nebraska,Red Willow County,6,7,NE
+31111,31,111,Nebraska,Lincoln County,31145,31.0,145.0,Nebraska,Red Willow County,16,20,NE
+31135,31,135,Nebraska,Perkins County,31145,31.0,145.0,Nebraska,Red Willow County,5,6,NE
+31145,31,145,Nebraska,Red Willow County,31145,31.0,145.0,Nebraska,Red Willow County,5296,223,NE
+31157,31,157,Nebraska,Scotts Bluff County,31145,31.0,145.0,Nebraska,Red Willow County,3,5,NE
+31021,31,21,Nebraska,Burt County,31147,31.0,147.0,Nebraska,Richardson County,3,4,NE
+31067,31,67,Nebraska,Gage County,31147,31.0,147.0,Nebraska,Richardson County,2,3,NE
+31097,31,97,Nebraska,Johnson County,31147,31.0,147.0,Nebraska,Richardson County,11,13,NE
+31127,31,127,Nebraska,Nemaha County,31147,31.0,147.0,Nebraska,Richardson County,59,31,NE
+31131,31,131,Nebraska,Otoe County,31147,31.0,147.0,Nebraska,Richardson County,1,3,NE
+31133,31,133,Nebraska,Pawnee County,31147,31.0,147.0,Nebraska,Richardson County,52,32,NE
+31147,31,147,Nebraska,Richardson County,31147,31.0,147.0,Nebraska,Richardson County,2690,204,NE
+31151,31,151,Nebraska,Saline County,31147,31.0,147.0,Nebraska,Richardson County,2,4,NE
+31155,31,155,Nebraska,Saunders County,31147,31.0,147.0,Nebraska,Richardson County,2,3,NE
+31177,31,177,Nebraska,Washington County,31147,31.0,147.0,Nebraska,Richardson County,3,6,NE
+31185,31,185,Nebraska,York County,31147,31.0,147.0,Nebraska,Richardson County,2,3,NE
+31003,31,3,Nebraska,Antelope County,31149,31.0,149.0,Nebraska,Rock County,1,3,NE
+31017,31,17,Nebraska,Brown County,31149,31.0,149.0,Nebraska,Rock County,79,48,NE
+31019,31,19,Nebraska,Buffalo County,31149,31.0,149.0,Nebraska,Rock County,1,9,NE
+31031,31,31,Nebraska,Cherry County,31149,31.0,149.0,Nebraska,Rock County,3,5,NE
+31089,31,89,Nebraska,Holt County,31149,31.0,149.0,Nebraska,Rock County,20,11,NE
+31103,31,103,Nebraska,Keya Paha County,31149,31.0,149.0,Nebraska,Rock County,16,16,NE
+31115,31,115,Nebraska,Loup County,31149,31.0,149.0,Nebraska,Rock County,4,4,NE
+31119,31,119,Nebraska,Madison County,31149,31.0,149.0,Nebraska,Rock County,7,12,NE
+31149,31,149,Nebraska,Rock County,31149,31.0,149.0,Nebraska,Rock County,577,62,NE
+31027,31,27,Nebraska,Cedar County,31151,31.0,151.0,Nebraska,Saline County,4,5,NE
+31055,31,55,Nebraska,Douglas County,31151,31.0,151.0,Nebraska,Saline County,20,27,NE
+31059,31,59,Nebraska,Fillmore County,31151,31.0,151.0,Nebraska,Saline County,70,25,NE
+31067,31,67,Nebraska,Gage County,31151,31.0,151.0,Nebraska,Saline County,204,83,NE
+31095,31,95,Nebraska,Jefferson County,31151,31.0,151.0,Nebraska,Saline County,75,36,NE
+31097,31,97,Nebraska,Johnson County,31151,31.0,151.0,Nebraska,Saline County,6,6,NE
+31109,31,109,Nebraska,Lancaster County,31151,31.0,151.0,Nebraska,Saline County,1447,261,NE
+31131,31,131,Nebraska,Otoe County,31151,31.0,151.0,Nebraska,Saline County,13,15,NE
+31133,31,133,Nebraska,Pawnee County,31151,31.0,151.0,Nebraska,Saline County,5,7,NE
+31151,31,151,Nebraska,Saline County,31151,31.0,151.0,Nebraska,Saline County,4862,371,NE
+31153,31,153,Nebraska,Sarpy County,31151,31.0,151.0,Nebraska,Saline County,7,11,NE
+31155,31,155,Nebraska,Saunders County,31151,31.0,151.0,Nebraska,Saline County,4,4,NE
+31159,31,159,Nebraska,Seward County,31151,31.0,151.0,Nebraska,Saline County,231,79,NE
+31169,31,169,Nebraska,Thayer County,31151,31.0,151.0,Nebraska,Saline County,5,5,NE
+31185,31,185,Nebraska,York County,31151,31.0,151.0,Nebraska,Saline County,4,5,NE
+31019,31,19,Nebraska,Buffalo County,31153,31.0,153.0,Nebraska,Sarpy County,13,21,NE
+31021,31,21,Nebraska,Burt County,31153,31.0,153.0,Nebraska,Sarpy County,31,17,NE
+31023,31,23,Nebraska,Butler County,31153,31.0,153.0,Nebraska,Sarpy County,55,35,NE
+31025,31,25,Nebraska,Cass County,31153,31.0,153.0,Nebraska,Sarpy County,2010,231,NE
+31037,31,37,Nebraska,Colfax County,31153,31.0,153.0,Nebraska,Sarpy County,3,5,NE
+31047,31,47,Nebraska,Dawson County,31153,31.0,153.0,Nebraska,Sarpy County,3,5,NE
+31053,31,53,Nebraska,Dodge County,31153,31.0,153.0,Nebraska,Sarpy County,250,102,NE
+31055,31,55,Nebraska,Douglas County,31153,31.0,153.0,Nebraska,Sarpy County,19574,916,NE
+31061,31,61,Nebraska,Franklin County,31153,31.0,153.0,Nebraska,Sarpy County,2,3,NE
+31067,31,67,Nebraska,Gage County,31153,31.0,153.0,Nebraska,Sarpy County,8,11,NE
+31079,31,79,Nebraska,Hall County,31153,31.0,153.0,Nebraska,Sarpy County,10,13,NE
+31095,31,95,Nebraska,Jefferson County,31153,31.0,153.0,Nebraska,Sarpy County,33,46,NE
+31097,31,97,Nebraska,Johnson County,31153,31.0,153.0,Nebraska,Sarpy County,2,3,NE
+31107,31,107,Nebraska,Knox County,31153,31.0,153.0,Nebraska,Sarpy County,4,6,NE
+31109,31,109,Nebraska,Lancaster County,31153,31.0,153.0,Nebraska,Sarpy County,644,143,NE
+31111,31,111,Nebraska,Lincoln County,31153,31.0,153.0,Nebraska,Sarpy County,7,14,NE
+31125,31,125,Nebraska,Nance County,31153,31.0,153.0,Nebraska,Sarpy County,3,6,NE
+31127,31,127,Nebraska,Nemaha County,31153,31.0,153.0,Nebraska,Sarpy County,34,25,NE
+31131,31,131,Nebraska,Otoe County,31153,31.0,153.0,Nebraska,Sarpy County,124,53,NE
+31133,31,133,Nebraska,Pawnee County,31153,31.0,153.0,Nebraska,Sarpy County,1,2,NE
+31143,31,143,Nebraska,Polk County,31153,31.0,153.0,Nebraska,Sarpy County,4,7,NE
+31151,31,151,Nebraska,Saline County,31153,31.0,153.0,Nebraska,Sarpy County,3,4,NE
+31153,31,153,Nebraska,Sarpy County,31153,31.0,153.0,Nebraska,Sarpy County,36291,1019,NE
+31155,31,155,Nebraska,Saunders County,31153,31.0,153.0,Nebraska,Sarpy County,475,101,NE
+31159,31,159,Nebraska,Seward County,31153,31.0,153.0,Nebraska,Sarpy County,26,17,NE
+31173,31,173,Nebraska,Thurston County,31153,31.0,153.0,Nebraska,Sarpy County,4,5,NE
+31177,31,177,Nebraska,Washington County,31153,31.0,153.0,Nebraska,Sarpy County,228,83,NE
+31013,31,13,Nebraska,Box Butte County,31155,31.0,155.0,Nebraska,Saunders County,3,8,NE
+31023,31,23,Nebraska,Butler County,31155,31.0,155.0,Nebraska,Saunders County,27,22,NE
+31025,31,25,Nebraska,Cass County,31155,31.0,155.0,Nebraska,Saunders County,250,94,NE
+31037,31,37,Nebraska,Colfax County,31155,31.0,155.0,Nebraska,Saunders County,4,7,NE
+31053,31,53,Nebraska,Dodge County,31155,31.0,155.0,Nebraska,Saunders County,197,88,NE
+31055,31,55,Nebraska,Douglas County,31155,31.0,155.0,Nebraska,Saunders County,423,113,NE
+31083,31,83,Nebraska,Harlan County,31155,31.0,155.0,Nebraska,Saunders County,1,3,NE
+31097,31,97,Nebraska,Johnson County,31155,31.0,155.0,Nebraska,Saunders County,4,5,NE
+31109,31,109,Nebraska,Lancaster County,31155,31.0,155.0,Nebraska,Saunders County,487,126,NE
+31111,31,111,Nebraska,Lincoln County,31155,31.0,155.0,Nebraska,Saunders County,1,2,NE
+31119,31,119,Nebraska,Madison County,31155,31.0,155.0,Nebraska,Saunders County,10,23,NE
+31131,31,131,Nebraska,Otoe County,31155,31.0,155.0,Nebraska,Saunders County,2,3,NE
+31139,31,139,Nebraska,Pierce County,31155,31.0,155.0,Nebraska,Saunders County,3,5,NE
+31151,31,151,Nebraska,Saline County,31155,31.0,155.0,Nebraska,Saunders County,26,35,NE
+31153,31,153,Nebraska,Sarpy County,31155,31.0,155.0,Nebraska,Saunders County,178,87,NE
+31155,31,155,Nebraska,Saunders County,31155,31.0,155.0,Nebraska,Saunders County,4298,236,NE
+31159,31,159,Nebraska,Seward County,31155,31.0,155.0,Nebraska,Saunders County,5,8,NE
+31177,31,177,Nebraska,Washington County,31155,31.0,155.0,Nebraska,Saunders County,30,25,NE
+31179,31,179,Nebraska,Wayne County,31155,31.0,155.0,Nebraska,Saunders County,12,18,NE
+31185,31,185,Nebraska,York County,31155,31.0,155.0,Nebraska,Saunders County,5,11,NE
+31007,31,7,Nebraska,Banner County,31157,31.0,157.0,Nebraska,Scotts Bluff County,152,33,NE
+31013,31,13,Nebraska,Box Butte County,31157,31.0,157.0,Nebraska,Scotts Bluff County,65,43,NE
+31033,31,33,Nebraska,Cheyenne County,31157,31.0,157.0,Nebraska,Scotts Bluff County,1,2,NE
+31045,31,45,Nebraska,Dawes County,31157,31.0,157.0,Nebraska,Scotts Bluff County,95,100,NE
+31047,31,47,Nebraska,Dawson County,31157,31.0,157.0,Nebraska,Scotts Bluff County,2,3,NE
+31055,31,55,Nebraska,Douglas County,31157,31.0,157.0,Nebraska,Scotts Bluff County,13,14,NE
+31063,31,63,Nebraska,Frontier County,31157,31.0,157.0,Nebraska,Scotts Bluff County,6,11,NE
+31065,31,65,Nebraska,Furnas County,31157,31.0,157.0,Nebraska,Scotts Bluff County,5,7,NE
+31069,31,69,Nebraska,Garden County,31157,31.0,157.0,Nebraska,Scotts Bluff County,4,6,NE
+31075,31,75,Nebraska,Grant County,31157,31.0,157.0,Nebraska,Scotts Bluff County,2,2,NE
+31093,31,93,Nebraska,Howard County,31157,31.0,157.0,Nebraska,Scotts Bluff County,4,6,NE
+31095,31,95,Nebraska,Jefferson County,31157,31.0,157.0,Nebraska,Scotts Bluff County,1,3,NE
+31105,31,105,Nebraska,Kimball County,31157,31.0,157.0,Nebraska,Scotts Bluff County,32,24,NE
+31111,31,111,Nebraska,Lincoln County,31157,31.0,157.0,Nebraska,Scotts Bluff County,11,12,NE
+31123,31,123,Nebraska,Morrill County,31157,31.0,157.0,Nebraska,Scotts Bluff County,422,95,NE
+31157,31,157,Nebraska,Scotts Bluff County,31157,31.0,157.0,Nebraska,Scotts Bluff County,16649,451,NE
+31165,31,165,Nebraska,Sioux County,31157,31.0,157.0,Nebraska,Scotts Bluff County,194,51,NE
+31001,31,1,Nebraska,Adams County,31159,31.0,159.0,Nebraska,Seward County,5,7,NE
+31019,31,19,Nebraska,Buffalo County,31159,31.0,159.0,Nebraska,Seward County,1,2,NE
+31023,31,23,Nebraska,Butler County,31159,31.0,159.0,Nebraska,Seward County,194,54,NE
+31025,31,25,Nebraska,Cass County,31159,31.0,159.0,Nebraska,Seward County,2,3,NE
+31037,31,37,Nebraska,Colfax County,31159,31.0,159.0,Nebraska,Seward County,8,14,NE
+31053,31,53,Nebraska,Dodge County,31159,31.0,159.0,Nebraska,Seward County,3,4,NE
+31055,31,55,Nebraska,Douglas County,31159,31.0,159.0,Nebraska,Seward County,33,31,NE
+31059,31,59,Nebraska,Fillmore County,31159,31.0,159.0,Nebraska,Seward County,37,21,NE
+31065,31,65,Nebraska,Furnas County,31159,31.0,159.0,Nebraska,Seward County,1,2,NE
+31067,31,67,Nebraska,Gage County,31159,31.0,159.0,Nebraska,Seward County,41,43,NE
+31075,31,75,Nebraska,Grant County,31159,31.0,159.0,Nebraska,Seward County,3,7,NE
+31079,31,79,Nebraska,Hall County,31159,31.0,159.0,Nebraska,Seward County,24,35,NE
+31081,31,81,Nebraska,Hamilton County,31159,31.0,159.0,Nebraska,Seward County,8,10,NE
+31089,31,89,Nebraska,Holt County,31159,31.0,159.0,Nebraska,Seward County,2,3,NE
+31095,31,95,Nebraska,Jefferson County,31159,31.0,159.0,Nebraska,Seward County,7,9,NE
+31097,31,97,Nebraska,Johnson County,31159,31.0,159.0,Nebraska,Seward County,5,8,NE
+31099,31,99,Nebraska,Kearney County,31159,31.0,159.0,Nebraska,Seward County,22,30,NE
+31109,31,109,Nebraska,Lancaster County,31159,31.0,159.0,Nebraska,Seward County,688,146,NE
+31111,31,111,Nebraska,Lincoln County,31159,31.0,159.0,Nebraska,Seward County,1,3,NE
+31119,31,119,Nebraska,Madison County,31159,31.0,159.0,Nebraska,Seward County,7,12,NE
+31131,31,131,Nebraska,Otoe County,31159,31.0,159.0,Nebraska,Seward County,5,7,NE
+31133,31,133,Nebraska,Pawnee County,31159,31.0,159.0,Nebraska,Seward County,4,6,NE
+31137,31,137,Nebraska,Phelps County,31159,31.0,159.0,Nebraska,Seward County,13,20,NE
+31141,31,141,Nebraska,Platte County,31159,31.0,159.0,Nebraska,Seward County,21,34,NE
+31143,31,143,Nebraska,Polk County,31159,31.0,159.0,Nebraska,Seward County,8,8,NE
+31151,31,151,Nebraska,Saline County,31159,31.0,159.0,Nebraska,Seward County,186,71,NE
+31155,31,155,Nebraska,Saunders County,31159,31.0,159.0,Nebraska,Seward County,7,6,NE
+31159,31,159,Nebraska,Seward County,31159,31.0,159.0,Nebraska,Seward County,4905,257,NE
+31185,31,185,Nebraska,York County,31159,31.0,159.0,Nebraska,Seward County,134,57,NE
+31031,31,31,Nebraska,Cherry County,31161,31.0,161.0,Nebraska,Sheridan County,1,2,NE
+31045,31,45,Nebraska,Dawes County,31161,31.0,161.0,Nebraska,Sheridan County,26,24,NE
+31075,31,75,Nebraska,Grant County,31161,31.0,161.0,Nebraska,Sheridan County,3,3,NE
+31091,31,91,Nebraska,Hooker County,31161,31.0,161.0,Nebraska,Sheridan County,4,5,NE
+31123,31,123,Nebraska,Morrill County,31161,31.0,161.0,Nebraska,Sheridan County,3,5,NE
+31155,31,155,Nebraska,Saunders County,31161,31.0,161.0,Nebraska,Sheridan County,1,3,NE
+31161,31,161,Nebraska,Sheridan County,31161,31.0,161.0,Nebraska,Sheridan County,1965,128,NE
+31019,31,19,Nebraska,Buffalo County,31163,31.0,163.0,Nebraska,Sherman County,49,39,NE
+31041,31,41,Nebraska,Custer County,31163,31.0,163.0,Nebraska,Sherman County,95,43,NE
+31077,31,77,Nebraska,Greeley County,31163,31.0,163.0,Nebraska,Sherman County,6,6,NE
+31079,31,79,Nebraska,Hall County,31163,31.0,163.0,Nebraska,Sherman County,4,5,NE
+31089,31,89,Nebraska,Holt County,31163,31.0,163.0,Nebraska,Sherman County,1,3,NE
+31093,31,93,Nebraska,Howard County,31163,31.0,163.0,Nebraska,Sherman County,19,17,NE
+31101,31,101,Nebraska,Keith County,31163,31.0,163.0,Nebraska,Sherman County,1,4,NE
+31109,31,109,Nebraska,Lancaster County,31163,31.0,163.0,Nebraska,Sherman County,15,20,NE
+31121,31,121,Nebraska,Merrick County,31163,31.0,163.0,Nebraska,Sherman County,2,3,NE
+31151,31,151,Nebraska,Saline County,31163,31.0,163.0,Nebraska,Sherman County,11,14,NE
+31163,31,163,Nebraska,Sherman County,31163,31.0,163.0,Nebraska,Sherman County,817,97,NE
+31175,31,175,Nebraska,Valley County,31163,31.0,163.0,Nebraska,Sherman County,58,26,NE
+31183,31,183,Nebraska,Wheeler County,31163,31.0,163.0,Nebraska,Sherman County,4,5,NE
+31007,31,7,Nebraska,Banner County,31165,31.0,165.0,Nebraska,Sioux County,5,7,NE
+31045,31,45,Nebraska,Dawes County,31165,31.0,165.0,Nebraska,Sioux County,3,5,NE
+31157,31,157,Nebraska,Scotts Bluff County,31165,31.0,165.0,Nebraska,Sioux County,20,21,NE
+31165,31,165,Nebraska,Sioux County,31165,31.0,165.0,Nebraska,Sioux County,368,62,NE
+31003,31,3,Nebraska,Antelope County,31167,31.0,167.0,Nebraska,Stanton County,2,5,NE
+31027,31,27,Nebraska,Cedar County,31167,31.0,167.0,Nebraska,Stanton County,5,6,NE
+31037,31,37,Nebraska,Colfax County,31167,31.0,167.0,Nebraska,Stanton County,24,13,NE
+31039,31,39,Nebraska,Cuming County,31167,31.0,167.0,Nebraska,Stanton County,23,14,NE
+31053,31,53,Nebraska,Dodge County,31167,31.0,167.0,Nebraska,Stanton County,2,3,NE
+31107,31,107,Nebraska,Knox County,31167,31.0,167.0,Nebraska,Stanton County,12,11,NE
+31119,31,119,Nebraska,Madison County,31167,31.0,167.0,Nebraska,Stanton County,736,247,NE
+31139,31,139,Nebraska,Pierce County,31167,31.0,167.0,Nebraska,Stanton County,79,32,NE
+31141,31,141,Nebraska,Platte County,31167,31.0,167.0,Nebraska,Stanton County,63,67,NE
+31167,31,167,Nebraska,Stanton County,31167,31.0,167.0,Nebraska,Stanton County,919,115,NE
+31179,31,179,Nebraska,Wayne County,31167,31.0,167.0,Nebraska,Stanton County,60,30,NE
+31001,31,1,Nebraska,Adams County,31169,31.0,169.0,Nebraska,Thayer County,4,8,NE
+31035,31,35,Nebraska,Clay County,31169,31.0,169.0,Nebraska,Thayer County,5,6,NE
+31045,31,45,Nebraska,Dawes County,31169,31.0,169.0,Nebraska,Thayer County,6,13,NE
+31059,31,59,Nebraska,Fillmore County,31169,31.0,169.0,Nebraska,Thayer County,111,35,NE
+31067,31,67,Nebraska,Gage County,31169,31.0,169.0,Nebraska,Thayer County,10,15,NE
+31095,31,95,Nebraska,Jefferson County,31169,31.0,169.0,Nebraska,Thayer County,97,40,NE
+31129,31,129,Nebraska,Nuckolls County,31169,31.0,169.0,Nebraska,Thayer County,171,42,NE
+31151,31,151,Nebraska,Saline County,31169,31.0,169.0,Nebraska,Thayer County,37,27,NE
+31159,31,159,Nebraska,Seward County,31169,31.0,169.0,Nebraska,Thayer County,12,13,NE
+31169,31,169,Nebraska,Thayer County,31169,31.0,169.0,Nebraska,Thayer County,2080,111,NE
+31181,31,181,Nebraska,Webster County,31169,31.0,169.0,Nebraska,Thayer County,1,2,NE
+31185,31,185,Nebraska,York County,31169,31.0,169.0,Nebraska,Thayer County,11,17,NE
+31009,31,9,Nebraska,Blaine County,31171,31.0,171.0,Nebraska,Thomas County,27,11,NE
+31041,31,41,Nebraska,Custer County,31171,31.0,171.0,Nebraska,Thomas County,3,4,NE
+31091,31,91,Nebraska,Hooker County,31171,31.0,171.0,Nebraska,Thomas County,8,6,NE
+31109,31,109,Nebraska,Lancaster County,31171,31.0,171.0,Nebraska,Thomas County,9,14,NE
+31113,31,113,Nebraska,Logan County,31171,31.0,171.0,Nebraska,Thomas County,2,2,NE
+31171,31,171,Nebraska,Thomas County,31171,31.0,171.0,Nebraska,Thomas County,320,39,NE
+31011,31,11,Nebraska,Boone County,31173,31.0,173.0,Nebraska,Thurston County,3,4,NE
+31021,31,21,Nebraska,Burt County,31173,31.0,173.0,Nebraska,Thurston County,64,20,NE
+31027,31,27,Nebraska,Cedar County,31173,31.0,173.0,Nebraska,Thurston County,24,24,NE
+31039,31,39,Nebraska,Cuming County,31173,31.0,173.0,Nebraska,Thurston County,256,58,NE
+31043,31,43,Nebraska,Dakota County,31173,31.0,173.0,Nebraska,Thurston County,234,112,NE
+31051,31,51,Nebraska,Dixon County,31173,31.0,173.0,Nebraska,Thurston County,117,35,NE
+31053,31,53,Nebraska,Dodge County,31173,31.0,173.0,Nebraska,Thurston County,15,20,NE
+31055,31,55,Nebraska,Douglas County,31173,31.0,173.0,Nebraska,Thurston County,22,18,NE
+31107,31,107,Nebraska,Knox County,31173,31.0,173.0,Nebraska,Thurston County,1,2,NE
+31137,31,137,Nebraska,Phelps County,31173,31.0,173.0,Nebraska,Thurston County,2,3,NE
+31153,31,153,Nebraska,Sarpy County,31173,31.0,173.0,Nebraska,Thurston County,36,54,NE
+31167,31,167,Nebraska,Stanton County,31173,31.0,173.0,Nebraska,Thurston County,1,2,NE
+31173,31,173,Nebraska,Thurston County,31173,31.0,173.0,Nebraska,Thurston County,1773,98,NE
+31177,31,177,Nebraska,Washington County,31173,31.0,173.0,Nebraska,Thurston County,1,2,NE
+31179,31,179,Nebraska,Wayne County,31173,31.0,173.0,Nebraska,Thurston County,138,87,NE
+31019,31,19,Nebraska,Buffalo County,31175,31.0,175.0,Nebraska,Valley County,29,22,NE
+31041,31,41,Nebraska,Custer County,31175,31.0,175.0,Nebraska,Valley County,119,36,NE
+31071,31,71,Nebraska,Garfield County,31175,31.0,175.0,Nebraska,Valley County,52,26,NE
+31077,31,77,Nebraska,Greeley County,31175,31.0,175.0,Nebraska,Valley County,114,32,NE
+31089,31,89,Nebraska,Holt County,31175,31.0,175.0,Nebraska,Valley County,6,5,NE
+31093,31,93,Nebraska,Howard County,31175,31.0,175.0,Nebraska,Valley County,11,8,NE
+31115,31,115,Nebraska,Loup County,31175,31.0,175.0,Nebraska,Valley County,7,6,NE
+31163,31,163,Nebraska,Sherman County,31175,31.0,175.0,Nebraska,Valley County,103,56,NE
+31175,31,175,Nebraska,Valley County,31175,31.0,175.0,Nebraska,Valley County,1856,118,NE
+31183,31,183,Nebraska,Wheeler County,31175,31.0,175.0,Nebraska,Valley County,29,14,NE
+31185,31,185,Nebraska,York County,31175,31.0,175.0,Nebraska,Valley County,3,4,NE
+31001,31,1,Nebraska,Adams County,31177,31.0,177.0,Nebraska,Washington County,70,87,NE
+31019,31,19,Nebraska,Buffalo County,31177,31.0,177.0,Nebraska,Washington County,4,9,NE
+31021,31,21,Nebraska,Burt County,31177,31.0,177.0,Nebraska,Washington County,306,71,NE
+31025,31,25,Nebraska,Cass County,31177,31.0,177.0,Nebraska,Washington County,19,24,NE
+31027,31,27,Nebraska,Cedar County,31177,31.0,177.0,Nebraska,Washington County,11,14,NE
+31033,31,33,Nebraska,Cheyenne County,31177,31.0,177.0,Nebraska,Washington County,2,4,NE
+31037,31,37,Nebraska,Colfax County,31177,31.0,177.0,Nebraska,Washington County,8,9,NE
+31039,31,39,Nebraska,Cuming County,31177,31.0,177.0,Nebraska,Washington County,24,25,NE
+31041,31,41,Nebraska,Custer County,31177,31.0,177.0,Nebraska,Washington County,9,14,NE
+31051,31,51,Nebraska,Dixon County,31177,31.0,177.0,Nebraska,Washington County,9,13,NE
+31053,31,53,Nebraska,Dodge County,31177,31.0,177.0,Nebraska,Washington County,391,119,NE
+31055,31,55,Nebraska,Douglas County,31177,31.0,177.0,Nebraska,Washington County,1842,276,NE
+31067,31,67,Nebraska,Gage County,31177,31.0,177.0,Nebraska,Washington County,9,12,NE
+31079,31,79,Nebraska,Hall County,31177,31.0,177.0,Nebraska,Washington County,2,4,NE
+31095,31,95,Nebraska,Jefferson County,31177,31.0,177.0,Nebraska,Washington County,1,2,NE
+31107,31,107,Nebraska,Knox County,31177,31.0,177.0,Nebraska,Washington County,3,4,NE
+31109,31,109,Nebraska,Lancaster County,31177,31.0,177.0,Nebraska,Washington County,97,121,NE
+31111,31,111,Nebraska,Lincoln County,31177,31.0,177.0,Nebraska,Washington County,8,18,NE
+31141,31,141,Nebraska,Platte County,31177,31.0,177.0,Nebraska,Washington County,12,19,NE
+31147,31,147,Nebraska,Richardson County,31177,31.0,177.0,Nebraska,Washington County,6,7,NE
+31153,31,153,Nebraska,Sarpy County,31177,31.0,177.0,Nebraska,Washington County,410,128,NE
+31155,31,155,Nebraska,Saunders County,31177,31.0,177.0,Nebraska,Washington County,6,5,NE
+31173,31,173,Nebraska,Thurston County,31177,31.0,177.0,Nebraska,Washington County,6,7,NE
+31177,31,177,Nebraska,Washington County,31177,31.0,177.0,Nebraska,Washington County,5182,395,NE
+31001,31,1,Nebraska,Adams County,31179,31.0,179.0,Nebraska,Wayne County,11,28,NE
+31003,31,3,Nebraska,Antelope County,31179,31.0,179.0,Nebraska,Wayne County,15,12,NE
+31019,31,19,Nebraska,Buffalo County,31179,31.0,179.0,Nebraska,Wayne County,10,12,NE
+31021,31,21,Nebraska,Burt County,31179,31.0,179.0,Nebraska,Wayne County,4,5,NE
+31027,31,27,Nebraska,Cedar County,31179,31.0,179.0,Nebraska,Wayne County,267,66,NE
+31037,31,37,Nebraska,Colfax County,31179,31.0,179.0,Nebraska,Wayne County,6,5,NE
+31039,31,39,Nebraska,Cuming County,31179,31.0,179.0,Nebraska,Wayne County,91,48,NE
+31043,31,43,Nebraska,Dakota County,31179,31.0,179.0,Nebraska,Wayne County,12,8,NE
+31051,31,51,Nebraska,Dixon County,31179,31.0,179.0,Nebraska,Wayne County,471,77,NE
+31053,31,53,Nebraska,Dodge County,31179,31.0,179.0,Nebraska,Wayne County,30,35,NE
+31055,31,55,Nebraska,Douglas County,31179,31.0,179.0,Nebraska,Wayne County,28,29,NE
+31081,31,81,Nebraska,Hamilton County,31179,31.0,179.0,Nebraska,Wayne County,1,2,NE
+31087,31,87,Nebraska,Hitchcock County,31179,31.0,179.0,Nebraska,Wayne County,4,5,NE
+31107,31,107,Nebraska,Knox County,31179,31.0,179.0,Nebraska,Wayne County,2,4,NE
+31109,31,109,Nebraska,Lancaster County,31179,31.0,179.0,Nebraska,Wayne County,1,2,NE
+31119,31,119,Nebraska,Madison County,31179,31.0,179.0,Nebraska,Wayne County,254,94,NE
+31139,31,139,Nebraska,Pierce County,31179,31.0,179.0,Nebraska,Wayne County,51,28,NE
+31143,31,143,Nebraska,Polk County,31179,31.0,179.0,Nebraska,Wayne County,4,7,NE
+31153,31,153,Nebraska,Sarpy County,31179,31.0,179.0,Nebraska,Wayne County,4,9,NE
+31157,31,157,Nebraska,Scotts Bluff County,31179,31.0,179.0,Nebraska,Wayne County,8,18,NE
+31159,31,159,Nebraska,Seward County,31179,31.0,179.0,Nebraska,Wayne County,3,6,NE
+31167,31,167,Nebraska,Stanton County,31179,31.0,179.0,Nebraska,Wayne County,109,33,NE
+31173,31,173,Nebraska,Thurston County,31179,31.0,179.0,Nebraska,Wayne County,84,21,NE
+31175,31,175,Nebraska,Valley County,31179,31.0,179.0,Nebraska,Wayne County,3,7,NE
+31179,31,179,Nebraska,Wayne County,31179,31.0,179.0,Nebraska,Wayne County,3553,252,NE
+31001,31,1,Nebraska,Adams County,31181,31.0,181.0,Nebraska,Webster County,111,37,NE
+31035,31,35,Nebraska,Clay County,31181,31.0,181.0,Nebraska,Webster County,49,32,NE
+31061,31,61,Nebraska,Franklin County,31181,31.0,181.0,Nebraska,Webster County,78,27,NE
+31129,31,129,Nebraska,Nuckolls County,31181,31.0,181.0,Nebraska,Webster County,59,28,NE
+31181,31,181,Nebraska,Webster County,31181,31.0,181.0,Nebraska,Webster County,1017,70,NE
+31003,31,3,Nebraska,Antelope County,31183,31.0,183.0,Nebraska,Wheeler County,12,10,NE
+31071,31,71,Nebraska,Garfield County,31183,31.0,183.0,Nebraska,Wheeler County,7,8,NE
+31077,31,77,Nebraska,Greeley County,31183,31.0,183.0,Nebraska,Wheeler County,48,20,NE
+31089,31,89,Nebraska,Holt County,31183,31.0,183.0,Nebraska,Wheeler County,31,18,NE
+31175,31,175,Nebraska,Valley County,31183,31.0,183.0,Nebraska,Wheeler County,42,37,NE
+31183,31,183,Nebraska,Wheeler County,31183,31.0,183.0,Nebraska,Wheeler County,356,48,NE
+31001,31,1,Nebraska,Adams County,31185,31.0,185.0,Nebraska,York County,4,5,NE
+31011,31,11,Nebraska,Boone County,31185,31.0,185.0,Nebraska,York County,5,7,NE
+31015,31,15,Nebraska,Boyd County,31185,31.0,185.0,Nebraska,York County,2,3,NE
+31019,31,19,Nebraska,Buffalo County,31185,31.0,185.0,Nebraska,York County,2,3,NE
+31023,31,23,Nebraska,Butler County,31185,31.0,185.0,Nebraska,York County,9,8,NE
+31025,31,25,Nebraska,Cass County,31185,31.0,185.0,Nebraska,York County,3,4,NE
+31035,31,35,Nebraska,Clay County,31185,31.0,185.0,Nebraska,York County,99,41,NE
+31055,31,55,Nebraska,Douglas County,31185,31.0,185.0,Nebraska,York County,49,45,NE
+31059,31,59,Nebraska,Fillmore County,31185,31.0,185.0,Nebraska,York County,348,69,NE
+31067,31,67,Nebraska,Gage County,31185,31.0,185.0,Nebraska,York County,5,5,NE
+31077,31,77,Nebraska,Greeley County,31185,31.0,185.0,Nebraska,York County,2,3,NE
+31079,31,79,Nebraska,Hall County,31185,31.0,185.0,Nebraska,York County,72,73,NE
+31081,31,81,Nebraska,Hamilton County,31185,31.0,185.0,Nebraska,York County,164,42,NE
+31089,31,89,Nebraska,Holt County,31185,31.0,185.0,Nebraska,York County,6,8,NE
+31093,31,93,Nebraska,Howard County,31185,31.0,185.0,Nebraska,York County,9,11,NE
+31095,31,95,Nebraska,Jefferson County,31185,31.0,185.0,Nebraska,York County,2,4,NE
+31097,31,97,Nebraska,Johnson County,31185,31.0,185.0,Nebraska,York County,3,4,NE
+31107,31,107,Nebraska,Knox County,31185,31.0,185.0,Nebraska,York County,5,7,NE
+31109,31,109,Nebraska,Lancaster County,31185,31.0,185.0,Nebraska,York County,161,79,NE
+31111,31,111,Nebraska,Lincoln County,31185,31.0,185.0,Nebraska,York County,6,8,NE
+31121,31,121,Nebraska,Merrick County,31185,31.0,185.0,Nebraska,York County,14,11,NE
+31131,31,131,Nebraska,Otoe County,31185,31.0,185.0,Nebraska,York County,6,6,NE
+31133,31,133,Nebraska,Pawnee County,31185,31.0,185.0,Nebraska,York County,3,4,NE
+31141,31,141,Nebraska,Platte County,31185,31.0,185.0,Nebraska,York County,28,43,NE
+31143,31,143,Nebraska,Polk County,31185,31.0,185.0,Nebraska,York County,376,62,NE
+31151,31,151,Nebraska,Saline County,31185,31.0,185.0,Nebraska,York County,45,25,NE
+31155,31,155,Nebraska,Saunders County,31185,31.0,185.0,Nebraska,York County,6,10,NE
+31159,31,159,Nebraska,Seward County,31185,31.0,185.0,Nebraska,York County,395,89,NE
+31169,31,169,Nebraska,Thayer County,31185,31.0,185.0,Nebraska,York County,18,12,NE
+31179,31,179,Nebraska,Wayne County,31185,31.0,185.0,Nebraska,York County,17,21,NE
+31185,31,185,Nebraska,York County,31185,31.0,185.0,Nebraska,York County,6253,253,NE
+31109,31,109,Nebraska,Lancaster County,32003,32.0,3.0,Nevada,Clark County,18,30,NE
+31153,31,153,Nebraska,Sarpy County,32003,32.0,3.0,Nevada,Clark County,13,21,NE
+31173,31,173,Nebraska,Thurston County,32007,32.0,7.0,Nevada,Elko County,5,7,NE
+31109,31,109,Nebraska,Lancaster County,32031,32.0,31.0,Nevada,Washoe County,10,15,NE
+31089,31,89,Nebraska,Holt County,32510,32.0,510.0,Nevada,Carson City,22,19,NE
+31055,31,55,Nebraska,Douglas County,34007,34.0,7.0,New Jersey,Camden County,7,11,NE
+31055,31,55,Nebraska,Douglas County,34013,34.0,13.0,New Jersey,Essex County,13,19,NE
+31055,31,55,Nebraska,Douglas County,34021,34.0,21.0,New Jersey,Mercer County,8,13,NE
+31109,31,109,Nebraska,Lancaster County,34021,34.0,21.0,New Jersey,Mercer County,7,13,NE
+31153,31,153,Nebraska,Sarpy County,34023,34.0,23.0,New Jersey,Middlesex County,10,18,NE
+31055,31,55,Nebraska,Douglas County,34025,34.0,25.0,New Jersey,Monmouth County,4,6,NE
+31055,31,55,Nebraska,Douglas County,34027,34.0,27.0,New Jersey,Morris County,7,12,NE
+31183,31,183,Nebraska,Wheeler County,34031,34.0,31.0,New Jersey,Passaic County,2,3,NE
+31109,31,109,Nebraska,Lancaster County,35001,35.0,1.0,New Mexico,Bernalillo County,8,13,NE
+31109,31,109,Nebraska,Lancaster County,35013,35.0,13.0,New Mexico,Doña Ana County,56,89,NE
+31111,31,111,Nebraska,Lincoln County,35013,35.0,13.0,New Mexico,Doña Ana County,7,14,NE
+31159,31,159,Nebraska,Seward County,35017,35.0,17.0,New Mexico,Grant County,2,3,NE
+31055,31,55,Nebraska,Douglas County,36001,36.0,1.0,New York,Albany County,4,8,NE
+31055,31,55,Nebraska,Douglas County,36007,36.0,7.0,New York,Broome County,7,11,NE
+31055,31,55,Nebraska,Douglas County,36047,36.0,47.0,New York,Kings County,51,66,NE
+31109,31,109,Nebraska,Lancaster County,36061,36.0,61.0,New York,New York County,10,16,NE
+31055,31,55,Nebraska,Douglas County,36063,36.0,63.0,New York,Niagara County,5,7,NE
+31109,31,109,Nebraska,Lancaster County,36067,36.0,67.0,New York,Onondaga County,10,21,NE
+31055,31,55,Nebraska,Douglas County,36071,36.0,71.0,New York,Orange County,5,11,NE
+31109,31,109,Nebraska,Lancaster County,36087,36.0,87.0,New York,Rockland County,12,19,NE
+31055,31,55,Nebraska,Douglas County,36103,36.0,103.0,New York,Suffolk County,9,14,NE
+31109,31,109,Nebraska,Lancaster County,37067,37.0,67.0,North Carolina,Forsyth County,5,9,NE
+31035,31,35,Nebraska,Clay County,37095,37.0,95.0,North Carolina,Hyde County,2,4,NE
+31041,31,41,Nebraska,Custer County,37119,37.0,119.0,North Carolina,Mecklenburg County,3,4,NE
+31055,31,55,Nebraska,Douglas County,37119,37.0,119.0,North Carolina,Mecklenburg County,23,26,NE
+31109,31,109,Nebraska,Lancaster County,37119,37.0,119.0,North Carolina,Mecklenburg County,8,12,NE
+31053,31,53,Nebraska,Dodge County,37181,37.0,181.0,North Carolina,Vance County,4,6,NE
+31137,31,137,Nebraska,Phelps County,37195,37.0,195.0,North Carolina,Wilson County,20,27,NE
+31111,31,111,Nebraska,Lincoln County,38003,38.0,3.0,North Dakota,Barnes County,2,3,NE
+31055,31,55,Nebraska,Douglas County,38017,38.0,17.0,North Dakota,Cass County,9,13,NE
+31119,31,119,Nebraska,Madison County,38017,38.0,17.0,North Dakota,Cass County,12,19,NE
+31083,31,83,Nebraska,Harlan County,38025,38.0,25.0,North Dakota,Dunn County,5,8,NE
+31013,31,13,Nebraska,Box Butte County,38053,38.0,53.0,North Dakota,McKenzie County,1,3,NE
+31041,31,41,Nebraska,Custer County,38089,38.0,89.0,North Dakota,Stark County,2,3,NE
+31117,31,117,Nebraska,McPherson County,38093,38.0,93.0,North Dakota,Stutsman County,11,12,NE
+31023,31,23,Nebraska,Butler County,38101,38.0,101.0,North Dakota,Ward County,7,12,NE
+31089,31,89,Nebraska,Holt County,38101,38.0,101.0,North Dakota,Ward County,2,3,NE
+31095,31,95,Nebraska,Jefferson County,38101,38.0,101.0,North Dakota,Ward County,1,2,NE
+31021,31,21,Nebraska,Burt County,38105,38.0,105.0,North Dakota,Williams County,14,16,NE
+31025,31,25,Nebraska,Cass County,38105,38.0,105.0,North Dakota,Williams County,4,6,NE
+31041,31,41,Nebraska,Custer County,38105,38.0,105.0,North Dakota,Williams County,2,3,NE
+31119,31,119,Nebraska,Madison County,38105,38.0,105.0,North Dakota,Williams County,4,10,NE
+31179,31,179,Nebraska,Wayne County,38105,38.0,105.0,North Dakota,Williams County,11,16,NE
+31019,31,19,Nebraska,Buffalo County,39035,39.0,35.0,Ohio,Cuyahoga County,9,14,NE
+31023,31,23,Nebraska,Butler County,39035,39.0,35.0,Ohio,Cuyahoga County,4,8,NE
+31055,31,55,Nebraska,Douglas County,39035,39.0,35.0,Ohio,Cuyahoga County,7,10,NE
+31067,31,67,Nebraska,Gage County,39035,39.0,35.0,Ohio,Cuyahoga County,2,4,NE
+31055,31,55,Nebraska,Douglas County,39049,39.0,49.0,Ohio,Franklin County,8,12,NE
+31067,31,67,Nebraska,Gage County,39049,39.0,49.0,Ohio,Franklin County,8,9,NE
+31055,31,55,Nebraska,Douglas County,39061,39.0,61.0,Ohio,Hamilton County,10,18,NE
+31101,31,101,Nebraska,Keith County,39085,39.0,85.0,Ohio,Lake County,3,7,NE
+31155,31,155,Nebraska,Saunders County,39101,39.0,101.0,Ohio,Marion County,12,19,NE
+31145,31,145,Nebraska,Red Willow County,39121,39.0,121.0,Ohio,Noble County,14,23,NE
+31131,31,131,Nebraska,Otoe County,40007,40.0,7.0,Oklahoma,Beaver County,1,3,NE
+31041,31,41,Nebraska,Custer County,40011,40.0,11.0,Oklahoma,Blaine County,1,3,NE
+31041,31,41,Nebraska,Custer County,40017,40.0,17.0,Oklahoma,Canadian County,3,4,NE
+31055,31,55,Nebraska,Douglas County,40017,40.0,17.0,Oklahoma,Canadian County,16,17,NE
+31055,31,55,Nebraska,Douglas County,40047,40.0,47.0,Oklahoma,Garfield County,6,10,NE
+31069,31,69,Nebraska,Garden County,40073,40.0,73.0,Oklahoma,Kingfisher County,2,3,NE
+31169,31,169,Nebraska,Thayer County,40081,40.0,81.0,Oklahoma,Lincoln County,2,3,NE
+31019,31,19,Nebraska,Buffalo County,40109,40.0,109.0,Oklahoma,Oklahoma County,4,7,NE
+31055,31,55,Nebraska,Douglas County,40109,40.0,109.0,Oklahoma,Oklahoma County,34,53,NE
+31109,31,109,Nebraska,Lancaster County,40109,40.0,109.0,Oklahoma,Oklahoma County,3,6,NE
+31141,31,141,Nebraska,Platte County,40109,40.0,109.0,Oklahoma,Oklahoma County,5,10,NE
+31153,31,153,Nebraska,Sarpy County,40109,40.0,109.0,Oklahoma,Oklahoma County,9,14,NE
+31019,31,19,Nebraska,Buffalo County,40143,40.0,143.0,Oklahoma,Tulsa County,4,7,NE
+31119,31,119,Nebraska,Madison County,40143,40.0,143.0,Oklahoma,Tulsa County,8,14,NE
+31179,31,179,Nebraska,Wayne County,40143,40.0,143.0,Oklahoma,Tulsa County,3,4,NE
+31055,31,55,Nebraska,Douglas County,41005,41.0,5.0,Oregon,Clackamas County,11,16,NE
+31055,31,55,Nebraska,Douglas County,41051,41.0,51.0,Oregon,Multnomah County,7,11,NE
+31079,31,79,Nebraska,Hall County,42031,42.0,31.0,Pennsylvania,Clarion County,10,15,NE
+31005,31,5,Nebraska,Arthur County,42063,42.0,63.0,Pennsylvania,Indiana County,2,3,NE
+31021,31,21,Nebraska,Burt County,42073,42.0,73.0,Pennsylvania,Lawrence County,3,5,NE
+31055,31,55,Nebraska,Douglas County,42091,42.0,91.0,Pennsylvania,Montgomery County,9,13,NE
+31109,31,109,Nebraska,Lancaster County,42091,42.0,91.0,Pennsylvania,Montgomery County,5,8,NE
+31095,31,95,Nebraska,Jefferson County,42125,42.0,125.0,Pennsylvania,Washington County,2,2,NE
+31057,31,57,Nebraska,Dundy County,45045,45.0,45.0,South Carolina,Greenville County,3,5,NE
+31025,31,25,Nebraska,Cass County,45047,45.0,47.0,South Carolina,Greenwood County,9,13,NE
+31089,31,89,Nebraska,Holt County,46003,46.0,3.0,South Dakota,Aurora County,3,4,NE
+31153,31,153,Nebraska,Sarpy County,46005,46.0,5.0,South Dakota,Beadle County,15,24,NE
+31031,31,31,Nebraska,Cherry County,46007,46.0,7.0,South Dakota,Bennett County,7,6,NE
+31075,31,75,Nebraska,Grant County,46007,46.0,7.0,South Dakota,Bennett County,1,3,NE
+31161,31,161,Nebraska,Sheridan County,46007,46.0,7.0,South Dakota,Bennett County,3,5,NE
+31027,31,27,Nebraska,Cedar County,46009,46.0,9.0,South Dakota,Bon Homme County,4,5,NE
+31107,31,107,Nebraska,Knox County,46009,46.0,9.0,South Dakota,Bon Homme County,50,29,NE
+31043,31,43,Nebraska,Dakota County,46011,46.0,11.0,South Dakota,Brookings County,8,11,NE
+31051,31,51,Nebraska,Dixon County,46011,46.0,11.0,South Dakota,Brookings County,3,4,NE
+31107,31,107,Nebraska,Knox County,46011,46.0,11.0,South Dakota,Brookings County,7,7,NE
+31119,31,119,Nebraska,Madison County,46011,46.0,11.0,South Dakota,Brookings County,12,23,NE
+31011,31,11,Nebraska,Boone County,46013,46.0,13.0,South Dakota,Brown County,3,4,NE
+31109,31,109,Nebraska,Lancaster County,46013,46.0,13.0,South Dakota,Brown County,15,21,NE
+31153,31,153,Nebraska,Sarpy County,46013,46.0,13.0,South Dakota,Brown County,8,13,NE
+31019,31,19,Nebraska,Buffalo County,46021,46.0,21.0,South Dakota,Campbell County,9,11,NE
+31015,31,15,Nebraska,Boyd County,46023,46.0,23.0,South Dakota,Charles Mix County,26,15,NE
+31089,31,89,Nebraska,Holt County,46023,46.0,23.0,South Dakota,Charles Mix County,12,13,NE
+31107,31,107,Nebraska,Knox County,46023,46.0,23.0,South Dakota,Charles Mix County,5,5,NE
+31027,31,27,Nebraska,Cedar County,46027,46.0,27.0,South Dakota,Clay County,54,28,NE
+31043,31,43,Nebraska,Dakota County,46027,46.0,27.0,South Dakota,Clay County,4,6,NE
+31051,31,51,Nebraska,Dixon County,46027,46.0,27.0,South Dakota,Clay County,56,24,NE
+31055,31,55,Nebraska,Douglas County,46027,46.0,27.0,South Dakota,Clay County,14,23,NE
+31107,31,107,Nebraska,Knox County,46027,46.0,27.0,South Dakota,Clay County,1,3,NE
+31039,31,39,Nebraska,Cuming County,46029,46.0,29.0,South Dakota,Codington County,7,9,NE
+31109,31,109,Nebraska,Lancaster County,46043,46.0,43.0,South Dakota,Douglas County,8,13,NE
+31045,31,45,Nebraska,Dawes County,46047,46.0,47.0,South Dakota,Fall River County,87,72,NE
+31015,31,15,Nebraska,Boyd County,46053,46.0,53.0,South Dakota,Gregory County,33,21,NE
+31089,31,89,Nebraska,Holt County,46053,46.0,53.0,South Dakota,Gregory County,7,6,NE
+31103,31,103,Nebraska,Keya Paha County,46053,46.0,53.0,South Dakota,Gregory County,8,9,NE
+31141,31,141,Nebraska,Platte County,46083,46.0,83.0,South Dakota,Lincoln County,2,3,NE
+31007,31,7,Nebraska,Banner County,46099,46.0,99.0,South Dakota,Minnehaha County,6,9,NE
+31043,31,43,Nebraska,Dakota County,46099,46.0,99.0,South Dakota,Minnehaha County,21,30,NE
+31107,31,107,Nebraska,Knox County,46099,46.0,99.0,South Dakota,Minnehaha County,6,7,NE
+31131,31,131,Nebraska,Otoe County,46099,46.0,99.0,South Dakota,Minnehaha County,19,25,NE
+31155,31,155,Nebraska,Saunders County,46099,46.0,99.0,South Dakota,Minnehaha County,8,11,NE
+31157,31,157,Nebraska,Scotts Bluff County,46099,46.0,99.0,South Dakota,Minnehaha County,2,3,NE
+31173,31,173,Nebraska,Thurston County,46099,46.0,99.0,South Dakota,Minnehaha County,3,4,NE
+31045,31,45,Nebraska,Dawes County,46102,46.0,102.0,South Dakota,Oglala Lakota County,117,80,NE
+31161,31,161,Nebraska,Sheridan County,46102,46.0,102.0,South Dakota,Oglala Lakota County,222,54,NE
+31001,31,1,Nebraska,Adams County,46103,46.0,103.0,South Dakota,Pennington County,3,7,NE
+31025,31,25,Nebraska,Cass County,46103,46.0,103.0,South Dakota,Pennington County,9,12,NE
+31045,31,45,Nebraska,Dawes County,46103,46.0,103.0,South Dakota,Pennington County,65,69,NE
+31055,31,55,Nebraska,Douglas County,46103,46.0,103.0,South Dakota,Pennington County,4,11,NE
+31161,31,161,Nebraska,Sheridan County,46103,46.0,103.0,South Dakota,Pennington County,10,12,NE
+31031,31,31,Nebraska,Cherry County,46121,46.0,121.0,South Dakota,Todd County,33,23,NE
+31017,31,17,Nebraska,Brown County,46123,46.0,123.0,South Dakota,Tripp County,26,34,NE
+31103,31,103,Nebraska,Keya Paha County,46123,46.0,123.0,South Dakota,Tripp County,1,3,NE
+31185,31,185,Nebraska,York County,46123,46.0,123.0,South Dakota,Tripp County,23,32,NE
+31021,31,21,Nebraska,Burt County,46127,46.0,127.0,South Dakota,Union County,5,6,NE
+31027,31,27,Nebraska,Cedar County,46127,46.0,127.0,South Dakota,Union County,11,11,NE
+31039,31,39,Nebraska,Cuming County,46127,46.0,127.0,South Dakota,Union County,14,8,NE
+31043,31,43,Nebraska,Dakota County,46127,46.0,127.0,South Dakota,Union County,551,179,NE
+31051,31,51,Nebraska,Dixon County,46127,46.0,127.0,South Dakota,Union County,51,17,NE
+31141,31,141,Nebraska,Platte County,46127,46.0,127.0,South Dakota,Union County,10,16,NE
+31173,31,173,Nebraska,Thurston County,46127,46.0,127.0,South Dakota,Union County,11,8,NE
+31003,31,3,Nebraska,Antelope County,46135,46.0,135.0,South Dakota,Yankton County,11,12,NE
+31027,31,27,Nebraska,Cedar County,46135,46.0,135.0,South Dakota,Yankton County,679,98,NE
+31043,31,43,Nebraska,Dakota County,46135,46.0,135.0,South Dakota,Yankton County,2,3,NE
+31051,31,51,Nebraska,Dixon County,46135,46.0,135.0,South Dakota,Yankton County,32,18,NE
+31055,31,55,Nebraska,Douglas County,46135,46.0,135.0,South Dakota,Yankton County,16,27,NE
+31107,31,107,Nebraska,Knox County,46135,46.0,135.0,South Dakota,Yankton County,402,66,NE
+31109,31,109,Nebraska,Lancaster County,46135,46.0,135.0,South Dakota,Yankton County,3,6,NE
+31119,31,119,Nebraska,Madison County,46135,46.0,135.0,South Dakota,Yankton County,39,43,NE
+31155,31,155,Nebraska,Saunders County,46135,46.0,135.0,South Dakota,Yankton County,7,11,NE
+31167,31,167,Nebraska,Stanton County,46135,46.0,135.0,South Dakota,Yankton County,5,8,NE
+31179,31,179,Nebraska,Wayne County,46135,46.0,135.0,South Dakota,Yankton County,9,19,NE
+31047,31,47,Nebraska,Dawson County,47037,47.0,37.0,Tennessee,Davidson County,3,4,NE
+31055,31,55,Nebraska,Douglas County,47037,47.0,37.0,Tennessee,Davidson County,7,11,NE
+31119,31,119,Nebraska,Madison County,47037,47.0,37.0,Tennessee,Davidson County,11,19,NE
+31053,31,53,Nebraska,Dodge County,47065,47.0,65.0,Tennessee,Hamilton County,32,53,NE
+31153,31,153,Nebraska,Sarpy County,47125,47.0,125.0,Tennessee,Montgomery County,8,15,NE
+31073,31,73,Nebraska,Gosper County,47157,47.0,157.0,Tennessee,Shelby County,3,7,NE
+31107,31,107,Nebraska,Knox County,47157,47.0,157.0,Tennessee,Shelby County,4,5,NE
+31153,31,153,Nebraska,Sarpy County,47157,47.0,157.0,Tennessee,Shelby County,9,13,NE
+31175,31,175,Nebraska,Valley County,47157,47.0,157.0,Tennessee,Shelby County,11,13,NE
+31113,31,113,Nebraska,Logan County,48027,48.0,27.0,Texas,Bell County,1,2,NE
+31109,31,109,Nebraska,Lancaster County,48029,48.0,29.0,Texas,Bexar County,2,3,NE
+31055,31,55,Nebraska,Douglas County,48041,48.0,41.0,Texas,Brazos County,27,51,NE
+31055,31,55,Nebraska,Douglas County,48085,48.0,85.0,Texas,Collin County,7,11,NE
+31051,31,51,Nebraska,Dixon County,48113,48.0,113.0,Texas,Dallas County,2,3,NE
+31055,31,55,Nebraska,Douglas County,48113,48.0,113.0,Texas,Dallas County,24,37,NE
+31057,31,57,Nebraska,Dundy County,48113,48.0,113.0,Texas,Dallas County,12,17,NE
+31055,31,55,Nebraska,Douglas County,48121,48.0,121.0,Texas,Denton County,10,15,NE
+31067,31,67,Nebraska,Gage County,48133,48.0,133.0,Texas,Eastland County,6,10,NE
+31093,31,93,Nebraska,Howard County,48133,48.0,133.0,Texas,Eastland County,1,2,NE
+31111,31,111,Nebraska,Lincoln County,48143,48.0,143.0,Texas,Erath County,15,21,NE
+31155,31,155,Nebraska,Saunders County,48167,48.0,167.0,Texas,Galveston County,13,12,NE
+31051,31,51,Nebraska,Dixon County,48201,48.0,201.0,Texas,Harris County,2,5,NE
+31055,31,55,Nebraska,Douglas County,48201,48.0,201.0,Texas,Harris County,12,14,NE
+31107,31,107,Nebraska,Knox County,48201,48.0,201.0,Texas,Harris County,4,6,NE
+31109,31,109,Nebraska,Lancaster County,48201,48.0,201.0,Texas,Harris County,8,12,NE
+31115,31,115,Nebraska,Loup County,48201,48.0,201.0,Texas,Harris County,2,2,NE
+31147,31,147,Nebraska,Richardson County,48201,48.0,201.0,Texas,Harris County,10,15,NE
+31175,31,175,Nebraska,Valley County,48201,48.0,201.0,Texas,Harris County,3,5,NE
+31055,31,55,Nebraska,Douglas County,48215,48.0,215.0,Texas,Hidalgo County,7,11,NE
+31143,31,143,Nebraska,Polk County,48309,48.0,309.0,Texas,McLennan County,5,8,NE
+31153,31,153,Nebraska,Sarpy County,48309,48.0,309.0,Texas,McLennan County,12,18,NE
+31153,31,153,Nebraska,Sarpy County,48353,48.0,353.0,Texas,Nolan County,7,12,NE
+31013,31,13,Nebraska,Box Butte County,48439,48.0,439.0,Texas,Tarrant County,12,22,NE
+31023,31,23,Nebraska,Butler County,48439,48.0,439.0,Texas,Tarrant County,2,3,NE
+31025,31,25,Nebraska,Cass County,48439,48.0,439.0,Texas,Tarrant County,21,22,NE
+31055,31,55,Nebraska,Douglas County,48439,48.0,439.0,Texas,Tarrant County,6,8,NE
+31139,31,139,Nebraska,Pierce County,48439,48.0,439.0,Texas,Tarrant County,2,4,NE
+31155,31,155,Nebraska,Saunders County,48439,48.0,439.0,Texas,Tarrant County,6,6,NE
+31181,31,181,Nebraska,Webster County,48439,48.0,439.0,Texas,Tarrant County,4,5,NE
+31101,31,101,Nebraska,Keith County,48451,48.0,451.0,Texas,Tom Green County,6,9,NE
+31055,31,55,Nebraska,Douglas County,48453,48.0,453.0,Texas,Travis County,12,19,NE
+31119,31,119,Nebraska,Madison County,48453,48.0,453.0,Texas,Travis County,6,14,NE
+31039,31,39,Nebraska,Cuming County,49011,49.0,11.0,Utah,Davis County,4,6,NE
+31143,31,143,Nebraska,Polk County,49015,49.0,15.0,Utah,Emery County,12,12,NE
+31019,31,19,Nebraska,Buffalo County,49027,49.0,27.0,Utah,Millard County,4,5,NE
+31111,31,111,Nebraska,Lincoln County,49035,49.0,35.0,Utah,Salt Lake County,36,47,NE
+31153,31,153,Nebraska,Sarpy County,49035,49.0,35.0,Utah,Salt Lake County,12,19,NE
+31159,31,159,Nebraska,Seward County,49035,49.0,35.0,Utah,Salt Lake County,5,7,NE
+31157,31,157,Nebraska,Scotts Bluff County,49049,49.0,49.0,Utah,Utah County,5,7,NE
+31153,31,153,Nebraska,Sarpy County,51740,51.0,740.0,Virginia,Portsmouth city,16,18,NE
+31055,31,55,Nebraska,Douglas County,51770,51.0,770.0,Virginia,Roanoke city,8,13,NE
+31011,31,11,Nebraska,Boone County,51810,51.0,810.0,Virginia,Virginia Beach city,2,3,NE
+31055,31,55,Nebraska,Douglas County,53011,53.0,11.0,Washington,Clark County,6,10,NE
+31161,31,161,Nebraska,Sheridan County,53029,53.0,29.0,Washington,Island County,2,4,NE
+31027,31,27,Nebraska,Cedar County,53033,53.0,33.0,Washington,King County,4,6,NE
+31027,31,27,Nebraska,Cedar County,53053,53.0,53.0,Washington,Pierce County,2,5,NE
+31055,31,55,Nebraska,Douglas County,53063,53.0,63.0,Washington,Spokane County,10,18,NE
+31055,31,55,Nebraska,Douglas County,55003,55.0,3.0,Wisconsin,Ashland County,9,15,NE
+31055,31,55,Nebraska,Douglas County,55021,55.0,21.0,Wisconsin,Columbia County,10,16,NE
+31097,31,97,Nebraska,Johnson County,55025,55.0,25.0,Wisconsin,Dane County,1,3,NE
+31067,31,67,Nebraska,Gage County,55035,55.0,35.0,Wisconsin,Eau Claire County,8,12,NE
+31043,31,43,Nebraska,Dakota County,55079,55.0,79.0,Wisconsin,Milwaukee County,3,4,NE
+31047,31,47,Nebraska,Dawson County,55079,55.0,79.0,Wisconsin,Milwaukee County,9,14,NE
+31065,31,65,Nebraska,Furnas County,55079,55.0,79.0,Wisconsin,Milwaukee County,2,4,NE
+31079,31,79,Nebraska,Hall County,55101,55.0,101.0,Wisconsin,Racine County,9,14,NE
+31091,31,91,Nebraska,Hooker County,56001,56.0,1.0,Wyoming,Albany County,7,10,NE
+31013,31,13,Nebraska,Box Butte County,56005,56.0,5.0,Wyoming,Campbell County,5,7,NE
+31079,31,79,Nebraska,Hall County,56005,56.0,5.0,Wyoming,Campbell County,18,21,NE
+31105,31,105,Nebraska,Kimball County,56005,56.0,5.0,Wyoming,Campbell County,5,7,NE
+31157,31,157,Nebraska,Scotts Bluff County,56005,56.0,5.0,Wyoming,Campbell County,28,44,NE
+31055,31,55,Nebraska,Douglas County,56007,56.0,7.0,Wyoming,Carbon County,10,16,NE
+31079,31,79,Nebraska,Hall County,56007,56.0,7.0,Wyoming,Carbon County,6,9,NE
+31157,31,157,Nebraska,Scotts Bluff County,56007,56.0,7.0,Wyoming,Carbon County,4,6,NE
+31013,31,13,Nebraska,Box Butte County,56009,56.0,9.0,Wyoming,Converse County,1,3,NE
+31045,31,45,Nebraska,Dawes County,56009,56.0,9.0,Wyoming,Converse County,7,10,NE
+31157,31,157,Nebraska,Scotts Bluff County,56009,56.0,9.0,Wyoming,Converse County,14,17,NE
+31057,31,57,Nebraska,Dundy County,56015,56.0,15.0,Wyoming,Goshen County,8,13,NE
+31105,31,105,Nebraska,Kimball County,56015,56.0,15.0,Wyoming,Goshen County,2,3,NE
+31157,31,157,Nebraska,Scotts Bluff County,56015,56.0,15.0,Wyoming,Goshen County,164,66,NE
+31165,31,165,Nebraska,Sioux County,56015,56.0,15.0,Wyoming,Goshen County,19,11,NE
+31045,31,45,Nebraska,Dawes County,56019,56.0,19.0,Wyoming,Johnson County,2,4,NE
+31033,31,33,Nebraska,Cheyenne County,56021,56.0,21.0,Wyoming,Laramie County,1,2,NE
+31079,31,79,Nebraska,Hall County,56021,56.0,21.0,Wyoming,Laramie County,17,21,NE
+31105,31,105,Nebraska,Kimball County,56021,56.0,21.0,Wyoming,Laramie County,28,18,NE
+31133,31,133,Nebraska,Pawnee County,56021,56.0,21.0,Wyoming,Laramie County,4,5,NE
+31157,31,157,Nebraska,Scotts Bluff County,56021,56.0,21.0,Wyoming,Laramie County,25,30,NE
+31045,31,45,Nebraska,Dawes County,56025,56.0,25.0,Wyoming,Natrona County,13,22,NE
+31055,31,55,Nebraska,Douglas County,56025,56.0,25.0,Wyoming,Natrona County,2,4,NE
+31071,31,71,Nebraska,Garfield County,56025,56.0,25.0,Wyoming,Natrona County,3,5,NE
+31109,31,109,Nebraska,Lancaster County,56025,56.0,25.0,Wyoming,Natrona County,28,31,NE
+31123,31,123,Nebraska,Morrill County,56025,56.0,25.0,Wyoming,Natrona County,5,6,NE
+31045,31,45,Nebraska,Dawes County,56027,56.0,27.0,Wyoming,Niobrara County,8,12,NE
+31157,31,157,Nebraska,Scotts Bluff County,56027,56.0,27.0,Wyoming,Niobrara County,5,8,NE
+31165,31,165,Nebraska,Sioux County,56027,56.0,27.0,Wyoming,Niobrara County,19,14,NE
+31023,31,23,Nebraska,Butler County,56031,56.0,31.0,Wyoming,Platte County,1,2,NE
+31033,31,33,Nebraska,Cheyenne County,56031,56.0,31.0,Wyoming,Platte County,5,8,NE
+31059,31,59,Nebraska,Fillmore County,56031,56.0,31.0,Wyoming,Platte County,6,11,NE
+31111,31,111,Nebraska,Lincoln County,56031,56.0,31.0,Wyoming,Platte County,10,14,NE
+31157,31,157,Nebraska,Scotts Bluff County,56031,56.0,31.0,Wyoming,Platte County,5,7,NE
+31083,31,83,Nebraska,Harlan County,56035,56.0,35.0,Wyoming,Sublette County,2,5,NE
+31105,31,105,Nebraska,Kimball County,56037,56.0,37.0,Wyoming,Sweetwater County,1,3,NE
+31157,31,157,Nebraska,Scotts Bluff County,56039,56.0,39.0,Wyoming,Teton County,4,5,NE
+31109,31,109,Nebraska,Lancaster County,56041,56.0,41.0,Wyoming,Uinta County,8,13,NE
+31045,31,45,Nebraska,Dawes County,56045,56.0,45.0,Wyoming,Weston County,5,10,NE
+31055,31,55,Nebraska,Douglas County,301000,301.0,,Canada,,7,13,NE
+31109,31,109,Nebraska,Lancaster County,301000,301.0,,Canada,,17,27,NE
+31053,31,53,Nebraska,Dodge County,-1,,,Other workplace outside of the U.S.,,8,13,NE
+31055,31,55,Nebraska,Douglas County,-1,,,Other workplace outside of the U.S.,,175,105,NE
+31109,31,109,Nebraska,Lancaster County,-1,,,Other workplace outside of the U.S.,,21,26,NE
+31121,31,121,Nebraska,Merrick County,-1,,,Other workplace outside of the U.S.,,9,13,NE
+31133,31,133,Nebraska,Pawnee County,-1,,,Other workplace outside of the U.S.,,3,5,NE
+31153,31,153,Nebraska,Sarpy County,-1,,,Other workplace outside of the U.S.,,109,61,NE
+31155,31,155,Nebraska,Saunders County,-1,,,Other workplace outside of the U.S.,,15,18,NE
+31159,31,159,Nebraska,Seward County,-1,,,Other workplace outside of the U.S.,,5,8,NE
+31167,31,167,Nebraska,Stanton County,-1,,,Other workplace outside of the U.S.,,1,3,NE

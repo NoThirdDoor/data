@@ -1,0 +1,2019 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+34013,34,13,New Jersey,Essex County,1073,1.0,73.0,Alabama,Jefferson County,16,24,NJ
+34005,34,5,New Jersey,Burlington County,1101,1.0,101.0,Alabama,Montgomery County,21,28,NJ
+34025,34,25,New Jersey,Monmouth County,1125,1.0,125.0,Alabama,Tuscaloosa County,11,17,NJ
+34009,34,9,New Jersey,Cape May County,2016,2.0,16.0,Alaska,Aleutians West Census Area,1,3,NJ
+34005,34,5,New Jersey,Burlington County,2110,2.0,110.0,Alaska,Juneau City and Borough,5,6,NJ
+34027,34,27,New Jersey,Morris County,2185,2.0,185.0,Alaska,North Slope Borough,18,28,NJ
+34023,34,23,New Jersey,Middlesex County,4005,4.0,5.0,Arizona,Coconino County,4,7,NJ
+34003,34,3,New Jersey,Bergen County,4013,4.0,13.0,Arizona,Maricopa County,49,42,NJ
+34015,34,15,New Jersey,Gloucester County,4013,4.0,13.0,Arizona,Maricopa County,19,30,NJ
+34021,34,21,New Jersey,Mercer County,4013,4.0,13.0,Arizona,Maricopa County,33,32,NJ
+34023,34,23,New Jersey,Middlesex County,4013,4.0,13.0,Arizona,Maricopa County,17,19,NJ
+34029,34,29,New Jersey,Ocean County,4013,4.0,13.0,Arizona,Maricopa County,25,37,NJ
+34031,34,31,New Jersey,Passaic County,4013,4.0,13.0,Arizona,Maricopa County,37,40,NJ
+34013,34,13,New Jersey,Essex County,4019,4.0,19.0,Arizona,Pima County,29,47,NJ
+34027,34,27,New Jersey,Morris County,4027,4.0,27.0,Arizona,Yuma County,15,24,NJ
+34013,34,13,New Jersey,Essex County,5007,5.0,7.0,Arkansas,Benton County,10,16,NJ
+34017,34,17,New Jersey,Hudson County,5007,5.0,7.0,Arkansas,Benton County,23,27,NJ
+34023,34,23,New Jersey,Middlesex County,5007,5.0,7.0,Arkansas,Benton County,3,12,NJ
+34027,34,27,New Jersey,Morris County,5007,5.0,7.0,Arkansas,Benton County,10,14,NJ
+34029,34,29,New Jersey,Ocean County,5007,5.0,7.0,Arkansas,Benton County,14,22,NJ
+34001,34,1,New Jersey,Atlantic County,5119,5.0,119.0,Arkansas,Pulaski County,5,8,NJ
+34003,34,3,New Jersey,Bergen County,6001,6.0,1.0,California,Alameda County,13,20,NJ
+34005,34,5,New Jersey,Burlington County,6001,6.0,1.0,California,Alameda County,16,27,NJ
+34023,34,23,New Jersey,Middlesex County,6001,6.0,1.0,California,Alameda County,18,21,NJ
+34035,34,35,New Jersey,Somerset County,6001,6.0,1.0,California,Alameda County,9,13,NJ
+34007,34,7,New Jersey,Camden County,6013,6.0,13.0,California,Contra Costa County,10,17,NJ
+34039,34,39,New Jersey,Union County,6013,6.0,13.0,California,Contra Costa County,11,17,NJ
+34027,34,27,New Jersey,Morris County,6017,6.0,17.0,California,El Dorado County,11,18,NJ
+34005,34,5,New Jersey,Burlington County,6031,6.0,31.0,California,Kings County,20,30,NJ
+34003,34,3,New Jersey,Bergen County,6037,6.0,37.0,California,Los Angeles County,60,42,NJ
+34005,34,5,New Jersey,Burlington County,6037,6.0,37.0,California,Los Angeles County,12,13,NJ
+34011,34,11,New Jersey,Cumberland County,6037,6.0,37.0,California,Los Angeles County,6,9,NJ
+34013,34,13,New Jersey,Essex County,6037,6.0,37.0,California,Los Angeles County,36,31,NJ
+34015,34,15,New Jersey,Gloucester County,6037,6.0,37.0,California,Los Angeles County,13,15,NJ
+34017,34,17,New Jersey,Hudson County,6037,6.0,37.0,California,Los Angeles County,14,12,NJ
+34019,34,19,New Jersey,Hunterdon County,6037,6.0,37.0,California,Los Angeles County,19,30,NJ
+34023,34,23,New Jersey,Middlesex County,6037,6.0,37.0,California,Los Angeles County,39,48,NJ
+34025,34,25,New Jersey,Monmouth County,6037,6.0,37.0,California,Los Angeles County,38,31,NJ
+34027,34,27,New Jersey,Morris County,6037,6.0,37.0,California,Los Angeles County,61,68,NJ
+34029,34,29,New Jersey,Ocean County,6037,6.0,37.0,California,Los Angeles County,5,8,NJ
+34035,34,35,New Jersey,Somerset County,6037,6.0,37.0,California,Los Angeles County,35,52,NJ
+34039,34,39,New Jersey,Union County,6037,6.0,37.0,California,Los Angeles County,10,15,NJ
+34041,34,41,New Jersey,Warren County,6037,6.0,37.0,California,Los Angeles County,23,27,NJ
+34005,34,5,New Jersey,Burlington County,6053,6.0,53.0,California,Monterey County,10,16,NJ
+34003,34,3,New Jersey,Bergen County,6059,6.0,59.0,California,Orange County,16,26,NJ
+34021,34,21,New Jersey,Mercer County,6059,6.0,59.0,California,Orange County,17,26,NJ
+34025,34,25,New Jersey,Monmouth County,6059,6.0,59.0,California,Orange County,18,28,NJ
+34027,34,27,New Jersey,Morris County,6059,6.0,59.0,California,Orange County,18,30,NJ
+34031,34,31,New Jersey,Passaic County,6059,6.0,59.0,California,Orange County,14,21,NJ
+34037,34,37,New Jersey,Sussex County,6059,6.0,59.0,California,Orange County,23,36,NJ
+34023,34,23,New Jersey,Middlesex County,6067,6.0,67.0,California,Sacramento County,9,14,NJ
+34003,34,3,New Jersey,Bergen County,6071,6.0,71.0,California,San Bernardino County,10,15,NJ
+34007,34,7,New Jersey,Camden County,6071,6.0,71.0,California,San Bernardino County,15,24,NJ
+34035,34,35,New Jersey,Somerset County,6071,6.0,71.0,California,San Bernardino County,15,24,NJ
+34003,34,3,New Jersey,Bergen County,6073,6.0,73.0,California,San Diego County,34,41,NJ
+34005,34,5,New Jersey,Burlington County,6073,6.0,73.0,California,San Diego County,18,20,NJ
+34009,34,9,New Jersey,Cape May County,6073,6.0,73.0,California,San Diego County,9,15,NJ
+34011,34,11,New Jersey,Cumberland County,6073,6.0,73.0,California,San Diego County,20,30,NJ
+34015,34,15,New Jersey,Gloucester County,6073,6.0,73.0,California,San Diego County,22,25,NJ
+34023,34,23,New Jersey,Middlesex County,6073,6.0,73.0,California,San Diego County,5,7,NJ
+34025,34,25,New Jersey,Monmouth County,6073,6.0,73.0,California,San Diego County,56,64,NJ
+34029,34,29,New Jersey,Ocean County,6073,6.0,73.0,California,San Diego County,9,11,NJ
+34037,34,37,New Jersey,Sussex County,6073,6.0,73.0,California,San Diego County,19,26,NJ
+34039,34,39,New Jersey,Union County,6073,6.0,73.0,California,San Diego County,7,12,NJ
+34003,34,3,New Jersey,Bergen County,6075,6.0,75.0,California,San Francisco County,12,20,NJ
+34013,34,13,New Jersey,Essex County,6075,6.0,75.0,California,San Francisco County,31,34,NJ
+34021,34,21,New Jersey,Mercer County,6075,6.0,75.0,California,San Francisco County,35,33,NJ
+34025,34,25,New Jersey,Monmouth County,6075,6.0,75.0,California,San Francisco County,2,2,NJ
+34027,34,27,New Jersey,Morris County,6075,6.0,75.0,California,San Francisco County,12,21,NJ
+34029,34,29,New Jersey,Ocean County,6075,6.0,75.0,California,San Francisco County,11,16,NJ
+34031,34,31,New Jersey,Passaic County,6075,6.0,75.0,California,San Francisco County,9,14,NJ
+34037,34,37,New Jersey,Sussex County,6075,6.0,75.0,California,San Francisco County,7,10,NJ
+34025,34,25,New Jersey,Monmouth County,6079,6.0,79.0,California,San Luis Obispo County,11,17,NJ
+34005,34,5,New Jersey,Burlington County,6081,6.0,81.0,California,San Mateo County,11,17,NJ
+34019,34,19,New Jersey,Hunterdon County,6081,6.0,81.0,California,San Mateo County,14,21,NJ
+34025,34,25,New Jersey,Monmouth County,6081,6.0,81.0,California,San Mateo County,101,102,NJ
+34027,34,27,New Jersey,Morris County,6081,6.0,81.0,California,San Mateo County,32,39,NJ
+34005,34,5,New Jersey,Burlington County,6085,6.0,85.0,California,Santa Clara County,39,57,NJ
+34017,34,17,New Jersey,Hudson County,6085,6.0,85.0,California,Santa Clara County,19,18,NJ
+34023,34,23,New Jersey,Middlesex County,6085,6.0,85.0,California,Santa Clara County,41,40,NJ
+34025,34,25,New Jersey,Monmouth County,6085,6.0,85.0,California,Santa Clara County,27,33,NJ
+34027,34,27,New Jersey,Morris County,6085,6.0,85.0,California,Santa Clara County,9,15,NJ
+34039,34,39,New Jersey,Union County,6085,6.0,85.0,California,Santa Clara County,20,31,NJ
+34015,34,15,New Jersey,Gloucester County,6097,6.0,97.0,California,Sonoma County,5,7,NJ
+34025,34,25,New Jersey,Monmouth County,6097,6.0,97.0,California,Sonoma County,9,16,NJ
+34035,34,35,New Jersey,Somerset County,6097,6.0,97.0,California,Sonoma County,20,33,NJ
+34005,34,5,New Jersey,Burlington County,8001,8.0,1.0,Colorado,Adams County,12,19,NJ
+34013,34,13,New Jersey,Essex County,8005,8.0,5.0,Colorado,Arapahoe County,25,32,NJ
+34039,34,39,New Jersey,Union County,8013,8.0,13.0,Colorado,Boulder County,25,47,NJ
+34005,34,5,New Jersey,Burlington County,8031,8.0,31.0,Colorado,Denver County,32,47,NJ
+34027,34,27,New Jersey,Morris County,8031,8.0,31.0,Colorado,Denver County,33,55,NJ
+34035,34,35,New Jersey,Somerset County,8031,8.0,31.0,Colorado,Denver County,36,42,NJ
+34037,34,37,New Jersey,Sussex County,8031,8.0,31.0,Colorado,Denver County,15,24,NJ
+34025,34,25,New Jersey,Monmouth County,8059,8.0,59.0,Colorado,Jefferson County,18,27,NJ
+34027,34,27,New Jersey,Morris County,8069,8.0,69.0,Colorado,Larimer County,12,17,NJ
+34003,34,3,New Jersey,Bergen County,9001,9.0,1.0,Connecticut,Fairfield County,1110,232,NJ
+34005,34,5,New Jersey,Burlington County,9001,9.0,1.0,Connecticut,Fairfield County,53,45,NJ
+34007,34,7,New Jersey,Camden County,9001,9.0,1.0,Connecticut,Fairfield County,32,25,NJ
+34009,34,9,New Jersey,Cape May County,9001,9.0,1.0,Connecticut,Fairfield County,9,14,NJ
+34013,34,13,New Jersey,Essex County,9001,9.0,1.0,Connecticut,Fairfield County,232,123,NJ
+34015,34,15,New Jersey,Gloucester County,9001,9.0,1.0,Connecticut,Fairfield County,39,42,NJ
+34017,34,17,New Jersey,Hudson County,9001,9.0,1.0,Connecticut,Fairfield County,167,79,NJ
+34019,34,19,New Jersey,Hunterdon County,9001,9.0,1.0,Connecticut,Fairfield County,44,42,NJ
+34021,34,21,New Jersey,Mercer County,9001,9.0,1.0,Connecticut,Fairfield County,94,87,NJ
+34023,34,23,New Jersey,Middlesex County,9001,9.0,1.0,Connecticut,Fairfield County,193,107,NJ
+34025,34,25,New Jersey,Monmouth County,9001,9.0,1.0,Connecticut,Fairfield County,128,83,NJ
+34027,34,27,New Jersey,Morris County,9001,9.0,1.0,Connecticut,Fairfield County,174,68,NJ
+34029,34,29,New Jersey,Ocean County,9001,9.0,1.0,Connecticut,Fairfield County,27,29,NJ
+34031,34,31,New Jersey,Passaic County,9001,9.0,1.0,Connecticut,Fairfield County,106,60,NJ
+34035,34,35,New Jersey,Somerset County,9001,9.0,1.0,Connecticut,Fairfield County,93,62,NJ
+34037,34,37,New Jersey,Sussex County,9001,9.0,1.0,Connecticut,Fairfield County,24,29,NJ
+34039,34,39,New Jersey,Union County,9001,9.0,1.0,Connecticut,Fairfield County,98,70,NJ
+34041,34,41,New Jersey,Warren County,9001,9.0,1.0,Connecticut,Fairfield County,3,4,NJ
+34003,34,3,New Jersey,Bergen County,9003,9.0,3.0,Connecticut,Hartford County,38,33,NJ
+34005,34,5,New Jersey,Burlington County,9003,9.0,3.0,Connecticut,Hartford County,28,32,NJ
+34007,34,7,New Jersey,Camden County,9003,9.0,3.0,Connecticut,Hartford County,23,28,NJ
+34011,34,11,New Jersey,Cumberland County,9003,9.0,3.0,Connecticut,Hartford County,18,30,NJ
+34013,34,13,New Jersey,Essex County,9003,9.0,3.0,Connecticut,Hartford County,56,39,NJ
+34015,34,15,New Jersey,Gloucester County,9003,9.0,3.0,Connecticut,Hartford County,5,7,NJ
+34017,34,17,New Jersey,Hudson County,9003,9.0,3.0,Connecticut,Hartford County,6,10,NJ
+34023,34,23,New Jersey,Middlesex County,9003,9.0,3.0,Connecticut,Hartford County,18,20,NJ
+34025,34,25,New Jersey,Monmouth County,9003,9.0,3.0,Connecticut,Hartford County,62,52,NJ
+34027,34,27,New Jersey,Morris County,9003,9.0,3.0,Connecticut,Hartford County,22,24,NJ
+34029,34,29,New Jersey,Ocean County,9003,9.0,3.0,Connecticut,Hartford County,15,17,NJ
+34037,34,37,New Jersey,Sussex County,9003,9.0,3.0,Connecticut,Hartford County,8,14,NJ
+34007,34,7,New Jersey,Camden County,9005,9.0,5.0,Connecticut,Litchfield County,9,14,NJ
+34021,34,21,New Jersey,Mercer County,9005,9.0,5.0,Connecticut,Litchfield County,4,5,NJ
+34025,34,25,New Jersey,Monmouth County,9005,9.0,5.0,Connecticut,Litchfield County,8,14,NJ
+34027,34,27,New Jersey,Morris County,9005,9.0,5.0,Connecticut,Litchfield County,19,30,NJ
+34031,34,31,New Jersey,Passaic County,9005,9.0,5.0,Connecticut,Litchfield County,13,20,NJ
+34023,34,23,New Jersey,Middlesex County,9007,9.0,7.0,Connecticut,Middlesex County,6,10,NJ
+34003,34,3,New Jersey,Bergen County,9009,9.0,9.0,Connecticut,New Haven County,37,36,NJ
+34007,34,7,New Jersey,Camden County,9009,9.0,9.0,Connecticut,New Haven County,26,32,NJ
+34013,34,13,New Jersey,Essex County,9009,9.0,9.0,Connecticut,New Haven County,17,23,NJ
+34017,34,17,New Jersey,Hudson County,9009,9.0,9.0,Connecticut,New Haven County,26,29,NJ
+34023,34,23,New Jersey,Middlesex County,9009,9.0,9.0,Connecticut,New Haven County,15,15,NJ
+34025,34,25,New Jersey,Monmouth County,9009,9.0,9.0,Connecticut,New Haven County,37,34,NJ
+34027,34,27,New Jersey,Morris County,9009,9.0,9.0,Connecticut,New Haven County,45,37,NJ
+34031,34,31,New Jersey,Passaic County,9009,9.0,9.0,Connecticut,New Haven County,47,46,NJ
+34035,34,35,New Jersey,Somerset County,9009,9.0,9.0,Connecticut,New Haven County,1,2,NJ
+34039,34,39,New Jersey,Union County,9009,9.0,9.0,Connecticut,New Haven County,9,15,NJ
+34001,34,1,New Jersey,Atlantic County,9011,9.0,11.0,Connecticut,New London County,13,21,NJ
+34009,34,9,New Jersey,Cape May County,9011,9.0,11.0,Connecticut,New London County,14,21,NJ
+34017,34,17,New Jersey,Hudson County,9011,9.0,11.0,Connecticut,New London County,46,64,NJ
+34023,34,23,New Jersey,Middlesex County,9011,9.0,11.0,Connecticut,New London County,144,137,NJ
+34035,34,35,New Jersey,Somerset County,9011,9.0,11.0,Connecticut,New London County,32,49,NJ
+34039,34,39,New Jersey,Union County,9011,9.0,11.0,Connecticut,New London County,19,29,NJ
+34003,34,3,New Jersey,Bergen County,9013,9.0,13.0,Connecticut,Tolland County,25,41,NJ
+34005,34,5,New Jersey,Burlington County,9013,9.0,13.0,Connecticut,Tolland County,26,41,NJ
+34017,34,17,New Jersey,Hudson County,9013,9.0,13.0,Connecticut,Tolland County,15,17,NJ
+34027,34,27,New Jersey,Morris County,9013,9.0,13.0,Connecticut,Tolland County,6,10,NJ
+34031,34,31,New Jersey,Passaic County,9013,9.0,13.0,Connecticut,Tolland County,20,31,NJ
+34001,34,1,New Jersey,Atlantic County,10001,10.0,1.0,Delaware,Kent County,36,51,NJ
+34003,34,3,New Jersey,Bergen County,10001,10.0,1.0,Delaware,Kent County,88,94,NJ
+34011,34,11,New Jersey,Cumberland County,10001,10.0,1.0,Delaware,Kent County,2,3,NJ
+34015,34,15,New Jersey,Gloucester County,10001,10.0,1.0,Delaware,Kent County,10,12,NJ
+34029,34,29,New Jersey,Ocean County,10001,10.0,1.0,Delaware,Kent County,24,27,NJ
+34033,34,33,New Jersey,Salem County,10001,10.0,1.0,Delaware,Kent County,66,44,NJ
+34001,34,1,New Jersey,Atlantic County,10003,10.0,3.0,Delaware,New Castle County,184,116,NJ
+34003,34,3,New Jersey,Bergen County,10003,10.0,3.0,Delaware,New Castle County,18,20,NJ
+34005,34,5,New Jersey,Burlington County,10003,10.0,3.0,Delaware,New Castle County,734,170,NJ
+34007,34,7,New Jersey,Camden County,10003,10.0,3.0,Delaware,New Castle County,1418,293,NJ
+34009,34,9,New Jersey,Cape May County,10003,10.0,3.0,Delaware,New Castle County,26,23,NJ
+34011,34,11,New Jersey,Cumberland County,10003,10.0,3.0,Delaware,New Castle County,342,115,NJ
+34013,34,13,New Jersey,Essex County,10003,10.0,3.0,Delaware,New Castle County,11,17,NJ
+34015,34,15,New Jersey,Gloucester County,10003,10.0,3.0,Delaware,New Castle County,2132,300,NJ
+34017,34,17,New Jersey,Hudson County,10003,10.0,3.0,Delaware,New Castle County,45,44,NJ
+34021,34,21,New Jersey,Mercer County,10003,10.0,3.0,Delaware,New Castle County,85,50,NJ
+34023,34,23,New Jersey,Middlesex County,10003,10.0,3.0,Delaware,New Castle County,105,70,NJ
+34025,34,25,New Jersey,Monmouth County,10003,10.0,3.0,Delaware,New Castle County,174,95,NJ
+34027,34,27,New Jersey,Morris County,10003,10.0,3.0,Delaware,New Castle County,21,20,NJ
+34029,34,29,New Jersey,Ocean County,10003,10.0,3.0,Delaware,New Castle County,75,56,NJ
+34033,34,33,New Jersey,Salem County,10003,10.0,3.0,Delaware,New Castle County,2589,287,NJ
+34035,34,35,New Jersey,Somerset County,10003,10.0,3.0,Delaware,New Castle County,51,53,NJ
+34039,34,39,New Jersey,Union County,10003,10.0,3.0,Delaware,New Castle County,10,18,NJ
+34041,34,41,New Jersey,Warren County,10003,10.0,3.0,Delaware,New Castle County,26,25,NJ
+34001,34,1,New Jersey,Atlantic County,10005,10.0,5.0,Delaware,Sussex County,21,33,NJ
+34003,34,3,New Jersey,Bergen County,10005,10.0,5.0,Delaware,Sussex County,15,24,NJ
+34005,34,5,New Jersey,Burlington County,10005,10.0,5.0,Delaware,Sussex County,19,29,NJ
+34007,34,7,New Jersey,Camden County,10005,10.0,5.0,Delaware,Sussex County,19,31,NJ
+34015,34,15,New Jersey,Gloucester County,10005,10.0,5.0,Delaware,Sussex County,8,15,NJ
+34029,34,29,New Jersey,Ocean County,10005,10.0,5.0,Delaware,Sussex County,22,34,NJ
+34033,34,33,New Jersey,Salem County,10005,10.0,5.0,Delaware,Sussex County,21,30,NJ
+34001,34,1,New Jersey,Atlantic County,11001,11.0,1.0,District of Columbia,District of Columbia,45,40,NJ
+34003,34,3,New Jersey,Bergen County,11001,11.0,1.0,District of Columbia,District of Columbia,21,28,NJ
+34005,34,5,New Jersey,Burlington County,11001,11.0,1.0,District of Columbia,District of Columbia,14,15,NJ
+34007,34,7,New Jersey,Camden County,11001,11.0,1.0,District of Columbia,District of Columbia,99,71,NJ
+34011,34,11,New Jersey,Cumberland County,11001,11.0,1.0,District of Columbia,District of Columbia,11,23,NJ
+34013,34,13,New Jersey,Essex County,11001,11.0,1.0,District of Columbia,District of Columbia,75,62,NJ
+34015,34,15,New Jersey,Gloucester County,11001,11.0,1.0,District of Columbia,District of Columbia,13,23,NJ
+34017,34,17,New Jersey,Hudson County,11001,11.0,1.0,District of Columbia,District of Columbia,80,52,NJ
+34019,34,19,New Jersey,Hunterdon County,11001,11.0,1.0,District of Columbia,District of Columbia,76,69,NJ
+34021,34,21,New Jersey,Mercer County,11001,11.0,1.0,District of Columbia,District of Columbia,59,44,NJ
+34023,34,23,New Jersey,Middlesex County,11001,11.0,1.0,District of Columbia,District of Columbia,82,50,NJ
+34025,34,25,New Jersey,Monmouth County,11001,11.0,1.0,District of Columbia,District of Columbia,38,32,NJ
+34027,34,27,New Jersey,Morris County,11001,11.0,1.0,District of Columbia,District of Columbia,84,67,NJ
+34029,34,29,New Jersey,Ocean County,11001,11.0,1.0,District of Columbia,District of Columbia,27,24,NJ
+34031,34,31,New Jersey,Passaic County,11001,11.0,1.0,District of Columbia,District of Columbia,8,15,NJ
+34035,34,35,New Jersey,Somerset County,11001,11.0,1.0,District of Columbia,District of Columbia,53,47,NJ
+34037,34,37,New Jersey,Sussex County,11001,11.0,1.0,District of Columbia,District of Columbia,8,13,NJ
+34039,34,39,New Jersey,Union County,11001,11.0,1.0,District of Columbia,District of Columbia,43,31,NJ
+34023,34,23,New Jersey,Middlesex County,12001,12.0,1.0,Florida,Alachua County,9,14,NJ
+34035,34,35,New Jersey,Somerset County,12001,12.0,1.0,Florida,Alachua County,18,28,NJ
+34005,34,5,New Jersey,Burlington County,12009,12.0,9.0,Florida,Brevard County,3,4,NJ
+34013,34,13,New Jersey,Essex County,12009,12.0,9.0,Florida,Brevard County,7,12,NJ
+34003,34,3,New Jersey,Bergen County,12011,12.0,11.0,Florida,Broward County,19,32,NJ
+34005,34,5,New Jersey,Burlington County,12011,12.0,11.0,Florida,Broward County,11,19,NJ
+34009,34,9,New Jersey,Cape May County,12011,12.0,11.0,Florida,Broward County,6,9,NJ
+34017,34,17,New Jersey,Hudson County,12011,12.0,11.0,Florida,Broward County,61,77,NJ
+34023,34,23,New Jersey,Middlesex County,12011,12.0,11.0,Florida,Broward County,7,11,NJ
+34025,34,25,New Jersey,Monmouth County,12011,12.0,11.0,Florida,Broward County,32,27,NJ
+34027,34,27,New Jersey,Morris County,12011,12.0,11.0,Florida,Broward County,17,18,NJ
+34029,34,29,New Jersey,Ocean County,12011,12.0,11.0,Florida,Broward County,15,25,NJ
+34031,34,31,New Jersey,Passaic County,12011,12.0,11.0,Florida,Broward County,23,39,NJ
+34035,34,35,New Jersey,Somerset County,12011,12.0,11.0,Florida,Broward County,11,17,NJ
+34017,34,17,New Jersey,Hudson County,12021,12.0,21.0,Florida,Collier County,5,8,NJ
+34025,34,25,New Jersey,Monmouth County,12021,12.0,21.0,Florida,Collier County,8,12,NJ
+34027,34,27,New Jersey,Morris County,12021,12.0,21.0,Florida,Collier County,7,11,NJ
+34003,34,3,New Jersey,Bergen County,12031,12.0,31.0,Florida,Duval County,5,10,NJ
+34011,34,11,New Jersey,Cumberland County,12031,12.0,31.0,Florida,Duval County,5,10,NJ
+34025,34,25,New Jersey,Monmouth County,12031,12.0,31.0,Florida,Duval County,18,29,NJ
+34033,34,33,New Jersey,Salem County,12031,12.0,31.0,Florida,Duval County,11,12,NJ
+34035,34,35,New Jersey,Somerset County,12031,12.0,31.0,Florida,Duval County,3,4,NJ
+34039,34,39,New Jersey,Union County,12031,12.0,31.0,Florida,Duval County,18,30,NJ
+34011,34,11,New Jersey,Cumberland County,12033,12.0,33.0,Florida,Escambia County,58,78,NJ
+34025,34,25,New Jersey,Monmouth County,12053,12.0,53.0,Florida,Hernando County,9,13,NJ
+34001,34,1,New Jersey,Atlantic County,12057,12.0,57.0,Florida,Hillsborough County,4,7,NJ
+34003,34,3,New Jersey,Bergen County,12057,12.0,57.0,Florida,Hillsborough County,9,14,NJ
+34019,34,19,New Jersey,Hunterdon County,12057,12.0,57.0,Florida,Hillsborough County,18,28,NJ
+34023,34,23,New Jersey,Middlesex County,12057,12.0,57.0,Florida,Hillsborough County,38,49,NJ
+34025,34,25,New Jersey,Monmouth County,12057,12.0,57.0,Florida,Hillsborough County,9,16,NJ
+34039,34,39,New Jersey,Union County,12057,12.0,57.0,Florida,Hillsborough County,5,7,NJ
+34029,34,29,New Jersey,Ocean County,12061,12.0,61.0,Florida,Indian River County,19,20,NJ
+34035,34,35,New Jersey,Somerset County,12061,12.0,61.0,Florida,Indian River County,32,43,NJ
+34003,34,3,New Jersey,Bergen County,12067,12.0,67.0,Florida,Lafayette County,31,39,NJ
+34017,34,17,New Jersey,Hudson County,12071,12.0,71.0,Florida,Lee County,10,15,NJ
+34021,34,21,New Jersey,Mercer County,12071,12.0,71.0,Florida,Lee County,11,19,NJ
+34027,34,27,New Jersey,Morris County,12071,12.0,71.0,Florida,Lee County,14,24,NJ
+34013,34,13,New Jersey,Essex County,12073,12.0,73.0,Florida,Leon County,37,38,NJ
+34025,34,25,New Jersey,Monmouth County,12081,12.0,81.0,Florida,Manatee County,7,9,NJ
+34021,34,21,New Jersey,Mercer County,12085,12.0,85.0,Florida,Martin County,10,15,NJ
+34009,34,9,New Jersey,Cape May County,12086,12.0,86.0,Florida,Miami-Dade County,3,4,NJ
+34015,34,15,New Jersey,Gloucester County,12086,12.0,86.0,Florida,Miami-Dade County,6,8,NJ
+34017,34,17,New Jersey,Hudson County,12086,12.0,86.0,Florida,Miami-Dade County,52,60,NJ
+34021,34,21,New Jersey,Mercer County,12086,12.0,86.0,Florida,Miami-Dade County,21,39,NJ
+34023,34,23,New Jersey,Middlesex County,12086,12.0,86.0,Florida,Miami-Dade County,15,25,NJ
+34025,34,25,New Jersey,Monmouth County,12086,12.0,86.0,Florida,Miami-Dade County,45,44,NJ
+34029,34,29,New Jersey,Ocean County,12087,12.0,87.0,Florida,Monroe County,20,32,NJ
+34003,34,3,New Jersey,Bergen County,12095,12.0,95.0,Florida,Orange County,26,30,NJ
+34007,34,7,New Jersey,Camden County,12095,12.0,95.0,Florida,Orange County,49,46,NJ
+34011,34,11,New Jersey,Cumberland County,12095,12.0,95.0,Florida,Orange County,11,10,NJ
+34023,34,23,New Jersey,Middlesex County,12095,12.0,95.0,Florida,Orange County,11,16,NJ
+34025,34,25,New Jersey,Monmouth County,12095,12.0,95.0,Florida,Orange County,9,11,NJ
+34031,34,31,New Jersey,Passaic County,12095,12.0,95.0,Florida,Orange County,7,13,NJ
+34001,34,1,New Jersey,Atlantic County,12099,12.0,99.0,Florida,Palm Beach County,3,4,NJ
+34005,34,5,New Jersey,Burlington County,12099,12.0,99.0,Florida,Palm Beach County,5,9,NJ
+34007,34,7,New Jersey,Camden County,12099,12.0,99.0,Florida,Palm Beach County,5,8,NJ
+34009,34,9,New Jersey,Cape May County,12099,12.0,99.0,Florida,Palm Beach County,3,5,NJ
+34015,34,15,New Jersey,Gloucester County,12099,12.0,99.0,Florida,Palm Beach County,26,32,NJ
+34023,34,23,New Jersey,Middlesex County,12099,12.0,99.0,Florida,Palm Beach County,20,30,NJ
+34031,34,31,New Jersey,Passaic County,12099,12.0,99.0,Florida,Palm Beach County,36,55,NJ
+34039,34,39,New Jersey,Union County,12099,12.0,99.0,Florida,Palm Beach County,13,21,NJ
+34007,34,7,New Jersey,Camden County,12103,12.0,103.0,Florida,Pinellas County,12,15,NJ
+34025,34,25,New Jersey,Monmouth County,12103,12.0,103.0,Florida,Pinellas County,30,48,NJ
+34009,34,9,New Jersey,Cape May County,12115,12.0,115.0,Florida,Sarasota County,3,4,NJ
+34013,34,13,New Jersey,Essex County,12115,12.0,115.0,Florida,Sarasota County,28,31,NJ
+34027,34,27,New Jersey,Morris County,12117,12.0,117.0,Florida,Seminole County,18,28,NJ
+34023,34,23,New Jersey,Middlesex County,12127,12.0,127.0,Florida,Volusia County,16,27,NJ
+34035,34,35,New Jersey,Somerset County,12127,12.0,127.0,Florida,Volusia County,6,10,NJ
+34015,34,15,New Jersey,Gloucester County,13031,13.0,31.0,Georgia,Bulloch County,12,19,NJ
+34007,34,7,New Jersey,Camden County,13033,13.0,33.0,Georgia,Burke County,9,14,NJ
+34041,34,41,New Jersey,Warren County,13045,13.0,45.0,Georgia,Carroll County,20,31,NJ
+34015,34,15,New Jersey,Gloucester County,13051,13.0,51.0,Georgia,Chatham County,20,22,NJ
+34017,34,17,New Jersey,Hudson County,13051,13.0,51.0,Georgia,Chatham County,22,25,NJ
+34017,34,17,New Jersey,Hudson County,13063,13.0,63.0,Georgia,Clayton County,18,29,NJ
+34001,34,1,New Jersey,Atlantic County,13067,13.0,67.0,Georgia,Cobb County,5,7,NJ
+34013,34,13,New Jersey,Essex County,13067,13.0,67.0,Georgia,Cobb County,5,9,NJ
+34017,34,17,New Jersey,Hudson County,13067,13.0,67.0,Georgia,Cobb County,19,29,NJ
+34023,34,23,New Jersey,Middlesex County,13067,13.0,67.0,Georgia,Cobb County,17,22,NJ
+34031,34,31,New Jersey,Passaic County,13067,13.0,67.0,Georgia,Cobb County,22,35,NJ
+34003,34,3,New Jersey,Bergen County,13089,13.0,89.0,Georgia,DeKalb County,8,12,NJ
+34023,34,23,New Jersey,Middlesex County,13089,13.0,89.0,Georgia,DeKalb County,11,16,NJ
+34027,34,27,New Jersey,Morris County,13089,13.0,89.0,Georgia,DeKalb County,20,34,NJ
+34035,34,35,New Jersey,Somerset County,13089,13.0,89.0,Georgia,DeKalb County,2,3,NJ
+34029,34,29,New Jersey,Ocean County,13117,13.0,117.0,Georgia,Forsyth County,4,7,NJ
+34001,34,1,New Jersey,Atlantic County,13121,13.0,121.0,Georgia,Fulton County,7,11,NJ
+34003,34,3,New Jersey,Bergen County,13121,13.0,121.0,Georgia,Fulton County,40,33,NJ
+34007,34,7,New Jersey,Camden County,13121,13.0,121.0,Georgia,Fulton County,26,28,NJ
+34013,34,13,New Jersey,Essex County,13121,13.0,121.0,Georgia,Fulton County,38,33,NJ
+34023,34,23,New Jersey,Middlesex County,13121,13.0,121.0,Georgia,Fulton County,4,8,NJ
+34025,34,25,New Jersey,Monmouth County,13121,13.0,121.0,Georgia,Fulton County,36,33,NJ
+34027,34,27,New Jersey,Morris County,13121,13.0,121.0,Georgia,Fulton County,9,15,NJ
+34031,34,31,New Jersey,Passaic County,13121,13.0,121.0,Georgia,Fulton County,8,12,NJ
+34035,34,35,New Jersey,Somerset County,13121,13.0,121.0,Georgia,Fulton County,31,36,NJ
+34039,34,39,New Jersey,Union County,13121,13.0,121.0,Georgia,Fulton County,26,35,NJ
+34025,34,25,New Jersey,Monmouth County,13127,13.0,127.0,Georgia,Glynn County,5,9,NJ
+34023,34,23,New Jersey,Middlesex County,13135,13.0,135.0,Georgia,Gwinnett County,3,5,NJ
+34003,34,3,New Jersey,Bergen County,13139,13.0,139.0,Georgia,Hall County,9,13,NJ
+34015,34,15,New Jersey,Gloucester County,13215,13.0,215.0,Georgia,Muscogee County,11,17,NJ
+34023,34,23,New Jersey,Middlesex County,13217,13.0,217.0,Georgia,Newton County,46,54,NJ
+34003,34,3,New Jersey,Bergen County,13219,13.0,219.0,Georgia,Oconee County,9,14,NJ
+34041,34,41,New Jersey,Warren County,13285,13.0,285.0,Georgia,Troup County,10,16,NJ
+34037,34,37,New Jersey,Sussex County,13303,13.0,303.0,Georgia,Washington County,5,8,NJ
+34003,34,3,New Jersey,Bergen County,15003,15.0,3.0,Hawaii,Honolulu County,10,14,NJ
+34037,34,37,New Jersey,Sussex County,15003,15.0,3.0,Hawaii,Honolulu County,8,12,NJ
+34003,34,3,New Jersey,Bergen County,16013,16.0,13.0,Idaho,Blaine County,6,11,NJ
+34021,34,21,New Jersey,Mercer County,17001,17.0,1.0,Illinois,Adams County,8,12,NJ
+34003,34,3,New Jersey,Bergen County,17031,17.0,31.0,Illinois,Cook County,76,52,NJ
+34005,34,5,New Jersey,Burlington County,17031,17.0,31.0,Illinois,Cook County,50,53,NJ
+34007,34,7,New Jersey,Camden County,17031,17.0,31.0,Illinois,Cook County,9,13,NJ
+34013,34,13,New Jersey,Essex County,17031,17.0,31.0,Illinois,Cook County,163,110,NJ
+34015,34,15,New Jersey,Gloucester County,17031,17.0,31.0,Illinois,Cook County,36,56,NJ
+34017,34,17,New Jersey,Hudson County,17031,17.0,31.0,Illinois,Cook County,87,67,NJ
+34023,34,23,New Jersey,Middlesex County,17031,17.0,31.0,Illinois,Cook County,48,56,NJ
+34025,34,25,New Jersey,Monmouth County,17031,17.0,31.0,Illinois,Cook County,41,45,NJ
+34027,34,27,New Jersey,Morris County,17031,17.0,31.0,Illinois,Cook County,53,42,NJ
+34029,34,29,New Jersey,Ocean County,17031,17.0,31.0,Illinois,Cook County,7,12,NJ
+34031,34,31,New Jersey,Passaic County,17031,17.0,31.0,Illinois,Cook County,17,30,NJ
+34035,34,35,New Jersey,Somerset County,17031,17.0,31.0,Illinois,Cook County,57,39,NJ
+34037,34,37,New Jersey,Sussex County,17031,17.0,31.0,Illinois,Cook County,17,21,NJ
+34039,34,39,New Jersey,Union County,17031,17.0,31.0,Illinois,Cook County,21,34,NJ
+34041,34,41,New Jersey,Warren County,17031,17.0,31.0,Illinois,Cook County,11,20,NJ
+34001,34,1,New Jersey,Atlantic County,17043,17.0,43.0,Illinois,DuPage County,9,16,NJ
+34003,34,3,New Jersey,Bergen County,17043,17.0,43.0,Illinois,DuPage County,23,29,NJ
+34025,34,25,New Jersey,Monmouth County,17043,17.0,43.0,Illinois,DuPage County,10,16,NJ
+34027,34,27,New Jersey,Morris County,17043,17.0,43.0,Illinois,DuPage County,9,14,NJ
+34029,34,29,New Jersey,Ocean County,17091,17.0,91.0,Illinois,Kankakee County,6,9,NJ
+34003,34,3,New Jersey,Bergen County,17097,17.0,97.0,Illinois,Lake County,16,27,NJ
+34005,34,5,New Jersey,Burlington County,17097,17.0,97.0,Illinois,Lake County,12,19,NJ
+34007,34,7,New Jersey,Camden County,17097,17.0,97.0,Illinois,Lake County,8,12,NJ
+34013,34,13,New Jersey,Essex County,17097,17.0,97.0,Illinois,Lake County,13,19,NJ
+34019,34,19,New Jersey,Hunterdon County,17097,17.0,97.0,Illinois,Lake County,14,23,NJ
+34023,34,23,New Jersey,Middlesex County,17097,17.0,97.0,Illinois,Lake County,38,34,NJ
+34025,34,25,New Jersey,Monmouth County,17097,17.0,97.0,Illinois,Lake County,9,15,NJ
+34027,34,27,New Jersey,Morris County,17097,17.0,97.0,Illinois,Lake County,25,27,NJ
+34029,34,29,New Jersey,Ocean County,17097,17.0,97.0,Illinois,Lake County,6,6,NJ
+34027,34,27,New Jersey,Morris County,17111,17.0,111.0,Illinois,McHenry County,5,8,NJ
+34025,34,25,New Jersey,Monmouth County,17119,17.0,119.0,Illinois,Madison County,14,21,NJ
+34005,34,5,New Jersey,Burlington County,17163,17.0,163.0,Illinois,St. Clair County,3,5,NJ
+34039,34,39,New Jersey,Union County,17167,17.0,167.0,Illinois,Sangamon County,12,18,NJ
+34029,34,29,New Jersey,Ocean County,17197,17.0,197.0,Illinois,Will County,9,14,NJ
+34023,34,23,New Jersey,Middlesex County,18057,18.0,57.0,Indiana,Hamilton County,6,10,NJ
+34029,34,29,New Jersey,Ocean County,18063,18.0,63.0,Indiana,Hendricks County,3,7,NJ
+34001,34,1,New Jersey,Atlantic County,18097,18.0,97.0,Indiana,Marion County,13,35,NJ
+34003,34,3,New Jersey,Bergen County,18097,18.0,97.0,Indiana,Marion County,15,30,NJ
+34015,34,15,New Jersey,Gloucester County,18097,18.0,97.0,Indiana,Marion County,39,44,NJ
+34023,34,23,New Jersey,Middlesex County,18097,18.0,97.0,Indiana,Marion County,14,19,NJ
+34025,34,25,New Jersey,Monmouth County,18097,18.0,97.0,Indiana,Marion County,14,22,NJ
+34027,34,27,New Jersey,Morris County,18097,18.0,97.0,Indiana,Marion County,9,13,NJ
+34013,34,13,New Jersey,Essex County,18129,18.0,129.0,Indiana,Posey County,6,9,NJ
+34023,34,23,New Jersey,Middlesex County,18141,18.0,141.0,Indiana,St. Joseph County,12,17,NJ
+34027,34,27,New Jersey,Morris County,18141,18.0,141.0,Indiana,St. Joseph County,12,21,NJ
+34007,34,7,New Jersey,Camden County,19061,19.0,61.0,Iowa,Dubuque County,3,6,NJ
+34037,34,37,New Jersey,Sussex County,19153,19.0,153.0,Iowa,Polk County,16,24,NJ
+34001,34,1,New Jersey,Atlantic County,20091,20.0,91.0,Kansas,Johnson County,46,58,NJ
+34029,34,29,New Jersey,Ocean County,20091,20.0,91.0,Kansas,Johnson County,22,28,NJ
+34035,34,35,New Jersey,Somerset County,20091,20.0,91.0,Kansas,Johnson County,10,16,NJ
+34035,34,35,New Jersey,Somerset County,20103,20.0,103.0,Kansas,Leavenworth County,12,22,NJ
+34027,34,27,New Jersey,Morris County,20209,20.0,209.0,Kansas,Wyandotte County,3,7,NJ
+34035,34,35,New Jersey,Somerset County,20209,20.0,209.0,Kansas,Wyandotte County,1,2,NJ
+34039,34,39,New Jersey,Union County,21015,21.0,15.0,Kentucky,Boone County,8,12,NJ
+34015,34,15,New Jersey,Gloucester County,21037,21.0,37.0,Kentucky,Campbell County,14,25,NJ
+34017,34,17,New Jersey,Hudson County,21093,21.0,93.0,Kentucky,Hardin County,14,24,NJ
+34031,34,31,New Jersey,Passaic County,21093,21.0,93.0,Kentucky,Hardin County,9,13,NJ
+34013,34,13,New Jersey,Essex County,21107,21.0,107.0,Kentucky,Hopkins County,4,6,NJ
+34003,34,3,New Jersey,Bergen County,21111,21.0,111.0,Kentucky,Jefferson County,43,65,NJ
+34007,34,7,New Jersey,Camden County,21111,21.0,111.0,Kentucky,Jefferson County,25,29,NJ
+34029,34,29,New Jersey,Ocean County,21111,21.0,111.0,Kentucky,Jefferson County,8,13,NJ
+34037,34,37,New Jersey,Sussex County,21111,21.0,111.0,Kentucky,Jefferson County,8,12,NJ
+34039,34,39,New Jersey,Union County,21111,21.0,111.0,Kentucky,Jefferson County,18,22,NJ
+34005,34,5,New Jersey,Burlington County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,6,11,NJ
+34029,34,29,New Jersey,Ocean County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,5,8,NJ
+34019,34,19,New Jersey,Hunterdon County,22051,22.0,51.0,Louisiana,Jefferson Parish,16,25,NJ
+34025,34,25,New Jersey,Monmouth County,22051,22.0,51.0,Louisiana,Jefferson Parish,18,30,NJ
+34013,34,13,New Jersey,Essex County,22071,22.0,71.0,Louisiana,Orleans Parish,6,10,NJ
+34017,34,17,New Jersey,Hudson County,22071,22.0,71.0,Louisiana,Orleans Parish,7,10,NJ
+34025,34,25,New Jersey,Monmouth County,22071,22.0,71.0,Louisiana,Orleans Parish,8,14,NJ
+34017,34,17,New Jersey,Hudson County,22101,22.0,101.0,Louisiana,St. Mary Parish,21,33,NJ
+34029,34,29,New Jersey,Ocean County,22109,22.0,109.0,Louisiana,Terrebonne Parish,8,12,NJ
+34035,34,35,New Jersey,Somerset County,22115,22.0,115.0,Louisiana,Vernon Parish,15,24,NJ
+34031,34,31,New Jersey,Passaic County,23001,23.0,1.0,Maine,Androscoggin County,6,9,NJ
+34037,34,37,New Jersey,Sussex County,23003,23.0,3.0,Maine,Aroostook County,8,12,NJ
+34025,34,25,New Jersey,Monmouth County,23005,23.0,5.0,Maine,Cumberland County,14,22,NJ
+34017,34,17,New Jersey,Hudson County,23009,23.0,9.0,Maine,Hancock County,7,11,NJ
+34003,34,3,New Jersey,Bergen County,23011,23.0,11.0,Maine,Kennebec County,84,62,NJ
+34025,34,25,New Jersey,Monmouth County,23013,23.0,13.0,Maine,Knox County,24,43,NJ
+34017,34,17,New Jersey,Hudson County,23019,23.0,19.0,Maine,Penobscot County,9,14,NJ
+34029,34,29,New Jersey,Ocean County,23031,23.0,31.0,Maine,York County,9,13,NJ
+34039,34,39,New Jersey,Union County,23031,23.0,31.0,Maine,York County,16,28,NJ
+34001,34,1,New Jersey,Atlantic County,24003,24.0,3.0,Maryland,Anne Arundel County,15,23,NJ
+34005,34,5,New Jersey,Burlington County,24003,24.0,3.0,Maryland,Anne Arundel County,7,11,NJ
+34007,34,7,New Jersey,Camden County,24003,24.0,3.0,Maryland,Anne Arundel County,5,8,NJ
+34009,34,9,New Jersey,Cape May County,24003,24.0,3.0,Maryland,Anne Arundel County,10,15,NJ
+34011,34,11,New Jersey,Cumberland County,24003,24.0,3.0,Maryland,Anne Arundel County,21,32,NJ
+34015,34,15,New Jersey,Gloucester County,24003,24.0,3.0,Maryland,Anne Arundel County,7,11,NJ
+34021,34,21,New Jersey,Mercer County,24003,24.0,3.0,Maryland,Anne Arundel County,45,49,NJ
+34023,34,23,New Jersey,Middlesex County,24003,24.0,3.0,Maryland,Anne Arundel County,30,31,NJ
+34025,34,25,New Jersey,Monmouth County,24003,24.0,3.0,Maryland,Anne Arundel County,27,24,NJ
+34027,34,27,New Jersey,Morris County,24003,24.0,3.0,Maryland,Anne Arundel County,16,23,NJ
+34029,34,29,New Jersey,Ocean County,24003,24.0,3.0,Maryland,Anne Arundel County,20,16,NJ
+34037,34,37,New Jersey,Sussex County,24003,24.0,3.0,Maryland,Anne Arundel County,9,14,NJ
+34039,34,39,New Jersey,Union County,24003,24.0,3.0,Maryland,Anne Arundel County,31,34,NJ
+34007,34,7,New Jersey,Camden County,24005,24.0,5.0,Maryland,Baltimore County,10,16,NJ
+34009,34,9,New Jersey,Cape May County,24005,24.0,5.0,Maryland,Baltimore County,3,5,NJ
+34017,34,17,New Jersey,Hudson County,24005,24.0,5.0,Maryland,Baltimore County,8,12,NJ
+34023,34,23,New Jersey,Middlesex County,24005,24.0,5.0,Maryland,Baltimore County,12,18,NJ
+34025,34,25,New Jersey,Monmouth County,24005,24.0,5.0,Maryland,Baltimore County,10,15,NJ
+34027,34,27,New Jersey,Morris County,24005,24.0,5.0,Maryland,Baltimore County,26,42,NJ
+34029,34,29,New Jersey,Ocean County,24005,24.0,5.0,Maryland,Baltimore County,9,14,NJ
+34033,34,33,New Jersey,Salem County,24005,24.0,5.0,Maryland,Baltimore County,9,12,NJ
+34035,34,35,New Jersey,Somerset County,24005,24.0,5.0,Maryland,Baltimore County,39,46,NJ
+34037,34,37,New Jersey,Sussex County,24005,24.0,5.0,Maryland,Baltimore County,36,50,NJ
+34041,34,41,New Jersey,Warren County,24005,24.0,5.0,Maryland,Baltimore County,27,31,NJ
+34007,34,7,New Jersey,Camden County,24009,24.0,9.0,Maryland,Calvert County,6,11,NJ
+34013,34,13,New Jersey,Essex County,24013,24.0,13.0,Maryland,Carroll County,8,12,NJ
+34007,34,7,New Jersey,Camden County,24015,24.0,15.0,Maryland,Cecil County,35,52,NJ
+34011,34,11,New Jersey,Cumberland County,24015,24.0,15.0,Maryland,Cecil County,2,3,NJ
+34033,34,33,New Jersey,Salem County,24015,24.0,15.0,Maryland,Cecil County,87,62,NJ
+34015,34,15,New Jersey,Gloucester County,24017,24.0,17.0,Maryland,Charles County,16,24,NJ
+34023,34,23,New Jersey,Middlesex County,24019,24.0,19.0,Maryland,Dorchester County,29,31,NJ
+34019,34,19,New Jersey,Hunterdon County,24021,24.0,21.0,Maryland,Frederick County,3,5,NJ
+34021,34,21,New Jersey,Mercer County,24021,24.0,21.0,Maryland,Frederick County,10,16,NJ
+34003,34,3,New Jersey,Bergen County,24025,24.0,25.0,Maryland,Harford County,20,32,NJ
+34005,34,5,New Jersey,Burlington County,24025,24.0,25.0,Maryland,Harford County,71,42,NJ
+34007,34,7,New Jersey,Camden County,24025,24.0,25.0,Maryland,Harford County,64,67,NJ
+34013,34,13,New Jersey,Essex County,24025,24.0,25.0,Maryland,Harford County,8,12,NJ
+34015,34,15,New Jersey,Gloucester County,24025,24.0,25.0,Maryland,Harford County,107,70,NJ
+34019,34,19,New Jersey,Hunterdon County,24025,24.0,25.0,Maryland,Harford County,1,4,NJ
+34021,34,21,New Jersey,Mercer County,24025,24.0,25.0,Maryland,Harford County,33,40,NJ
+34023,34,23,New Jersey,Middlesex County,24025,24.0,25.0,Maryland,Harford County,79,67,NJ
+34025,34,25,New Jersey,Monmouth County,24025,24.0,25.0,Maryland,Harford County,364,121,NJ
+34029,34,29,New Jersey,Ocean County,24025,24.0,25.0,Maryland,Harford County,163,86,NJ
+34033,34,33,New Jersey,Salem County,24025,24.0,25.0,Maryland,Harford County,5,8,NJ
+34003,34,3,New Jersey,Bergen County,24027,24.0,27.0,Maryland,Howard County,13,23,NJ
+34005,34,5,New Jersey,Burlington County,24027,24.0,27.0,Maryland,Howard County,15,20,NJ
+34007,34,7,New Jersey,Camden County,24027,24.0,27.0,Maryland,Howard County,16,25,NJ
+34009,34,9,New Jersey,Cape May County,24027,24.0,27.0,Maryland,Howard County,5,7,NJ
+34025,34,25,New Jersey,Monmouth County,24027,24.0,27.0,Maryland,Howard County,10,15,NJ
+34027,34,27,New Jersey,Morris County,24027,24.0,27.0,Maryland,Howard County,9,14,NJ
+34031,34,31,New Jersey,Passaic County,24027,24.0,27.0,Maryland,Howard County,8,14,NJ
+34035,34,35,New Jersey,Somerset County,24027,24.0,27.0,Maryland,Howard County,18,32,NJ
+34001,34,1,New Jersey,Atlantic County,24031,24.0,31.0,Maryland,Montgomery County,10,15,NJ
+34003,34,3,New Jersey,Bergen County,24031,24.0,31.0,Maryland,Montgomery County,26,34,NJ
+34005,34,5,New Jersey,Burlington County,24031,24.0,31.0,Maryland,Montgomery County,42,45,NJ
+34007,34,7,New Jersey,Camden County,24031,24.0,31.0,Maryland,Montgomery County,30,30,NJ
+34009,34,9,New Jersey,Cape May County,24031,24.0,31.0,Maryland,Montgomery County,10,15,NJ
+34011,34,11,New Jersey,Cumberland County,24031,24.0,31.0,Maryland,Montgomery County,1,2,NJ
+34013,34,13,New Jersey,Essex County,24031,24.0,31.0,Maryland,Montgomery County,62,47,NJ
+34015,34,15,New Jersey,Gloucester County,24031,24.0,31.0,Maryland,Montgomery County,9,14,NJ
+34021,34,21,New Jersey,Mercer County,24031,24.0,31.0,Maryland,Montgomery County,18,28,NJ
+34023,34,23,New Jersey,Middlesex County,24031,24.0,31.0,Maryland,Montgomery County,8,13,NJ
+34025,34,25,New Jersey,Monmouth County,24031,24.0,31.0,Maryland,Montgomery County,10,15,NJ
+34027,34,27,New Jersey,Morris County,24031,24.0,31.0,Maryland,Montgomery County,32,30,NJ
+34029,34,29,New Jersey,Ocean County,24031,24.0,31.0,Maryland,Montgomery County,17,22,NJ
+34033,34,33,New Jersey,Salem County,24031,24.0,31.0,Maryland,Montgomery County,21,21,NJ
+34035,34,35,New Jersey,Somerset County,24031,24.0,31.0,Maryland,Montgomery County,65,67,NJ
+34003,34,3,New Jersey,Bergen County,24033,24.0,33.0,Maryland,Prince George's County,23,24,NJ
+34005,34,5,New Jersey,Burlington County,24033,24.0,33.0,Maryland,Prince George's County,25,27,NJ
+34007,34,7,New Jersey,Camden County,24033,24.0,33.0,Maryland,Prince George's County,11,12,NJ
+34015,34,15,New Jersey,Gloucester County,24033,24.0,33.0,Maryland,Prince George's County,44,47,NJ
+34021,34,21,New Jersey,Mercer County,24033,24.0,33.0,Maryland,Prince George's County,16,25,NJ
+34023,34,23,New Jersey,Middlesex County,24033,24.0,33.0,Maryland,Prince George's County,14,22,NJ
+34025,34,25,New Jersey,Monmouth County,24033,24.0,33.0,Maryland,Prince George's County,2,3,NJ
+34027,34,27,New Jersey,Morris County,24033,24.0,33.0,Maryland,Prince George's County,27,23,NJ
+34035,34,35,New Jersey,Somerset County,24033,24.0,33.0,Maryland,Prince George's County,7,11,NJ
+34007,34,7,New Jersey,Camden County,24037,24.0,37.0,Maryland,St. Mary's County,9,15,NJ
+34001,34,1,New Jersey,Atlantic County,24045,24.0,45.0,Maryland,Wicomico County,8,10,NJ
+34035,34,35,New Jersey,Somerset County,24045,24.0,45.0,Maryland,Wicomico County,29,34,NJ
+34005,34,5,New Jersey,Burlington County,24047,24.0,47.0,Maryland,Worcester County,16,20,NJ
+34027,34,27,New Jersey,Morris County,24047,24.0,47.0,Maryland,Worcester County,7,11,NJ
+34001,34,1,New Jersey,Atlantic County,24510,24.0,510.0,Maryland,Baltimore city,29,37,NJ
+34005,34,5,New Jersey,Burlington County,24510,24.0,510.0,Maryland,Baltimore city,55,42,NJ
+34007,34,7,New Jersey,Camden County,24510,24.0,510.0,Maryland,Baltimore city,65,55,NJ
+34013,34,13,New Jersey,Essex County,24510,24.0,510.0,Maryland,Baltimore city,27,32,NJ
+34015,34,15,New Jersey,Gloucester County,24510,24.0,510.0,Maryland,Baltimore city,62,40,NJ
+34017,34,17,New Jersey,Hudson County,24510,24.0,510.0,Maryland,Baltimore city,34,50,NJ
+34021,34,21,New Jersey,Mercer County,24510,24.0,510.0,Maryland,Baltimore city,45,44,NJ
+34023,34,23,New Jersey,Middlesex County,24510,24.0,510.0,Maryland,Baltimore city,9,10,NJ
+34025,34,25,New Jersey,Monmouth County,24510,24.0,510.0,Maryland,Baltimore city,45,48,NJ
+34029,34,29,New Jersey,Ocean County,24510,24.0,510.0,Maryland,Baltimore city,52,73,NJ
+34033,34,33,New Jersey,Salem County,24510,24.0,510.0,Maryland,Baltimore city,6,9,NJ
+34037,34,37,New Jersey,Sussex County,24510,24.0,510.0,Maryland,Baltimore city,9,15,NJ
+34039,34,39,New Jersey,Union County,24510,24.0,510.0,Maryland,Baltimore city,8,13,NJ
+34003,34,3,New Jersey,Bergen County,25001,25.0,1.0,Massachusetts,Barnstable County,8,14,NJ
+34013,34,13,New Jersey,Essex County,25001,25.0,1.0,Massachusetts,Barnstable County,8,13,NJ
+34025,34,25,New Jersey,Monmouth County,25001,25.0,1.0,Massachusetts,Barnstable County,11,16,NJ
+34003,34,3,New Jersey,Bergen County,25003,25.0,3.0,Massachusetts,Berkshire County,4,6,NJ
+34019,34,19,New Jersey,Hunterdon County,25003,25.0,3.0,Massachusetts,Berkshire County,4,7,NJ
+34029,34,29,New Jersey,Ocean County,25003,25.0,3.0,Massachusetts,Berkshire County,25,29,NJ
+34015,34,15,New Jersey,Gloucester County,25005,25.0,5.0,Massachusetts,Bristol County,19,32,NJ
+34035,34,35,New Jersey,Somerset County,25005,25.0,5.0,Massachusetts,Bristol County,6,9,NJ
+34039,34,39,New Jersey,Union County,25005,25.0,5.0,Massachusetts,Bristol County,12,20,NJ
+34005,34,5,New Jersey,Burlington County,25009,25.0,9.0,Massachusetts,Essex County,28,30,NJ
+34015,34,15,New Jersey,Gloucester County,25009,25.0,9.0,Massachusetts,Essex County,5,7,NJ
+34025,34,25,New Jersey,Monmouth County,25009,25.0,9.0,Massachusetts,Essex County,40,57,NJ
+34023,34,23,New Jersey,Middlesex County,25011,25.0,11.0,Massachusetts,Franklin County,9,12,NJ
+34025,34,25,New Jersey,Monmouth County,25011,25.0,11.0,Massachusetts,Franklin County,9,14,NJ
+34005,34,5,New Jersey,Burlington County,25013,25.0,13.0,Massachusetts,Hampden County,10,15,NJ
+34027,34,27,New Jersey,Morris County,25013,25.0,13.0,Massachusetts,Hampden County,11,17,NJ
+34031,34,31,New Jersey,Passaic County,25013,25.0,13.0,Massachusetts,Hampden County,8,12,NJ
+34039,34,39,New Jersey,Union County,25013,25.0,13.0,Massachusetts,Hampden County,17,27,NJ
+34013,34,13,New Jersey,Essex County,25015,25.0,15.0,Massachusetts,Hampshire County,10,14,NJ
+34037,34,37,New Jersey,Sussex County,25015,25.0,15.0,Massachusetts,Hampshire County,15,23,NJ
+34001,34,1,New Jersey,Atlantic County,25017,25.0,17.0,Massachusetts,Middlesex County,17,23,NJ
+34003,34,3,New Jersey,Bergen County,25017,25.0,17.0,Massachusetts,Middlesex County,79,74,NJ
+34005,34,5,New Jersey,Burlington County,25017,25.0,17.0,Massachusetts,Middlesex County,27,37,NJ
+34007,34,7,New Jersey,Camden County,25017,25.0,17.0,Massachusetts,Middlesex County,32,40,NJ
+34013,34,13,New Jersey,Essex County,25017,25.0,17.0,Massachusetts,Middlesex County,34,31,NJ
+34015,34,15,New Jersey,Gloucester County,25017,25.0,17.0,Massachusetts,Middlesex County,2,4,NJ
+34017,34,17,New Jersey,Hudson County,25017,25.0,17.0,Massachusetts,Middlesex County,37,60,NJ
+34019,34,19,New Jersey,Hunterdon County,25017,25.0,17.0,Massachusetts,Middlesex County,40,35,NJ
+34021,34,21,New Jersey,Mercer County,25017,25.0,17.0,Massachusetts,Middlesex County,13,15,NJ
+34023,34,23,New Jersey,Middlesex County,25017,25.0,17.0,Massachusetts,Middlesex County,8,14,NJ
+34025,34,25,New Jersey,Monmouth County,25017,25.0,17.0,Massachusetts,Middlesex County,50,45,NJ
+34027,34,27,New Jersey,Morris County,25017,25.0,17.0,Massachusetts,Middlesex County,56,51,NJ
+34029,34,29,New Jersey,Ocean County,25017,25.0,17.0,Massachusetts,Middlesex County,75,72,NJ
+34031,34,31,New Jersey,Passaic County,25017,25.0,17.0,Massachusetts,Middlesex County,18,24,NJ
+34035,34,35,New Jersey,Somerset County,25017,25.0,17.0,Massachusetts,Middlesex County,38,45,NJ
+34039,34,39,New Jersey,Union County,25017,25.0,17.0,Massachusetts,Middlesex County,10,17,NJ
+34041,34,41,New Jersey,Warren County,25017,25.0,17.0,Massachusetts,Middlesex County,12,19,NJ
+34013,34,13,New Jersey,Essex County,25021,25.0,21.0,Massachusetts,Norfolk County,7,13,NJ
+34021,34,21,New Jersey,Mercer County,25021,25.0,21.0,Massachusetts,Norfolk County,4,6,NJ
+34023,34,23,New Jersey,Middlesex County,25021,25.0,21.0,Massachusetts,Norfolk County,11,17,NJ
+34039,34,39,New Jersey,Union County,25021,25.0,21.0,Massachusetts,Norfolk County,17,28,NJ
+34013,34,13,New Jersey,Essex County,25023,25.0,23.0,Massachusetts,Plymouth County,3,4,NJ
+34001,34,1,New Jersey,Atlantic County,25025,25.0,25.0,Massachusetts,Suffolk County,11,17,NJ
+34003,34,3,New Jersey,Bergen County,25025,25.0,25.0,Massachusetts,Suffolk County,85,69,NJ
+34005,34,5,New Jersey,Burlington County,25025,25.0,25.0,Massachusetts,Suffolk County,28,27,NJ
+34007,34,7,New Jersey,Camden County,25025,25.0,25.0,Massachusetts,Suffolk County,11,17,NJ
+34013,34,13,New Jersey,Essex County,25025,25.0,25.0,Massachusetts,Suffolk County,96,67,NJ
+34015,34,15,New Jersey,Gloucester County,25025,25.0,25.0,Massachusetts,Suffolk County,12,19,NJ
+34017,34,17,New Jersey,Hudson County,25025,25.0,25.0,Massachusetts,Suffolk County,59,53,NJ
+34019,34,19,New Jersey,Hunterdon County,25025,25.0,25.0,Massachusetts,Suffolk County,63,69,NJ
+34023,34,23,New Jersey,Middlesex County,25025,25.0,25.0,Massachusetts,Suffolk County,21,24,NJ
+34025,34,25,New Jersey,Monmouth County,25025,25.0,25.0,Massachusetts,Suffolk County,22,22,NJ
+34027,34,27,New Jersey,Morris County,25025,25.0,25.0,Massachusetts,Suffolk County,12,18,NJ
+34035,34,35,New Jersey,Somerset County,25025,25.0,25.0,Massachusetts,Suffolk County,7,10,NJ
+34037,34,37,New Jersey,Sussex County,25025,25.0,25.0,Massachusetts,Suffolk County,48,54,NJ
+34039,34,39,New Jersey,Union County,25025,25.0,25.0,Massachusetts,Suffolk County,52,61,NJ
+34041,34,41,New Jersey,Warren County,25025,25.0,25.0,Massachusetts,Suffolk County,5,8,NJ
+34003,34,3,New Jersey,Bergen County,25027,25.0,27.0,Massachusetts,Worcester County,17,13,NJ
+34005,34,5,New Jersey,Burlington County,25027,25.0,27.0,Massachusetts,Worcester County,4,7,NJ
+34007,34,7,New Jersey,Camden County,25027,25.0,27.0,Massachusetts,Worcester County,36,52,NJ
+34013,34,13,New Jersey,Essex County,25027,25.0,27.0,Massachusetts,Worcester County,21,32,NJ
+34015,34,15,New Jersey,Gloucester County,25027,25.0,27.0,Massachusetts,Worcester County,18,22,NJ
+34027,34,27,New Jersey,Morris County,25027,25.0,27.0,Massachusetts,Worcester County,33,32,NJ
+34029,34,29,New Jersey,Ocean County,25027,25.0,27.0,Massachusetts,Worcester County,10,14,NJ
+34037,34,37,New Jersey,Sussex County,25027,25.0,27.0,Massachusetts,Worcester County,2,3,NJ
+34023,34,23,New Jersey,Middlesex County,26021,26.0,21.0,Michigan,Berrien County,19,32,NJ
+34035,34,35,New Jersey,Somerset County,26025,26.0,25.0,Michigan,Calhoun County,6,11,NJ
+34025,34,25,New Jersey,Monmouth County,26057,26.0,57.0,Michigan,Gratiot County,7,12,NJ
+34027,34,27,New Jersey,Morris County,26065,26.0,65.0,Michigan,Ingham County,38,59,NJ
+34035,34,35,New Jersey,Somerset County,26065,26.0,65.0,Michigan,Ingham County,10,15,NJ
+34037,34,37,New Jersey,Sussex County,26065,26.0,65.0,Michigan,Ingham County,10,15,NJ
+34037,34,37,New Jersey,Sussex County,26075,26.0,75.0,Michigan,Jackson County,11,18,NJ
+34031,34,31,New Jersey,Passaic County,26077,26.0,77.0,Michigan,Kalamazoo County,10,15,NJ
+34027,34,27,New Jersey,Morris County,26081,26.0,81.0,Michigan,Kent County,5,8,NJ
+34031,34,31,New Jersey,Passaic County,26093,26.0,93.0,Michigan,Livingston County,7,10,NJ
+34039,34,39,New Jersey,Union County,26097,26.0,97.0,Michigan,Mackinac County,14,24,NJ
+34003,34,3,New Jersey,Bergen County,26111,26.0,111.0,Michigan,Midland County,21,26,NJ
+34023,34,23,New Jersey,Middlesex County,26115,26.0,115.0,Michigan,Monroe County,7,9,NJ
+34029,34,29,New Jersey,Ocean County,26115,26.0,115.0,Michigan,Monroe County,9,14,NJ
+34019,34,19,New Jersey,Hunterdon County,26125,26.0,125.0,Michigan,Oakland County,14,23,NJ
+34029,34,29,New Jersey,Ocean County,26125,26.0,125.0,Michigan,Oakland County,16,26,NJ
+34039,34,39,New Jersey,Union County,26125,26.0,125.0,Michigan,Oakland County,15,26,NJ
+34041,34,41,New Jersey,Warren County,26125,26.0,125.0,Michigan,Oakland County,9,15,NJ
+34039,34,39,New Jersey,Union County,26151,26.0,151.0,Michigan,Sanilac County,4,7,NJ
+34003,34,3,New Jersey,Bergen County,26161,26.0,161.0,Michigan,Washtenaw County,12,21,NJ
+34013,34,13,New Jersey,Essex County,26161,26.0,161.0,Michigan,Washtenaw County,8,14,NJ
+34021,34,21,New Jersey,Mercer County,26161,26.0,161.0,Michigan,Washtenaw County,15,24,NJ
+34027,34,27,New Jersey,Morris County,26161,26.0,161.0,Michigan,Washtenaw County,22,32,NJ
+34037,34,37,New Jersey,Sussex County,26161,26.0,161.0,Michigan,Washtenaw County,1,4,NJ
+34001,34,1,New Jersey,Atlantic County,26163,26.0,163.0,Michigan,Wayne County,8,14,NJ
+34003,34,3,New Jersey,Bergen County,26163,26.0,163.0,Michigan,Wayne County,20,31,NJ
+34005,34,5,New Jersey,Burlington County,26163,26.0,163.0,Michigan,Wayne County,3,6,NJ
+34007,34,7,New Jersey,Camden County,26163,26.0,163.0,Michigan,Wayne County,4,6,NJ
+34013,34,13,New Jersey,Essex County,26163,26.0,163.0,Michigan,Wayne County,12,20,NJ
+34015,34,15,New Jersey,Gloucester County,26163,26.0,163.0,Michigan,Wayne County,13,20,NJ
+34017,34,17,New Jersey,Hudson County,26163,26.0,163.0,Michigan,Wayne County,11,16,NJ
+34023,34,23,New Jersey,Middlesex County,26163,26.0,163.0,Michigan,Wayne County,12,18,NJ
+34027,34,27,New Jersey,Morris County,26163,26.0,163.0,Michigan,Wayne County,5,6,NJ
+34041,34,41,New Jersey,Warren County,26163,26.0,163.0,Michigan,Wayne County,7,10,NJ
+34007,34,7,New Jersey,Camden County,27003,27.0,3.0,Minnesota,Anoka County,11,19,NJ
+34013,34,13,New Jersey,Essex County,27053,27.0,53.0,Minnesota,Hennepin County,30,36,NJ
+34017,34,17,New Jersey,Hudson County,27053,27.0,53.0,Minnesota,Hennepin County,16,18,NJ
+34021,34,21,New Jersey,Mercer County,27053,27.0,53.0,Minnesota,Hennepin County,13,20,NJ
+34025,34,25,New Jersey,Monmouth County,27053,27.0,53.0,Minnesota,Hennepin County,12,17,NJ
+34027,34,27,New Jersey,Morris County,27053,27.0,53.0,Minnesota,Hennepin County,29,37,NJ
+34029,34,29,New Jersey,Ocean County,27053,27.0,53.0,Minnesota,Hennepin County,3,5,NJ
+34039,34,39,New Jersey,Union County,27053,27.0,53.0,Minnesota,Hennepin County,9,15,NJ
+34023,34,23,New Jersey,Middlesex County,27123,27.0,123.0,Minnesota,Ramsey County,9,13,NJ
+34029,34,29,New Jersey,Ocean County,27123,27.0,123.0,Minnesota,Ramsey County,51,71,NJ
+34015,34,15,New Jersey,Gloucester County,27137,27.0,137.0,Minnesota,St. Louis County,22,24,NJ
+34019,34,19,New Jersey,Hunterdon County,27137,27.0,137.0,Minnesota,St. Louis County,13,21,NJ
+34033,34,33,New Jersey,Salem County,27163,27.0,163.0,Minnesota,Washington County,8,13,NJ
+34029,34,29,New Jersey,Ocean County,28049,28.0,49.0,Mississippi,Hinds County,3,5,NJ
+34033,34,33,New Jersey,Salem County,28049,28.0,49.0,Mississippi,Hinds County,10,16,NJ
+34029,34,29,New Jersey,Ocean County,28089,28.0,89.0,Mississippi,Madison County,20,32,NJ
+34025,34,25,New Jersey,Monmouth County,29021,29.0,21.0,Missouri,Buchanan County,22,26,NJ
+34013,34,13,New Jersey,Essex County,29071,29.0,71.0,Missouri,Franklin County,15,24,NJ
+34001,34,1,New Jersey,Atlantic County,29077,29.0,77.0,Missouri,Greene County,14,22,NJ
+34039,34,39,New Jersey,Union County,29077,29.0,77.0,Missouri,Greene County,10,16,NJ
+34005,34,5,New Jersey,Burlington County,29169,29.0,169.0,Missouri,Pulaski County,20,29,NJ
+34007,34,7,New Jersey,Camden County,29169,29.0,169.0,Missouri,Pulaski County,13,23,NJ
+34003,34,3,New Jersey,Bergen County,29179,29.0,179.0,Missouri,Reynolds County,7,10,NJ
+34001,34,1,New Jersey,Atlantic County,29189,29.0,189.0,Missouri,St. Louis County,9,16,NJ
+34005,34,5,New Jersey,Burlington County,29189,29.0,189.0,Missouri,St. Louis County,26,20,NJ
+34017,34,17,New Jersey,Hudson County,29189,29.0,189.0,Missouri,St. Louis County,25,33,NJ
+34031,34,31,New Jersey,Passaic County,29189,29.0,189.0,Missouri,St. Louis County,8,12,NJ
+34041,34,41,New Jersey,Warren County,29189,29.0,189.0,Missouri,St. Louis County,10,13,NJ
+34003,34,3,New Jersey,Bergen County,29510,29.0,510.0,Missouri,St. Louis city,22,23,NJ
+34013,34,13,New Jersey,Essex County,29510,29.0,510.0,Missouri,St. Louis city,9,14,NJ
+34025,34,25,New Jersey,Monmouth County,29510,29.0,510.0,Missouri,St. Louis city,8,13,NJ
+34023,34,23,New Jersey,Middlesex County,30013,30.0,13.0,Montana,Cascade County,34,49,NJ
+34007,34,7,New Jersey,Camden County,30111,30.0,111.0,Montana,Yellowstone County,4,6,NJ
+34017,34,17,New Jersey,Hudson County,31001,31.0,1.0,Nebraska,Adams County,3,7,NJ
+34005,34,5,New Jersey,Burlington County,31055,31.0,55.0,Nebraska,Douglas County,5,8,NJ
+34017,34,17,New Jersey,Hudson County,31055,31.0,55.0,Nebraska,Douglas County,22,32,NJ
+34023,34,23,New Jersey,Middlesex County,31055,31.0,55.0,Nebraska,Douglas County,14,16,NJ
+34003,34,3,New Jersey,Bergen County,31141,31.0,141.0,Nebraska,Platte County,9,14,NJ
+34011,34,11,New Jersey,Cumberland County,31153,31.0,153.0,Nebraska,Sarpy County,8,15,NJ
+34001,34,1,New Jersey,Atlantic County,32003,32.0,3.0,Nevada,Clark County,46,72,NJ
+34003,34,3,New Jersey,Bergen County,32003,32.0,3.0,Nevada,Clark County,75,100,NJ
+34007,34,7,New Jersey,Camden County,32003,32.0,3.0,Nevada,Clark County,15,18,NJ
+34017,34,17,New Jersey,Hudson County,32003,32.0,3.0,Nevada,Clark County,11,25,NJ
+34025,34,25,New Jersey,Monmouth County,32003,32.0,3.0,Nevada,Clark County,23,29,NJ
+34029,34,29,New Jersey,Ocean County,32003,32.0,3.0,Nevada,Clark County,16,26,NJ
+34039,34,39,New Jersey,Union County,32003,32.0,3.0,Nevada,Clark County,8,12,NJ
+34013,34,13,New Jersey,Essex County,32023,32.0,23.0,Nevada,Nye County,19,29,NJ
+34013,34,13,New Jersey,Essex County,33001,33.0,1.0,New Hampshire,Belknap County,26,43,NJ
+34029,34,29,New Jersey,Ocean County,33005,33.0,5.0,New Hampshire,Cheshire County,8,14,NJ
+34039,34,39,New Jersey,Union County,33011,33.0,11.0,New Hampshire,Hillsborough County,7,12,NJ
+34027,34,27,New Jersey,Morris County,33013,33.0,13.0,New Hampshire,Merrimack County,10,16,NJ
+34031,34,31,New Jersey,Passaic County,33013,33.0,13.0,New Hampshire,Merrimack County,19,30,NJ
+34025,34,25,New Jersey,Monmouth County,33015,33.0,15.0,New Hampshire,Rockingham County,14,21,NJ
+34039,34,39,New Jersey,Union County,33015,33.0,15.0,New Hampshire,Rockingham County,21,41,NJ
+34001,34,1,New Jersey,Atlantic County,34001,34.0,1.0,New Jersey,Atlantic County,101877,1484,NJ
+34003,34,3,New Jersey,Bergen County,34001,34.0,1.0,New Jersey,Atlantic County,53,40,NJ
+34005,34,5,New Jersey,Burlington County,34001,34.0,1.0,New Jersey,Atlantic County,1873,259,NJ
+34007,34,7,New Jersey,Camden County,34001,34.0,1.0,New Jersey,Atlantic County,4969,429,NJ
+34009,34,9,New Jersey,Cape May County,34001,34.0,1.0,New Jersey,Atlantic County,5136,496,NJ
+34011,34,11,New Jersey,Cumberland County,34001,34.0,1.0,New Jersey,Atlantic County,4320,566,NJ
+34013,34,13,New Jersey,Essex County,34001,34.0,1.0,New Jersey,Atlantic County,47,56,NJ
+34015,34,15,New Jersey,Gloucester County,34001,34.0,1.0,New Jersey,Atlantic County,3246,414,NJ
+34017,34,17,New Jersey,Hudson County,34001,34.0,1.0,New Jersey,Atlantic County,33,35,NJ
+34019,34,19,New Jersey,Hunterdon County,34001,34.0,1.0,New Jersey,Atlantic County,15,25,NJ
+34021,34,21,New Jersey,Mercer County,34001,34.0,1.0,New Jersey,Atlantic County,122,82,NJ
+34023,34,23,New Jersey,Middlesex County,34001,34.0,1.0,New Jersey,Atlantic County,281,133,NJ
+34025,34,25,New Jersey,Monmouth County,34001,34.0,1.0,New Jersey,Atlantic County,207,82,NJ
+34027,34,27,New Jersey,Morris County,34001,34.0,1.0,New Jersey,Atlantic County,21,25,NJ
+34029,34,29,New Jersey,Ocean County,34001,34.0,1.0,New Jersey,Atlantic County,4512,494,NJ
+34031,34,31,New Jersey,Passaic County,34001,34.0,1.0,New Jersey,Atlantic County,35,31,NJ
+34033,34,33,New Jersey,Salem County,34001,34.0,1.0,New Jersey,Atlantic County,203,75,NJ
+34035,34,35,New Jersey,Somerset County,34001,34.0,1.0,New Jersey,Atlantic County,71,46,NJ
+34037,34,37,New Jersey,Sussex County,34001,34.0,1.0,New Jersey,Atlantic County,7,10,NJ
+34039,34,39,New Jersey,Union County,34001,34.0,1.0,New Jersey,Atlantic County,71,57,NJ
+34001,34,1,New Jersey,Atlantic County,34003,34.0,3.0,New Jersey,Bergen County,92,55,NJ
+34003,34,3,New Jersey,Bergen County,34003,34.0,3.0,New Jersey,Bergen County,250040,3089,NJ
+34005,34,5,New Jersey,Burlington County,34003,34.0,3.0,New Jersey,Bergen County,312,113,NJ
+34007,34,7,New Jersey,Camden County,34003,34.0,3.0,New Jersey,Bergen County,160,74,NJ
+34009,34,9,New Jersey,Cape May County,34003,34.0,3.0,New Jersey,Bergen County,62,46,NJ
+34011,34,11,New Jersey,Cumberland County,34003,34.0,3.0,New Jersey,Bergen County,34,38,NJ
+34013,34,13,New Jersey,Essex County,34003,34.0,3.0,New Jersey,Bergen County,17966,887,NJ
+34015,34,15,New Jersey,Gloucester County,34003,34.0,3.0,New Jersey,Bergen County,90,59,NJ
+34017,34,17,New Jersey,Hudson County,34003,34.0,3.0,New Jersey,Bergen County,29797,1116,NJ
+34019,34,19,New Jersey,Hunterdon County,34003,34.0,3.0,New Jersey,Bergen County,375,123,NJ
+34021,34,21,New Jersey,Mercer County,34003,34.0,3.0,New Jersey,Bergen County,547,188,NJ
+34023,34,23,New Jersey,Middlesex County,34003,34.0,3.0,New Jersey,Bergen County,5065,472,NJ
+34025,34,25,New Jersey,Monmouth County,34003,34.0,3.0,New Jersey,Bergen County,2895,338,NJ
+34027,34,27,New Jersey,Morris County,34003,34.0,3.0,New Jersey,Bergen County,13127,686,NJ
+34029,34,29,New Jersey,Ocean County,34003,34.0,3.0,New Jersey,Bergen County,1323,221,NJ
+34031,34,31,New Jersey,Passaic County,34003,34.0,3.0,New Jersey,Bergen County,49027,1373,NJ
+34035,34,35,New Jersey,Somerset County,34003,34.0,3.0,New Jersey,Bergen County,2474,332,NJ
+34037,34,37,New Jersey,Sussex County,34003,34.0,3.0,New Jersey,Bergen County,3801,347,NJ
+34039,34,39,New Jersey,Union County,34003,34.0,3.0,New Jersey,Bergen County,5623,477,NJ
+34041,34,41,New Jersey,Warren County,34003,34.0,3.0,New Jersey,Bergen County,719,182,NJ
+34001,34,1,New Jersey,Atlantic County,34005,34.0,5.0,New Jersey,Burlington County,2203,392,NJ
+34003,34,3,New Jersey,Bergen County,34005,34.0,5.0,New Jersey,Burlington County,183,92,NJ
+34005,34,5,New Jersey,Burlington County,34005,34.0,5.0,New Jersey,Burlington County,121798,1900,NJ
+34007,34,7,New Jersey,Camden County,34005,34.0,5.0,New Jersey,Burlington County,35655,1281,NJ
+34009,34,9,New Jersey,Cape May County,34005,34.0,5.0,New Jersey,Burlington County,362,127,NJ
+34011,34,11,New Jersey,Cumberland County,34005,34.0,5.0,New Jersey,Burlington County,425,141,NJ
+34013,34,13,New Jersey,Essex County,34005,34.0,5.0,New Jersey,Burlington County,205,133,NJ
+34015,34,15,New Jersey,Gloucester County,34005,34.0,5.0,New Jersey,Burlington County,9956,723,NJ
+34017,34,17,New Jersey,Hudson County,34005,34.0,5.0,New Jersey,Burlington County,55,45,NJ
+34019,34,19,New Jersey,Hunterdon County,34005,34.0,5.0,New Jersey,Burlington County,162,86,NJ
+34021,34,21,New Jersey,Mercer County,34005,34.0,5.0,New Jersey,Burlington County,5009,629,NJ
+34023,34,23,New Jersey,Middlesex County,34005,34.0,5.0,New Jersey,Burlington County,1380,301,NJ
+34025,34,25,New Jersey,Monmouth County,34005,34.0,5.0,New Jersey,Burlington County,1480,258,NJ
+34027,34,27,New Jersey,Morris County,34005,34.0,5.0,New Jersey,Burlington County,105,62,NJ
+34029,34,29,New Jersey,Ocean County,34005,34.0,5.0,New Jersey,Burlington County,4287,537,NJ
+34031,34,31,New Jersey,Passaic County,34005,34.0,5.0,New Jersey,Burlington County,85,54,NJ
+34033,34,33,New Jersey,Salem County,34005,34.0,5.0,New Jersey,Burlington County,522,130,NJ
+34035,34,35,New Jersey,Somerset County,34005,34.0,5.0,New Jersey,Burlington County,315,122,NJ
+34037,34,37,New Jersey,Sussex County,34005,34.0,5.0,New Jersey,Burlington County,16,11,NJ
+34039,34,39,New Jersey,Union County,34005,34.0,5.0,New Jersey,Burlington County,246,130,NJ
+34041,34,41,New Jersey,Warren County,34005,34.0,5.0,New Jersey,Burlington County,21,25,NJ
+34001,34,1,New Jersey,Atlantic County,34007,34.0,7.0,New Jersey,Camden County,3537,494,NJ
+34003,34,3,New Jersey,Bergen County,34007,34.0,7.0,New Jersey,Camden County,44,40,NJ
+34005,34,5,New Jersey,Burlington County,34007,34.0,7.0,New Jersey,Camden County,25564,952,NJ
+34007,34,7,New Jersey,Camden County,34007,34.0,7.0,New Jersey,Camden County,120977,1988,NJ
+34009,34,9,New Jersey,Cape May County,34007,34.0,7.0,New Jersey,Camden County,476,111,NJ
+34011,34,11,New Jersey,Cumberland County,34007,34.0,7.0,New Jersey,Camden County,1467,316,NJ
+34013,34,13,New Jersey,Essex County,34007,34.0,7.0,New Jersey,Camden County,164,123,NJ
+34015,34,15,New Jersey,Gloucester County,34007,34.0,7.0,New Jersey,Camden County,23726,932,NJ
+34017,34,17,New Jersey,Hudson County,34007,34.0,7.0,New Jersey,Camden County,82,59,NJ
+34019,34,19,New Jersey,Hunterdon County,34007,34.0,7.0,New Jersey,Camden County,66,51,NJ
+34021,34,21,New Jersey,Mercer County,34007,34.0,7.0,New Jersey,Camden County,1001,234,NJ
+34023,34,23,New Jersey,Middlesex County,34007,34.0,7.0,New Jersey,Camden County,344,109,NJ
+34025,34,25,New Jersey,Monmouth County,34007,34.0,7.0,New Jersey,Camden County,219,86,NJ
+34027,34,27,New Jersey,Morris County,34007,34.0,7.0,New Jersey,Camden County,86,63,NJ
+34029,34,29,New Jersey,Ocean County,34007,34.0,7.0,New Jersey,Camden County,750,205,NJ
+34031,34,31,New Jersey,Passaic County,34007,34.0,7.0,New Jersey,Camden County,55,43,NJ
+34033,34,33,New Jersey,Salem County,34007,34.0,7.0,New Jersey,Camden County,1330,184,NJ
+34035,34,35,New Jersey,Somerset County,34007,34.0,7.0,New Jersey,Camden County,162,114,NJ
+34039,34,39,New Jersey,Union County,34007,34.0,7.0,New Jersey,Camden County,37,33,NJ
+34041,34,41,New Jersey,Warren County,34007,34.0,7.0,New Jersey,Camden County,30,30,NJ
+34001,34,1,New Jersey,Atlantic County,34009,34.0,9.0,New Jersey,Cape May County,4606,507,NJ
+34005,34,5,New Jersey,Burlington County,34009,34.0,9.0,New Jersey,Cape May County,225,91,NJ
+34007,34,7,New Jersey,Camden County,34009,34.0,9.0,New Jersey,Cape May County,307,123,NJ
+34009,34,9,New Jersey,Cape May County,34009,34.0,9.0,New Jersey,Cape May County,32285,836,NJ
+34011,34,11,New Jersey,Cumberland County,34009,34.0,9.0,New Jersey,Cape May County,1813,297,NJ
+34015,34,15,New Jersey,Gloucester County,34009,34.0,9.0,New Jersey,Cape May County,463,137,NJ
+34017,34,17,New Jersey,Hudson County,34009,34.0,9.0,New Jersey,Cape May County,10,18,NJ
+34023,34,23,New Jersey,Middlesex County,34009,34.0,9.0,New Jersey,Cape May County,78,52,NJ
+34025,34,25,New Jersey,Monmouth County,34009,34.0,9.0,New Jersey,Cape May County,88,71,NJ
+34027,34,27,New Jersey,Morris County,34009,34.0,9.0,New Jersey,Cape May County,8,13,NJ
+34029,34,29,New Jersey,Ocean County,34009,34.0,9.0,New Jersey,Cape May County,302,140,NJ
+34031,34,31,New Jersey,Passaic County,34009,34.0,9.0,New Jersey,Cape May County,24,31,NJ
+34033,34,33,New Jersey,Salem County,34009,34.0,9.0,New Jersey,Cape May County,162,92,NJ
+34039,34,39,New Jersey,Union County,34009,34.0,9.0,New Jersey,Cape May County,10,16,NJ
+34041,34,41,New Jersey,Warren County,34009,34.0,9.0,New Jersey,Cape May County,6,9,NJ
+34001,34,1,New Jersey,Atlantic County,34011,34.0,11.0,New Jersey,Cumberland County,3632,440,NJ
+34003,34,3,New Jersey,Bergen County,34011,34.0,11.0,New Jersey,Cumberland County,34,32,NJ
+34005,34,5,New Jersey,Burlington County,34011,34.0,11.0,New Jersey,Cumberland County,492,151,NJ
+34007,34,7,New Jersey,Camden County,34011,34.0,11.0,New Jersey,Cumberland County,1781,287,NJ
+34009,34,9,New Jersey,Cape May County,34011,34.0,11.0,New Jersey,Cumberland County,1041,170,NJ
+34011,34,11,New Jersey,Cumberland County,34011,34.0,11.0,New Jersey,Cumberland County,45043,1041,NJ
+34013,34,13,New Jersey,Essex County,34011,34.0,11.0,New Jersey,Cumberland County,58,34,NJ
+34015,34,15,New Jersey,Gloucester County,34011,34.0,11.0,New Jersey,Cumberland County,4806,474,NJ
+34017,34,17,New Jersey,Hudson County,34011,34.0,11.0,New Jersey,Cumberland County,107,70,NJ
+34021,34,21,New Jersey,Mercer County,34011,34.0,11.0,New Jersey,Cumberland County,50,44,NJ
+34023,34,23,New Jersey,Middlesex County,34011,34.0,11.0,New Jersey,Cumberland County,141,158,NJ
+34025,34,25,New Jersey,Monmouth County,34011,34.0,11.0,New Jersey,Cumberland County,63,54,NJ
+34027,34,27,New Jersey,Morris County,34011,34.0,11.0,New Jersey,Cumberland County,35,33,NJ
+34029,34,29,New Jersey,Ocean County,34011,34.0,11.0,New Jersey,Cumberland County,150,105,NJ
+34031,34,31,New Jersey,Passaic County,34011,34.0,11.0,New Jersey,Cumberland County,28,32,NJ
+34033,34,33,New Jersey,Salem County,34011,34.0,11.0,New Jersey,Cumberland County,2749,281,NJ
+34035,34,35,New Jersey,Somerset County,34011,34.0,11.0,New Jersey,Cumberland County,12,15,NJ
+34037,34,37,New Jersey,Sussex County,34011,34.0,11.0,New Jersey,Cumberland County,8,12,NJ
+34001,34,1,New Jersey,Atlantic County,34013,34.0,13.0,New Jersey,Essex County,101,43,NJ
+34003,34,3,New Jersey,Bergen County,34013,34.0,13.0,New Jersey,Essex County,18420,965,NJ
+34005,34,5,New Jersey,Burlington County,34013,34.0,13.0,New Jersey,Essex County,892,161,NJ
+34007,34,7,New Jersey,Camden County,34013,34.0,13.0,New Jersey,Essex County,206,86,NJ
+34009,34,9,New Jersey,Cape May County,34013,34.0,13.0,New Jersey,Essex County,22,17,NJ
+34011,34,11,New Jersey,Cumberland County,34013,34.0,13.0,New Jersey,Essex County,2,3,NJ
+34013,34,13,New Jersey,Essex County,34013,34.0,13.0,New Jersey,Essex County,179588,2516,NJ
+34015,34,15,New Jersey,Gloucester County,34013,34.0,13.0,New Jersey,Essex County,102,56,NJ
+34017,34,17,New Jersey,Hudson County,34013,34.0,13.0,New Jersey,Essex County,21796,1107,NJ
+34019,34,19,New Jersey,Hunterdon County,34013,34.0,13.0,New Jersey,Essex County,1508,220,NJ
+34021,34,21,New Jersey,Mercer County,34013,34.0,13.0,New Jersey,Essex County,1825,450,NJ
+34023,34,23,New Jersey,Middlesex County,34013,34.0,13.0,New Jersey,Essex County,15628,986,NJ
+34025,34,25,New Jersey,Monmouth County,34013,34.0,13.0,New Jersey,Essex County,6924,569,NJ
+34027,34,27,New Jersey,Morris County,34013,34.0,13.0,New Jersey,Essex County,23120,1062,NJ
+34029,34,29,New Jersey,Ocean County,34013,34.0,13.0,New Jersey,Essex County,2824,378,NJ
+34031,34,31,New Jersey,Passaic County,34013,34.0,13.0,New Jersey,Essex County,19722,1059,NJ
+34033,34,33,New Jersey,Salem County,34013,34.0,13.0,New Jersey,Essex County,14,22,NJ
+34035,34,35,New Jersey,Somerset County,34013,34.0,13.0,New Jersey,Essex County,6885,610,NJ
+34037,34,37,New Jersey,Sussex County,34013,34.0,13.0,New Jersey,Essex County,4100,428,NJ
+34039,34,39,New Jersey,Union County,34013,34.0,13.0,New Jersey,Essex County,34999,1220,NJ
+34041,34,41,New Jersey,Warren County,34013,34.0,13.0,New Jersey,Essex County,1762,234,NJ
+34001,34,1,New Jersey,Atlantic County,34015,34.0,15.0,New Jersey,Gloucester County,1593,295,NJ
+34003,34,3,New Jersey,Bergen County,34015,34.0,15.0,New Jersey,Gloucester County,71,61,NJ
+34005,34,5,New Jersey,Burlington County,34015,34.0,15.0,New Jersey,Gloucester County,3508,439,NJ
+34007,34,7,New Jersey,Camden County,34015,34.0,15.0,New Jersey,Gloucester County,18566,884,NJ
+34009,34,9,New Jersey,Cape May County,34015,34.0,15.0,New Jersey,Gloucester County,238,84,NJ
+34011,34,11,New Jersey,Cumberland County,34015,34.0,15.0,New Jersey,Gloucester County,3446,483,NJ
+34013,34,13,New Jersey,Essex County,34015,34.0,15.0,New Jersey,Gloucester County,13,25,NJ
+34015,34,15,New Jersey,Gloucester County,34015,34.0,15.0,New Jersey,Gloucester County,63654,1746,NJ
+34017,34,17,New Jersey,Hudson County,34015,34.0,15.0,New Jersey,Gloucester County,39,38,NJ
+34021,34,21,New Jersey,Mercer County,34015,34.0,15.0,New Jersey,Gloucester County,121,61,NJ
+34023,34,23,New Jersey,Middlesex County,34015,34.0,15.0,New Jersey,Gloucester County,70,54,NJ
+34025,34,25,New Jersey,Monmouth County,34015,34.0,15.0,New Jersey,Gloucester County,190,97,NJ
+34027,34,27,New Jersey,Morris County,34015,34.0,15.0,New Jersey,Gloucester County,76,80,NJ
+34029,34,29,New Jersey,Ocean County,34015,34.0,15.0,New Jersey,Gloucester County,410,163,NJ
+34031,34,31,New Jersey,Passaic County,34015,34.0,15.0,New Jersey,Gloucester County,81,86,NJ
+34033,34,33,New Jersey,Salem County,34015,34.0,15.0,New Jersey,Gloucester County,5037,406,NJ
+34035,34,35,New Jersey,Somerset County,34015,34.0,15.0,New Jersey,Gloucester County,80,61,NJ
+34039,34,39,New Jersey,Union County,34015,34.0,15.0,New Jersey,Gloucester County,75,50,NJ
+34041,34,41,New Jersey,Warren County,34015,34.0,15.0,New Jersey,Gloucester County,49,49,NJ
+34001,34,1,New Jersey,Atlantic County,34017,34.0,17.0,New Jersey,Hudson County,58,43,NJ
+34003,34,3,New Jersey,Bergen County,34017,34.0,17.0,New Jersey,Hudson County,25221,1195,NJ
+34005,34,5,New Jersey,Burlington County,34017,34.0,17.0,New Jersey,Hudson County,713,196,NJ
+34007,34,7,New Jersey,Camden County,34017,34.0,17.0,New Jersey,Hudson County,113,64,NJ
+34009,34,9,New Jersey,Cape May County,34017,34.0,17.0,New Jersey,Hudson County,6,11,NJ
+34011,34,11,New Jersey,Cumberland County,34017,34.0,17.0,New Jersey,Hudson County,13,20,NJ
+34013,34,13,New Jersey,Essex County,34017,34.0,17.0,New Jersey,Hudson County,19761,858,NJ
+34015,34,15,New Jersey,Gloucester County,34017,34.0,17.0,New Jersey,Hudson County,59,44,NJ
+34017,34,17,New Jersey,Hudson County,34017,34.0,17.0,New Jersey,Hudson County,145753,2602,NJ
+34019,34,19,New Jersey,Hunterdon County,34017,34.0,17.0,New Jersey,Hudson County,464,123,NJ
+34021,34,21,New Jersey,Mercer County,34017,34.0,17.0,New Jersey,Hudson County,1272,292,NJ
+34023,34,23,New Jersey,Middlesex County,34017,34.0,17.0,New Jersey,Hudson County,11738,845,NJ
+34025,34,25,New Jersey,Monmouth County,34017,34.0,17.0,New Jersey,Hudson County,5867,518,NJ
+34027,34,27,New Jersey,Morris County,34017,34.0,17.0,New Jersey,Hudson County,4945,479,NJ
+34029,34,29,New Jersey,Ocean County,34017,34.0,17.0,New Jersey,Hudson County,1894,325,NJ
+34031,34,31,New Jersey,Passaic County,34017,34.0,17.0,New Jersey,Hudson County,7615,624,NJ
+34035,34,35,New Jersey,Somerset County,34017,34.0,17.0,New Jersey,Hudson County,3261,379,NJ
+34037,34,37,New Jersey,Sussex County,34017,34.0,17.0,New Jersey,Hudson County,1235,219,NJ
+34039,34,39,New Jersey,Union County,34017,34.0,17.0,New Jersey,Hudson County,9735,768,NJ
+34041,34,41,New Jersey,Warren County,34017,34.0,17.0,New Jersey,Hudson County,392,143,NJ
+34001,34,1,New Jersey,Atlantic County,34019,34.0,19.0,New Jersey,Hunterdon County,48,42,NJ
+34003,34,3,New Jersey,Bergen County,34019,34.0,19.0,New Jersey,Hunterdon County,273,98,NJ
+34005,34,5,New Jersey,Burlington County,34019,34.0,19.0,New Jersey,Hunterdon County,304,125,NJ
+34007,34,7,New Jersey,Camden County,34019,34.0,19.0,New Jersey,Hunterdon County,88,61,NJ
+34009,34,9,New Jersey,Cape May County,34019,34.0,19.0,New Jersey,Hunterdon County,4,7,NJ
+34013,34,13,New Jersey,Essex County,34019,34.0,19.0,New Jersey,Hunterdon County,618,160,NJ
+34015,34,15,New Jersey,Gloucester County,34019,34.0,19.0,New Jersey,Hunterdon County,39,34,NJ
+34017,34,17,New Jersey,Hudson County,34019,34.0,19.0,New Jersey,Hunterdon County,241,93,NJ
+34019,34,19,New Jersey,Hunterdon County,34019,34.0,19.0,New Jersey,Hunterdon County,29466,1069,NJ
+34021,34,21,New Jersey,Mercer County,34019,34.0,19.0,New Jersey,Hunterdon County,1317,306,NJ
+34023,34,23,New Jersey,Middlesex County,34019,34.0,19.0,New Jersey,Hunterdon County,1739,257,NJ
+34025,34,25,New Jersey,Monmouth County,34019,34.0,19.0,New Jersey,Hunterdon County,556,151,NJ
+34027,34,27,New Jersey,Morris County,34019,34.0,19.0,New Jersey,Hunterdon County,1595,311,NJ
+34029,34,29,New Jersey,Ocean County,34019,34.0,19.0,New Jersey,Hunterdon County,266,146,NJ
+34031,34,31,New Jersey,Passaic County,34019,34.0,19.0,New Jersey,Hunterdon County,183,84,NJ
+34033,34,33,New Jersey,Salem County,34019,34.0,19.0,New Jersey,Hunterdon County,10,15,NJ
+34035,34,35,New Jersey,Somerset County,34019,34.0,19.0,New Jersey,Hunterdon County,4522,469,NJ
+34037,34,37,New Jersey,Sussex County,34019,34.0,19.0,New Jersey,Hunterdon County,191,91,NJ
+34039,34,39,New Jersey,Union County,34019,34.0,19.0,New Jersey,Hunterdon County,1463,251,NJ
+34041,34,41,New Jersey,Warren County,34019,34.0,19.0,New Jersey,Hunterdon County,4774,435,NJ
+34001,34,1,New Jersey,Atlantic County,34021,34.0,21.0,New Jersey,Mercer County,477,137,NJ
+34003,34,3,New Jersey,Bergen County,34021,34.0,21.0,New Jersey,Mercer County,690,182,NJ
+34005,34,5,New Jersey,Burlington County,34021,34.0,21.0,New Jersey,Mercer County,22891,919,NJ
+34007,34,7,New Jersey,Camden County,34021,34.0,21.0,New Jersey,Mercer County,4329,446,NJ
+34009,34,9,New Jersey,Cape May County,34021,34.0,21.0,New Jersey,Mercer County,188,74,NJ
+34011,34,11,New Jersey,Cumberland County,34021,34.0,21.0,New Jersey,Mercer County,316,155,NJ
+34013,34,13,New Jersey,Essex County,34021,34.0,21.0,New Jersey,Mercer County,1192,217,NJ
+34015,34,15,New Jersey,Gloucester County,34021,34.0,21.0,New Jersey,Mercer County,1227,232,NJ
+34017,34,17,New Jersey,Hudson County,34021,34.0,21.0,New Jersey,Mercer County,653,210,NJ
+34019,34,19,New Jersey,Hunterdon County,34021,34.0,21.0,New Jersey,Mercer County,4022,406,NJ
+34021,34,21,New Jersey,Mercer County,34021,34.0,21.0,New Jersey,Mercer County,117316,1845,NJ
+34023,34,23,New Jersey,Middlesex County,34021,34.0,21.0,New Jersey,Mercer County,16453,935,NJ
+34025,34,25,New Jersey,Monmouth County,34021,34.0,21.0,New Jersey,Mercer County,7954,570,NJ
+34027,34,27,New Jersey,Morris County,34021,34.0,21.0,New Jersey,Mercer County,779,169,NJ
+34029,34,29,New Jersey,Ocean County,34021,34.0,21.0,New Jersey,Mercer County,7252,610,NJ
+34031,34,31,New Jersey,Passaic County,34021,34.0,21.0,New Jersey,Mercer County,349,149,NJ
+34033,34,33,New Jersey,Salem County,34021,34.0,21.0,New Jersey,Mercer County,84,43,NJ
+34035,34,35,New Jersey,Somerset County,34021,34.0,21.0,New Jersey,Mercer County,8217,586,NJ
+34037,34,37,New Jersey,Sussex County,34021,34.0,21.0,New Jersey,Mercer County,105,57,NJ
+34039,34,39,New Jersey,Union County,34021,34.0,21.0,New Jersey,Mercer County,1401,256,NJ
+34041,34,41,New Jersey,Warren County,34021,34.0,21.0,New Jersey,Mercer County,505,162,NJ
+34001,34,1,New Jersey,Atlantic County,34023,34.0,23.0,New Jersey,Middlesex County,127,94,NJ
+34003,34,3,New Jersey,Bergen County,34023,34.0,23.0,New Jersey,Middlesex County,4561,530,NJ
+34005,34,5,New Jersey,Burlington County,34023,34.0,23.0,New Jersey,Middlesex County,4456,450,NJ
+34007,34,7,New Jersey,Camden County,34023,34.0,23.0,New Jersey,Middlesex County,1043,205,NJ
+34009,34,9,New Jersey,Cape May County,34023,34.0,23.0,New Jersey,Middlesex County,23,17,NJ
+34011,34,11,New Jersey,Cumberland County,34023,34.0,23.0,New Jersey,Middlesex County,50,39,NJ
+34013,34,13,New Jersey,Essex County,34023,34.0,23.0,New Jersey,Middlesex County,8058,599,NJ
+34015,34,15,New Jersey,Gloucester County,34023,34.0,23.0,New Jersey,Middlesex County,356,126,NJ
+34017,34,17,New Jersey,Hudson County,34023,34.0,23.0,New Jersey,Middlesex County,7066,605,NJ
+34019,34,19,New Jersey,Hunterdon County,34023,34.0,23.0,New Jersey,Middlesex County,3907,326,NJ
+34021,34,21,New Jersey,Mercer County,34023,34.0,23.0,New Jersey,Middlesex County,16549,949,NJ
+34023,34,23,New Jersey,Middlesex County,34023,34.0,23.0,New Jersey,Middlesex County,212651,2550,NJ
+34025,34,25,New Jersey,Monmouth County,34023,34.0,23.0,New Jersey,Middlesex County,26869,1156,NJ
+34027,34,27,New Jersey,Morris County,34023,34.0,23.0,New Jersey,Middlesex County,4049,481,NJ
+34029,34,29,New Jersey,Ocean County,34023,34.0,23.0,New Jersey,Middlesex County,10866,718,NJ
+34031,34,31,New Jersey,Passaic County,34023,34.0,23.0,New Jersey,Middlesex County,2185,351,NJ
+34033,34,33,New Jersey,Salem County,34023,34.0,23.0,New Jersey,Middlesex County,32,24,NJ
+34035,34,35,New Jersey,Somerset County,34023,34.0,23.0,New Jersey,Middlesex County,25142,1226,NJ
+34037,34,37,New Jersey,Sussex County,34023,34.0,23.0,New Jersey,Middlesex County,527,130,NJ
+34039,34,39,New Jersey,Union County,34023,34.0,23.0,New Jersey,Middlesex County,28813,1215,NJ
+34041,34,41,New Jersey,Warren County,34023,34.0,23.0,New Jersey,Middlesex County,1280,269,NJ
+34001,34,1,New Jersey,Atlantic County,34025,34.0,25.0,New Jersey,Monmouth County,286,144,NJ
+34003,34,3,New Jersey,Bergen County,34025,34.0,25.0,New Jersey,Monmouth County,1015,213,NJ
+34005,34,5,New Jersey,Burlington County,34025,34.0,25.0,New Jersey,Monmouth County,1378,248,NJ
+34007,34,7,New Jersey,Camden County,34025,34.0,25.0,New Jersey,Monmouth County,255,116,NJ
+34009,34,9,New Jersey,Cape May County,34025,34.0,25.0,New Jersey,Monmouth County,59,45,NJ
+34011,34,11,New Jersey,Cumberland County,34025,34.0,25.0,New Jersey,Monmouth County,138,94,NJ
+34013,34,13,New Jersey,Essex County,34025,34.0,25.0,New Jersey,Monmouth County,1306,261,NJ
+34015,34,15,New Jersey,Gloucester County,34025,34.0,25.0,New Jersey,Monmouth County,93,84,NJ
+34017,34,17,New Jersey,Hudson County,34025,34.0,25.0,New Jersey,Monmouth County,860,205,NJ
+34019,34,19,New Jersey,Hunterdon County,34025,34.0,25.0,New Jersey,Monmouth County,344,116,NJ
+34021,34,21,New Jersey,Mercer County,34025,34.0,25.0,New Jersey,Monmouth County,2852,427,NJ
+34023,34,23,New Jersey,Middlesex County,34025,34.0,25.0,New Jersey,Monmouth County,18941,968,NJ
+34025,34,25,New Jersey,Monmouth County,34025,34.0,25.0,New Jersey,Monmouth County,184920,2241,NJ
+34027,34,27,New Jersey,Morris County,34025,34.0,25.0,New Jersey,Monmouth County,584,146,NJ
+34029,34,29,New Jersey,Ocean County,34025,34.0,25.0,New Jersey,Monmouth County,42367,1547,NJ
+34031,34,31,New Jersey,Passaic County,34025,34.0,25.0,New Jersey,Monmouth County,251,103,NJ
+34033,34,33,New Jersey,Salem County,34025,34.0,25.0,New Jersey,Monmouth County,30,32,NJ
+34035,34,35,New Jersey,Somerset County,34025,34.0,25.0,New Jersey,Monmouth County,1461,279,NJ
+34037,34,37,New Jersey,Sussex County,34025,34.0,25.0,New Jersey,Monmouth County,163,89,NJ
+34039,34,39,New Jersey,Union County,34025,34.0,25.0,New Jersey,Monmouth County,2560,360,NJ
+34041,34,41,New Jersey,Warren County,34025,34.0,25.0,New Jersey,Monmouth County,119,77,NJ
+34001,34,1,New Jersey,Atlantic County,34027,34.0,27.0,New Jersey,Morris County,126,103,NJ
+34003,34,3,New Jersey,Bergen County,34027,34.0,27.0,New Jersey,Morris County,11484,722,NJ
+34005,34,5,New Jersey,Burlington County,34027,34.0,27.0,New Jersey,Morris County,294,116,NJ
+34007,34,7,New Jersey,Camden County,34027,34.0,27.0,New Jersey,Morris County,228,101,NJ
+34009,34,9,New Jersey,Cape May County,34027,34.0,27.0,New Jersey,Morris County,52,32,NJ
+34011,34,11,New Jersey,Cumberland County,34027,34.0,27.0,New Jersey,Morris County,20,22,NJ
+34013,34,13,New Jersey,Essex County,34027,34.0,27.0,New Jersey,Morris County,25874,1155,NJ
+34015,34,15,New Jersey,Gloucester County,34027,34.0,27.0,New Jersey,Morris County,182,105,NJ
+34017,34,17,New Jersey,Hudson County,34027,34.0,27.0,New Jersey,Morris County,6048,603,NJ
+34019,34,19,New Jersey,Hunterdon County,34027,34.0,27.0,New Jersey,Morris County,3265,360,NJ
+34021,34,21,New Jersey,Mercer County,34027,34.0,27.0,New Jersey,Morris County,479,127,NJ
+34023,34,23,New Jersey,Middlesex County,34027,34.0,27.0,New Jersey,Morris County,6222,516,NJ
+34025,34,25,New Jersey,Monmouth County,34027,34.0,27.0,New Jersey,Morris County,2559,338,NJ
+34027,34,27,New Jersey,Morris County,34027,34.0,27.0,New Jersey,Morris County,146337,2029,NJ
+34029,34,29,New Jersey,Ocean County,34027,34.0,27.0,New Jersey,Morris County,934,202,NJ
+34031,34,31,New Jersey,Passaic County,34027,34.0,27.0,New Jersey,Morris County,17257,1066,NJ
+34035,34,35,New Jersey,Somerset County,34027,34.0,27.0,New Jersey,Morris County,11425,807,NJ
+34037,34,37,New Jersey,Sussex County,34027,34.0,27.0,New Jersey,Morris County,18463,778,NJ
+34039,34,39,New Jersey,Union County,34027,34.0,27.0,New Jersey,Morris County,11758,664,NJ
+34041,34,41,New Jersey,Warren County,34027,34.0,27.0,New Jersey,Morris County,9416,587,NJ
+34001,34,1,New Jersey,Atlantic County,34029,34.0,29.0,New Jersey,Ocean County,1307,316,NJ
+34003,34,3,New Jersey,Bergen County,34029,34.0,29.0,New Jersey,Ocean County,294,105,NJ
+34005,34,5,New Jersey,Burlington County,34029,34.0,29.0,New Jersey,Ocean County,2460,269,NJ
+34007,34,7,New Jersey,Camden County,34029,34.0,29.0,New Jersey,Ocean County,593,167,NJ
+34009,34,9,New Jersey,Cape May County,34029,34.0,29.0,New Jersey,Ocean County,138,65,NJ
+34011,34,11,New Jersey,Cumberland County,34029,34.0,29.0,New Jersey,Ocean County,120,70,NJ
+34013,34,13,New Jersey,Essex County,34029,34.0,29.0,New Jersey,Ocean County,355,125,NJ
+34015,34,15,New Jersey,Gloucester County,34029,34.0,29.0,New Jersey,Ocean County,289,108,NJ
+34017,34,17,New Jersey,Hudson County,34029,34.0,29.0,New Jersey,Ocean County,190,95,NJ
+34019,34,19,New Jersey,Hunterdon County,34029,34.0,29.0,New Jersey,Ocean County,74,45,NJ
+34021,34,21,New Jersey,Mercer County,34029,34.0,29.0,New Jersey,Ocean County,918,211,NJ
+34023,34,23,New Jersey,Middlesex County,34029,34.0,29.0,New Jersey,Ocean County,1722,288,NJ
+34025,34,25,New Jersey,Monmouth County,34029,34.0,29.0,New Jersey,Ocean County,13437,700,NJ
+34027,34,27,New Jersey,Morris County,34029,34.0,29.0,New Jersey,Ocean County,178,114,NJ
+34029,34,29,New Jersey,Ocean County,34029,34.0,29.0,New Jersey,Ocean County,146107,1980,NJ
+34031,34,31,New Jersey,Passaic County,34029,34.0,29.0,New Jersey,Ocean County,109,73,NJ
+34033,34,33,New Jersey,Salem County,34029,34.0,29.0,New Jersey,Ocean County,41,37,NJ
+34035,34,35,New Jersey,Somerset County,34029,34.0,29.0,New Jersey,Ocean County,225,101,NJ
+34037,34,37,New Jersey,Sussex County,34029,34.0,29.0,New Jersey,Ocean County,41,29,NJ
+34039,34,39,New Jersey,Union County,34029,34.0,29.0,New Jersey,Ocean County,389,143,NJ
+34041,34,41,New Jersey,Warren County,34029,34.0,29.0,New Jersey,Ocean County,48,48,NJ
+34001,34,1,New Jersey,Atlantic County,34031,34.0,31.0,New Jersey,Passaic County,143,77,NJ
+34003,34,3,New Jersey,Bergen County,34031,34.0,31.0,New Jersey,Passaic County,25088,1128,NJ
+34005,34,5,New Jersey,Burlington County,34031,34.0,31.0,New Jersey,Passaic County,38,35,NJ
+34007,34,7,New Jersey,Camden County,34031,34.0,31.0,New Jersey,Passaic County,26,22,NJ
+34013,34,13,New Jersey,Essex County,34031,34.0,31.0,New Jersey,Passaic County,15250,984,NJ
+34015,34,15,New Jersey,Gloucester County,34031,34.0,31.0,New Jersey,Passaic County,22,22,NJ
+34017,34,17,New Jersey,Hudson County,34031,34.0,31.0,New Jersey,Passaic County,5721,598,NJ
+34019,34,19,New Jersey,Hunterdon County,34031,34.0,31.0,New Jersey,Passaic County,259,95,NJ
+34021,34,21,New Jersey,Mercer County,34031,34.0,31.0,New Jersey,Passaic County,240,132,NJ
+34023,34,23,New Jersey,Middlesex County,34031,34.0,31.0,New Jersey,Passaic County,2031,295,NJ
+34025,34,25,New Jersey,Monmouth County,34031,34.0,31.0,New Jersey,Passaic County,790,135,NJ
+34027,34,27,New Jersey,Morris County,34031,34.0,31.0,New Jersey,Passaic County,11951,761,NJ
+34029,34,29,New Jersey,Ocean County,34031,34.0,31.0,New Jersey,Passaic County,630,160,NJ
+34031,34,31,New Jersey,Passaic County,34031,34.0,31.0,New Jersey,Passaic County,104792,2425,NJ
+34035,34,35,New Jersey,Somerset County,34031,34.0,31.0,New Jersey,Passaic County,1214,266,NJ
+34037,34,37,New Jersey,Sussex County,34031,34.0,31.0,New Jersey,Passaic County,3699,373,NJ
+34039,34,39,New Jersey,Union County,34031,34.0,31.0,New Jersey,Passaic County,3208,470,NJ
+34041,34,41,New Jersey,Warren County,34031,34.0,31.0,New Jersey,Passaic County,745,180,NJ
+34001,34,1,New Jersey,Atlantic County,34033,34.0,33.0,New Jersey,Salem County,251,113,NJ
+34003,34,3,New Jersey,Bergen County,34033,34.0,33.0,New Jersey,Salem County,7,11,NJ
+34005,34,5,New Jersey,Burlington County,34033,34.0,33.0,New Jersey,Salem County,295,102,NJ
+34007,34,7,New Jersey,Camden County,34033,34.0,33.0,New Jersey,Salem County,953,215,NJ
+34009,34,9,New Jersey,Cape May County,34033,34.0,33.0,New Jersey,Salem County,83,53,NJ
+34011,34,11,New Jersey,Cumberland County,34033,34.0,33.0,New Jersey,Salem County,2115,310,NJ
+34013,34,13,New Jersey,Essex County,34033,34.0,33.0,New Jersey,Salem County,157,107,NJ
+34015,34,15,New Jersey,Gloucester County,34033,34.0,33.0,New Jersey,Salem County,3167,394,NJ
+34019,34,19,New Jersey,Hunterdon County,34033,34.0,33.0,New Jersey,Salem County,2,4,NJ
+34023,34,23,New Jersey,Middlesex County,34033,34.0,33.0,New Jersey,Salem County,19,22,NJ
+34025,34,25,New Jersey,Monmouth County,34033,34.0,33.0,New Jersey,Salem County,30,36,NJ
+34029,34,29,New Jersey,Ocean County,34033,34.0,33.0,New Jersey,Salem County,63,43,NJ
+34033,34,33,New Jersey,Salem County,34033,34.0,33.0,New Jersey,Salem County,13589,514,NJ
+34001,34,1,New Jersey,Atlantic County,34035,34.0,35.0,New Jersey,Somerset County,20,27,NJ
+34003,34,3,New Jersey,Bergen County,34035,34.0,35.0,New Jersey,Somerset County,2028,296,NJ
+34005,34,5,New Jersey,Burlington County,34035,34.0,35.0,New Jersey,Somerset County,925,192,NJ
+34007,34,7,New Jersey,Camden County,34035,34.0,35.0,New Jersey,Somerset County,184,80,NJ
+34009,34,9,New Jersey,Cape May County,34035,34.0,35.0,New Jersey,Somerset County,47,33,NJ
+34011,34,11,New Jersey,Cumberland County,34035,34.0,35.0,New Jersey,Somerset County,151,124,NJ
+34013,34,13,New Jersey,Essex County,34035,34.0,35.0,New Jersey,Somerset County,4194,384,NJ
+34015,34,15,New Jersey,Gloucester County,34035,34.0,35.0,New Jersey,Somerset County,133,71,NJ
+34017,34,17,New Jersey,Hudson County,34035,34.0,35.0,New Jersey,Somerset County,3250,569,NJ
+34019,34,19,New Jersey,Hunterdon County,34035,34.0,35.0,New Jersey,Somerset County,12126,650,NJ
+34021,34,21,New Jersey,Mercer County,34035,34.0,35.0,New Jersey,Somerset County,5498,602,NJ
+34023,34,23,New Jersey,Middlesex County,34035,34.0,35.0,New Jersey,Somerset County,30228,1053,NJ
+34025,34,25,New Jersey,Monmouth County,34035,34.0,35.0,New Jersey,Somerset County,4025,375,NJ
+34027,34,27,New Jersey,Morris County,34035,34.0,35.0,New Jersey,Somerset County,10912,788,NJ
+34029,34,29,New Jersey,Ocean County,34035,34.0,35.0,New Jersey,Somerset County,1669,212,NJ
+34031,34,31,New Jersey,Passaic County,34035,34.0,35.0,New Jersey,Somerset County,1384,289,NJ
+34033,34,33,New Jersey,Salem County,34035,34.0,35.0,New Jersey,Somerset County,10,15,NJ
+34035,34,35,New Jersey,Somerset County,34035,34.0,35.0,New Jersey,Somerset County,77222,1838,NJ
+34037,34,37,New Jersey,Sussex County,34035,34.0,35.0,New Jersey,Somerset County,1183,224,NJ
+34039,34,39,New Jersey,Union County,34035,34.0,35.0,New Jersey,Somerset County,12871,702,NJ
+34041,34,41,New Jersey,Warren County,34035,34.0,35.0,New Jersey,Somerset County,3579,375,NJ
+34003,34,3,New Jersey,Bergen County,34037,34.0,37.0,New Jersey,Sussex County,475,158,NJ
+34005,34,5,New Jersey,Burlington County,34037,34.0,37.0,New Jersey,Sussex County,22,22,NJ
+34007,34,7,New Jersey,Camden County,34037,34.0,37.0,New Jersey,Sussex County,25,32,NJ
+34009,34,9,New Jersey,Cape May County,34037,34.0,37.0,New Jersey,Sussex County,8,12,NJ
+34011,34,11,New Jersey,Cumberland County,34037,34.0,37.0,New Jersey,Sussex County,7,16,NJ
+34013,34,13,New Jersey,Essex County,34037,34.0,37.0,New Jersey,Sussex County,794,190,NJ
+34017,34,17,New Jersey,Hudson County,34037,34.0,37.0,New Jersey,Sussex County,98,95,NJ
+34019,34,19,New Jersey,Hunterdon County,34037,34.0,37.0,New Jersey,Sussex County,88,56,NJ
+34021,34,21,New Jersey,Mercer County,34037,34.0,37.0,New Jersey,Sussex County,13,16,NJ
+34023,34,23,New Jersey,Middlesex County,34037,34.0,37.0,New Jersey,Sussex County,214,107,NJ
+34025,34,25,New Jersey,Monmouth County,34037,34.0,37.0,New Jersey,Sussex County,34,34,NJ
+34027,34,27,New Jersey,Morris County,34037,34.0,37.0,New Jersey,Sussex County,2842,372,NJ
+34029,34,29,New Jersey,Ocean County,34037,34.0,37.0,New Jersey,Sussex County,20,25,NJ
+34031,34,31,New Jersey,Passaic County,34037,34.0,37.0,New Jersey,Sussex County,610,170,NJ
+34035,34,35,New Jersey,Somerset County,34037,34.0,37.0,New Jersey,Sussex County,115,70,NJ
+34037,34,37,New Jersey,Sussex County,34037,34.0,37.0,New Jersey,Sussex County,32414,1088,NJ
+34039,34,39,New Jersey,Union County,34037,34.0,37.0,New Jersey,Sussex County,112,86,NJ
+34041,34,41,New Jersey,Warren County,34037,34.0,37.0,New Jersey,Sussex County,1427,218,NJ
+34001,34,1,New Jersey,Atlantic County,34039,34.0,39.0,New Jersey,Union County,109,55,NJ
+34003,34,3,New Jersey,Bergen County,34039,34.0,39.0,New Jersey,Union County,5038,495,NJ
+34005,34,5,New Jersey,Burlington County,34039,34.0,39.0,New Jersey,Union County,589,123,NJ
+34007,34,7,New Jersey,Camden County,34039,34.0,39.0,New Jersey,Union County,182,115,NJ
+34009,34,9,New Jersey,Cape May County,34039,34.0,39.0,New Jersey,Union County,15,19,NJ
+34011,34,11,New Jersey,Cumberland County,34039,34.0,39.0,New Jersey,Union County,33,30,NJ
+34013,34,13,New Jersey,Essex County,34039,34.0,39.0,New Jersey,Union County,25809,1218,NJ
+34015,34,15,New Jersey,Gloucester County,34039,34.0,39.0,New Jersey,Union County,117,69,NJ
+34017,34,17,New Jersey,Hudson County,34039,34.0,39.0,New Jersey,Union County,7632,634,NJ
+34019,34,19,New Jersey,Hunterdon County,34039,34.0,39.0,New Jersey,Union County,1994,269,NJ
+34021,34,21,New Jersey,Mercer County,34039,34.0,39.0,New Jersey,Union County,1221,255,NJ
+34023,34,23,New Jersey,Middlesex County,34039,34.0,39.0,New Jersey,Union County,24674,1009,NJ
+34025,34,25,New Jersey,Monmouth County,34039,34.0,39.0,New Jersey,Union County,7080,618,NJ
+34027,34,27,New Jersey,Morris County,34039,34.0,39.0,New Jersey,Union County,9588,640,NJ
+34029,34,29,New Jersey,Ocean County,34039,34.0,39.0,New Jersey,Union County,3698,395,NJ
+34031,34,31,New Jersey,Passaic County,34039,34.0,39.0,New Jersey,Union County,3037,428,NJ
+34033,34,33,New Jersey,Salem County,34039,34.0,39.0,New Jersey,Union County,13,20,NJ
+34035,34,35,New Jersey,Somerset County,34039,34.0,39.0,New Jersey,Union County,11941,903,NJ
+34037,34,37,New Jersey,Sussex County,34039,34.0,39.0,New Jersey,Union County,1062,191,NJ
+34039,34,39,New Jersey,Union County,34039,34.0,39.0,New Jersey,Union County,119361,2314,NJ
+34041,34,41,New Jersey,Warren County,34039,34.0,39.0,New Jersey,Union County,981,214,NJ
+34003,34,3,New Jersey,Bergen County,34041,34.0,41.0,New Jersey,Warren County,141,68,NJ
+34005,34,5,New Jersey,Burlington County,34041,34.0,41.0,New Jersey,Warren County,33,47,NJ
+34007,34,7,New Jersey,Camden County,34041,34.0,41.0,New Jersey,Warren County,20,21,NJ
+34009,34,9,New Jersey,Cape May County,34041,34.0,41.0,New Jersey,Warren County,5,7,NJ
+34011,34,11,New Jersey,Cumberland County,34041,34.0,41.0,New Jersey,Warren County,2,2,NJ
+34013,34,13,New Jersey,Essex County,34041,34.0,41.0,New Jersey,Warren County,270,120,NJ
+34015,34,15,New Jersey,Gloucester County,34041,34.0,41.0,New Jersey,Warren County,19,28,NJ
+34017,34,17,New Jersey,Hudson County,34041,34.0,41.0,New Jersey,Warren County,128,88,NJ
+34019,34,19,New Jersey,Hunterdon County,34041,34.0,41.0,New Jersey,Warren County,1362,207,NJ
+34021,34,21,New Jersey,Mercer County,34041,34.0,41.0,New Jersey,Warren County,35,37,NJ
+34023,34,23,New Jersey,Middlesex County,34041,34.0,41.0,New Jersey,Warren County,111,66,NJ
+34025,34,25,New Jersey,Monmouth County,34041,34.0,41.0,New Jersey,Warren County,71,63,NJ
+34027,34,27,New Jersey,Morris County,34041,34.0,41.0,New Jersey,Warren County,2081,303,NJ
+34029,34,29,New Jersey,Ocean County,34041,34.0,41.0,New Jersey,Warren County,84,59,NJ
+34031,34,31,New Jersey,Passaic County,34041,34.0,41.0,New Jersey,Warren County,109,84,NJ
+34033,34,33,New Jersey,Salem County,34041,34.0,41.0,New Jersey,Warren County,42,56,NJ
+34035,34,35,New Jersey,Somerset County,34041,34.0,41.0,New Jersey,Warren County,365,119,NJ
+34037,34,37,New Jersey,Sussex County,34041,34.0,41.0,New Jersey,Warren County,1440,199,NJ
+34039,34,39,New Jersey,Union County,34041,34.0,41.0,New Jersey,Warren County,84,52,NJ
+34041,34,41,New Jersey,Warren County,34041,34.0,41.0,New Jersey,Warren County,21965,933,NJ
+34007,34,7,New Jersey,Camden County,35001,35.0,1.0,New Mexico,Bernalillo County,5,8,NJ
+34007,34,7,New Jersey,Camden County,35029,35.0,29.0,New Mexico,Luna County,8,13,NJ
+34027,34,27,New Jersey,Morris County,35053,35.0,53.0,New Mexico,Socorro County,2,3,NJ
+34005,34,5,New Jersey,Burlington County,36001,36.0,1.0,New York,Albany County,12,13,NJ
+34007,34,7,New Jersey,Camden County,36001,36.0,1.0,New York,Albany County,10,14,NJ
+34017,34,17,New Jersey,Hudson County,36001,36.0,1.0,New York,Albany County,61,53,NJ
+34023,34,23,New Jersey,Middlesex County,36001,36.0,1.0,New York,Albany County,23,25,NJ
+34025,34,25,New Jersey,Monmouth County,36001,36.0,1.0,New York,Albany County,10,15,NJ
+34027,34,27,New Jersey,Morris County,36001,36.0,1.0,New York,Albany County,19,22,NJ
+34029,34,29,New Jersey,Ocean County,36001,36.0,1.0,New York,Albany County,16,22,NJ
+34039,34,39,New Jersey,Union County,36001,36.0,1.0,New York,Albany County,79,66,NJ
+34003,34,3,New Jersey,Bergen County,36003,36.0,3.0,New York,Allegany County,22,34,NJ
+34001,34,1,New Jersey,Atlantic County,36005,36.0,5.0,New York,Bronx County,63,66,NJ
+34003,34,3,New Jersey,Bergen County,36005,36.0,5.0,New York,Bronx County,6591,664,NJ
+34005,34,5,New Jersey,Burlington County,36005,36.0,5.0,New York,Bronx County,71,47,NJ
+34007,34,7,New Jersey,Camden County,36005,36.0,5.0,New York,Bronx County,12,15,NJ
+34013,34,13,New Jersey,Essex County,36005,36.0,5.0,New York,Bronx County,955,218,NJ
+34017,34,17,New Jersey,Hudson County,36005,36.0,5.0,New York,Bronx County,1542,250,NJ
+34019,34,19,New Jersey,Hunterdon County,36005,36.0,5.0,New York,Bronx County,17,15,NJ
+34021,34,21,New Jersey,Mercer County,36005,36.0,5.0,New York,Bronx County,106,83,NJ
+34023,34,23,New Jersey,Middlesex County,36005,36.0,5.0,New York,Bronx County,700,166,NJ
+34025,34,25,New Jersey,Monmouth County,36005,36.0,5.0,New York,Bronx County,406,147,NJ
+34027,34,27,New Jersey,Morris County,36005,36.0,5.0,New York,Bronx County,529,169,NJ
+34029,34,29,New Jersey,Ocean County,36005,36.0,5.0,New York,Bronx County,117,57,NJ
+34031,34,31,New Jersey,Passaic County,36005,36.0,5.0,New York,Bronx County,645,171,NJ
+34035,34,35,New Jersey,Somerset County,36005,36.0,5.0,New York,Bronx County,90,62,NJ
+34037,34,37,New Jersey,Sussex County,36005,36.0,5.0,New York,Bronx County,154,74,NJ
+34039,34,39,New Jersey,Union County,36005,36.0,5.0,New York,Bronx County,515,152,NJ
+34041,34,41,New Jersey,Warren County,36005,36.0,5.0,New York,Bronx County,32,26,NJ
+34003,34,3,New Jersey,Bergen County,36007,36.0,7.0,New York,Broome County,53,74,NJ
+34017,34,17,New Jersey,Hudson County,36007,36.0,7.0,New York,Broome County,17,27,NJ
+34037,34,37,New Jersey,Sussex County,36007,36.0,7.0,New York,Broome County,14,23,NJ
+34039,34,39,New Jersey,Union County,36007,36.0,7.0,New York,Broome County,23,24,NJ
+34005,34,5,New Jersey,Burlington County,36009,36.0,9.0,New York,Cattaraugus County,3,4,NJ
+34011,34,11,New Jersey,Cumberland County,36009,36.0,9.0,New York,Cattaraugus County,17,27,NJ
+34013,34,13,New Jersey,Essex County,36011,36.0,11.0,New York,Cayuga County,11,16,NJ
+34019,34,19,New Jersey,Hunterdon County,36011,36.0,11.0,New York,Cayuga County,11,19,NJ
+34027,34,27,New Jersey,Morris County,36011,36.0,11.0,New York,Cayuga County,15,23,NJ
+34039,34,39,New Jersey,Union County,36011,36.0,11.0,New York,Cayuga County,11,15,NJ
+34013,34,13,New Jersey,Essex County,36013,36.0,13.0,New York,Chautauqua County,4,8,NJ
+34023,34,23,New Jersey,Middlesex County,36013,36.0,13.0,New York,Chautauqua County,15,16,NJ
+34025,34,25,New Jersey,Monmouth County,36013,36.0,13.0,New York,Chautauqua County,10,18,NJ
+34027,34,27,New Jersey,Morris County,36013,36.0,13.0,New York,Chautauqua County,24,27,NJ
+34029,34,29,New Jersey,Ocean County,36013,36.0,13.0,New York,Chautauqua County,26,30,NJ
+34039,34,39,New Jersey,Union County,36013,36.0,13.0,New York,Chautauqua County,10,15,NJ
+34003,34,3,New Jersey,Bergen County,36017,36.0,17.0,New York,Chenango County,9,15,NJ
+34013,34,13,New Jersey,Essex County,36017,36.0,17.0,New York,Chenango County,14,20,NJ
+34031,34,31,New Jersey,Passaic County,36017,36.0,17.0,New York,Chenango County,19,31,NJ
+34013,34,13,New Jersey,Essex County,36021,36.0,21.0,New York,Columbia County,10,17,NJ
+34017,34,17,New Jersey,Hudson County,36021,36.0,21.0,New York,Columbia County,6,9,NJ
+34027,34,27,New Jersey,Morris County,36021,36.0,21.0,New York,Columbia County,20,22,NJ
+34035,34,35,New Jersey,Somerset County,36021,36.0,21.0,New York,Columbia County,58,77,NJ
+34005,34,5,New Jersey,Burlington County,36023,36.0,23.0,New York,Cortland County,12,18,NJ
+34037,34,37,New Jersey,Sussex County,36023,36.0,23.0,New York,Cortland County,12,14,NJ
+34003,34,3,New Jersey,Bergen County,36025,36.0,25.0,New York,Delaware County,12,19,NJ
+34027,34,27,New Jersey,Morris County,36025,36.0,25.0,New York,Delaware County,21,33,NJ
+34031,34,31,New Jersey,Passaic County,36025,36.0,25.0,New York,Delaware County,17,19,NJ
+34003,34,3,New Jersey,Bergen County,36027,36.0,27.0,New York,Dutchess County,170,91,NJ
+34013,34,13,New Jersey,Essex County,36027,36.0,27.0,New York,Dutchess County,52,40,NJ
+34021,34,21,New Jersey,Mercer County,36027,36.0,27.0,New York,Dutchess County,18,27,NJ
+34023,34,23,New Jersey,Middlesex County,36027,36.0,27.0,New York,Dutchess County,32,32,NJ
+34027,34,27,New Jersey,Morris County,36027,36.0,27.0,New York,Dutchess County,23,36,NJ
+34031,34,31,New Jersey,Passaic County,36027,36.0,27.0,New York,Dutchess County,12,18,NJ
+34033,34,33,New Jersey,Salem County,36027,36.0,27.0,New York,Dutchess County,6,10,NJ
+34037,34,37,New Jersey,Sussex County,36027,36.0,27.0,New York,Dutchess County,45,36,NJ
+34039,34,39,New Jersey,Union County,36027,36.0,27.0,New York,Dutchess County,32,36,NJ
+34003,34,3,New Jersey,Bergen County,36029,36.0,29.0,New York,Erie County,8,12,NJ
+34013,34,13,New Jersey,Essex County,36029,36.0,29.0,New York,Erie County,42,47,NJ
+34015,34,15,New Jersey,Gloucester County,36029,36.0,29.0,New York,Erie County,9,15,NJ
+34017,34,17,New Jersey,Hudson County,36029,36.0,29.0,New York,Erie County,7,11,NJ
+34023,34,23,New Jersey,Middlesex County,36029,36.0,29.0,New York,Erie County,9,15,NJ
+34025,34,25,New Jersey,Monmouth County,36029,36.0,29.0,New York,Erie County,9,13,NJ
+34031,34,31,New Jersey,Passaic County,36029,36.0,29.0,New York,Erie County,16,27,NJ
+34033,34,33,New Jersey,Salem County,36029,36.0,29.0,New York,Erie County,11,16,NJ
+34039,34,39,New Jersey,Union County,36029,36.0,29.0,New York,Erie County,3,4,NJ
+34017,34,17,New Jersey,Hudson County,36031,36.0,31.0,New York,Essex County,37,37,NJ
+34027,34,27,New Jersey,Morris County,36031,36.0,31.0,New York,Essex County,30,34,NJ
+34017,34,17,New Jersey,Hudson County,36035,36.0,35.0,New York,Fulton County,11,23,NJ
+34037,34,37,New Jersey,Sussex County,36037,36.0,37.0,New York,Genesee County,7,10,NJ
+34009,34,9,New Jersey,Cape May County,36039,36.0,39.0,New York,Greene County,5,8,NJ
+34023,34,23,New Jersey,Middlesex County,36039,36.0,39.0,New York,Greene County,29,29,NJ
+34025,34,25,New Jersey,Monmouth County,36039,36.0,39.0,New York,Greene County,9,14,NJ
+34003,34,3,New Jersey,Bergen County,36043,36.0,43.0,New York,Herkimer County,8,12,NJ
+34019,34,19,New Jersey,Hunterdon County,36043,36.0,43.0,New York,Herkimer County,35,37,NJ
+34013,34,13,New Jersey,Essex County,36045,36.0,45.0,New York,Jefferson County,8,13,NJ
+34029,34,29,New Jersey,Ocean County,36045,36.0,45.0,New York,Jefferson County,8,13,NJ
+34031,34,31,New Jersey,Passaic County,36045,36.0,45.0,New York,Jefferson County,11,17,NJ
+34001,34,1,New Jersey,Atlantic County,36047,36.0,47.0,New York,Kings County,10,18,NJ
+34003,34,3,New Jersey,Bergen County,36047,36.0,47.0,New York,Kings County,8904,792,NJ
+34005,34,5,New Jersey,Burlington County,36047,36.0,47.0,New York,Kings County,550,209,NJ
+34007,34,7,New Jersey,Camden County,36047,36.0,47.0,New York,Kings County,164,105,NJ
+34011,34,11,New Jersey,Cumberland County,36047,36.0,47.0,New York,Kings County,31,37,NJ
+34013,34,13,New Jersey,Essex County,36047,36.0,47.0,New York,Kings County,5743,594,NJ
+34015,34,15,New Jersey,Gloucester County,36047,36.0,47.0,New York,Kings County,28,27,NJ
+34017,34,17,New Jersey,Hudson County,36047,36.0,47.0,New York,Kings County,5669,571,NJ
+34019,34,19,New Jersey,Hunterdon County,36047,36.0,47.0,New York,Kings County,108,63,NJ
+34021,34,21,New Jersey,Mercer County,36047,36.0,47.0,New York,Kings County,863,190,NJ
+34023,34,23,New Jersey,Middlesex County,36047,36.0,47.0,New York,Kings County,4544,423,NJ
+34025,34,25,New Jersey,Monmouth County,36047,36.0,47.0,New York,Kings County,4195,536,NJ
+34027,34,27,New Jersey,Morris County,36047,36.0,47.0,New York,Kings County,1005,199,NJ
+34029,34,29,New Jersey,Ocean County,36047,36.0,47.0,New York,Kings County,1047,192,NJ
+34031,34,31,New Jersey,Passaic County,36047,36.0,47.0,New York,Kings County,2359,415,NJ
+34033,34,33,New Jersey,Salem County,36047,36.0,47.0,New York,Kings County,10,11,NJ
+34035,34,35,New Jersey,Somerset County,36047,36.0,47.0,New York,Kings County,664,147,NJ
+34037,34,37,New Jersey,Sussex County,36047,36.0,47.0,New York,Kings County,281,135,NJ
+34039,34,39,New Jersey,Union County,36047,36.0,47.0,New York,Kings County,2884,412,NJ
+34041,34,41,New Jersey,Warren County,36047,36.0,47.0,New York,Kings County,59,50,NJ
+34003,34,3,New Jersey,Bergen County,36051,36.0,51.0,New York,Livingston County,8,12,NJ
+34005,34,5,New Jersey,Burlington County,36055,36.0,55.0,New York,Monroe County,4,8,NJ
+34017,34,17,New Jersey,Hudson County,36055,36.0,55.0,New York,Monroe County,16,19,NJ
+34023,34,23,New Jersey,Middlesex County,36055,36.0,55.0,New York,Monroe County,36,46,NJ
+34025,34,25,New Jersey,Monmouth County,36055,36.0,55.0,New York,Monroe County,21,18,NJ
+34027,34,27,New Jersey,Morris County,36055,36.0,55.0,New York,Monroe County,16,21,NJ
+34001,34,1,New Jersey,Atlantic County,36059,36.0,59.0,New York,Nassau County,14,22,NJ
+34003,34,3,New Jersey,Bergen County,36059,36.0,59.0,New York,Nassau County,1190,231,NJ
+34005,34,5,New Jersey,Burlington County,36059,36.0,59.0,New York,Nassau County,35,29,NJ
+34007,34,7,New Jersey,Camden County,36059,36.0,59.0,New York,Nassau County,64,79,NJ
+34009,34,9,New Jersey,Cape May County,36059,36.0,59.0,New York,Nassau County,11,16,NJ
+34011,34,11,New Jersey,Cumberland County,36059,36.0,59.0,New York,Nassau County,34,36,NJ
+34013,34,13,New Jersey,Essex County,36059,36.0,59.0,New York,Nassau County,453,165,NJ
+34015,34,15,New Jersey,Gloucester County,36059,36.0,59.0,New York,Nassau County,10,17,NJ
+34017,34,17,New Jersey,Hudson County,36059,36.0,59.0,New York,Nassau County,932,201,NJ
+34019,34,19,New Jersey,Hunterdon County,36059,36.0,59.0,New York,Nassau County,11,18,NJ
+34021,34,21,New Jersey,Mercer County,36059,36.0,59.0,New York,Nassau County,102,74,NJ
+34023,34,23,New Jersey,Middlesex County,36059,36.0,59.0,New York,Nassau County,468,141,NJ
+34025,34,25,New Jersey,Monmouth County,36059,36.0,59.0,New York,Nassau County,387,124,NJ
+34027,34,27,New Jersey,Morris County,36059,36.0,59.0,New York,Nassau County,194,93,NJ
+34029,34,29,New Jersey,Ocean County,36059,36.0,59.0,New York,Nassau County,164,82,NJ
+34031,34,31,New Jersey,Passaic County,36059,36.0,59.0,New York,Nassau County,255,126,NJ
+34035,34,35,New Jersey,Somerset County,36059,36.0,59.0,New York,Nassau County,51,44,NJ
+34037,34,37,New Jersey,Sussex County,36059,36.0,59.0,New York,Nassau County,53,38,NJ
+34039,34,39,New Jersey,Union County,36059,36.0,59.0,New York,Nassau County,187,79,NJ
+34041,34,41,New Jersey,Warren County,36059,36.0,59.0,New York,Nassau County,4,6,NJ
+34001,34,1,New Jersey,Atlantic County,36061,36.0,61.0,New York,New York County,249,100,NJ
+34003,34,3,New Jersey,Bergen County,36061,36.0,61.0,New York,New York County,66501,1674,NJ
+34005,34,5,New Jersey,Burlington County,36061,36.0,61.0,New York,New York County,1704,322,NJ
+34007,34,7,New Jersey,Camden County,36061,36.0,61.0,New York,New York County,506,142,NJ
+34009,34,9,New Jersey,Cape May County,36061,36.0,61.0,New York,New York County,124,61,NJ
+34011,34,11,New Jersey,Cumberland County,36061,36.0,61.0,New York,New York County,37,28,NJ
+34013,34,13,New Jersey,Essex County,36061,36.0,61.0,New York,New York County,34421,1262,NJ
+34015,34,15,New Jersey,Gloucester County,36061,36.0,61.0,New York,New York County,146,78,NJ
+34017,34,17,New Jersey,Hudson County,36061,36.0,61.0,New York,New York County,87708,1818,NJ
+34019,34,19,New Jersey,Hunterdon County,36061,36.0,61.0,New York,New York County,1328,250,NJ
+34021,34,21,New Jersey,Mercer County,36061,36.0,61.0,New York,New York County,6367,483,NJ
+34023,34,23,New Jersey,Middlesex County,36061,36.0,61.0,New York,New York County,28970,1013,NJ
+34025,34,25,New Jersey,Monmouth County,36061,36.0,61.0,New York,New York County,21249,959,NJ
+34027,34,27,New Jersey,Morris County,36061,36.0,61.0,New York,New York County,13862,627,NJ
+34029,34,29,New Jersey,Ocean County,36061,36.0,61.0,New York,New York County,3443,464,NJ
+34031,34,31,New Jersey,Passaic County,36061,36.0,61.0,New York,New York County,10088,804,NJ
+34033,34,33,New Jersey,Salem County,36061,36.0,61.0,New York,New York County,14,15,NJ
+34035,34,35,New Jersey,Somerset County,36061,36.0,61.0,New York,New York County,7481,593,NJ
+34037,34,37,New Jersey,Sussex County,36061,36.0,61.0,New York,New York County,1747,269,NJ
+34039,34,39,New Jersey,Union County,36061,36.0,61.0,New York,New York County,19984,911,NJ
+34041,34,41,New Jersey,Warren County,36061,36.0,61.0,New York,New York County,692,197,NJ
+34003,34,3,New Jersey,Bergen County,36063,36.0,63.0,New York,Niagara County,11,17,NJ
+34023,34,23,New Jersey,Middlesex County,36063,36.0,63.0,New York,Niagara County,16,18,NJ
+34035,34,35,New Jersey,Somerset County,36063,36.0,63.0,New York,Niagara County,27,43,NJ
+34005,34,5,New Jersey,Burlington County,36065,36.0,65.0,New York,Oneida County,10,16,NJ
+34015,34,15,New Jersey,Gloucester County,36065,36.0,65.0,New York,Oneida County,12,18,NJ
+34027,34,27,New Jersey,Morris County,36065,36.0,65.0,New York,Oneida County,9,15,NJ
+34003,34,3,New Jersey,Bergen County,36067,36.0,67.0,New York,Onondaga County,13,21,NJ
+34017,34,17,New Jersey,Hudson County,36067,36.0,67.0,New York,Onondaga County,2,4,NJ
+34019,34,19,New Jersey,Hunterdon County,36067,36.0,67.0,New York,Onondaga County,4,7,NJ
+34023,34,23,New Jersey,Middlesex County,36067,36.0,67.0,New York,Onondaga County,19,22,NJ
+34025,34,25,New Jersey,Monmouth County,36067,36.0,67.0,New York,Onondaga County,10,15,NJ
+34027,34,27,New Jersey,Morris County,36067,36.0,67.0,New York,Onondaga County,10,18,NJ
+34031,34,31,New Jersey,Passaic County,36067,36.0,67.0,New York,Onondaga County,31,42,NJ
+34033,34,33,New Jersey,Salem County,36067,36.0,67.0,New York,Onondaga County,4,6,NJ
+34035,34,35,New Jersey,Somerset County,36067,36.0,67.0,New York,Onondaga County,16,23,NJ
+34003,34,3,New Jersey,Bergen County,36071,36.0,71.0,New York,Orange County,677,200,NJ
+34007,34,7,New Jersey,Camden County,36071,36.0,71.0,New York,Orange County,4,8,NJ
+34013,34,13,New Jersey,Essex County,36071,36.0,71.0,New York,Orange County,77,55,NJ
+34017,34,17,New Jersey,Hudson County,36071,36.0,71.0,New York,Orange County,82,46,NJ
+34023,34,23,New Jersey,Middlesex County,36071,36.0,71.0,New York,Orange County,23,23,NJ
+34025,34,25,New Jersey,Monmouth County,36071,36.0,71.0,New York,Orange County,20,22,NJ
+34027,34,27,New Jersey,Morris County,36071,36.0,71.0,New York,Orange County,132,66,NJ
+34031,34,31,New Jersey,Passaic County,36071,36.0,71.0,New York,Orange County,403,163,NJ
+34035,34,35,New Jersey,Somerset County,36071,36.0,71.0,New York,Orange County,19,22,NJ
+34037,34,37,New Jersey,Sussex County,36071,36.0,71.0,New York,Orange County,1315,260,NJ
+34039,34,39,New Jersey,Union County,36071,36.0,71.0,New York,Orange County,65,45,NJ
+34041,34,41,New Jersey,Warren County,36071,36.0,71.0,New York,Orange County,22,20,NJ
+34017,34,17,New Jersey,Hudson County,36073,36.0,73.0,New York,Orleans County,16,30,NJ
+34003,34,3,New Jersey,Bergen County,36075,36.0,75.0,New York,Oswego County,4,16,NJ
+34003,34,3,New Jersey,Bergen County,36077,36.0,77.0,New York,Otsego County,37,61,NJ
+34023,34,23,New Jersey,Middlesex County,36077,36.0,77.0,New York,Otsego County,15,24,NJ
+34025,34,25,New Jersey,Monmouth County,36077,36.0,77.0,New York,Otsego County,17,14,NJ
+34027,34,27,New Jersey,Morris County,36077,36.0,77.0,New York,Otsego County,10,15,NJ
+34029,34,29,New Jersey,Ocean County,36077,36.0,77.0,New York,Otsego County,8,13,NJ
+34037,34,37,New Jersey,Sussex County,36077,36.0,77.0,New York,Otsego County,3,5,NJ
+34039,34,39,New Jersey,Union County,36077,36.0,77.0,New York,Otsego County,47,54,NJ
+34041,34,41,New Jersey,Warren County,36077,36.0,77.0,New York,Otsego County,8,10,NJ
+34003,34,3,New Jersey,Bergen County,36079,36.0,79.0,New York,Putnam County,68,95,NJ
+34019,34,19,New Jersey,Hunterdon County,36079,36.0,79.0,New York,Putnam County,6,9,NJ
+34031,34,31,New Jersey,Passaic County,36079,36.0,79.0,New York,Putnam County,4,7,NJ
+34001,34,1,New Jersey,Atlantic County,36081,36.0,81.0,New York,Queens County,20,21,NJ
+34003,34,3,New Jersey,Bergen County,36081,36.0,81.0,New York,Queens County,4333,483,NJ
+34005,34,5,New Jersey,Burlington County,36081,36.0,81.0,New York,Queens County,222,130,NJ
+34007,34,7,New Jersey,Camden County,36081,36.0,81.0,New York,Queens County,41,34,NJ
+34009,34,9,New Jersey,Cape May County,36081,36.0,81.0,New York,Queens County,8,14,NJ
+34013,34,13,New Jersey,Essex County,36081,36.0,81.0,New York,Queens County,1596,248,NJ
+34015,34,15,New Jersey,Gloucester County,36081,36.0,81.0,New York,Queens County,47,51,NJ
+34017,34,17,New Jersey,Hudson County,36081,36.0,81.0,New York,Queens County,2759,415,NJ
+34019,34,19,New Jersey,Hunterdon County,36081,36.0,81.0,New York,Queens County,68,52,NJ
+34021,34,21,New Jersey,Mercer County,36081,36.0,81.0,New York,Queens County,187,91,NJ
+34023,34,23,New Jersey,Middlesex County,36081,36.0,81.0,New York,Queens County,2075,340,NJ
+34025,34,25,New Jersey,Monmouth County,36081,36.0,81.0,New York,Queens County,1000,196,NJ
+34027,34,27,New Jersey,Morris County,36081,36.0,81.0,New York,Queens County,570,172,NJ
+34029,34,29,New Jersey,Ocean County,36081,36.0,81.0,New York,Queens County,437,135,NJ
+34031,34,31,New Jersey,Passaic County,36081,36.0,81.0,New York,Queens County,471,158,NJ
+34033,34,33,New Jersey,Salem County,36081,36.0,81.0,New York,Queens County,6,11,NJ
+34035,34,35,New Jersey,Somerset County,36081,36.0,81.0,New York,Queens County,313,181,NJ
+34037,34,37,New Jersey,Sussex County,36081,36.0,81.0,New York,Queens County,127,61,NJ
+34039,34,39,New Jersey,Union County,36081,36.0,81.0,New York,Queens County,1002,235,NJ
+34041,34,41,New Jersey,Warren County,36081,36.0,81.0,New York,Queens County,80,59,NJ
+34007,34,7,New Jersey,Camden County,36083,36.0,83.0,New York,Rensselaer County,18,21,NJ
+34013,34,13,New Jersey,Essex County,36083,36.0,83.0,New York,Rensselaer County,11,17,NJ
+34017,34,17,New Jersey,Hudson County,36083,36.0,83.0,New York,Rensselaer County,11,20,NJ
+34023,34,23,New Jersey,Middlesex County,36083,36.0,83.0,New York,Rensselaer County,19,22,NJ
+34001,34,1,New Jersey,Atlantic County,36085,36.0,85.0,New York,Richmond County,9,14,NJ
+34003,34,3,New Jersey,Bergen County,36085,36.0,85.0,New York,Richmond County,420,152,NJ
+34005,34,5,New Jersey,Burlington County,36085,36.0,85.0,New York,Richmond County,70,42,NJ
+34009,34,9,New Jersey,Cape May County,36085,36.0,85.0,New York,Richmond County,9,14,NJ
+34013,34,13,New Jersey,Essex County,36085,36.0,85.0,New York,Richmond County,684,233,NJ
+34017,34,17,New Jersey,Hudson County,36085,36.0,85.0,New York,Richmond County,572,160,NJ
+34019,34,19,New Jersey,Hunterdon County,36085,36.0,85.0,New York,Richmond County,199,108,NJ
+34021,34,21,New Jersey,Mercer County,36085,36.0,85.0,New York,Richmond County,153,85,NJ
+34023,34,23,New Jersey,Middlesex County,36085,36.0,85.0,New York,Richmond County,2917,325,NJ
+34025,34,25,New Jersey,Monmouth County,36085,36.0,85.0,New York,Richmond County,2908,354,NJ
+34027,34,27,New Jersey,Morris County,36085,36.0,85.0,New York,Richmond County,168,101,NJ
+34029,34,29,New Jersey,Ocean County,36085,36.0,85.0,New York,Richmond County,703,206,NJ
+34031,34,31,New Jersey,Passaic County,36085,36.0,85.0,New York,Richmond County,276,191,NJ
+34035,34,35,New Jersey,Somerset County,36085,36.0,85.0,New York,Richmond County,404,145,NJ
+34037,34,37,New Jersey,Sussex County,36085,36.0,85.0,New York,Richmond County,83,63,NJ
+34039,34,39,New Jersey,Union County,36085,36.0,85.0,New York,Richmond County,1042,220,NJ
+34041,34,41,New Jersey,Warren County,36085,36.0,85.0,New York,Richmond County,21,20,NJ
+34001,34,1,New Jersey,Atlantic County,36087,36.0,87.0,New York,Rockland County,20,34,NJ
+34003,34,3,New Jersey,Bergen County,36087,36.0,87.0,New York,Rockland County,7324,557,NJ
+34005,34,5,New Jersey,Burlington County,36087,36.0,87.0,New York,Rockland County,12,20,NJ
+34007,34,7,New Jersey,Camden County,36087,36.0,87.0,New York,Rockland County,19,21,NJ
+34013,34,13,New Jersey,Essex County,36087,36.0,87.0,New York,Rockland County,501,155,NJ
+34015,34,15,New Jersey,Gloucester County,36087,36.0,87.0,New York,Rockland County,7,11,NJ
+34017,34,17,New Jersey,Hudson County,36087,36.0,87.0,New York,Rockland County,578,173,NJ
+34019,34,19,New Jersey,Hunterdon County,36087,36.0,87.0,New York,Rockland County,50,43,NJ
+34021,34,21,New Jersey,Mercer County,36087,36.0,87.0,New York,Rockland County,17,27,NJ
+34023,34,23,New Jersey,Middlesex County,36087,36.0,87.0,New York,Rockland County,85,56,NJ
+34025,34,25,New Jersey,Monmouth County,36087,36.0,87.0,New York,Rockland County,71,50,NJ
+34027,34,27,New Jersey,Morris County,36087,36.0,87.0,New York,Rockland County,621,154,NJ
+34029,34,29,New Jersey,Ocean County,36087,36.0,87.0,New York,Rockland County,99,55,NJ
+34031,34,31,New Jersey,Passaic County,36087,36.0,87.0,New York,Rockland County,1462,315,NJ
+34035,34,35,New Jersey,Somerset County,36087,36.0,87.0,New York,Rockland County,104,84,NJ
+34037,34,37,New Jersey,Sussex County,36087,36.0,87.0,New York,Rockland County,222,100,NJ
+34039,34,39,New Jersey,Union County,36087,36.0,87.0,New York,Rockland County,418,241,NJ
+34041,34,41,New Jersey,Warren County,36087,36.0,87.0,New York,Rockland County,28,24,NJ
+34003,34,3,New Jersey,Bergen County,36089,36.0,89.0,New York,St. Lawrence County,10,15,NJ
+34013,34,13,New Jersey,Essex County,36089,36.0,89.0,New York,St. Lawrence County,16,18,NJ
+34023,34,23,New Jersey,Middlesex County,36089,36.0,89.0,New York,St. Lawrence County,38,57,NJ
+34003,34,3,New Jersey,Bergen County,36091,36.0,91.0,New York,Saratoga County,6,9,NJ
+34015,34,15,New Jersey,Gloucester County,36091,36.0,91.0,New York,Saratoga County,11,18,NJ
+34031,34,31,New Jersey,Passaic County,36091,36.0,91.0,New York,Saratoga County,5,7,NJ
+34003,34,3,New Jersey,Bergen County,36093,36.0,93.0,New York,Schenectady County,20,32,NJ
+34015,34,15,New Jersey,Gloucester County,36093,36.0,93.0,New York,Schenectady County,8,11,NJ
+34013,34,13,New Jersey,Essex County,36095,36.0,95.0,New York,Schoharie County,28,29,NJ
+34017,34,17,New Jersey,Hudson County,36097,36.0,97.0,New York,Schuyler County,26,33,NJ
+34013,34,13,New Jersey,Essex County,36101,36.0,101.0,New York,Steuben County,21,24,NJ
+34017,34,17,New Jersey,Hudson County,36101,36.0,101.0,New York,Steuben County,24,28,NJ
+34023,34,23,New Jersey,Middlesex County,36101,36.0,101.0,New York,Steuben County,13,15,NJ
+34003,34,3,New Jersey,Bergen County,36103,36.0,103.0,New York,Suffolk County,363,115,NJ
+34005,34,5,New Jersey,Burlington County,36103,36.0,103.0,New York,Suffolk County,49,41,NJ
+34007,34,7,New Jersey,Camden County,36103,36.0,103.0,New York,Suffolk County,39,41,NJ
+34013,34,13,New Jersey,Essex County,36103,36.0,103.0,New York,Suffolk County,117,70,NJ
+34015,34,15,New Jersey,Gloucester County,36103,36.0,103.0,New York,Suffolk County,64,47,NJ
+34017,34,17,New Jersey,Hudson County,36103,36.0,103.0,New York,Suffolk County,261,166,NJ
+34019,34,19,New Jersey,Hunterdon County,36103,36.0,103.0,New York,Suffolk County,8,16,NJ
+34021,34,21,New Jersey,Mercer County,36103,36.0,103.0,New York,Suffolk County,90,68,NJ
+34023,34,23,New Jersey,Middlesex County,36103,36.0,103.0,New York,Suffolk County,126,76,NJ
+34025,34,25,New Jersey,Monmouth County,36103,36.0,103.0,New York,Suffolk County,202,85,NJ
+34027,34,27,New Jersey,Morris County,36103,36.0,103.0,New York,Suffolk County,100,46,NJ
+34029,34,29,New Jersey,Ocean County,36103,36.0,103.0,New York,Suffolk County,56,40,NJ
+34031,34,31,New Jersey,Passaic County,36103,36.0,103.0,New York,Suffolk County,57,45,NJ
+34035,34,35,New Jersey,Somerset County,36103,36.0,103.0,New York,Suffolk County,42,47,NJ
+34037,34,37,New Jersey,Sussex County,36103,36.0,103.0,New York,Suffolk County,40,36,NJ
+34039,34,39,New Jersey,Union County,36103,36.0,103.0,New York,Suffolk County,157,73,NJ
+34041,34,41,New Jersey,Warren County,36103,36.0,103.0,New York,Suffolk County,43,48,NJ
+34003,34,3,New Jersey,Bergen County,36105,36.0,105.0,New York,Sullivan County,22,26,NJ
+34013,34,13,New Jersey,Essex County,36105,36.0,105.0,New York,Sullivan County,15,22,NJ
+34029,34,29,New Jersey,Ocean County,36105,36.0,105.0,New York,Sullivan County,34,31,NJ
+34031,34,31,New Jersey,Passaic County,36105,36.0,105.0,New York,Sullivan County,22,21,NJ
+34037,34,37,New Jersey,Sussex County,36105,36.0,105.0,New York,Sullivan County,21,19,NJ
+34003,34,3,New Jersey,Bergen County,36109,36.0,109.0,New York,Tompkins County,56,51,NJ
+34013,34,13,New Jersey,Essex County,36109,36.0,109.0,New York,Tompkins County,6,9,NJ
+34017,34,17,New Jersey,Hudson County,36109,36.0,109.0,New York,Tompkins County,26,31,NJ
+34025,34,25,New Jersey,Monmouth County,36109,36.0,109.0,New York,Tompkins County,4,5,NJ
+34029,34,29,New Jersey,Ocean County,36109,36.0,109.0,New York,Tompkins County,12,19,NJ
+34035,34,35,New Jersey,Somerset County,36109,36.0,109.0,New York,Tompkins County,9,14,NJ
+34039,34,39,New Jersey,Union County,36109,36.0,109.0,New York,Tompkins County,18,29,NJ
+34003,34,3,New Jersey,Bergen County,36111,36.0,111.0,New York,Ulster County,83,81,NJ
+34013,34,13,New Jersey,Essex County,36111,36.0,111.0,New York,Ulster County,43,36,NJ
+34025,34,25,New Jersey,Monmouth County,36111,36.0,111.0,New York,Ulster County,7,11,NJ
+34027,34,27,New Jersey,Morris County,36111,36.0,111.0,New York,Ulster County,35,50,NJ
+34029,34,29,New Jersey,Ocean County,36111,36.0,111.0,New York,Ulster County,49,39,NJ
+34031,34,31,New Jersey,Passaic County,36111,36.0,111.0,New York,Ulster County,52,58,NJ
+34037,34,37,New Jersey,Sussex County,36111,36.0,111.0,New York,Ulster County,7,11,NJ
+34021,34,21,New Jersey,Mercer County,36113,36.0,113.0,New York,Warren County,12,19,NJ
+34031,34,31,New Jersey,Passaic County,36113,36.0,113.0,New York,Warren County,12,13,NJ
+34035,34,35,New Jersey,Somerset County,36113,36.0,113.0,New York,Warren County,10,16,NJ
+34041,34,41,New Jersey,Warren County,36115,36.0,115.0,New York,Washington County,16,17,NJ
+34003,34,3,New Jersey,Bergen County,36117,36.0,117.0,New York,Wayne County,7,11,NJ
+34017,34,17,New Jersey,Hudson County,36117,36.0,117.0,New York,Wayne County,11,21,NJ
+34023,34,23,New Jersey,Middlesex County,36117,36.0,117.0,New York,Wayne County,11,17,NJ
+34027,34,27,New Jersey,Morris County,36117,36.0,117.0,New York,Wayne County,27,43,NJ
+34039,34,39,New Jersey,Union County,36117,36.0,117.0,New York,Wayne County,9,14,NJ
+34001,34,1,New Jersey,Atlantic County,36119,36.0,119.0,New York,Westchester County,109,113,NJ
+34003,34,3,New Jersey,Bergen County,36119,36.0,119.0,New York,Westchester County,4242,459,NJ
+34005,34,5,New Jersey,Burlington County,36119,36.0,119.0,New York,Westchester County,19,24,NJ
+34007,34,7,New Jersey,Camden County,36119,36.0,119.0,New York,Westchester County,23,24,NJ
+34009,34,9,New Jersey,Cape May County,36119,36.0,119.0,New York,Westchester County,2,3,NJ
+34013,34,13,New Jersey,Essex County,36119,36.0,119.0,New York,Westchester County,786,194,NJ
+34015,34,15,New Jersey,Gloucester County,36119,36.0,119.0,New York,Westchester County,30,37,NJ
+34017,34,17,New Jersey,Hudson County,36119,36.0,119.0,New York,Westchester County,601,146,NJ
+34019,34,19,New Jersey,Hunterdon County,36119,36.0,119.0,New York,Westchester County,18,19,NJ
+34021,34,21,New Jersey,Mercer County,36119,36.0,119.0,New York,Westchester County,76,55,NJ
+34023,34,23,New Jersey,Middlesex County,36119,36.0,119.0,New York,Westchester County,292,90,NJ
+34025,34,25,New Jersey,Monmouth County,36119,36.0,119.0,New York,Westchester County,358,135,NJ
+34027,34,27,New Jersey,Morris County,36119,36.0,119.0,New York,Westchester County,512,138,NJ
+34029,34,29,New Jersey,Ocean County,36119,36.0,119.0,New York,Westchester County,175,80,NJ
+34031,34,31,New Jersey,Passaic County,36119,36.0,119.0,New York,Westchester County,880,187,NJ
+34035,34,35,New Jersey,Somerset County,36119,36.0,119.0,New York,Westchester County,173,118,NJ
+34037,34,37,New Jersey,Sussex County,36119,36.0,119.0,New York,Westchester County,164,75,NJ
+34039,34,39,New Jersey,Union County,36119,36.0,119.0,New York,Westchester County,322,106,NJ
+34023,34,23,New Jersey,Middlesex County,36123,36.0,123.0,New York,Yates County,8,16,NJ
+34023,34,23,New Jersey,Middlesex County,37001,37.0,1.0,North Carolina,Alamance County,34,38,NJ
+34019,34,19,New Jersey,Hunterdon County,37021,37.0,21.0,North Carolina,Buncombe County,15,26,NJ
+34031,34,31,New Jersey,Passaic County,37021,37.0,21.0,North Carolina,Buncombe County,10,16,NJ
+34025,34,25,New Jersey,Monmouth County,37063,37.0,63.0,North Carolina,Durham County,8,12,NJ
+34027,34,27,New Jersey,Morris County,37063,37.0,63.0,North Carolina,Durham County,23,26,NJ
+34035,34,35,New Jersey,Somerset County,37063,37.0,63.0,North Carolina,Durham County,10,15,NJ
+34039,34,39,New Jersey,Union County,37063,37.0,63.0,North Carolina,Durham County,25,30,NJ
+34007,34,7,New Jersey,Camden County,37067,37.0,67.0,North Carolina,Forsyth County,14,22,NJ
+34027,34,27,New Jersey,Morris County,37067,37.0,67.0,North Carolina,Forsyth County,19,23,NJ
+34003,34,3,New Jersey,Bergen County,37071,37.0,71.0,North Carolina,Gaston County,1,2,NJ
+34025,34,25,New Jersey,Monmouth County,37079,37.0,79.0,North Carolina,Greene County,8,15,NJ
+34015,34,15,New Jersey,Gloucester County,37081,37.0,81.0,North Carolina,Guilford County,21,31,NJ
+34021,34,21,New Jersey,Mercer County,37081,37.0,81.0,North Carolina,Guilford County,12,18,NJ
+34029,34,29,New Jersey,Ocean County,37081,37.0,81.0,North Carolina,Guilford County,14,24,NJ
+34021,34,21,New Jersey,Mercer County,37097,37.0,97.0,North Carolina,Iredell County,10,16,NJ
+34029,34,29,New Jersey,Ocean County,37097,37.0,97.0,North Carolina,Iredell County,17,25,NJ
+34007,34,7,New Jersey,Camden County,37119,37.0,119.0,North Carolina,Mecklenburg County,10,16,NJ
+34013,34,13,New Jersey,Essex County,37119,37.0,119.0,North Carolina,Mecklenburg County,18,24,NJ
+34015,34,15,New Jersey,Gloucester County,37119,37.0,119.0,North Carolina,Mecklenburg County,5,7,NJ
+34017,34,17,New Jersey,Hudson County,37119,37.0,119.0,North Carolina,Mecklenburg County,26,26,NJ
+34023,34,23,New Jersey,Middlesex County,37119,37.0,119.0,North Carolina,Mecklenburg County,28,32,NJ
+34025,34,25,New Jersey,Monmouth County,37119,37.0,119.0,North Carolina,Mecklenburg County,28,31,NJ
+34027,34,27,New Jersey,Morris County,37119,37.0,119.0,North Carolina,Mecklenburg County,5,7,NJ
+34035,34,35,New Jersey,Somerset County,37119,37.0,119.0,North Carolina,Mecklenburg County,27,32,NJ
+34039,34,39,New Jersey,Union County,37119,37.0,119.0,North Carolina,Mecklenburg County,8,14,NJ
+34003,34,3,New Jersey,Bergen County,37129,37.0,129.0,North Carolina,New Hanover County,20,23,NJ
+34003,34,3,New Jersey,Bergen County,37133,37.0,133.0,North Carolina,Onslow County,21,36,NJ
+34005,34,5,New Jersey,Burlington County,37133,37.0,133.0,North Carolina,Onslow County,7,12,NJ
+34019,34,19,New Jersey,Hunterdon County,37147,37.0,147.0,North Carolina,Pitt County,5,7,NJ
+34019,34,19,New Jersey,Hunterdon County,37151,37.0,151.0,North Carolina,Randolph County,11,17,NJ
+34003,34,3,New Jersey,Bergen County,37183,37.0,183.0,North Carolina,Wake County,6,10,NJ
+34015,34,15,New Jersey,Gloucester County,37183,37.0,183.0,North Carolina,Wake County,12,19,NJ
+34029,34,29,New Jersey,Ocean County,37183,37.0,183.0,North Carolina,Wake County,16,25,NJ
+34039,34,39,New Jersey,Union County,37183,37.0,183.0,North Carolina,Wake County,32,36,NJ
+34001,34,1,New Jersey,Atlantic County,37191,37.0,191.0,North Carolina,Wayne County,112,112,NJ
+34031,34,31,New Jersey,Passaic County,37191,37.0,191.0,North Carolina,Wayne County,23,28,NJ
+34003,34,3,New Jersey,Bergen County,38017,38.0,17.0,North Dakota,Cass County,15,25,NJ
+34025,34,25,New Jersey,Monmouth County,38017,38.0,17.0,North Dakota,Cass County,17,29,NJ
+34025,34,25,New Jersey,Monmouth County,38105,38.0,105.0,North Dakota,Williams County,57,64,NJ
+34035,34,35,New Jersey,Somerset County,39005,39.0,5.0,Ohio,Ashland County,14,22,NJ
+34023,34,23,New Jersey,Middlesex County,39009,39.0,9.0,Ohio,Athens County,3,6,NJ
+34029,34,29,New Jersey,Ocean County,39017,39.0,17.0,Ohio,Butler County,14,17,NJ
+34037,34,37,New Jersey,Sussex County,39019,39.0,19.0,Ohio,Carroll County,13,13,NJ
+34035,34,35,New Jersey,Somerset County,39025,39.0,25.0,Ohio,Clermont County,4,6,NJ
+34001,34,1,New Jersey,Atlantic County,39035,39.0,35.0,Ohio,Cuyahoga County,6,8,NJ
+34003,34,3,New Jersey,Bergen County,39035,39.0,35.0,Ohio,Cuyahoga County,49,53,NJ
+34015,34,15,New Jersey,Gloucester County,39035,39.0,35.0,Ohio,Cuyahoga County,6,10,NJ
+34017,34,17,New Jersey,Hudson County,39035,39.0,35.0,Ohio,Cuyahoga County,6,9,NJ
+34025,34,25,New Jersey,Monmouth County,39035,39.0,35.0,Ohio,Cuyahoga County,12,18,NJ
+34027,34,27,New Jersey,Morris County,39035,39.0,35.0,Ohio,Cuyahoga County,28,33,NJ
+34031,34,31,New Jersey,Passaic County,39035,39.0,35.0,Ohio,Cuyahoga County,8,13,NJ
+34001,34,1,New Jersey,Atlantic County,39037,39.0,37.0,Ohio,Darke County,7,11,NJ
+34003,34,3,New Jersey,Bergen County,39049,39.0,49.0,Ohio,Franklin County,14,16,NJ
+34007,34,7,New Jersey,Camden County,39049,39.0,49.0,Ohio,Franklin County,13,13,NJ
+34013,34,13,New Jersey,Essex County,39049,39.0,49.0,Ohio,Franklin County,26,41,NJ
+34017,34,17,New Jersey,Hudson County,39049,39.0,49.0,Ohio,Franklin County,32,26,NJ
+34021,34,21,New Jersey,Mercer County,39049,39.0,49.0,Ohio,Franklin County,14,22,NJ
+34025,34,25,New Jersey,Monmouth County,39049,39.0,49.0,Ohio,Franklin County,30,34,NJ
+34029,34,29,New Jersey,Ocean County,39049,39.0,49.0,Ohio,Franklin County,26,29,NJ
+34035,34,35,New Jersey,Somerset County,39053,39.0,53.0,Ohio,Gallia County,9,14,NJ
+34003,34,3,New Jersey,Bergen County,39061,39.0,61.0,Ohio,Hamilton County,7,11,NJ
+34019,34,19,New Jersey,Hunterdon County,39061,39.0,61.0,Ohio,Hamilton County,12,19,NJ
+34023,34,23,New Jersey,Middlesex County,39061,39.0,61.0,Ohio,Hamilton County,17,19,NJ
+34025,34,25,New Jersey,Monmouth County,39061,39.0,61.0,Ohio,Hamilton County,10,16,NJ
+34027,34,27,New Jersey,Morris County,39061,39.0,61.0,Ohio,Hamilton County,8,13,NJ
+34037,34,37,New Jersey,Sussex County,39081,39.0,81.0,Ohio,Jefferson County,18,19,NJ
+34023,34,23,New Jersey,Middlesex County,39085,39.0,85.0,Ohio,Lake County,7,11,NJ
+34013,34,13,New Jersey,Essex County,39093,39.0,93.0,Ohio,Lorain County,9,14,NJ
+34007,34,7,New Jersey,Camden County,39095,39.0,95.0,Ohio,Lucas County,16,19,NJ
+34019,34,19,New Jersey,Hunterdon County,39095,39.0,95.0,Ohio,Lucas County,4,5,NJ
+34013,34,13,New Jersey,Essex County,39099,39.0,99.0,Ohio,Mahoning County,21,33,NJ
+34023,34,23,New Jersey,Middlesex County,39099,39.0,99.0,Ohio,Mahoning County,15,18,NJ
+34027,34,27,New Jersey,Morris County,39101,39.0,101.0,Ohio,Marion County,13,22,NJ
+34007,34,7,New Jersey,Camden County,39103,39.0,103.0,Ohio,Medina County,16,27,NJ
+34005,34,5,New Jersey,Burlington County,39113,39.0,113.0,Ohio,Montgomery County,5,9,NJ
+34023,34,23,New Jersey,Middlesex County,39113,39.0,113.0,Ohio,Montgomery County,47,61,NJ
+34029,34,29,New Jersey,Ocean County,39113,39.0,113.0,Ohio,Montgomery County,7,11,NJ
+34033,34,33,New Jersey,Salem County,39119,39.0,119.0,Ohio,Muskingum County,7,7,NJ
+34003,34,3,New Jersey,Bergen County,39133,39.0,133.0,Ohio,Portage County,32,53,NJ
+34005,34,5,New Jersey,Burlington County,39133,39.0,133.0,Ohio,Portage County,63,68,NJ
+34023,34,23,New Jersey,Middlesex County,39145,39.0,145.0,Ohio,Scioto County,6,11,NJ
+34029,34,29,New Jersey,Ocean County,39145,39.0,145.0,Ohio,Scioto County,57,68,NJ
+34007,34,7,New Jersey,Camden County,39153,39.0,153.0,Ohio,Summit County,8,8,NJ
+34025,34,25,New Jersey,Monmouth County,39153,39.0,153.0,Ohio,Summit County,13,20,NJ
+34013,34,13,New Jersey,Essex County,39159,39.0,159.0,Ohio,Union County,14,23,NJ
+34031,34,31,New Jersey,Passaic County,39165,39.0,165.0,Ohio,Warren County,39,51,NJ
+34033,34,33,New Jersey,Salem County,39165,39.0,165.0,Ohio,Warren County,9,12,NJ
+34029,34,29,New Jersey,Ocean County,39169,39.0,169.0,Ohio,Wayne County,3,8,NJ
+34021,34,21,New Jersey,Mercer County,40109,40.0,109.0,Oklahoma,Oklahoma County,13,21,NJ
+34003,34,3,New Jersey,Bergen County,40143,40.0,143.0,Oklahoma,Tulsa County,43,62,NJ
+34017,34,17,New Jersey,Hudson County,40143,40.0,143.0,Oklahoma,Tulsa County,42,51,NJ
+34023,34,23,New Jersey,Middlesex County,40147,40.0,147.0,Oklahoma,Washington County,9,13,NJ
+34025,34,25,New Jersey,Monmouth County,41051,41.0,51.0,Oregon,Multnomah County,18,27,NJ
+34035,34,35,New Jersey,Somerset County,41067,41.0,67.0,Oregon,Washington County,23,32,NJ
+34027,34,27,New Jersey,Morris County,42001,42.0,1.0,Pennsylvania,Adams County,5,6,NJ
+34041,34,41,New Jersey,Warren County,42001,42.0,1.0,Pennsylvania,Adams County,10,11,NJ
+34001,34,1,New Jersey,Atlantic County,42003,42.0,3.0,Pennsylvania,Allegheny County,3,5,NJ
+34003,34,3,New Jersey,Bergen County,42003,42.0,3.0,Pennsylvania,Allegheny County,7,12,NJ
+34005,34,5,New Jersey,Burlington County,42003,42.0,3.0,Pennsylvania,Allegheny County,12,15,NJ
+34007,34,7,New Jersey,Camden County,42003,42.0,3.0,Pennsylvania,Allegheny County,79,78,NJ
+34009,34,9,New Jersey,Cape May County,42003,42.0,3.0,Pennsylvania,Allegheny County,5,7,NJ
+34013,34,13,New Jersey,Essex County,42003,42.0,3.0,Pennsylvania,Allegheny County,20,24,NJ
+34015,34,15,New Jersey,Gloucester County,42003,42.0,3.0,Pennsylvania,Allegheny County,6,10,NJ
+34017,34,17,New Jersey,Hudson County,42003,42.0,3.0,Pennsylvania,Allegheny County,20,18,NJ
+34019,34,19,New Jersey,Hunterdon County,42003,42.0,3.0,Pennsylvania,Allegheny County,21,31,NJ
+34021,34,21,New Jersey,Mercer County,42003,42.0,3.0,Pennsylvania,Allegheny County,40,37,NJ
+34023,34,23,New Jersey,Middlesex County,42003,42.0,3.0,Pennsylvania,Allegheny County,43,60,NJ
+34025,34,25,New Jersey,Monmouth County,42003,42.0,3.0,Pennsylvania,Allegheny County,34,31,NJ
+34027,34,27,New Jersey,Morris County,42003,42.0,3.0,Pennsylvania,Allegheny County,17,18,NJ
+34029,34,29,New Jersey,Ocean County,42003,42.0,3.0,Pennsylvania,Allegheny County,21,34,NJ
+34033,34,33,New Jersey,Salem County,42003,42.0,3.0,Pennsylvania,Allegheny County,17,19,NJ
+34039,34,39,New Jersey,Union County,42003,42.0,3.0,Pennsylvania,Allegheny County,8,12,NJ
+34041,34,41,New Jersey,Warren County,42003,42.0,3.0,Pennsylvania,Allegheny County,12,13,NJ
+34005,34,5,New Jersey,Burlington County,42007,42.0,7.0,Pennsylvania,Beaver County,6,11,NJ
+34007,34,7,New Jersey,Camden County,42007,42.0,7.0,Pennsylvania,Beaver County,30,37,NJ
+34007,34,7,New Jersey,Camden County,42009,42.0,9.0,Pennsylvania,Bedford County,8,14,NJ
+34001,34,1,New Jersey,Atlantic County,42011,42.0,11.0,Pennsylvania,Berks County,11,12,NJ
+34003,34,3,New Jersey,Bergen County,42011,42.0,11.0,Pennsylvania,Berks County,16,25,NJ
+34005,34,5,New Jersey,Burlington County,42011,42.0,11.0,Pennsylvania,Berks County,54,45,NJ
+34007,34,7,New Jersey,Camden County,42011,42.0,11.0,Pennsylvania,Berks County,16,25,NJ
+34009,34,9,New Jersey,Cape May County,42011,42.0,11.0,Pennsylvania,Berks County,5,8,NJ
+34011,34,11,New Jersey,Cumberland County,42011,42.0,11.0,Pennsylvania,Berks County,9,14,NJ
+34015,34,15,New Jersey,Gloucester County,42011,42.0,11.0,Pennsylvania,Berks County,5,10,NJ
+34017,34,17,New Jersey,Hudson County,42011,42.0,11.0,Pennsylvania,Berks County,10,16,NJ
+34019,34,19,New Jersey,Hunterdon County,42011,42.0,11.0,Pennsylvania,Berks County,19,18,NJ
+34021,34,21,New Jersey,Mercer County,42011,42.0,11.0,Pennsylvania,Berks County,33,33,NJ
+34025,34,25,New Jersey,Monmouth County,42011,42.0,11.0,Pennsylvania,Berks County,75,111,NJ
+34027,34,27,New Jersey,Morris County,42011,42.0,11.0,Pennsylvania,Berks County,43,33,NJ
+34029,34,29,New Jersey,Ocean County,42011,42.0,11.0,Pennsylvania,Berks County,16,27,NJ
+34031,34,31,New Jersey,Passaic County,42011,42.0,11.0,Pennsylvania,Berks County,26,31,NJ
+34035,34,35,New Jersey,Somerset County,42011,42.0,11.0,Pennsylvania,Berks County,9,14,NJ
+34037,34,37,New Jersey,Sussex County,42011,42.0,11.0,Pennsylvania,Berks County,9,14,NJ
+34039,34,39,New Jersey,Union County,42011,42.0,11.0,Pennsylvania,Berks County,95,106,NJ
+34041,34,41,New Jersey,Warren County,42011,42.0,11.0,Pennsylvania,Berks County,9,12,NJ
+34027,34,27,New Jersey,Morris County,42013,42.0,13.0,Pennsylvania,Blair County,11,16,NJ
+34039,34,39,New Jersey,Union County,42013,42.0,13.0,Pennsylvania,Blair County,30,47,NJ
+34005,34,5,New Jersey,Burlington County,42015,42.0,15.0,Pennsylvania,Bradford County,5,9,NJ
+34001,34,1,New Jersey,Atlantic County,42017,42.0,17.0,Pennsylvania,Bucks County,365,130,NJ
+34003,34,3,New Jersey,Bergen County,42017,42.0,17.0,Pennsylvania,Bucks County,91,87,NJ
+34005,34,5,New Jersey,Burlington County,42017,42.0,17.0,Pennsylvania,Bucks County,4657,478,NJ
+34007,34,7,New Jersey,Camden County,42017,42.0,17.0,Pennsylvania,Bucks County,2001,298,NJ
+34009,34,9,New Jersey,Cape May County,42017,42.0,17.0,Pennsylvania,Bucks County,137,55,NJ
+34011,34,11,New Jersey,Cumberland County,42017,42.0,17.0,Pennsylvania,Bucks County,75,73,NJ
+34013,34,13,New Jersey,Essex County,42017,42.0,17.0,Pennsylvania,Bucks County,129,89,NJ
+34015,34,15,New Jersey,Gloucester County,42017,42.0,17.0,Pennsylvania,Bucks County,727,162,NJ
+34017,34,17,New Jersey,Hudson County,42017,42.0,17.0,Pennsylvania,Bucks County,34,36,NJ
+34019,34,19,New Jersey,Hunterdon County,42017,42.0,17.0,Pennsylvania,Bucks County,1045,237,NJ
+34021,34,21,New Jersey,Mercer County,42017,42.0,17.0,Pennsylvania,Bucks County,4656,463,NJ
+34023,34,23,New Jersey,Middlesex County,42017,42.0,17.0,Pennsylvania,Bucks County,579,175,NJ
+34025,34,25,New Jersey,Monmouth County,42017,42.0,17.0,Pennsylvania,Bucks County,246,90,NJ
+34027,34,27,New Jersey,Morris County,42017,42.0,17.0,Pennsylvania,Bucks County,87,61,NJ
+34029,34,29,New Jersey,Ocean County,42017,42.0,17.0,Pennsylvania,Bucks County,303,113,NJ
+34031,34,31,New Jersey,Passaic County,42017,42.0,17.0,Pennsylvania,Bucks County,31,28,NJ
+34033,34,33,New Jersey,Salem County,42017,42.0,17.0,Pennsylvania,Bucks County,50,51,NJ
+34035,34,35,New Jersey,Somerset County,42017,42.0,17.0,Pennsylvania,Bucks County,365,117,NJ
+34037,34,37,New Jersey,Sussex County,42017,42.0,17.0,Pennsylvania,Bucks County,16,20,NJ
+34039,34,39,New Jersey,Union County,42017,42.0,17.0,Pennsylvania,Bucks County,85,62,NJ
+34041,34,41,New Jersey,Warren County,42017,42.0,17.0,Pennsylvania,Bucks County,117,68,NJ
+34007,34,7,New Jersey,Camden County,42019,42.0,19.0,Pennsylvania,Butler County,13,10,NJ
+34001,34,1,New Jersey,Atlantic County,42025,42.0,25.0,Pennsylvania,Carbon County,2,3,NJ
+34025,34,25,New Jersey,Monmouth County,42025,42.0,25.0,Pennsylvania,Carbon County,29,27,NJ
+34005,34,5,New Jersey,Burlington County,42027,42.0,27.0,Pennsylvania,Centre County,8,11,NJ
+34007,34,7,New Jersey,Camden County,42027,42.0,27.0,Pennsylvania,Centre County,22,16,NJ
+34009,34,9,New Jersey,Cape May County,42027,42.0,27.0,Pennsylvania,Centre County,4,6,NJ
+34013,34,13,New Jersey,Essex County,42027,42.0,27.0,Pennsylvania,Centre County,29,33,NJ
+34029,34,29,New Jersey,Ocean County,42027,42.0,27.0,Pennsylvania,Centre County,10,16,NJ
+34001,34,1,New Jersey,Atlantic County,42029,42.0,29.0,Pennsylvania,Chester County,118,68,NJ
+34003,34,3,New Jersey,Bergen County,42029,42.0,29.0,Pennsylvania,Chester County,32,35,NJ
+34005,34,5,New Jersey,Burlington County,42029,42.0,29.0,Pennsylvania,Chester County,521,127,NJ
+34007,34,7,New Jersey,Camden County,42029,42.0,29.0,Pennsylvania,Chester County,767,142,NJ
+34009,34,9,New Jersey,Cape May County,42029,42.0,29.0,Pennsylvania,Chester County,117,62,NJ
+34011,34,11,New Jersey,Cumberland County,42029,42.0,29.0,Pennsylvania,Chester County,100,69,NJ
+34013,34,13,New Jersey,Essex County,42029,42.0,29.0,Pennsylvania,Chester County,24,24,NJ
+34015,34,15,New Jersey,Gloucester County,42029,42.0,29.0,Pennsylvania,Chester County,1102,233,NJ
+34017,34,17,New Jersey,Hudson County,42029,42.0,29.0,Pennsylvania,Chester County,59,45,NJ
+34019,34,19,New Jersey,Hunterdon County,42029,42.0,29.0,Pennsylvania,Chester County,4,6,NJ
+34021,34,21,New Jersey,Mercer County,42029,42.0,29.0,Pennsylvania,Chester County,295,147,NJ
+34023,34,23,New Jersey,Middlesex County,42029,42.0,29.0,Pennsylvania,Chester County,82,65,NJ
+34025,34,25,New Jersey,Monmouth County,42029,42.0,29.0,Pennsylvania,Chester County,125,76,NJ
+34027,34,27,New Jersey,Morris County,42029,42.0,29.0,Pennsylvania,Chester County,25,28,NJ
+34029,34,29,New Jersey,Ocean County,42029,42.0,29.0,Pennsylvania,Chester County,51,52,NJ
+34031,34,31,New Jersey,Passaic County,42029,42.0,29.0,Pennsylvania,Chester County,84,71,NJ
+34033,34,33,New Jersey,Salem County,42029,42.0,29.0,Pennsylvania,Chester County,161,71,NJ
+34035,34,35,New Jersey,Somerset County,42029,42.0,29.0,Pennsylvania,Chester County,15,25,NJ
+34039,34,39,New Jersey,Union County,42029,42.0,29.0,Pennsylvania,Chester County,7,11,NJ
+34041,34,41,New Jersey,Warren County,42029,42.0,29.0,Pennsylvania,Chester County,40,38,NJ
+34019,34,19,New Jersey,Hunterdon County,42033,42.0,33.0,Pennsylvania,Clearfield County,17,27,NJ
+34009,34,9,New Jersey,Cape May County,42037,42.0,37.0,Pennsylvania,Columbia County,13,20,NJ
+34021,34,21,New Jersey,Mercer County,42037,42.0,37.0,Pennsylvania,Columbia County,23,32,NJ
+34023,34,23,New Jersey,Middlesex County,42037,42.0,37.0,Pennsylvania,Columbia County,64,71,NJ
+34009,34,9,New Jersey,Cape May County,42039,42.0,39.0,Pennsylvania,Crawford County,32,54,NJ
+34015,34,15,New Jersey,Gloucester County,42039,42.0,39.0,Pennsylvania,Crawford County,7,12,NJ
+34001,34,1,New Jersey,Atlantic County,42041,42.0,41.0,Pennsylvania,Cumberland County,18,30,NJ
+34005,34,5,New Jersey,Burlington County,42041,42.0,41.0,Pennsylvania,Cumberland County,47,51,NJ
+34013,34,13,New Jersey,Essex County,42041,42.0,41.0,Pennsylvania,Cumberland County,23,43,NJ
+34021,34,21,New Jersey,Mercer County,42041,42.0,41.0,Pennsylvania,Cumberland County,29,34,NJ
+34023,34,23,New Jersey,Middlesex County,42041,42.0,41.0,Pennsylvania,Cumberland County,9,15,NJ
+34025,34,25,New Jersey,Monmouth County,42041,42.0,41.0,Pennsylvania,Cumberland County,23,37,NJ
+34035,34,35,New Jersey,Somerset County,42041,42.0,41.0,Pennsylvania,Cumberland County,10,17,NJ
+34041,34,41,New Jersey,Warren County,42041,42.0,41.0,Pennsylvania,Cumberland County,8,12,NJ
+34001,34,1,New Jersey,Atlantic County,42043,42.0,43.0,Pennsylvania,Dauphin County,24,28,NJ
+34003,34,3,New Jersey,Bergen County,42043,42.0,43.0,Pennsylvania,Dauphin County,8,12,NJ
+34005,34,5,New Jersey,Burlington County,42043,42.0,43.0,Pennsylvania,Dauphin County,18,20,NJ
+34007,34,7,New Jersey,Camden County,42043,42.0,43.0,Pennsylvania,Dauphin County,88,56,NJ
+34009,34,9,New Jersey,Cape May County,42043,42.0,43.0,Pennsylvania,Dauphin County,3,5,NJ
+34015,34,15,New Jersey,Gloucester County,42043,42.0,43.0,Pennsylvania,Dauphin County,16,25,NJ
+34019,34,19,New Jersey,Hunterdon County,42043,42.0,43.0,Pennsylvania,Dauphin County,6,8,NJ
+34023,34,23,New Jersey,Middlesex County,42043,42.0,43.0,Pennsylvania,Dauphin County,7,11,NJ
+34025,34,25,New Jersey,Monmouth County,42043,42.0,43.0,Pennsylvania,Dauphin County,27,33,NJ
+34027,34,27,New Jersey,Morris County,42043,42.0,43.0,Pennsylvania,Dauphin County,32,31,NJ
+34029,34,29,New Jersey,Ocean County,42043,42.0,43.0,Pennsylvania,Dauphin County,22,21,NJ
+34035,34,35,New Jersey,Somerset County,42043,42.0,43.0,Pennsylvania,Dauphin County,14,21,NJ
+34039,34,39,New Jersey,Union County,42043,42.0,43.0,Pennsylvania,Dauphin County,28,25,NJ
+34001,34,1,New Jersey,Atlantic County,42045,42.0,45.0,Pennsylvania,Delaware County,201,81,NJ
+34003,34,3,New Jersey,Bergen County,42045,42.0,45.0,Pennsylvania,Delaware County,12,18,NJ
+34005,34,5,New Jersey,Burlington County,42045,42.0,45.0,Pennsylvania,Delaware County,1062,189,NJ
+34007,34,7,New Jersey,Camden County,42045,42.0,45.0,Pennsylvania,Delaware County,2651,311,NJ
+34009,34,9,New Jersey,Cape May County,42045,42.0,45.0,Pennsylvania,Delaware County,235,68,NJ
+34011,34,11,New Jersey,Cumberland County,42045,42.0,45.0,Pennsylvania,Delaware County,136,94,NJ
+34015,34,15,New Jersey,Gloucester County,42045,42.0,45.0,Pennsylvania,Delaware County,3515,384,NJ
+34017,34,17,New Jersey,Hudson County,42045,42.0,45.0,Pennsylvania,Delaware County,55,43,NJ
+34019,34,19,New Jersey,Hunterdon County,42045,42.0,45.0,Pennsylvania,Delaware County,32,36,NJ
+34021,34,21,New Jersey,Mercer County,42045,42.0,45.0,Pennsylvania,Delaware County,164,80,NJ
+34023,34,23,New Jersey,Middlesex County,42045,42.0,45.0,Pennsylvania,Delaware County,133,98,NJ
+34025,34,25,New Jersey,Monmouth County,42045,42.0,45.0,Pennsylvania,Delaware County,157,111,NJ
+34027,34,27,New Jersey,Morris County,42045,42.0,45.0,Pennsylvania,Delaware County,54,77,NJ
+34029,34,29,New Jersey,Ocean County,42045,42.0,45.0,Pennsylvania,Delaware County,121,71,NJ
+34031,34,31,New Jersey,Passaic County,42045,42.0,45.0,Pennsylvania,Delaware County,9,14,NJ
+34033,34,33,New Jersey,Salem County,42045,42.0,45.0,Pennsylvania,Delaware County,549,122,NJ
+34035,34,35,New Jersey,Somerset County,42045,42.0,45.0,Pennsylvania,Delaware County,42,37,NJ
+34037,34,37,New Jersey,Sussex County,42045,42.0,45.0,Pennsylvania,Delaware County,4,10,NJ
+34041,34,41,New Jersey,Warren County,42045,42.0,45.0,Pennsylvania,Delaware County,27,27,NJ
+34005,34,5,New Jersey,Burlington County,42049,42.0,49.0,Pennsylvania,Erie County,8,13,NJ
+34015,34,15,New Jersey,Gloucester County,42049,42.0,49.0,Pennsylvania,Erie County,11,17,NJ
+34029,34,29,New Jersey,Ocean County,42049,42.0,49.0,Pennsylvania,Erie County,12,19,NJ
+34033,34,33,New Jersey,Salem County,42051,42.0,51.0,Pennsylvania,Fayette County,9,14,NJ
+34015,34,15,New Jersey,Gloucester County,42061,42.0,61.0,Pennsylvania,Huntingdon County,16,17,NJ
+34003,34,3,New Jersey,Bergen County,42063,42.0,63.0,Pennsylvania,Indiana County,9,14,NJ
+34015,34,15,New Jersey,Gloucester County,42065,42.0,65.0,Pennsylvania,Jefferson County,10,15,NJ
+34003,34,3,New Jersey,Bergen County,42069,42.0,69.0,Pennsylvania,Lackawanna County,4,8,NJ
+34005,34,5,New Jersey,Burlington County,42069,42.0,69.0,Pennsylvania,Lackawanna County,7,10,NJ
+34007,34,7,New Jersey,Camden County,42069,42.0,69.0,Pennsylvania,Lackawanna County,10,15,NJ
+34021,34,21,New Jersey,Mercer County,42069,42.0,69.0,Pennsylvania,Lackawanna County,54,79,NJ
+34025,34,25,New Jersey,Monmouth County,42069,42.0,69.0,Pennsylvania,Lackawanna County,7,10,NJ
+34029,34,29,New Jersey,Ocean County,42069,42.0,69.0,Pennsylvania,Lackawanna County,26,26,NJ
+34037,34,37,New Jersey,Sussex County,42069,42.0,69.0,Pennsylvania,Lackawanna County,7,12,NJ
+34039,34,39,New Jersey,Union County,42069,42.0,69.0,Pennsylvania,Lackawanna County,9,14,NJ
+34041,34,41,New Jersey,Warren County,42069,42.0,69.0,Pennsylvania,Lackawanna County,29,46,NJ
+34001,34,1,New Jersey,Atlantic County,42071,42.0,71.0,Pennsylvania,Lancaster County,5,7,NJ
+34003,34,3,New Jersey,Bergen County,42071,42.0,71.0,Pennsylvania,Lancaster County,18,30,NJ
+34007,34,7,New Jersey,Camden County,42071,42.0,71.0,Pennsylvania,Lancaster County,21,21,NJ
+34009,34,9,New Jersey,Cape May County,42071,42.0,71.0,Pennsylvania,Lancaster County,15,17,NJ
+34015,34,15,New Jersey,Gloucester County,42071,42.0,71.0,Pennsylvania,Lancaster County,20,33,NJ
+34019,34,19,New Jersey,Hunterdon County,42071,42.0,71.0,Pennsylvania,Lancaster County,2,3,NJ
+34021,34,21,New Jersey,Mercer County,42071,42.0,71.0,Pennsylvania,Lancaster County,30,34,NJ
+34023,34,23,New Jersey,Middlesex County,42071,42.0,71.0,Pennsylvania,Lancaster County,26,34,NJ
+34035,34,35,New Jersey,Somerset County,42071,42.0,71.0,Pennsylvania,Lancaster County,19,31,NJ
+34037,34,37,New Jersey,Sussex County,42071,42.0,71.0,Pennsylvania,Lancaster County,12,16,NJ
+34039,34,39,New Jersey,Union County,42071,42.0,71.0,Pennsylvania,Lancaster County,6,11,NJ
+34005,34,5,New Jersey,Burlington County,42073,42.0,73.0,Pennsylvania,Lawrence County,15,23,NJ
+34007,34,7,New Jersey,Camden County,42073,42.0,73.0,Pennsylvania,Lawrence County,29,26,NJ
+34021,34,21,New Jersey,Mercer County,42073,42.0,73.0,Pennsylvania,Lawrence County,29,34,NJ
+34035,34,35,New Jersey,Somerset County,42073,42.0,73.0,Pennsylvania,Lawrence County,18,29,NJ
+34007,34,7,New Jersey,Camden County,42075,42.0,75.0,Pennsylvania,Lebanon County,10,17,NJ
+34021,34,21,New Jersey,Mercer County,42075,42.0,75.0,Pennsylvania,Lebanon County,9,12,NJ
+34041,34,41,New Jersey,Warren County,42075,42.0,75.0,Pennsylvania,Lebanon County,38,56,NJ
+34001,34,1,New Jersey,Atlantic County,42077,42.0,77.0,Pennsylvania,Lehigh County,36,40,NJ
+34003,34,3,New Jersey,Bergen County,42077,42.0,77.0,Pennsylvania,Lehigh County,21,20,NJ
+34005,34,5,New Jersey,Burlington County,42077,42.0,77.0,Pennsylvania,Lehigh County,15,14,NJ
+34007,34,7,New Jersey,Camden County,42077,42.0,77.0,Pennsylvania,Lehigh County,25,20,NJ
+34009,34,9,New Jersey,Cape May County,42077,42.0,77.0,Pennsylvania,Lehigh County,6,7,NJ
+34013,34,13,New Jersey,Essex County,42077,42.0,77.0,Pennsylvania,Lehigh County,12,18,NJ
+34015,34,15,New Jersey,Gloucester County,42077,42.0,77.0,Pennsylvania,Lehigh County,42,33,NJ
+34017,34,17,New Jersey,Hudson County,42077,42.0,77.0,Pennsylvania,Lehigh County,57,45,NJ
+34019,34,19,New Jersey,Hunterdon County,42077,42.0,77.0,Pennsylvania,Lehigh County,241,85,NJ
+34023,34,23,New Jersey,Middlesex County,42077,42.0,77.0,Pennsylvania,Lehigh County,47,36,NJ
+34025,34,25,New Jersey,Monmouth County,42077,42.0,77.0,Pennsylvania,Lehigh County,57,69,NJ
+34027,34,27,New Jersey,Morris County,42077,42.0,77.0,Pennsylvania,Lehigh County,163,69,NJ
+34029,34,29,New Jersey,Ocean County,42077,42.0,77.0,Pennsylvania,Lehigh County,41,43,NJ
+34031,34,31,New Jersey,Passaic County,42077,42.0,77.0,Pennsylvania,Lehigh County,37,29,NJ
+34035,34,35,New Jersey,Somerset County,42077,42.0,77.0,Pennsylvania,Lehigh County,113,70,NJ
+34037,34,37,New Jersey,Sussex County,42077,42.0,77.0,Pennsylvania,Lehigh County,8,12,NJ
+34039,34,39,New Jersey,Union County,42077,42.0,77.0,Pennsylvania,Lehigh County,158,93,NJ
+34041,34,41,New Jersey,Warren County,42077,42.0,77.0,Pennsylvania,Lehigh County,690,146,NJ
+34003,34,3,New Jersey,Bergen County,42079,42.0,79.0,Pennsylvania,Luzerne County,21,23,NJ
+34005,34,5,New Jersey,Burlington County,42079,42.0,79.0,Pennsylvania,Luzerne County,10,16,NJ
+34007,34,7,New Jersey,Camden County,42079,42.0,79.0,Pennsylvania,Luzerne County,48,41,NJ
+34013,34,13,New Jersey,Essex County,42079,42.0,79.0,Pennsylvania,Luzerne County,10,18,NJ
+34019,34,19,New Jersey,Hunterdon County,42079,42.0,79.0,Pennsylvania,Luzerne County,17,28,NJ
+34023,34,23,New Jersey,Middlesex County,42079,42.0,79.0,Pennsylvania,Luzerne County,9,14,NJ
+34025,34,25,New Jersey,Monmouth County,42079,42.0,79.0,Pennsylvania,Luzerne County,8,13,NJ
+34027,34,27,New Jersey,Morris County,42079,42.0,79.0,Pennsylvania,Luzerne County,37,38,NJ
+34029,34,29,New Jersey,Ocean County,42079,42.0,79.0,Pennsylvania,Luzerne County,36,35,NJ
+34031,34,31,New Jersey,Passaic County,42079,42.0,79.0,Pennsylvania,Luzerne County,2,7,NJ
+34037,34,37,New Jersey,Sussex County,42079,42.0,79.0,Pennsylvania,Luzerne County,28,32,NJ
+34041,34,41,New Jersey,Warren County,42079,42.0,79.0,Pennsylvania,Luzerne County,6,9,NJ
+34019,34,19,New Jersey,Hunterdon County,42081,42.0,81.0,Pennsylvania,Lycoming County,18,28,NJ
+34023,34,23,New Jersey,Middlesex County,42081,42.0,81.0,Pennsylvania,Lycoming County,28,42,NJ
+34005,34,5,New Jersey,Burlington County,42083,42.0,83.0,Pennsylvania,McKean County,14,22,NJ
+34001,34,1,New Jersey,Atlantic County,42089,42.0,89.0,Pennsylvania,Monroe County,13,20,NJ
+34003,34,3,New Jersey,Bergen County,42089,42.0,89.0,Pennsylvania,Monroe County,23,25,NJ
+34005,34,5,New Jersey,Burlington County,42089,42.0,89.0,Pennsylvania,Monroe County,24,28,NJ
+34007,34,7,New Jersey,Camden County,42089,42.0,89.0,Pennsylvania,Monroe County,13,19,NJ
+34013,34,13,New Jersey,Essex County,42089,42.0,89.0,Pennsylvania,Monroe County,107,92,NJ
+34017,34,17,New Jersey,Hudson County,42089,42.0,89.0,Pennsylvania,Monroe County,52,40,NJ
+34021,34,21,New Jersey,Mercer County,42089,42.0,89.0,Pennsylvania,Monroe County,35,40,NJ
+34023,34,23,New Jersey,Middlesex County,42089,42.0,89.0,Pennsylvania,Monroe County,25,26,NJ
+34025,34,25,New Jersey,Monmouth County,42089,42.0,89.0,Pennsylvania,Monroe County,21,23,NJ
+34027,34,27,New Jersey,Morris County,42089,42.0,89.0,Pennsylvania,Monroe County,60,43,NJ
+34037,34,37,New Jersey,Sussex County,42089,42.0,89.0,Pennsylvania,Monroe County,49,33,NJ
+34041,34,41,New Jersey,Warren County,42089,42.0,89.0,Pennsylvania,Monroe County,450,159,NJ
+34001,34,1,New Jersey,Atlantic County,42091,42.0,91.0,Pennsylvania,Montgomery County,266,87,NJ
+34003,34,3,New Jersey,Bergen County,42091,42.0,91.0,Pennsylvania,Montgomery County,52,35,NJ
+34005,34,5,New Jersey,Burlington County,42091,42.0,91.0,Pennsylvania,Montgomery County,3189,333,NJ
+34007,34,7,New Jersey,Camden County,42091,42.0,91.0,Pennsylvania,Montgomery County,3741,435,NJ
+34009,34,9,New Jersey,Cape May County,42091,42.0,91.0,Pennsylvania,Montgomery County,321,88,NJ
+34011,34,11,New Jersey,Cumberland County,42091,42.0,91.0,Pennsylvania,Montgomery County,216,100,NJ
+34013,34,13,New Jersey,Essex County,42091,42.0,91.0,Pennsylvania,Montgomery County,76,76,NJ
+34015,34,15,New Jersey,Gloucester County,42091,42.0,91.0,Pennsylvania,Montgomery County,2095,312,NJ
+34017,34,17,New Jersey,Hudson County,42091,42.0,91.0,Pennsylvania,Montgomery County,7,11,NJ
+34019,34,19,New Jersey,Hunterdon County,42091,42.0,91.0,Pennsylvania,Montgomery County,198,73,NJ
+34021,34,21,New Jersey,Mercer County,42091,42.0,91.0,Pennsylvania,Montgomery County,1015,251,NJ
+34023,34,23,New Jersey,Middlesex County,42091,42.0,91.0,Pennsylvania,Montgomery County,520,137,NJ
+34025,34,25,New Jersey,Monmouth County,42091,42.0,91.0,Pennsylvania,Montgomery County,144,73,NJ
+34027,34,27,New Jersey,Morris County,42091,42.0,91.0,Pennsylvania,Montgomery County,122,95,NJ
+34029,34,29,New Jersey,Ocean County,42091,42.0,91.0,Pennsylvania,Montgomery County,364,115,NJ
+34031,34,31,New Jersey,Passaic County,42091,42.0,91.0,Pennsylvania,Montgomery County,44,48,NJ
+34033,34,33,New Jersey,Salem County,42091,42.0,91.0,Pennsylvania,Montgomery County,252,88,NJ
+34035,34,35,New Jersey,Somerset County,42091,42.0,91.0,Pennsylvania,Montgomery County,470,175,NJ
+34037,34,37,New Jersey,Sussex County,42091,42.0,91.0,Pennsylvania,Montgomery County,27,31,NJ
+34039,34,39,New Jersey,Union County,42091,42.0,91.0,Pennsylvania,Montgomery County,73,51,NJ
+34041,34,41,New Jersey,Warren County,42091,42.0,91.0,Pennsylvania,Montgomery County,67,47,NJ
+34021,34,21,New Jersey,Mercer County,42093,42.0,93.0,Pennsylvania,Montour County,17,18,NJ
+34001,34,1,New Jersey,Atlantic County,42095,42.0,95.0,Pennsylvania,Northampton County,35,33,NJ
+34003,34,3,New Jersey,Bergen County,42095,42.0,95.0,Pennsylvania,Northampton County,15,17,NJ
+34005,34,5,New Jersey,Burlington County,42095,42.0,95.0,Pennsylvania,Northampton County,70,67,NJ
+34007,34,7,New Jersey,Camden County,42095,42.0,95.0,Pennsylvania,Northampton County,16,27,NJ
+34009,34,9,New Jersey,Cape May County,42095,42.0,95.0,Pennsylvania,Northampton County,17,18,NJ
+34011,34,11,New Jersey,Cumberland County,42095,42.0,95.0,Pennsylvania,Northampton County,9,17,NJ
+34013,34,13,New Jersey,Essex County,42095,42.0,95.0,Pennsylvania,Northampton County,113,59,NJ
+34015,34,15,New Jersey,Gloucester County,42095,42.0,95.0,Pennsylvania,Northampton County,26,20,NJ
+34019,34,19,New Jersey,Hunterdon County,42095,42.0,95.0,Pennsylvania,Northampton County,485,145,NJ
+34021,34,21,New Jersey,Mercer County,42095,42.0,95.0,Pennsylvania,Northampton County,15,25,NJ
+34023,34,23,New Jersey,Middlesex County,42095,42.0,95.0,Pennsylvania,Northampton County,35,29,NJ
+34025,34,25,New Jersey,Monmouth County,42095,42.0,95.0,Pennsylvania,Northampton County,59,51,NJ
+34027,34,27,New Jersey,Morris County,42095,42.0,95.0,Pennsylvania,Northampton County,164,81,NJ
+34029,34,29,New Jersey,Ocean County,42095,42.0,95.0,Pennsylvania,Northampton County,42,37,NJ
+34031,34,31,New Jersey,Passaic County,42095,42.0,95.0,Pennsylvania,Northampton County,214,132,NJ
+34035,34,35,New Jersey,Somerset County,42095,42.0,95.0,Pennsylvania,Northampton County,182,93,NJ
+34037,34,37,New Jersey,Sussex County,42095,42.0,95.0,Pennsylvania,Northampton County,62,31,NJ
+34039,34,39,New Jersey,Union County,42095,42.0,95.0,Pennsylvania,Northampton County,22,22,NJ
+34041,34,41,New Jersey,Warren County,42095,42.0,95.0,Pennsylvania,Northampton County,1579,226,NJ
+34007,34,7,New Jersey,Camden County,42097,42.0,97.0,Pennsylvania,Northumberland County,38,41,NJ
+34021,34,21,New Jersey,Mercer County,42097,42.0,97.0,Pennsylvania,Northumberland County,17,27,NJ
+34035,34,35,New Jersey,Somerset County,42097,42.0,97.0,Pennsylvania,Northumberland County,6,9,NJ
+34007,34,7,New Jersey,Camden County,42099,42.0,99.0,Pennsylvania,Perry County,10,15,NJ
+34001,34,1,New Jersey,Atlantic County,42101,42.0,101.0,Pennsylvania,Philadelphia County,1824,317,NJ
+34003,34,3,New Jersey,Bergen County,42101,42.0,101.0,Pennsylvania,Philadelphia County,104,84,NJ
+34005,34,5,New Jersey,Burlington County,42101,42.0,101.0,Pennsylvania,Philadelphia County,16884,765,NJ
+34007,34,7,New Jersey,Camden County,42101,42.0,101.0,Pennsylvania,Philadelphia County,31757,1206,NJ
+34009,34,9,New Jersey,Cape May County,42101,42.0,101.0,Pennsylvania,Philadelphia County,841,130,NJ
+34011,34,11,New Jersey,Cumberland County,42101,42.0,101.0,Pennsylvania,Philadelphia County,658,176,NJ
+34013,34,13,New Jersey,Essex County,42101,42.0,101.0,Pennsylvania,Philadelphia County,126,82,NJ
+34015,34,15,New Jersey,Gloucester County,42101,42.0,101.0,Pennsylvania,Philadelphia County,16169,848,NJ
+34017,34,17,New Jersey,Hudson County,42101,42.0,101.0,Pennsylvania,Philadelphia County,101,68,NJ
+34019,34,19,New Jersey,Hunterdon County,42101,42.0,101.0,Pennsylvania,Philadelphia County,279,91,NJ
+34021,34,21,New Jersey,Mercer County,42101,42.0,101.0,Pennsylvania,Philadelphia County,2043,270,NJ
+34023,34,23,New Jersey,Middlesex County,42101,42.0,101.0,Pennsylvania,Philadelphia County,537,166,NJ
+34025,34,25,New Jersey,Monmouth County,42101,42.0,101.0,Pennsylvania,Philadelphia County,412,129,NJ
+34027,34,27,New Jersey,Morris County,42101,42.0,101.0,Pennsylvania,Philadelphia County,68,38,NJ
+34029,34,29,New Jersey,Ocean County,42101,42.0,101.0,Pennsylvania,Philadelphia County,617,172,NJ
+34031,34,31,New Jersey,Passaic County,42101,42.0,101.0,Pennsylvania,Philadelphia County,14,15,NJ
+34033,34,33,New Jersey,Salem County,42101,42.0,101.0,Pennsylvania,Philadelphia County,868,190,NJ
+34035,34,35,New Jersey,Somerset County,42101,42.0,101.0,Pennsylvania,Philadelphia County,281,136,NJ
+34037,34,37,New Jersey,Sussex County,42101,42.0,101.0,Pennsylvania,Philadelphia County,35,27,NJ
+34039,34,39,New Jersey,Union County,42101,42.0,101.0,Pennsylvania,Philadelphia County,232,112,NJ
+34041,34,41,New Jersey,Warren County,42101,42.0,101.0,Pennsylvania,Philadelphia County,25,22,NJ
+34013,34,13,New Jersey,Essex County,42103,42.0,103.0,Pennsylvania,Pike County,9,14,NJ
+34017,34,17,New Jersey,Hudson County,42103,42.0,103.0,Pennsylvania,Pike County,16,25,NJ
+34023,34,23,New Jersey,Middlesex County,42103,42.0,103.0,Pennsylvania,Pike County,10,10,NJ
+34025,34,25,New Jersey,Monmouth County,42103,42.0,103.0,Pennsylvania,Pike County,46,74,NJ
+34027,34,27,New Jersey,Morris County,42103,42.0,103.0,Pennsylvania,Pike County,30,30,NJ
+34037,34,37,New Jersey,Sussex County,42103,42.0,103.0,Pennsylvania,Pike County,485,151,NJ
+34041,34,41,New Jersey,Warren County,42103,42.0,103.0,Pennsylvania,Pike County,4,6,NJ
+34023,34,23,New Jersey,Middlesex County,42105,42.0,105.0,Pennsylvania,Potter County,6,11,NJ
+34003,34,3,New Jersey,Bergen County,42107,42.0,107.0,Pennsylvania,Schuylkill County,14,26,NJ
+34005,34,5,New Jersey,Burlington County,42107,42.0,107.0,Pennsylvania,Schuylkill County,4,7,NJ
+34007,34,7,New Jersey,Camden County,42107,42.0,107.0,Pennsylvania,Schuylkill County,18,23,NJ
+34009,34,9,New Jersey,Cape May County,42107,42.0,107.0,Pennsylvania,Schuylkill County,13,16,NJ
+34015,34,15,New Jersey,Gloucester County,42107,42.0,107.0,Pennsylvania,Schuylkill County,21,24,NJ
+34041,34,41,New Jersey,Warren County,42107,42.0,107.0,Pennsylvania,Schuylkill County,60,80,NJ
+34041,34,41,New Jersey,Warren County,42109,42.0,109.0,Pennsylvania,Snyder County,11,12,NJ
+34019,34,19,New Jersey,Hunterdon County,42115,42.0,115.0,Pennsylvania,Susquehanna County,22,33,NJ
+34011,34,11,New Jersey,Cumberland County,42117,42.0,117.0,Pennsylvania,Tioga County,5,8,NJ
+34035,34,35,New Jersey,Somerset County,42119,42.0,119.0,Pennsylvania,Union County,29,33,NJ
+34019,34,19,New Jersey,Hunterdon County,42125,42.0,125.0,Pennsylvania,Washington County,8,13,NJ
+34003,34,3,New Jersey,Bergen County,42127,42.0,127.0,Pennsylvania,Wayne County,8,12,NJ
+34007,34,7,New Jersey,Camden County,42127,42.0,127.0,Pennsylvania,Wayne County,7,9,NJ
+34013,34,13,New Jersey,Essex County,42127,42.0,127.0,Pennsylvania,Wayne County,13,19,NJ
+34017,34,17,New Jersey,Hudson County,42127,42.0,127.0,Pennsylvania,Wayne County,32,38,NJ
+34019,34,19,New Jersey,Hunterdon County,42127,42.0,127.0,Pennsylvania,Wayne County,3,5,NJ
+34029,34,29,New Jersey,Ocean County,42127,42.0,127.0,Pennsylvania,Wayne County,13,21,NJ
+34037,34,37,New Jersey,Sussex County,42127,42.0,127.0,Pennsylvania,Wayne County,23,36,NJ
+34003,34,3,New Jersey,Bergen County,42129,42.0,129.0,Pennsylvania,Westmoreland County,17,29,NJ
+34007,34,7,New Jersey,Camden County,42129,42.0,129.0,Pennsylvania,Westmoreland County,38,39,NJ
+34005,34,5,New Jersey,Burlington County,42133,42.0,133.0,Pennsylvania,York County,12,19,NJ
+34009,34,9,New Jersey,Cape May County,42133,42.0,133.0,Pennsylvania,York County,2,4,NJ
+34015,34,15,New Jersey,Gloucester County,42133,42.0,133.0,Pennsylvania,York County,26,30,NJ
+34023,34,23,New Jersey,Middlesex County,42133,42.0,133.0,Pennsylvania,York County,18,29,NJ
+34041,34,41,New Jersey,Warren County,42133,42.0,133.0,Pennsylvania,York County,12,20,NJ
+34007,34,7,New Jersey,Camden County,44001,44.0,1.0,Rhode Island,Bristol County,7,12,NJ
+34009,34,9,New Jersey,Cape May County,44001,44.0,1.0,Rhode Island,Bristol County,6,10,NJ
+34025,34,25,New Jersey,Monmouth County,44003,44.0,3.0,Rhode Island,Kent County,3,4,NJ
+34001,34,1,New Jersey,Atlantic County,44007,44.0,7.0,Rhode Island,Providence County,13,22,NJ
+34003,34,3,New Jersey,Bergen County,44007,44.0,7.0,Rhode Island,Providence County,34,31,NJ
+34013,34,13,New Jersey,Essex County,44007,44.0,7.0,Rhode Island,Providence County,21,24,NJ
+34015,34,15,New Jersey,Gloucester County,44007,44.0,7.0,Rhode Island,Providence County,19,30,NJ
+34027,34,27,New Jersey,Morris County,44007,44.0,7.0,Rhode Island,Providence County,25,21,NJ
+34031,34,31,New Jersey,Passaic County,44007,44.0,7.0,Rhode Island,Providence County,8,13,NJ
+34039,34,39,New Jersey,Union County,44007,44.0,7.0,Rhode Island,Providence County,21,25,NJ
+34003,34,3,New Jersey,Bergen County,44009,44.0,9.0,Rhode Island,Washington County,9,15,NJ
+34005,34,5,New Jersey,Burlington County,44009,44.0,9.0,Rhode Island,Washington County,18,30,NJ
+34011,34,11,New Jersey,Cumberland County,44009,44.0,9.0,Rhode Island,Washington County,16,20,NJ
+34013,34,13,New Jersey,Essex County,44009,44.0,9.0,Rhode Island,Washington County,16,26,NJ
+34031,34,31,New Jersey,Passaic County,44009,44.0,9.0,Rhode Island,Washington County,11,18,NJ
+34021,34,21,New Jersey,Mercer County,45013,45.0,13.0,South Carolina,Beaufort County,16,26,NJ
+34025,34,25,New Jersey,Monmouth County,45019,45.0,19.0,South Carolina,Charleston County,17,27,NJ
+34039,34,39,New Jersey,Union County,45019,45.0,19.0,South Carolina,Charleston County,21,33,NJ
+34003,34,3,New Jersey,Bergen County,45039,45.0,39.0,South Carolina,Fairfield County,8,12,NJ
+34003,34,3,New Jersey,Bergen County,45041,45.0,41.0,South Carolina,Florence County,8,13,NJ
+34029,34,29,New Jersey,Ocean County,45045,45.0,45.0,South Carolina,Greenville County,34,55,NJ
+34031,34,31,New Jersey,Passaic County,45045,45.0,45.0,South Carolina,Greenville County,10,19,NJ
+34025,34,25,New Jersey,Monmouth County,45051,45.0,51.0,South Carolina,Horry County,15,23,NJ
+34013,34,13,New Jersey,Essex County,45079,45.0,79.0,South Carolina,Richland County,5,8,NJ
+34041,34,41,New Jersey,Warren County,45083,45.0,83.0,South Carolina,Spartanburg County,15,18,NJ
+34017,34,17,New Jersey,Hudson County,45087,45.0,87.0,South Carolina,Union County,17,28,NJ
+34035,34,35,New Jersey,Somerset County,45091,45.0,91.0,South Carolina,York County,14,23,NJ
+34027,34,27,New Jersey,Morris County,47037,47.0,37.0,Tennessee,Davidson County,19,29,NJ
+34035,34,35,New Jersey,Somerset County,47037,47.0,37.0,Tennessee,Davidson County,6,8,NJ
+34039,34,39,New Jersey,Union County,47065,47.0,65.0,Tennessee,Hamilton County,13,23,NJ
+34029,34,29,New Jersey,Ocean County,47093,47.0,93.0,Tennessee,Knox County,33,41,NJ
+34029,34,29,New Jersey,Ocean County,47149,47.0,149.0,Tennessee,Rutherford County,19,23,NJ
+34003,34,3,New Jersey,Bergen County,47157,47.0,157.0,Tennessee,Shelby County,9,13,NJ
+34005,34,5,New Jersey,Burlington County,47157,47.0,157.0,Tennessee,Shelby County,13,21,NJ
+34017,34,17,New Jersey,Hudson County,47157,47.0,157.0,Tennessee,Shelby County,10,16,NJ
+34017,34,17,New Jersey,Hudson County,47163,47.0,163.0,Tennessee,Sullivan County,63,62,NJ
+34035,34,35,New Jersey,Somerset County,47163,47.0,163.0,Tennessee,Sullivan County,11,18,NJ
+34007,34,7,New Jersey,Camden County,47187,47.0,187.0,Tennessee,Williamson County,6,10,NJ
+34023,34,23,New Jersey,Middlesex County,47187,47.0,187.0,Tennessee,Williamson County,7,11,NJ
+34035,34,35,New Jersey,Somerset County,47187,47.0,187.0,Tennessee,Williamson County,25,40,NJ
+34005,34,5,New Jersey,Burlington County,47189,47.0,189.0,Tennessee,Wilson County,17,26,NJ
+34013,34,13,New Jersey,Essex County,48025,48.0,25.0,Texas,Bee County,11,18,NJ
+34005,34,5,New Jersey,Burlington County,48027,48.0,27.0,Texas,Bell County,8,11,NJ
+34007,34,7,New Jersey,Camden County,48027,48.0,27.0,Texas,Bell County,74,65,NJ
+34029,34,29,New Jersey,Ocean County,48027,48.0,27.0,Texas,Bell County,70,101,NJ
+34003,34,3,New Jersey,Bergen County,48029,48.0,29.0,Texas,Bexar County,14,24,NJ
+34017,34,17,New Jersey,Hudson County,48029,48.0,29.0,Texas,Bexar County,7,12,NJ
+34031,34,31,New Jersey,Passaic County,48029,48.0,29.0,Texas,Bexar County,6,9,NJ
+34039,34,39,New Jersey,Union County,48029,48.0,29.0,Texas,Bexar County,6,11,NJ
+34003,34,3,New Jersey,Bergen County,48061,48.0,61.0,Texas,Cameron County,17,28,NJ
+34007,34,7,New Jersey,Camden County,48085,48.0,85.0,Texas,Collin County,11,18,NJ
+34015,34,15,New Jersey,Gloucester County,48085,48.0,85.0,Texas,Collin County,80,91,NJ
+34027,34,27,New Jersey,Morris County,48085,48.0,85.0,Texas,Collin County,22,24,NJ
+34029,34,29,New Jersey,Ocean County,48085,48.0,85.0,Texas,Collin County,35,36,NJ
+34039,34,39,New Jersey,Union County,48085,48.0,85.0,Texas,Collin County,14,23,NJ
+34003,34,3,New Jersey,Bergen County,48113,48.0,113.0,Texas,Dallas County,26,32,NJ
+34021,34,21,New Jersey,Mercer County,48113,48.0,113.0,Texas,Dallas County,16,25,NJ
+34025,34,25,New Jersey,Monmouth County,48113,48.0,113.0,Texas,Dallas County,11,13,NJ
+34027,34,27,New Jersey,Morris County,48113,48.0,113.0,Texas,Dallas County,14,23,NJ
+34037,34,37,New Jersey,Sussex County,48113,48.0,113.0,Texas,Dallas County,25,29,NJ
+34041,34,41,New Jersey,Warren County,48113,48.0,113.0,Texas,Dallas County,3,6,NJ
+34007,34,7,New Jersey,Camden County,48121,48.0,121.0,Texas,Denton County,11,16,NJ
+34015,34,15,New Jersey,Gloucester County,48131,48.0,131.0,Texas,Duval County,52,47,NJ
+34013,34,13,New Jersey,Essex County,48141,48.0,141.0,Texas,El Paso County,8,13,NJ
+34005,34,5,New Jersey,Burlington County,48167,48.0,167.0,Texas,Galveston County,45,51,NJ
+34003,34,3,New Jersey,Bergen County,48201,48.0,201.0,Texas,Harris County,56,44,NJ
+34005,34,5,New Jersey,Burlington County,48201,48.0,201.0,Texas,Harris County,40,43,NJ
+34007,34,7,New Jersey,Camden County,48201,48.0,201.0,Texas,Harris County,40,40,NJ
+34013,34,13,New Jersey,Essex County,48201,48.0,201.0,Texas,Harris County,27,32,NJ
+34015,34,15,New Jersey,Gloucester County,48201,48.0,201.0,Texas,Harris County,24,29,NJ
+34021,34,21,New Jersey,Mercer County,48201,48.0,201.0,Texas,Harris County,6,9,NJ
+34023,34,23,New Jersey,Middlesex County,48201,48.0,201.0,Texas,Harris County,3,5,NJ
+34025,34,25,New Jersey,Monmouth County,48201,48.0,201.0,Texas,Harris County,111,85,NJ
+34027,34,27,New Jersey,Morris County,48201,48.0,201.0,Texas,Harris County,9,15,NJ
+34039,34,39,New Jersey,Union County,48201,48.0,201.0,Texas,Harris County,8,13,NJ
+34003,34,3,New Jersey,Bergen County,48245,48.0,245.0,Texas,Jefferson County,14,17,NJ
+34035,34,35,New Jersey,Somerset County,48245,48.0,245.0,Texas,Jefferson County,9,14,NJ
+34013,34,13,New Jersey,Essex County,48277,48.0,277.0,Texas,Lamar County,15,23,NJ
+34023,34,23,New Jersey,Middlesex County,48439,48.0,439.0,Texas,Tarrant County,7,12,NJ
+34031,34,31,New Jersey,Passaic County,48439,48.0,439.0,Texas,Tarrant County,14,23,NJ
+34033,34,33,New Jersey,Salem County,48439,48.0,439.0,Texas,Tarrant County,10,15,NJ
+34035,34,35,New Jersey,Somerset County,48439,48.0,439.0,Texas,Tarrant County,1,2,NJ
+34001,34,1,New Jersey,Atlantic County,48451,48.0,451.0,Texas,Tom Green County,6,10,NJ
+34003,34,3,New Jersey,Bergen County,48453,48.0,453.0,Texas,Travis County,23,25,NJ
+34009,34,9,New Jersey,Cape May County,48453,48.0,453.0,Texas,Travis County,4,6,NJ
+34017,34,17,New Jersey,Hudson County,48453,48.0,453.0,Texas,Travis County,13,20,NJ
+34023,34,23,New Jersey,Middlesex County,48453,48.0,453.0,Texas,Travis County,12,21,NJ
+34025,34,25,New Jersey,Monmouth County,48453,48.0,453.0,Texas,Travis County,7,11,NJ
+34035,34,35,New Jersey,Somerset County,48453,48.0,453.0,Texas,Travis County,1,2,NJ
+34027,34,27,New Jersey,Morris County,49021,49.0,21.0,Utah,Iron County,8,11,NJ
+34001,34,1,New Jersey,Atlantic County,49035,49.0,35.0,Utah,Salt Lake County,11,18,NJ
+34025,34,25,New Jersey,Monmouth County,49035,49.0,35.0,Utah,Salt Lake County,11,17,NJ
+34039,34,39,New Jersey,Union County,49035,49.0,35.0,Utah,Salt Lake County,29,38,NJ
+34041,34,41,New Jersey,Warren County,49035,49.0,35.0,Utah,Salt Lake County,9,13,NJ
+34017,34,17,New Jersey,Hudson County,50003,50.0,3.0,Vermont,Bennington County,5,8,NJ
+34013,34,13,New Jersey,Essex County,50005,50.0,5.0,Vermont,Caledonia County,9,15,NJ
+34005,34,5,New Jersey,Burlington County,50007,50.0,7.0,Vermont,Chittenden County,11,16,NJ
+34019,34,19,New Jersey,Hunterdon County,50007,50.0,7.0,Vermont,Chittenden County,72,80,NJ
+34025,34,25,New Jersey,Monmouth County,50007,50.0,7.0,Vermont,Chittenden County,10,15,NJ
+34027,34,27,New Jersey,Morris County,50007,50.0,7.0,Vermont,Chittenden County,12,19,NJ
+34029,34,29,New Jersey,Ocean County,50007,50.0,7.0,Vermont,Chittenden County,11,14,NJ
+34017,34,17,New Jersey,Hudson County,50011,50.0,11.0,Vermont,Franklin County,13,22,NJ
+34003,34,3,New Jersey,Bergen County,50025,50.0,25.0,Vermont,Windham County,4,6,NJ
+34003,34,3,New Jersey,Bergen County,50027,50.0,27.0,Vermont,Windsor County,14,22,NJ
+34001,34,1,New Jersey,Atlantic County,51013,51.0,13.0,Virginia,Arlington County,8,13,NJ
+34003,34,3,New Jersey,Bergen County,51013,51.0,13.0,Virginia,Arlington County,11,18,NJ
+34005,34,5,New Jersey,Burlington County,51013,51.0,13.0,Virginia,Arlington County,11,18,NJ
+34019,34,19,New Jersey,Hunterdon County,51013,51.0,13.0,Virginia,Arlington County,13,17,NJ
+34021,34,21,New Jersey,Mercer County,51013,51.0,13.0,Virginia,Arlington County,18,30,NJ
+34023,34,23,New Jersey,Middlesex County,51013,51.0,13.0,Virginia,Arlington County,17,16,NJ
+34025,34,25,New Jersey,Monmouth County,51013,51.0,13.0,Virginia,Arlington County,26,40,NJ
+34027,34,27,New Jersey,Morris County,51013,51.0,13.0,Virginia,Arlington County,12,18,NJ
+34031,34,31,New Jersey,Passaic County,51013,51.0,13.0,Virginia,Arlington County,49,63,NJ
+34009,34,9,New Jersey,Cape May County,51041,51.0,41.0,Virginia,Chesterfield County,2,3,NJ
+34013,34,13,New Jersey,Essex County,51041,51.0,41.0,Virginia,Chesterfield County,9,16,NJ
+34017,34,17,New Jersey,Hudson County,51053,51.0,53.0,Virginia,Dinwiddie County,18,30,NJ
+34001,34,1,New Jersey,Atlantic County,51059,51.0,59.0,Virginia,Fairfax County,4,5,NJ
+34003,34,3,New Jersey,Bergen County,51059,51.0,59.0,Virginia,Fairfax County,10,13,NJ
+34005,34,5,New Jersey,Burlington County,51059,51.0,59.0,Virginia,Fairfax County,27,31,NJ
+34013,34,13,New Jersey,Essex County,51059,51.0,59.0,Virginia,Fairfax County,30,45,NJ
+34017,34,17,New Jersey,Hudson County,51059,51.0,59.0,Virginia,Fairfax County,56,36,NJ
+34019,34,19,New Jersey,Hunterdon County,51059,51.0,59.0,Virginia,Fairfax County,20,30,NJ
+34023,34,23,New Jersey,Middlesex County,51059,51.0,59.0,Virginia,Fairfax County,43,34,NJ
+34025,34,25,New Jersey,Monmouth County,51059,51.0,59.0,Virginia,Fairfax County,32,32,NJ
+34027,34,27,New Jersey,Morris County,51059,51.0,59.0,Virginia,Fairfax County,21,24,NJ
+34029,34,29,New Jersey,Ocean County,51059,51.0,59.0,Virginia,Fairfax County,7,11,NJ
+34033,34,33,New Jersey,Salem County,51059,51.0,59.0,Virginia,Fairfax County,2,4,NJ
+34035,34,35,New Jersey,Somerset County,51059,51.0,59.0,Virginia,Fairfax County,37,34,NJ
+34037,34,37,New Jersey,Sussex County,51059,51.0,59.0,Virginia,Fairfax County,9,13,NJ
+34039,34,39,New Jersey,Union County,51059,51.0,59.0,Virginia,Fairfax County,15,26,NJ
+34015,34,15,New Jersey,Gloucester County,51065,51.0,65.0,Virginia,Fluvanna County,15,24,NJ
+34009,34,9,New Jersey,Cape May County,51069,51.0,69.0,Virginia,Frederick County,14,19,NJ
+34041,34,41,New Jersey,Warren County,51073,51.0,73.0,Virginia,Gloucester County,3,5,NJ
+34007,34,7,New Jersey,Camden County,51079,51.0,79.0,Virginia,Greene County,24,31,NJ
+34029,34,29,New Jersey,Ocean County,51087,51.0,87.0,Virginia,Henrico County,4,8,NJ
+34005,34,5,New Jersey,Burlington County,51099,51.0,99.0,Virginia,King George County,18,29,NJ
+34003,34,3,New Jersey,Bergen County,51107,51.0,107.0,Virginia,Loudoun County,6,10,NJ
+34021,34,21,New Jersey,Mercer County,51107,51.0,107.0,Virginia,Loudoun County,8,13,NJ
+34025,34,25,New Jersey,Monmouth County,51107,51.0,107.0,Virginia,Loudoun County,7,10,NJ
+34033,34,33,New Jersey,Salem County,51107,51.0,107.0,Virginia,Loudoun County,7,13,NJ
+34039,34,39,New Jersey,Union County,51107,51.0,107.0,Virginia,Loudoun County,10,15,NJ
+34041,34,41,New Jersey,Warren County,51107,51.0,107.0,Virginia,Loudoun County,6,9,NJ
+34019,34,19,New Jersey,Hunterdon County,51121,51.0,121.0,Virginia,Montgomery County,2,4,NJ
+34021,34,21,New Jersey,Mercer County,51121,51.0,121.0,Virginia,Montgomery County,16,26,NJ
+34025,34,25,New Jersey,Monmouth County,51153,51.0,153.0,Virginia,Prince William County,19,22,NJ
+34029,34,29,New Jersey,Ocean County,51153,51.0,153.0,Virginia,Prince William County,20,34,NJ
+34041,34,41,New Jersey,Warren County,51153,51.0,153.0,Virginia,Prince William County,3,4,NJ
+34021,34,21,New Jersey,Mercer County,51177,51.0,177.0,Virginia,Spotsylvania County,13,21,NJ
+34001,34,1,New Jersey,Atlantic County,51187,51.0,187.0,Virginia,Warren County,6,12,NJ
+34003,34,3,New Jersey,Bergen County,51510,51.0,510.0,Virginia,Alexandria city,6,12,NJ
+34005,34,5,New Jersey,Burlington County,51510,51.0,510.0,Virginia,Alexandria city,5,9,NJ
+34023,34,23,New Jersey,Middlesex County,51510,51.0,510.0,Virginia,Alexandria city,20,31,NJ
+34031,34,31,New Jersey,Passaic County,51510,51.0,510.0,Virginia,Alexandria city,21,34,NJ
+34033,34,33,New Jersey,Salem County,51550,51.0,550.0,Virginia,Chesapeake city,5,6,NJ
+34023,34,23,New Jersey,Middlesex County,51610,51.0,610.0,Virginia,Falls Church city,41,48,NJ
+34039,34,39,New Jersey,Union County,51650,51.0,650.0,Virginia,Hampton city,53,44,NJ
+34025,34,25,New Jersey,Monmouth County,51678,51.0,678.0,Virginia,Lexington city,17,28,NJ
+34035,34,35,New Jersey,Somerset County,51678,51.0,678.0,Virginia,Lexington city,18,29,NJ
+34021,34,21,New Jersey,Mercer County,51700,51.0,700.0,Virginia,Newport News city,14,19,NJ
+34005,34,5,New Jersey,Burlington County,51710,51.0,710.0,Virginia,Norfolk city,20,31,NJ
+34007,34,7,New Jersey,Camden County,51710,51.0,710.0,Virginia,Norfolk city,18,29,NJ
+34013,34,13,New Jersey,Essex County,51710,51.0,710.0,Virginia,Norfolk city,6,10,NJ
+34013,34,13,New Jersey,Essex County,51760,51.0,760.0,Virginia,Richmond city,11,17,NJ
+34023,34,23,New Jersey,Middlesex County,51760,51.0,760.0,Virginia,Richmond city,7,12,NJ
+34033,34,33,New Jersey,Salem County,51760,51.0,760.0,Virginia,Richmond city,16,22,NJ
+34005,34,5,New Jersey,Burlington County,51770,51.0,770.0,Virginia,Roanoke city,9,14,NJ
+34007,34,7,New Jersey,Camden County,51770,51.0,770.0,Virginia,Roanoke city,7,10,NJ
+34005,34,5,New Jersey,Burlington County,51810,51.0,810.0,Virginia,Virginia Beach city,14,23,NJ
+34015,34,15,New Jersey,Gloucester County,51810,51.0,810.0,Virginia,Virginia Beach city,5,8,NJ
+34041,34,41,New Jersey,Warren County,51810,51.0,810.0,Virginia,Virginia Beach city,31,47,NJ
+34009,34,9,New Jersey,Cape May County,51840,51.0,840.0,Virginia,Winchester city,13,18,NJ
+34033,34,33,New Jersey,Salem County,53005,53.0,5.0,Washington,Benton County,6,9,NJ
+34003,34,3,New Jersey,Bergen County,53033,53.0,33.0,Washington,King County,9,14,NJ
+34005,34,5,New Jersey,Burlington County,53033,53.0,33.0,Washington,King County,7,11,NJ
+34017,34,17,New Jersey,Hudson County,53033,53.0,33.0,Washington,King County,11,18,NJ
+34023,34,23,New Jersey,Middlesex County,53033,53.0,33.0,Washington,King County,45,43,NJ
+34025,34,25,New Jersey,Monmouth County,53033,53.0,33.0,Washington,King County,16,19,NJ
+34001,34,1,New Jersey,Atlantic County,53053,53.0,53.0,Washington,Pierce County,26,42,NJ
+34023,34,23,New Jersey,Middlesex County,53063,53.0,63.0,Washington,Spokane County,19,21,NJ
+34001,34,1,New Jersey,Atlantic County,54037,54.0,37.0,West Virginia,Jefferson County,32,49,NJ
+34007,34,7,New Jersey,Camden County,54037,54.0,37.0,West Virginia,Jefferson County,13,15,NJ
+34041,34,41,New Jersey,Warren County,54039,54.0,39.0,West Virginia,Kanawha County,56,80,NJ
+34021,34,21,New Jersey,Mercer County,54061,54.0,61.0,West Virginia,Monongalia County,10,14,NJ
+34007,34,7,New Jersey,Camden County,55009,55.0,9.0,Wisconsin,Brown County,18,26,NJ
+34003,34,3,New Jersey,Bergen County,55025,55.0,25.0,Wisconsin,Dane County,17,26,NJ
+34019,34,19,New Jersey,Hunterdon County,55025,55.0,25.0,Wisconsin,Dane County,11,16,NJ
+34003,34,3,New Jersey,Bergen County,55029,55.0,29.0,Wisconsin,Door County,13,23,NJ
+34025,34,25,New Jersey,Monmouth County,55055,55.0,55.0,Wisconsin,Jefferson County,2,3,NJ
+34031,34,31,New Jersey,Passaic County,55055,55.0,55.0,Wisconsin,Jefferson County,17,18,NJ
+34007,34,7,New Jersey,Camden County,55079,55.0,79.0,Wisconsin,Milwaukee County,16,24,NJ
+34023,34,23,New Jersey,Middlesex County,55079,55.0,79.0,Wisconsin,Milwaukee County,34,33,NJ
+34037,34,37,New Jersey,Sussex County,55101,55.0,101.0,Wisconsin,Racine County,13,24,NJ
+34031,34,31,New Jersey,Passaic County,55109,55.0,109.0,Wisconsin,St. Croix County,7,13,NJ
+34037,34,37,New Jersey,Sussex County,55117,55.0,117.0,Wisconsin,Sheboygan County,8,14,NJ
+34003,34,3,New Jersey,Bergen County,55121,55.0,121.0,Wisconsin,Trempealeau County,6,9,NJ
+34029,34,29,New Jersey,Ocean County,55127,55.0,127.0,Wisconsin,Walworth County,7,12,NJ
+34019,34,19,New Jersey,Hunterdon County,55133,55.0,133.0,Wisconsin,Waukesha County,14,24,NJ
+34031,34,31,New Jersey,Passaic County,55133,55.0,133.0,Wisconsin,Waukesha County,22,36,NJ
+34035,34,35,New Jersey,Somerset County,72021,72.0,21.0,Puerto Rico,Bayamón Municipio,14,22,NJ
+34001,34,1,New Jersey,Atlantic County,72031,72.0,31.0,Puerto Rico,Carolina Municipio,14,14,NJ
+34041,34,41,New Jersey,Warren County,72127,72.0,127.0,Puerto Rico,San Juan Municipio,8,9,NJ
+34001,34,1,New Jersey,Atlantic County,301000,301.0,,Canada,,9,13,NJ
+34005,34,5,New Jersey,Burlington County,301000,301.0,,Canada,,5,7,NJ
+34007,34,7,New Jersey,Camden County,301000,301.0,,Canada,,29,39,NJ
+34013,34,13,New Jersey,Essex County,301000,301.0,,Canada,,11,18,NJ
+34019,34,19,New Jersey,Hunterdon County,301000,301.0,,Canada,,15,19,NJ
+34023,34,23,New Jersey,Middlesex County,301000,301.0,,Canada,,10,17,NJ
+34027,34,27,New Jersey,Morris County,301000,301.0,,Canada,,17,26,NJ
+34035,34,35,New Jersey,Somerset County,301000,301.0,,Canada,,34,50,NJ
+34037,34,37,New Jersey,Sussex County,301000,301.0,,Canada,,23,25,NJ
+34015,34,15,New Jersey,Gloucester County,303000,303.0,,Mexico,,6,9,NJ
+34017,34,17,New Jersey,Hudson County,303000,303.0,,Mexico,,39,46,NJ
+34023,34,23,New Jersey,Middlesex County,303000,303.0,,Mexico,,13,22,NJ
+34025,34,25,New Jersey,Monmouth County,303000,303.0,,Mexico,,6,8,NJ
+34001,34,1,New Jersey,Atlantic County,-1,,,Other workplace outside of the U.S.,,31,33,NJ
+34003,34,3,New Jersey,Bergen County,-1,,,Other workplace outside of the U.S.,,258,150,NJ
+34005,34,5,New Jersey,Burlington County,-1,,,Other workplace outside of the U.S.,,52,43,NJ
+34007,34,7,New Jersey,Camden County,-1,,,Other workplace outside of the U.S.,,9,14,NJ
+34009,34,9,New Jersey,Cape May County,-1,,,Other workplace outside of the U.S.,,16,16,NJ
+34013,34,13,New Jersey,Essex County,-1,,,Other workplace outside of the U.S.,,50,39,NJ
+34015,34,15,New Jersey,Gloucester County,-1,,,Other workplace outside of the U.S.,,49,46,NJ
+34017,34,17,New Jersey,Hudson County,-1,,,Other workplace outside of the U.S.,,147,67,NJ
+34019,34,19,New Jersey,Hunterdon County,-1,,,Other workplace outside of the U.S.,,57,46,NJ
+34021,34,21,New Jersey,Mercer County,-1,,,Other workplace outside of the U.S.,,105,56,NJ
+34023,34,23,New Jersey,Middlesex County,-1,,,Other workplace outside of the U.S.,,242,121,NJ
+34025,34,25,New Jersey,Monmouth County,-1,,,Other workplace outside of the U.S.,,51,48,NJ
+34027,34,27,New Jersey,Morris County,-1,,,Other workplace outside of the U.S.,,115,77,NJ
+34029,34,29,New Jersey,Ocean County,-1,,,Other workplace outside of the U.S.,,135,84,NJ
+34031,34,31,New Jersey,Passaic County,-1,,,Other workplace outside of the U.S.,,56,46,NJ
+34035,34,35,New Jersey,Somerset County,-1,,,Other workplace outside of the U.S.,,44,41,NJ
+34037,34,37,New Jersey,Sussex County,-1,,,Other workplace outside of the U.S.,,28,26,NJ
+34039,34,39,New Jersey,Union County,-1,,,Other workplace outside of the U.S.,,32,32,NJ
+34041,34,41,New Jersey,Warren County,-1,,,Other workplace outside of the U.S.,,31,31,NJ

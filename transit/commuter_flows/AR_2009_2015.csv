@@ -1,0 +1,2278 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+5131,5,131,Arkansas,Sebastian County,1043,1.0,43.0,Alabama,Cullman County,9,14,AR
+5023,5,23,Arkansas,Cleburne County,1073,1.0,73.0,Alabama,Jefferson County,7,12,AR
+5031,5,31,Arkansas,Craighead County,1073,1.0,73.0,Alabama,Jefferson County,4,6,AR
+5069,5,69,Arkansas,Jefferson County,1085,1.0,85.0,Alabama,Lowndes County,3,5,AR
+5007,5,7,Arkansas,Benton County,1089,1.0,89.0,Alabama,Madison County,5,8,AR
+5109,5,109,Arkansas,Pike County,1089,1.0,89.0,Alabama,Madison County,5,9,AR
+5119,5,119,Arkansas,Pulaski County,1089,1.0,89.0,Alabama,Madison County,13,21,AR
+5119,5,119,Arkansas,Pulaski County,1097,1.0,97.0,Alabama,Mobile County,11,18,AR
+5015,5,15,Arkansas,Carroll County,1109,1.0,109.0,Alabama,Pike County,13,21,AR
+5051,5,51,Arkansas,Garland County,1125,1.0,125.0,Alabama,Tuscaloosa County,53,56,AR
+5007,5,7,Arkansas,Benton County,2020,2.0,20.0,Alaska,Anchorage Municipality,50,73,AR
+5027,5,27,Arkansas,Columbia County,2020,2.0,20.0,Alaska,Anchorage Municipality,19,32,AR
+5059,5,59,Arkansas,Hot Spring County,2020,2.0,20.0,Alaska,Anchorage Municipality,11,18,AR
+5115,5,115,Arkansas,Pope County,2020,2.0,20.0,Alaska,Anchorage Municipality,9,15,AR
+5095,5,95,Arkansas,Monroe County,2170,2.0,170.0,Alaska,Matanuska-Susitna Borough,6,8,AR
+5007,5,7,Arkansas,Benton County,2180,2.0,180.0,Alaska,Nome Census Area,11,17,AR
+5083,5,83,Arkansas,Logan County,2185,2.0,185.0,Alaska,North Slope Borough,1,3,AR
+5063,5,63,Arkansas,Independence County,4003,4.0,3.0,Arizona,Cochise County,11,20,AR
+5007,5,7,Arkansas,Benton County,4013,4.0,13.0,Arizona,Maricopa County,26,31,AR
+5033,5,33,Arkansas,Crawford County,4013,4.0,13.0,Arizona,Maricopa County,25,39,AR
+5051,5,51,Arkansas,Garland County,4013,4.0,13.0,Arizona,Maricopa County,65,55,AR
+5069,5,69,Arkansas,Jefferson County,4013,4.0,13.0,Arizona,Maricopa County,35,52,AR
+5111,5,111,Arkansas,Poinsett County,4013,4.0,13.0,Arizona,Maricopa County,13,19,AR
+5115,5,115,Arkansas,Pope County,4013,4.0,13.0,Arizona,Maricopa County,56,89,AR
+5143,5,143,Arkansas,Washington County,4013,4.0,13.0,Arizona,Maricopa County,29,50,AR
+5145,5,145,Arkansas,White County,4013,4.0,13.0,Arizona,Maricopa County,10,15,AR
+5015,5,15,Arkansas,Carroll County,4017,4.0,17.0,Arizona,Navajo County,11,17,AR
+5109,5,109,Arkansas,Pike County,4027,4.0,27.0,Arizona,Yuma County,2,4,AR
+5001,5,1,Arkansas,Arkansas County,5001,5.0,1.0,Arkansas,Arkansas County,7327,349,AR
+5035,5,35,Arkansas,Crittenden County,5001,5.0,1.0,Arkansas,Arkansas County,3,7,AR
+5041,5,41,Arkansas,Desha County,5001,5.0,1.0,Arkansas,Arkansas County,110,53,AR
+5043,5,43,Arkansas,Drew County,5001,5.0,1.0,Arkansas,Arkansas County,5,9,AR
+5051,5,51,Arkansas,Garland County,5001,5.0,1.0,Arkansas,Arkansas County,15,25,AR
+5053,5,53,Arkansas,Grant County,5001,5.0,1.0,Arkansas,Arkansas County,33,31,AR
+5069,5,69,Arkansas,Jefferson County,5001,5.0,1.0,Arkansas,Arkansas County,380,126,AR
+5077,5,77,Arkansas,Lee County,5001,5.0,1.0,Arkansas,Arkansas County,22,20,AR
+5079,5,79,Arkansas,Lincoln County,5001,5.0,1.0,Arkansas,Arkansas County,15,18,AR
+5085,5,85,Arkansas,Lonoke County,5001,5.0,1.0,Arkansas,Arkansas County,263,82,AR
+5095,5,95,Arkansas,Monroe County,5001,5.0,1.0,Arkansas,Arkansas County,346,77,AR
+5103,5,103,Arkansas,Ouachita County,5001,5.0,1.0,Arkansas,Arkansas County,10,18,AR
+5107,5,107,Arkansas,Phillips County,5001,5.0,1.0,Arkansas,Arkansas County,99,60,AR
+5117,5,117,Arkansas,Prairie County,5001,5.0,1.0,Arkansas,Arkansas County,544,97,AR
+5119,5,119,Arkansas,Pulaski County,5001,5.0,1.0,Arkansas,Arkansas County,80,72,AR
+5123,5,123,Arkansas,St. Francis County,5001,5.0,1.0,Arkansas,Arkansas County,19,18,AR
+5145,5,145,Arkansas,White County,5001,5.0,1.0,Arkansas,Arkansas County,57,56,AR
+5003,5,3,Arkansas,Ashley County,5003,5.0,3.0,Arkansas,Ashley County,6395,389,AR
+5011,5,11,Arkansas,Bradley County,5003,5.0,3.0,Arkansas,Ashley County,105,64,AR
+5017,5,17,Arkansas,Chicot County,5003,5.0,3.0,Arkansas,Ashley County,95,58,AR
+5025,5,25,Arkansas,Cleveland County,5003,5.0,3.0,Arkansas,Ashley County,16,22,AR
+5039,5,39,Arkansas,Dallas County,5003,5.0,3.0,Arkansas,Ashley County,10,16,AR
+5041,5,41,Arkansas,Desha County,5003,5.0,3.0,Arkansas,Ashley County,7,10,AR
+5043,5,43,Arkansas,Drew County,5003,5.0,3.0,Arkansas,Ashley County,168,79,AR
+5047,5,47,Arkansas,Franklin County,5003,5.0,3.0,Arkansas,Ashley County,11,17,AR
+5079,5,79,Arkansas,Lincoln County,5003,5.0,3.0,Arkansas,Ashley County,11,14,AR
+5117,5,117,Arkansas,Prairie County,5003,5.0,3.0,Arkansas,Ashley County,2,4,AR
+5139,5,139,Arkansas,Union County,5003,5.0,3.0,Arkansas,Ashley County,97,58,AR
+5141,5,141,Arkansas,Van Buren County,5003,5.0,3.0,Arkansas,Ashley County,27,42,AR
+5005,5,5,Arkansas,Baxter County,5005,5.0,5.0,Arkansas,Baxter County,12543,604,AR
+5007,5,7,Arkansas,Benton County,5005,5.0,5.0,Arkansas,Baxter County,8,13,AR
+5009,5,9,Arkansas,Boone County,5005,5.0,5.0,Arkansas,Baxter County,24,25,AR
+5015,5,15,Arkansas,Carroll County,5005,5.0,5.0,Arkansas,Baxter County,4,7,AR
+5045,5,45,Arkansas,Faulkner County,5005,5.0,5.0,Arkansas,Baxter County,29,36,AR
+5049,5,49,Arkansas,Fulton County,5005,5.0,5.0,Arkansas,Baxter County,410,143,AR
+5063,5,63,Arkansas,Independence County,5005,5.0,5.0,Arkansas,Baxter County,10,16,AR
+5065,5,65,Arkansas,Izard County,5005,5.0,5.0,Arkansas,Baxter County,281,99,AR
+5089,5,89,Arkansas,Marion County,5005,5.0,5.0,Arkansas,Baxter County,1201,245,AR
+5093,5,93,Arkansas,Mississippi County,5005,5.0,5.0,Arkansas,Baxter County,10,16,AR
+5099,5,99,Arkansas,Nevada County,5005,5.0,5.0,Arkansas,Baxter County,6,10,AR
+5101,5,101,Arkansas,Newton County,5005,5.0,5.0,Arkansas,Baxter County,40,39,AR
+5119,5,119,Arkansas,Pulaski County,5005,5.0,5.0,Arkansas,Baxter County,19,23,AR
+5129,5,129,Arkansas,Searcy County,5005,5.0,5.0,Arkansas,Baxter County,56,57,AR
+5135,5,135,Arkansas,Sharp County,5005,5.0,5.0,Arkansas,Baxter County,25,24,AR
+5137,5,137,Arkansas,Stone County,5005,5.0,5.0,Arkansas,Baxter County,29,43,AR
+5143,5,143,Arkansas,Washington County,5005,5.0,5.0,Arkansas,Baxter County,44,57,AR
+5007,5,7,Arkansas,Benton County,5007,5.0,7.0,Arkansas,Benton County,91493,1214,AR
+5009,5,9,Arkansas,Boone County,5007,5.0,7.0,Arkansas,Benton County,50,68,AR
+5011,5,11,Arkansas,Bradley County,5007,5.0,7.0,Arkansas,Benton County,8,13,AR
+5015,5,15,Arkansas,Carroll County,5007,5.0,7.0,Arkansas,Benton County,178,99,AR
+5019,5,19,Arkansas,Clark County,5007,5.0,7.0,Arkansas,Benton County,5,9,AR
+5023,5,23,Arkansas,Cleburne County,5007,5.0,7.0,Arkansas,Benton County,50,77,AR
+5033,5,33,Arkansas,Crawford County,5007,5.0,7.0,Arkansas,Benton County,261,130,AR
+5041,5,41,Arkansas,Desha County,5007,5.0,7.0,Arkansas,Benton County,7,10,AR
+5045,5,45,Arkansas,Faulkner County,5007,5.0,7.0,Arkansas,Benton County,6,10,AR
+5047,5,47,Arkansas,Franklin County,5007,5.0,7.0,Arkansas,Benton County,9,14,AR
+5049,5,49,Arkansas,Fulton County,5007,5.0,7.0,Arkansas,Benton County,13,20,AR
+5051,5,51,Arkansas,Garland County,5007,5.0,7.0,Arkansas,Benton County,13,21,AR
+5057,5,57,Arkansas,Hempstead County,5007,5.0,7.0,Arkansas,Benton County,1,2,AR
+5063,5,63,Arkansas,Independence County,5007,5.0,7.0,Arkansas,Benton County,30,38,AR
+5065,5,65,Arkansas,Izard County,5007,5.0,7.0,Arkansas,Benton County,11,16,AR
+5071,5,71,Arkansas,Johnson County,5007,5.0,7.0,Arkansas,Benton County,5,7,AR
+5083,5,83,Arkansas,Logan County,5007,5.0,7.0,Arkansas,Benton County,7,8,AR
+5087,5,87,Arkansas,Madison County,5007,5.0,7.0,Arkansas,Benton County,449,121,AR
+5101,5,101,Arkansas,Newton County,5007,5.0,7.0,Arkansas,Benton County,9,14,AR
+5115,5,115,Arkansas,Pope County,5007,5.0,7.0,Arkansas,Benton County,6,9,AR
+5119,5,119,Arkansas,Pulaski County,5007,5.0,7.0,Arkansas,Benton County,52,54,AR
+5125,5,125,Arkansas,Saline County,5007,5.0,7.0,Arkansas,Benton County,11,16,AR
+5127,5,127,Arkansas,Scott County,5007,5.0,7.0,Arkansas,Benton County,4,8,AR
+5131,5,131,Arkansas,Sebastian County,5007,5.0,7.0,Arkansas,Benton County,104,77,AR
+5135,5,135,Arkansas,Sharp County,5007,5.0,7.0,Arkansas,Benton County,32,45,AR
+5143,5,143,Arkansas,Washington County,5007,5.0,7.0,Arkansas,Benton County,14899,994,AR
+5147,5,147,Arkansas,Woodruff County,5007,5.0,7.0,Arkansas,Benton County,3,6,AR
+5005,5,5,Arkansas,Baxter County,5009,5.0,9.0,Arkansas,Boone County,16,20,AR
+5009,5,9,Arkansas,Boone County,5009,5.0,9.0,Arkansas,Boone County,12523,618,AR
+5015,5,15,Arkansas,Carroll County,5009,5.0,9.0,Arkansas,Boone County,677,241,AR
+5049,5,49,Arkansas,Fulton County,5009,5.0,9.0,Arkansas,Boone County,37,55,AR
+5083,5,83,Arkansas,Logan County,5009,5.0,9.0,Arkansas,Boone County,4,6,AR
+5087,5,87,Arkansas,Madison County,5009,5.0,9.0,Arkansas,Boone County,33,36,AR
+5089,5,89,Arkansas,Marion County,5009,5.0,9.0,Arkansas,Boone County,980,250,AR
+5101,5,101,Arkansas,Newton County,5009,5.0,9.0,Arkansas,Boone County,929,179,AR
+5115,5,115,Arkansas,Pope County,5009,5.0,9.0,Arkansas,Boone County,25,40,AR
+5125,5,125,Arkansas,Saline County,5009,5.0,9.0,Arkansas,Boone County,5,10,AR
+5129,5,129,Arkansas,Searcy County,5009,5.0,9.0,Arkansas,Boone County,445,123,AR
+5131,5,131,Arkansas,Sebastian County,5009,5.0,9.0,Arkansas,Boone County,48,54,AR
+5141,5,141,Arkansas,Van Buren County,5009,5.0,9.0,Arkansas,Boone County,7,10,AR
+5143,5,143,Arkansas,Washington County,5009,5.0,9.0,Arkansas,Boone County,133,145,AR
+5003,5,3,Arkansas,Ashley County,5011,5.0,11.0,Arkansas,Bradley County,38,40,AR
+5011,5,11,Arkansas,Bradley County,5011,5.0,11.0,Arkansas,Bradley County,2988,215,AR
+5013,5,13,Arkansas,Calhoun County,5011,5.0,11.0,Arkansas,Bradley County,23,24,AR
+5025,5,25,Arkansas,Cleveland County,5011,5.0,11.0,Arkansas,Bradley County,271,90,AR
+5039,5,39,Arkansas,Dallas County,5011,5.0,11.0,Arkansas,Bradley County,49,44,AR
+5043,5,43,Arkansas,Drew County,5011,5.0,11.0,Arkansas,Bradley County,374,126,AR
+5059,5,59,Arkansas,Hot Spring County,5011,5.0,11.0,Arkansas,Bradley County,7,13,AR
+5069,5,69,Arkansas,Jefferson County,5011,5.0,11.0,Arkansas,Bradley County,7,11,AR
+5079,5,79,Arkansas,Lincoln County,5011,5.0,11.0,Arkansas,Bradley County,26,24,AR
+5103,5,103,Arkansas,Ouachita County,5011,5.0,11.0,Arkansas,Bradley County,10,15,AR
+5139,5,139,Arkansas,Union County,5011,5.0,11.0,Arkansas,Bradley County,10,16,AR
+5011,5,11,Arkansas,Bradley County,5013,5.0,13.0,Arkansas,Calhoun County,25,24,AR
+5013,5,13,Arkansas,Calhoun County,5013,5.0,13.0,Arkansas,Calhoun County,772,172,AR
+5019,5,19,Arkansas,Clark County,5013,5.0,13.0,Arkansas,Calhoun County,6,12,AR
+5025,5,25,Arkansas,Cleveland County,5013,5.0,13.0,Arkansas,Calhoun County,22,21,AR
+5027,5,27,Arkansas,Columbia County,5013,5.0,13.0,Arkansas,Calhoun County,12,20,AR
+5039,5,39,Arkansas,Dallas County,5013,5.0,13.0,Arkansas,Calhoun County,62,42,AR
+5043,5,43,Arkansas,Drew County,5013,5.0,13.0,Arkansas,Calhoun County,10,16,AR
+5053,5,53,Arkansas,Grant County,5013,5.0,13.0,Arkansas,Calhoun County,1,3,AR
+5085,5,85,Arkansas,Lonoke County,5013,5.0,13.0,Arkansas,Calhoun County,14,23,AR
+5099,5,99,Arkansas,Nevada County,5013,5.0,13.0,Arkansas,Calhoun County,7,10,AR
+5103,5,103,Arkansas,Ouachita County,5013,5.0,13.0,Arkansas,Calhoun County,738,183,AR
+5117,5,117,Arkansas,Prairie County,5013,5.0,13.0,Arkansas,Calhoun County,1,3,AR
+5119,5,119,Arkansas,Pulaski County,5013,5.0,13.0,Arkansas,Calhoun County,76,91,AR
+5139,5,139,Arkansas,Union County,5013,5.0,13.0,Arkansas,Calhoun County,65,48,AR
+5007,5,7,Arkansas,Benton County,5015,5.0,15.0,Arkansas,Carroll County,139,74,AR
+5009,5,9,Arkansas,Boone County,5015,5.0,15.0,Arkansas,Carroll County,608,228,AR
+5015,5,15,Arkansas,Carroll County,5015,5.0,15.0,Arkansas,Carroll County,9154,487,AR
+5055,5,55,Arkansas,Greene County,5015,5.0,15.0,Arkansas,Carroll County,10,16,AR
+5075,5,75,Arkansas,Lawrence County,5015,5.0,15.0,Arkansas,Carroll County,2,3,AR
+5083,5,83,Arkansas,Logan County,5015,5.0,15.0,Arkansas,Carroll County,53,80,AR
+5087,5,87,Arkansas,Madison County,5015,5.0,15.0,Arkansas,Carroll County,286,107,AR
+5101,5,101,Arkansas,Newton County,5015,5.0,15.0,Arkansas,Carroll County,18,17,AR
+5115,5,115,Arkansas,Pope County,5015,5.0,15.0,Arkansas,Carroll County,7,16,AR
+5139,5,139,Arkansas,Union County,5015,5.0,15.0,Arkansas,Carroll County,6,11,AR
+5143,5,143,Arkansas,Washington County,5015,5.0,15.0,Arkansas,Carroll County,30,37,AR
+5003,5,3,Arkansas,Ashley County,5017,5.0,17.0,Arkansas,Chicot County,224,68,AR
+5005,5,5,Arkansas,Baxter County,5017,5.0,17.0,Arkansas,Chicot County,57,78,AR
+5011,5,11,Arkansas,Bradley County,5017,5.0,17.0,Arkansas,Chicot County,6,9,AR
+5017,5,17,Arkansas,Chicot County,5017,5.0,17.0,Arkansas,Chicot County,2551,223,AR
+5039,5,39,Arkansas,Dallas County,5017,5.0,17.0,Arkansas,Chicot County,9,13,AR
+5041,5,41,Arkansas,Desha County,5017,5.0,17.0,Arkansas,Chicot County,184,87,AR
+5043,5,43,Arkansas,Drew County,5017,5.0,17.0,Arkansas,Chicot County,191,177,AR
+5051,5,51,Arkansas,Garland County,5017,5.0,17.0,Arkansas,Chicot County,13,21,AR
+5079,5,79,Arkansas,Lincoln County,5017,5.0,17.0,Arkansas,Chicot County,4,7,AR
+5087,5,87,Arkansas,Madison County,5017,5.0,17.0,Arkansas,Chicot County,12,20,AR
+5089,5,89,Arkansas,Marion County,5017,5.0,17.0,Arkansas,Chicot County,24,38,AR
+5115,5,115,Arkansas,Pope County,5017,5.0,17.0,Arkansas,Chicot County,11,19,AR
+5143,5,143,Arkansas,Washington County,5017,5.0,17.0,Arkansas,Chicot County,38,62,AR
+5019,5,19,Arkansas,Clark County,5019,5.0,19.0,Arkansas,Clark County,6867,464,AR
+5025,5,25,Arkansas,Cleveland County,5019,5.0,19.0,Arkansas,Clark County,10,15,AR
+5027,5,27,Arkansas,Columbia County,5019,5.0,19.0,Arkansas,Clark County,19,28,AR
+5039,5,39,Arkansas,Dallas County,5019,5.0,19.0,Arkansas,Clark County,143,69,AR
+5045,5,45,Arkansas,Faulkner County,5019,5.0,19.0,Arkansas,Clark County,9,15,AR
+5047,5,47,Arkansas,Franklin County,5019,5.0,19.0,Arkansas,Clark County,1,2,AR
+5051,5,51,Arkansas,Garland County,5019,5.0,19.0,Arkansas,Clark County,182,91,AR
+5057,5,57,Arkansas,Hempstead County,5019,5.0,19.0,Arkansas,Clark County,88,56,AR
+5059,5,59,Arkansas,Hot Spring County,5019,5.0,19.0,Arkansas,Clark County,855,215,AR
+5069,5,69,Arkansas,Jefferson County,5019,5.0,19.0,Arkansas,Clark County,11,21,AR
+5097,5,97,Arkansas,Montgomery County,5019,5.0,19.0,Arkansas,Clark County,97,59,AR
+5099,5,99,Arkansas,Nevada County,5019,5.0,19.0,Arkansas,Clark County,176,133,AR
+5103,5,103,Arkansas,Ouachita County,5019,5.0,19.0,Arkansas,Clark County,90,81,AR
+5109,5,109,Arkansas,Pike County,5019,5.0,19.0,Arkansas,Clark County,354,111,AR
+5113,5,113,Arkansas,Polk County,5019,5.0,19.0,Arkansas,Clark County,6,10,AR
+5119,5,119,Arkansas,Pulaski County,5019,5.0,19.0,Arkansas,Clark County,66,50,AR
+5125,5,125,Arkansas,Saline County,5019,5.0,19.0,Arkansas,Clark County,101,48,AR
+5005,5,5,Arkansas,Baxter County,5021,5.0,21.0,Arkansas,Clay County,86,76,AR
+5021,5,21,Arkansas,Clay County,5021,5.0,21.0,Arkansas,Clay County,3839,294,AR
+5031,5,31,Arkansas,Craighead County,5021,5.0,21.0,Arkansas,Clay County,99,75,AR
+5055,5,55,Arkansas,Greene County,5021,5.0,21.0,Arkansas,Clay County,373,215,AR
+5067,5,67,Arkansas,Jackson County,5021,5.0,21.0,Arkansas,Clay County,6,11,AR
+5075,5,75,Arkansas,Lawrence County,5021,5.0,21.0,Arkansas,Clay County,36,35,AR
+5111,5,111,Arkansas,Poinsett County,5021,5.0,21.0,Arkansas,Clay County,58,56,AR
+5121,5,121,Arkansas,Randolph County,5021,5.0,21.0,Arkansas,Clay County,203,90,AR
+5123,5,123,Arkansas,St. Francis County,5021,5.0,21.0,Arkansas,Clay County,6,10,AR
+5005,5,5,Arkansas,Baxter County,5023,5.0,23.0,Arkansas,Cleburne County,31,39,AR
+5023,5,23,Arkansas,Cleburne County,5023,5.0,23.0,Arkansas,Cleburne County,6837,492,AR
+5029,5,29,Arkansas,Conway County,5023,5.0,23.0,Arkansas,Cleburne County,27,30,AR
+5033,5,33,Arkansas,Crawford County,5023,5.0,23.0,Arkansas,Cleburne County,22,33,AR
+5045,5,45,Arkansas,Faulkner County,5023,5.0,23.0,Arkansas,Cleburne County,414,158,AR
+5049,5,49,Arkansas,Fulton County,5023,5.0,23.0,Arkansas,Cleburne County,2,4,AR
+5051,5,51,Arkansas,Garland County,5023,5.0,23.0,Arkansas,Cleburne County,7,11,AR
+5063,5,63,Arkansas,Independence County,5023,5.0,23.0,Arkansas,Cleburne County,235,113,AR
+5067,5,67,Arkansas,Jackson County,5023,5.0,23.0,Arkansas,Cleburne County,4,7,AR
+5069,5,69,Arkansas,Jefferson County,5023,5.0,23.0,Arkansas,Cleburne County,12,13,AR
+5083,5,83,Arkansas,Logan County,5023,5.0,23.0,Arkansas,Cleburne County,10,16,AR
+5085,5,85,Arkansas,Lonoke County,5023,5.0,23.0,Arkansas,Cleburne County,10,15,AR
+5105,5,105,Arkansas,Perry County,5023,5.0,23.0,Arkansas,Cleburne County,16,25,AR
+5109,5,109,Arkansas,Pike County,5023,5.0,23.0,Arkansas,Cleburne County,4,6,AR
+5115,5,115,Arkansas,Pope County,5023,5.0,23.0,Arkansas,Cleburne County,13,20,AR
+5119,5,119,Arkansas,Pulaski County,5023,5.0,23.0,Arkansas,Cleburne County,48,49,AR
+5137,5,137,Arkansas,Stone County,5023,5.0,23.0,Arkansas,Cleburne County,110,79,AR
+5141,5,141,Arkansas,Van Buren County,5023,5.0,23.0,Arkansas,Cleburne County,306,96,AR
+5145,5,145,Arkansas,White County,5023,5.0,23.0,Arkansas,Cleburne County,578,189,AR
+5011,5,11,Arkansas,Bradley County,5025,5.0,25.0,Arkansas,Cleveland County,62,50,AR
+5013,5,13,Arkansas,Calhoun County,5025,5.0,25.0,Arkansas,Cleveland County,6,9,AR
+5025,5,25,Arkansas,Cleveland County,5025,5.0,25.0,Arkansas,Cleveland County,842,159,AR
+5039,5,39,Arkansas,Dallas County,5025,5.0,25.0,Arkansas,Cleveland County,68,71,AR
+5043,5,43,Arkansas,Drew County,5025,5.0,25.0,Arkansas,Cleveland County,15,22,AR
+5045,5,45,Arkansas,Faulkner County,5025,5.0,25.0,Arkansas,Cleveland County,10,16,AR
+5059,5,59,Arkansas,Hot Spring County,5025,5.0,25.0,Arkansas,Cleveland County,15,21,AR
+5069,5,69,Arkansas,Jefferson County,5025,5.0,25.0,Arkansas,Cleveland County,124,113,AR
+5079,5,79,Arkansas,Lincoln County,5025,5.0,25.0,Arkansas,Cleveland County,63,48,AR
+5103,5,103,Arkansas,Ouachita County,5025,5.0,25.0,Arkansas,Cleveland County,11,18,AR
+5139,5,139,Arkansas,Union County,5025,5.0,25.0,Arkansas,Cleveland County,15,22,AR
+5145,5,145,Arkansas,White County,5025,5.0,25.0,Arkansas,Cleveland County,2,4,AR
+5003,5,3,Arkansas,Ashley County,5027,5.0,27.0,Arkansas,Columbia County,7,11,AR
+5025,5,25,Arkansas,Cleveland County,5027,5.0,27.0,Arkansas,Columbia County,5,8,AR
+5027,5,27,Arkansas,Columbia County,5027,5.0,27.0,Arkansas,Columbia County,8386,488,AR
+5039,5,39,Arkansas,Dallas County,5027,5.0,27.0,Arkansas,Columbia County,14,21,AR
+5057,5,57,Arkansas,Hempstead County,5027,5.0,27.0,Arkansas,Columbia County,35,27,AR
+5073,5,73,Arkansas,Lafayette County,5027,5.0,27.0,Arkansas,Columbia County,339,79,AR
+5091,5,91,Arkansas,Miller County,5027,5.0,27.0,Arkansas,Columbia County,68,64,AR
+5099,5,99,Arkansas,Nevada County,5027,5.0,27.0,Arkansas,Columbia County,189,60,AR
+5103,5,103,Arkansas,Ouachita County,5027,5.0,27.0,Arkansas,Columbia County,175,70,AR
+5119,5,119,Arkansas,Pulaski County,5027,5.0,27.0,Arkansas,Columbia County,104,110,AR
+5139,5,139,Arkansas,Union County,5027,5.0,27.0,Arkansas,Columbia County,300,132,AR
+5023,5,23,Arkansas,Cleburne County,5029,5.0,29.0,Arkansas,Conway County,24,24,AR
+5029,5,29,Arkansas,Conway County,5029,5.0,29.0,Arkansas,Conway County,4680,329,AR
+5041,5,41,Arkansas,Desha County,5029,5.0,29.0,Arkansas,Conway County,9,17,AR
+5045,5,45,Arkansas,Faulkner County,5029,5.0,29.0,Arkansas,Conway County,704,208,AR
+5047,5,47,Arkansas,Franklin County,5029,5.0,29.0,Arkansas,Conway County,8,13,AR
+5053,5,53,Arkansas,Grant County,5029,5.0,29.0,Arkansas,Conway County,3,4,AR
+5069,5,69,Arkansas,Jefferson County,5029,5.0,29.0,Arkansas,Conway County,12,19,AR
+5071,5,71,Arkansas,Johnson County,5029,5.0,29.0,Arkansas,Conway County,30,28,AR
+5083,5,83,Arkansas,Logan County,5029,5.0,29.0,Arkansas,Conway County,53,48,AR
+5105,5,105,Arkansas,Perry County,5029,5.0,29.0,Arkansas,Conway County,518,139,AR
+5111,5,111,Arkansas,Poinsett County,5029,5.0,29.0,Arkansas,Conway County,2,4,AR
+5115,5,115,Arkansas,Pope County,5029,5.0,29.0,Arkansas,Conway County,1033,270,AR
+5119,5,119,Arkansas,Pulaski County,5029,5.0,29.0,Arkansas,Conway County,81,62,AR
+5125,5,125,Arkansas,Saline County,5029,5.0,29.0,Arkansas,Conway County,4,8,AR
+5129,5,129,Arkansas,Searcy County,5029,5.0,29.0,Arkansas,Conway County,6,10,AR
+5131,5,131,Arkansas,Sebastian County,5029,5.0,29.0,Arkansas,Conway County,48,76,AR
+5139,5,139,Arkansas,Union County,5029,5.0,29.0,Arkansas,Conway County,5,8,AR
+5141,5,141,Arkansas,Van Buren County,5029,5.0,29.0,Arkansas,Conway County,176,68,AR
+5143,5,143,Arkansas,Washington County,5029,5.0,29.0,Arkansas,Conway County,17,20,AR
+5145,5,145,Arkansas,White County,5029,5.0,29.0,Arkansas,Conway County,15,20,AR
+5149,5,149,Arkansas,Yell County,5029,5.0,29.0,Arkansas,Conway County,113,73,AR
+5003,5,3,Arkansas,Ashley County,5031,5.0,31.0,Arkansas,Craighead County,6,8,AR
+5007,5,7,Arkansas,Benton County,5031,5.0,31.0,Arkansas,Craighead County,14,24,AR
+5015,5,15,Arkansas,Carroll County,5031,5.0,31.0,Arkansas,Craighead County,37,41,AR
+5019,5,19,Arkansas,Clark County,5031,5.0,31.0,Arkansas,Craighead County,1,2,AR
+5021,5,21,Arkansas,Clay County,5031,5.0,31.0,Arkansas,Craighead County,172,78,AR
+5023,5,23,Arkansas,Cleburne County,5031,5.0,31.0,Arkansas,Craighead County,10,16,AR
+5027,5,27,Arkansas,Columbia County,5031,5.0,31.0,Arkansas,Craighead County,13,20,AR
+5031,5,31,Arkansas,Craighead County,5031,5.0,31.0,Arkansas,Craighead County,39557,931,AR
+5035,5,35,Arkansas,Crittenden County,5031,5.0,31.0,Arkansas,Craighead County,106,55,AR
+5037,5,37,Arkansas,Cross County,5031,5.0,31.0,Arkansas,Craighead County,199,78,AR
+5045,5,45,Arkansas,Faulkner County,5031,5.0,31.0,Arkansas,Craighead County,46,40,AR
+5047,5,47,Arkansas,Franklin County,5031,5.0,31.0,Arkansas,Craighead County,6,11,AR
+5049,5,49,Arkansas,Fulton County,5031,5.0,31.0,Arkansas,Craighead County,74,71,AR
+5051,5,51,Arkansas,Garland County,5031,5.0,31.0,Arkansas,Craighead County,12,21,AR
+5053,5,53,Arkansas,Grant County,5031,5.0,31.0,Arkansas,Craighead County,9,15,AR
+5055,5,55,Arkansas,Greene County,5031,5.0,31.0,Arkansas,Craighead County,2994,403,AR
+5059,5,59,Arkansas,Hot Spring County,5031,5.0,31.0,Arkansas,Craighead County,9,15,AR
+5063,5,63,Arkansas,Independence County,5031,5.0,31.0,Arkansas,Craighead County,32,20,AR
+5065,5,65,Arkansas,Izard County,5031,5.0,31.0,Arkansas,Craighead County,4,6,AR
+5067,5,67,Arkansas,Jackson County,5031,5.0,31.0,Arkansas,Craighead County,282,75,AR
+5075,5,75,Arkansas,Lawrence County,5031,5.0,31.0,Arkansas,Craighead County,918,169,AR
+5077,5,77,Arkansas,Lee County,5031,5.0,31.0,Arkansas,Craighead County,17,20,AR
+5091,5,91,Arkansas,Miller County,5031,5.0,31.0,Arkansas,Craighead County,60,55,AR
+5093,5,93,Arkansas,Mississippi County,5031,5.0,31.0,Arkansas,Craighead County,464,146,AR
+5095,5,95,Arkansas,Monroe County,5031,5.0,31.0,Arkansas,Craighead County,7,16,AR
+5107,5,107,Arkansas,Phillips County,5031,5.0,31.0,Arkansas,Craighead County,17,25,AR
+5111,5,111,Arkansas,Poinsett County,5031,5.0,31.0,Arkansas,Craighead County,2617,300,AR
+5119,5,119,Arkansas,Pulaski County,5031,5.0,31.0,Arkansas,Craighead County,122,94,AR
+5121,5,121,Arkansas,Randolph County,5031,5.0,31.0,Arkansas,Craighead County,500,152,AR
+5123,5,123,Arkansas,St. Francis County,5031,5.0,31.0,Arkansas,Craighead County,119,94,AR
+5125,5,125,Arkansas,Saline County,5031,5.0,31.0,Arkansas,Craighead County,47,47,AR
+5129,5,129,Arkansas,Searcy County,5031,5.0,31.0,Arkansas,Craighead County,2,4,AR
+5135,5,135,Arkansas,Sharp County,5031,5.0,31.0,Arkansas,Craighead County,46,29,AR
+5137,5,137,Arkansas,Stone County,5031,5.0,31.0,Arkansas,Craighead County,7,11,AR
+5143,5,143,Arkansas,Washington County,5031,5.0,31.0,Arkansas,Craighead County,8,11,AR
+5145,5,145,Arkansas,White County,5031,5.0,31.0,Arkansas,Craighead County,36,47,AR
+5147,5,147,Arkansas,Woodruff County,5031,5.0,31.0,Arkansas,Craighead County,8,12,AR
+5007,5,7,Arkansas,Benton County,5033,5.0,33.0,Arkansas,Crawford County,85,59,AR
+5027,5,27,Arkansas,Columbia County,5033,5.0,33.0,Arkansas,Crawford County,6,9,AR
+5033,5,33,Arkansas,Crawford County,5033,5.0,33.0,Arkansas,Crawford County,11762,828,AR
+5039,5,39,Arkansas,Dallas County,5033,5.0,33.0,Arkansas,Crawford County,10,13,AR
+5045,5,45,Arkansas,Faulkner County,5033,5.0,33.0,Arkansas,Crawford County,29,43,AR
+5047,5,47,Arkansas,Franklin County,5033,5.0,33.0,Arkansas,Crawford County,293,108,AR
+5071,5,71,Arkansas,Johnson County,5033,5.0,33.0,Arkansas,Crawford County,8,9,AR
+5083,5,83,Arkansas,Logan County,5033,5.0,33.0,Arkansas,Crawford County,86,61,AR
+5085,5,85,Arkansas,Lonoke County,5033,5.0,33.0,Arkansas,Crawford County,19,31,AR
+5113,5,113,Arkansas,Polk County,5033,5.0,33.0,Arkansas,Crawford County,3,6,AR
+5127,5,127,Arkansas,Scott County,5033,5.0,33.0,Arkansas,Crawford County,22,21,AR
+5131,5,131,Arkansas,Sebastian County,5033,5.0,33.0,Arkansas,Crawford County,4056,549,AR
+5143,5,143,Arkansas,Washington County,5033,5.0,33.0,Arkansas,Crawford County,100,50,AR
+5019,5,19,Arkansas,Clark County,5035,5.0,35.0,Arkansas,Crittenden County,10,16,AR
+5031,5,31,Arkansas,Craighead County,5035,5.0,35.0,Arkansas,Crittenden County,164,96,AR
+5035,5,35,Arkansas,Crittenden County,5035,5.0,35.0,Arkansas,Crittenden County,11635,600,AR
+5037,5,37,Arkansas,Cross County,5035,5.0,35.0,Arkansas,Crittenden County,291,98,AR
+5045,5,45,Arkansas,Faulkner County,5035,5.0,35.0,Arkansas,Crittenden County,10,11,AR
+5055,5,55,Arkansas,Greene County,5035,5.0,35.0,Arkansas,Crittenden County,2,4,AR
+5077,5,77,Arkansas,Lee County,5035,5.0,35.0,Arkansas,Crittenden County,29,26,AR
+5093,5,93,Arkansas,Mississippi County,5035,5.0,35.0,Arkansas,Crittenden County,122,71,AR
+5107,5,107,Arkansas,Phillips County,5035,5.0,35.0,Arkansas,Crittenden County,82,82,AR
+5111,5,111,Arkansas,Poinsett County,5035,5.0,35.0,Arkansas,Crittenden County,471,144,AR
+5119,5,119,Arkansas,Pulaski County,5035,5.0,35.0,Arkansas,Crittenden County,42,39,AR
+5123,5,123,Arkansas,St. Francis County,5035,5.0,35.0,Arkansas,Crittenden County,569,131,AR
+5143,5,143,Arkansas,Washington County,5035,5.0,35.0,Arkansas,Crittenden County,15,24,AR
+5145,5,145,Arkansas,White County,5035,5.0,35.0,Arkansas,Crittenden County,5,8,AR
+5149,5,149,Arkansas,Yell County,5035,5.0,35.0,Arkansas,Crittenden County,3,4,AR
+5023,5,23,Arkansas,Cleburne County,5037,5.0,37.0,Arkansas,Cross County,40,68,AR
+5031,5,31,Arkansas,Craighead County,5037,5.0,37.0,Arkansas,Cross County,203,118,AR
+5035,5,35,Arkansas,Crittenden County,5037,5.0,37.0,Arkansas,Cross County,186,89,AR
+5037,5,37,Arkansas,Cross County,5037,5.0,37.0,Arkansas,Cross County,4667,346,AR
+5045,5,45,Arkansas,Faulkner County,5037,5.0,37.0,Arkansas,Cross County,12,23,AR
+5049,5,49,Arkansas,Fulton County,5037,5.0,37.0,Arkansas,Cross County,17,21,AR
+5051,5,51,Arkansas,Garland County,5037,5.0,37.0,Arkansas,Cross County,11,17,AR
+5055,5,55,Arkansas,Greene County,5037,5.0,37.0,Arkansas,Cross County,3,5,AR
+5067,5,67,Arkansas,Jackson County,5037,5.0,37.0,Arkansas,Cross County,12,14,AR
+5075,5,75,Arkansas,Lawrence County,5037,5.0,37.0,Arkansas,Cross County,8,13,AR
+5077,5,77,Arkansas,Lee County,5037,5.0,37.0,Arkansas,Cross County,58,48,AR
+5093,5,93,Arkansas,Mississippi County,5037,5.0,37.0,Arkansas,Cross County,8,11,AR
+5107,5,107,Arkansas,Phillips County,5037,5.0,37.0,Arkansas,Cross County,12,20,AR
+5109,5,109,Arkansas,Pike County,5037,5.0,37.0,Arkansas,Cross County,4,6,AR
+5111,5,111,Arkansas,Poinsett County,5037,5.0,37.0,Arkansas,Cross County,172,109,AR
+5119,5,119,Arkansas,Pulaski County,5037,5.0,37.0,Arkansas,Cross County,40,49,AR
+5123,5,123,Arkansas,St. Francis County,5037,5.0,37.0,Arkansas,Cross County,401,113,AR
+5145,5,145,Arkansas,White County,5037,5.0,37.0,Arkansas,Cross County,94,72,AR
+5147,5,147,Arkansas,Woodruff County,5037,5.0,37.0,Arkansas,Cross County,90,46,AR
+5007,5,7,Arkansas,Benton County,5039,5.0,39.0,Arkansas,Dallas County,16,30,AR
+5011,5,11,Arkansas,Bradley County,5039,5.0,39.0,Arkansas,Dallas County,169,81,AR
+5013,5,13,Arkansas,Calhoun County,5039,5.0,39.0,Arkansas,Dallas County,423,145,AR
+5019,5,19,Arkansas,Clark County,5039,5.0,39.0,Arkansas,Dallas County,40,42,AR
+5025,5,25,Arkansas,Cleveland County,5039,5.0,39.0,Arkansas,Dallas County,372,137,AR
+5039,5,39,Arkansas,Dallas County,5039,5.0,39.0,Arkansas,Dallas County,1751,235,AR
+5043,5,43,Arkansas,Drew County,5039,5.0,39.0,Arkansas,Dallas County,8,14,AR
+5045,5,45,Arkansas,Faulkner County,5039,5.0,39.0,Arkansas,Dallas County,1,3,AR
+5053,5,53,Arkansas,Grant County,5039,5.0,39.0,Arkansas,Dallas County,138,72,AR
+5057,5,57,Arkansas,Hempstead County,5039,5.0,39.0,Arkansas,Dallas County,4,6,AR
+5059,5,59,Arkansas,Hot Spring County,5039,5.0,39.0,Arkansas,Dallas County,24,39,AR
+5065,5,65,Arkansas,Izard County,5039,5.0,39.0,Arkansas,Dallas County,14,24,AR
+5069,5,69,Arkansas,Jefferson County,5039,5.0,39.0,Arkansas,Dallas County,25,19,AR
+5079,5,79,Arkansas,Lincoln County,5039,5.0,39.0,Arkansas,Dallas County,12,18,AR
+5103,5,103,Arkansas,Ouachita County,5039,5.0,39.0,Arkansas,Dallas County,183,109,AR
+5125,5,125,Arkansas,Saline County,5039,5.0,39.0,Arkansas,Dallas County,55,63,AR
+5139,5,139,Arkansas,Union County,5039,5.0,39.0,Arkansas,Dallas County,14,22,AR
+5001,5,1,Arkansas,Arkansas County,5041,5.0,41.0,Arkansas,Desha County,30,19,AR
+5003,5,3,Arkansas,Ashley County,5041,5.0,41.0,Arkansas,Desha County,41,34,AR
+5007,5,7,Arkansas,Benton County,5041,5.0,41.0,Arkansas,Desha County,9,14,AR
+5011,5,11,Arkansas,Bradley County,5041,5.0,41.0,Arkansas,Desha County,11,17,AR
+5013,5,13,Arkansas,Calhoun County,5041,5.0,41.0,Arkansas,Desha County,3,5,AR
+5017,5,17,Arkansas,Chicot County,5041,5.0,41.0,Arkansas,Desha County,375,96,AR
+5025,5,25,Arkansas,Cleveland County,5041,5.0,41.0,Arkansas,Desha County,21,20,AR
+5029,5,29,Arkansas,Conway County,5041,5.0,41.0,Arkansas,Desha County,5,7,AR
+5041,5,41,Arkansas,Desha County,5041,5.0,41.0,Arkansas,Desha County,3292,266,AR
+5043,5,43,Arkansas,Drew County,5041,5.0,41.0,Arkansas,Desha County,653,146,AR
+5069,5,69,Arkansas,Jefferson County,5041,5.0,41.0,Arkansas,Desha County,33,35,AR
+5079,5,79,Arkansas,Lincoln County,5041,5.0,41.0,Arkansas,Desha County,297,84,AR
+5095,5,95,Arkansas,Monroe County,5041,5.0,41.0,Arkansas,Desha County,10,17,AR
+5107,5,107,Arkansas,Phillips County,5041,5.0,41.0,Arkansas,Desha County,4,6,AR
+5119,5,119,Arkansas,Pulaski County,5041,5.0,41.0,Arkansas,Desha County,68,60,AR
+5125,5,125,Arkansas,Saline County,5041,5.0,41.0,Arkansas,Desha County,4,7,AR
+5003,5,3,Arkansas,Ashley County,5043,5.0,43.0,Arkansas,Drew County,267,99,AR
+5011,5,11,Arkansas,Bradley County,5043,5.0,43.0,Arkansas,Drew County,425,117,AR
+5017,5,17,Arkansas,Chicot County,5043,5.0,43.0,Arkansas,Drew County,101,53,AR
+5025,5,25,Arkansas,Cleveland County,5043,5.0,43.0,Arkansas,Drew County,81,44,AR
+5039,5,39,Arkansas,Dallas County,5043,5.0,43.0,Arkansas,Drew County,27,31,AR
+5041,5,41,Arkansas,Desha County,5043,5.0,43.0,Arkansas,Drew County,151,76,AR
+5043,5,43,Arkansas,Drew County,5043,5.0,43.0,Arkansas,Drew County,4949,441,AR
+5069,5,69,Arkansas,Jefferson County,5043,5.0,43.0,Arkansas,Drew County,10,16,AR
+5079,5,79,Arkansas,Lincoln County,5043,5.0,43.0,Arkansas,Drew County,256,81,AR
+5103,5,103,Arkansas,Ouachita County,5043,5.0,43.0,Arkansas,Drew County,12,14,AR
+5119,5,119,Arkansas,Pulaski County,5043,5.0,43.0,Arkansas,Drew County,32,42,AR
+5139,5,139,Arkansas,Union County,5043,5.0,43.0,Arkansas,Drew County,6,14,AR
+5143,5,143,Arkansas,Washington County,5043,5.0,43.0,Arkansas,Drew County,8,14,AR
+5007,5,7,Arkansas,Benton County,5045,5.0,45.0,Arkansas,Faulkner County,10,12,AR
+5009,5,9,Arkansas,Boone County,5045,5.0,45.0,Arkansas,Faulkner County,88,90,AR
+5015,5,15,Arkansas,Carroll County,5045,5.0,45.0,Arkansas,Faulkner County,4,6,AR
+5019,5,19,Arkansas,Clark County,5045,5.0,45.0,Arkansas,Faulkner County,10,18,AR
+5023,5,23,Arkansas,Cleburne County,5045,5.0,45.0,Arkansas,Faulkner County,403,120,AR
+5027,5,27,Arkansas,Columbia County,5045,5.0,45.0,Arkansas,Faulkner County,11,15,AR
+5029,5,29,Arkansas,Conway County,5045,5.0,45.0,Arkansas,Faulkner County,1482,196,AR
+5031,5,31,Arkansas,Craighead County,5045,5.0,45.0,Arkansas,Faulkner County,23,38,AR
+5033,5,33,Arkansas,Crawford County,5045,5.0,45.0,Arkansas,Faulkner County,4,7,AR
+5039,5,39,Arkansas,Dallas County,5045,5.0,45.0,Arkansas,Faulkner County,11,15,AR
+5045,5,45,Arkansas,Faulkner County,5045,5.0,45.0,Arkansas,Faulkner County,38558,1162,AR
+5047,5,47,Arkansas,Franklin County,5045,5.0,45.0,Arkansas,Faulkner County,53,59,AR
+5057,5,57,Arkansas,Hempstead County,5045,5.0,45.0,Arkansas,Faulkner County,12,19,AR
+5063,5,63,Arkansas,Independence County,5045,5.0,45.0,Arkansas,Faulkner County,23,29,AR
+5067,5,67,Arkansas,Jackson County,5045,5.0,45.0,Arkansas,Faulkner County,5,10,AR
+5069,5,69,Arkansas,Jefferson County,5045,5.0,45.0,Arkansas,Faulkner County,30,34,AR
+5071,5,71,Arkansas,Johnson County,5045,5.0,45.0,Arkansas,Faulkner County,54,46,AR
+5083,5,83,Arkansas,Logan County,5045,5.0,45.0,Arkansas,Faulkner County,36,32,AR
+5085,5,85,Arkansas,Lonoke County,5045,5.0,45.0,Arkansas,Faulkner County,352,139,AR
+5095,5,95,Arkansas,Monroe County,5045,5.0,45.0,Arkansas,Faulkner County,16,16,AR
+5099,5,99,Arkansas,Nevada County,5045,5.0,45.0,Arkansas,Faulkner County,6,10,AR
+5105,5,105,Arkansas,Perry County,5045,5.0,45.0,Arkansas,Faulkner County,709,182,AR
+5111,5,111,Arkansas,Poinsett County,5045,5.0,45.0,Arkansas,Faulkner County,12,16,AR
+5113,5,113,Arkansas,Polk County,5045,5.0,45.0,Arkansas,Faulkner County,34,50,AR
+5115,5,115,Arkansas,Pope County,5045,5.0,45.0,Arkansas,Faulkner County,481,162,AR
+5117,5,117,Arkansas,Prairie County,5045,5.0,45.0,Arkansas,Faulkner County,3,4,AR
+5119,5,119,Arkansas,Pulaski County,5045,5.0,45.0,Arkansas,Faulkner County,2462,421,AR
+5125,5,125,Arkansas,Saline County,5045,5.0,45.0,Arkansas,Faulkner County,250,147,AR
+5127,5,127,Arkansas,Scott County,5045,5.0,45.0,Arkansas,Faulkner County,13,23,AR
+5129,5,129,Arkansas,Searcy County,5045,5.0,45.0,Arkansas,Faulkner County,27,22,AR
+5141,5,141,Arkansas,Van Buren County,5045,5.0,45.0,Arkansas,Faulkner County,758,153,AR
+5145,5,145,Arkansas,White County,5045,5.0,45.0,Arkansas,Faulkner County,490,132,AR
+5147,5,147,Arkansas,Woodruff County,5045,5.0,45.0,Arkansas,Faulkner County,32,44,AR
+5149,5,149,Arkansas,Yell County,5045,5.0,45.0,Arkansas,Faulkner County,106,96,AR
+5007,5,7,Arkansas,Benton County,5047,5.0,47.0,Arkansas,Franklin County,14,22,AR
+5033,5,33,Arkansas,Crawford County,5047,5.0,47.0,Arkansas,Franklin County,308,142,AR
+5047,5,47,Arkansas,Franklin County,5047,5.0,47.0,Arkansas,Franklin County,3474,393,AR
+5053,5,53,Arkansas,Grant County,5047,5.0,47.0,Arkansas,Franklin County,24,40,AR
+5071,5,71,Arkansas,Johnson County,5047,5.0,47.0,Arkansas,Franklin County,404,152,AR
+5083,5,83,Arkansas,Logan County,5047,5.0,47.0,Arkansas,Franklin County,391,102,AR
+5085,5,85,Arkansas,Lonoke County,5047,5.0,47.0,Arkansas,Franklin County,8,13,AR
+5115,5,115,Arkansas,Pope County,5047,5.0,47.0,Arkansas,Franklin County,50,37,AR
+5123,5,123,Arkansas,St. Francis County,5047,5.0,47.0,Arkansas,Franklin County,1,3,AR
+5127,5,127,Arkansas,Scott County,5047,5.0,47.0,Arkansas,Franklin County,19,21,AR
+5131,5,131,Arkansas,Sebastian County,5047,5.0,47.0,Arkansas,Franklin County,290,122,AR
+5143,5,143,Arkansas,Washington County,5047,5.0,47.0,Arkansas,Franklin County,17,18,AR
+5149,5,149,Arkansas,Yell County,5047,5.0,47.0,Arkansas,Franklin County,28,28,AR
+5005,5,5,Arkansas,Baxter County,5049,5.0,49.0,Arkansas,Fulton County,152,121,AR
+5009,5,9,Arkansas,Boone County,5049,5.0,49.0,Arkansas,Fulton County,30,47,AR
+5023,5,23,Arkansas,Cleburne County,5049,5.0,49.0,Arkansas,Fulton County,2,4,AR
+5049,5,49,Arkansas,Fulton County,5049,5.0,49.0,Arkansas,Fulton County,2331,277,AR
+5063,5,63,Arkansas,Independence County,5049,5.0,49.0,Arkansas,Fulton County,15,17,AR
+5065,5,65,Arkansas,Izard County,5049,5.0,49.0,Arkansas,Fulton County,100,53,AR
+5097,5,97,Arkansas,Montgomery County,5049,5.0,49.0,Arkansas,Fulton County,26,28,AR
+5099,5,99,Arkansas,Nevada County,5049,5.0,49.0,Arkansas,Fulton County,1,3,AR
+5109,5,109,Arkansas,Pike County,5049,5.0,49.0,Arkansas,Fulton County,6,9,AR
+5115,5,115,Arkansas,Pope County,5049,5.0,49.0,Arkansas,Fulton County,5,8,AR
+5121,5,121,Arkansas,Randolph County,5049,5.0,49.0,Arkansas,Fulton County,10,14,AR
+5135,5,135,Arkansas,Sharp County,5049,5.0,49.0,Arkansas,Fulton County,174,102,AR
+5001,5,1,Arkansas,Arkansas County,5051,5.0,51.0,Arkansas,Garland County,8,12,AR
+5005,5,5,Arkansas,Baxter County,5051,5.0,51.0,Arkansas,Garland County,2,3,AR
+5007,5,7,Arkansas,Benton County,5051,5.0,51.0,Arkansas,Garland County,20,22,AR
+5013,5,13,Arkansas,Calhoun County,5051,5.0,51.0,Arkansas,Garland County,9,14,AR
+5019,5,19,Arkansas,Clark County,5051,5.0,51.0,Arkansas,Garland County,474,118,AR
+5023,5,23,Arkansas,Cleburne County,5051,5.0,51.0,Arkansas,Garland County,36,44,AR
+5025,5,25,Arkansas,Cleveland County,5051,5.0,51.0,Arkansas,Garland County,3,5,AR
+5029,5,29,Arkansas,Conway County,5051,5.0,51.0,Arkansas,Garland County,12,16,AR
+5033,5,33,Arkansas,Crawford County,5051,5.0,51.0,Arkansas,Garland County,28,47,AR
+5039,5,39,Arkansas,Dallas County,5051,5.0,51.0,Arkansas,Garland County,5,7,AR
+5045,5,45,Arkansas,Faulkner County,5051,5.0,51.0,Arkansas,Garland County,27,33,AR
+5047,5,47,Arkansas,Franklin County,5051,5.0,51.0,Arkansas,Garland County,3,6,AR
+5051,5,51,Arkansas,Garland County,5051,5.0,51.0,Arkansas,Garland County,33527,1115,AR
+5053,5,53,Arkansas,Grant County,5051,5.0,51.0,Arkansas,Garland County,59,39,AR
+5059,5,59,Arkansas,Hot Spring County,5051,5.0,51.0,Arkansas,Garland County,2607,382,AR
+5061,5,61,Arkansas,Howard County,5051,5.0,51.0,Arkansas,Garland County,11,17,AR
+5069,5,69,Arkansas,Jefferson County,5051,5.0,51.0,Arkansas,Garland County,21,19,AR
+5071,5,71,Arkansas,Johnson County,5051,5.0,51.0,Arkansas,Garland County,2,4,AR
+5083,5,83,Arkansas,Logan County,5051,5.0,51.0,Arkansas,Garland County,20,25,AR
+5097,5,97,Arkansas,Montgomery County,5051,5.0,51.0,Arkansas,Garland County,637,136,AR
+5105,5,105,Arkansas,Perry County,5051,5.0,51.0,Arkansas,Garland County,70,63,AR
+5109,5,109,Arkansas,Pike County,5051,5.0,51.0,Arkansas,Garland County,397,124,AR
+5113,5,113,Arkansas,Polk County,5051,5.0,51.0,Arkansas,Garland County,24,38,AR
+5115,5,115,Arkansas,Pope County,5051,5.0,51.0,Arkansas,Garland County,47,51,AR
+5119,5,119,Arkansas,Pulaski County,5051,5.0,51.0,Arkansas,Garland County,368,158,AR
+5125,5,125,Arkansas,Saline County,5051,5.0,51.0,Arkansas,Garland County,1075,252,AR
+5127,5,127,Arkansas,Scott County,5051,5.0,51.0,Arkansas,Garland County,9,14,AR
+5133,5,133,Arkansas,Sevier County,5051,5.0,51.0,Arkansas,Garland County,15,23,AR
+5143,5,143,Arkansas,Washington County,5051,5.0,51.0,Arkansas,Garland County,20,24,AR
+5145,5,145,Arkansas,White County,5051,5.0,51.0,Arkansas,Garland County,36,58,AR
+5149,5,149,Arkansas,Yell County,5051,5.0,51.0,Arkansas,Garland County,53,61,AR
+5011,5,11,Arkansas,Bradley County,5053,5.0,53.0,Arkansas,Grant County,24,28,AR
+5013,5,13,Arkansas,Calhoun County,5053,5.0,53.0,Arkansas,Grant County,3,5,AR
+5019,5,19,Arkansas,Clark County,5053,5.0,53.0,Arkansas,Grant County,44,40,AR
+5025,5,25,Arkansas,Cleveland County,5053,5.0,53.0,Arkansas,Grant County,36,37,AR
+5039,5,39,Arkansas,Dallas County,5053,5.0,53.0,Arkansas,Grant County,182,55,AR
+5051,5,51,Arkansas,Garland County,5053,5.0,53.0,Arkansas,Grant County,22,25,AR
+5053,5,53,Arkansas,Grant County,5053,5.0,53.0,Arkansas,Grant County,3002,330,AR
+5059,5,59,Arkansas,Hot Spring County,5053,5.0,53.0,Arkansas,Grant County,186,101,AR
+5063,5,63,Arkansas,Independence County,5053,5.0,53.0,Arkansas,Grant County,4,7,AR
+5069,5,69,Arkansas,Jefferson County,5053,5.0,53.0,Arkansas,Grant County,348,138,AR
+5097,5,97,Arkansas,Montgomery County,5053,5.0,53.0,Arkansas,Grant County,6,9,AR
+5103,5,103,Arkansas,Ouachita County,5053,5.0,53.0,Arkansas,Grant County,10,16,AR
+5119,5,119,Arkansas,Pulaski County,5053,5.0,53.0,Arkansas,Grant County,63,46,AR
+5125,5,125,Arkansas,Saline County,5053,5.0,53.0,Arkansas,Grant County,140,78,AR
+5021,5,21,Arkansas,Clay County,5055,5.0,55.0,Arkansas,Greene County,1096,166,AR
+5031,5,31,Arkansas,Craighead County,5055,5.0,55.0,Arkansas,Greene County,1315,361,AR
+5033,5,33,Arkansas,Crawford County,5055,5.0,55.0,Arkansas,Greene County,15,22,AR
+5035,5,35,Arkansas,Crittenden County,5055,5.0,55.0,Arkansas,Greene County,14,23,AR
+5037,5,37,Arkansas,Cross County,5055,5.0,55.0,Arkansas,Greene County,10,13,AR
+5041,5,41,Arkansas,Desha County,5055,5.0,55.0,Arkansas,Greene County,5,7,AR
+5049,5,49,Arkansas,Fulton County,5055,5.0,55.0,Arkansas,Greene County,108,98,AR
+5055,5,55,Arkansas,Greene County,5055,5.0,55.0,Arkansas,Greene County,12786,689,AR
+5063,5,63,Arkansas,Independence County,5055,5.0,55.0,Arkansas,Greene County,2,3,AR
+5065,5,65,Arkansas,Izard County,5055,5.0,55.0,Arkansas,Greene County,5,8,AR
+5067,5,67,Arkansas,Jackson County,5055,5.0,55.0,Arkansas,Greene County,2,4,AR
+5069,5,69,Arkansas,Jefferson County,5055,5.0,55.0,Arkansas,Greene County,15,25,AR
+5075,5,75,Arkansas,Lawrence County,5055,5.0,55.0,Arkansas,Greene County,152,81,AR
+5093,5,93,Arkansas,Mississippi County,5055,5.0,55.0,Arkansas,Greene County,145,90,AR
+5111,5,111,Arkansas,Poinsett County,5055,5.0,55.0,Arkansas,Greene County,60,43,AR
+5119,5,119,Arkansas,Pulaski County,5055,5.0,55.0,Arkansas,Greene County,5,16,AR
+5121,5,121,Arkansas,Randolph County,5055,5.0,55.0,Arkansas,Greene County,143,57,AR
+5123,5,123,Arkansas,St. Francis County,5055,5.0,55.0,Arkansas,Greene County,20,32,AR
+5135,5,135,Arkansas,Sharp County,5055,5.0,55.0,Arkansas,Greene County,41,37,AR
+5137,5,137,Arkansas,Stone County,5055,5.0,55.0,Arkansas,Greene County,14,23,AR
+5143,5,143,Arkansas,Washington County,5055,5.0,55.0,Arkansas,Greene County,10,14,AR
+5145,5,145,Arkansas,White County,5055,5.0,55.0,Arkansas,Greene County,3,4,AR
+5019,5,19,Arkansas,Clark County,5057,5.0,57.0,Arkansas,Hempstead County,157,88,AR
+5027,5,27,Arkansas,Columbia County,5057,5.0,57.0,Arkansas,Hempstead County,89,88,AR
+5041,5,41,Arkansas,Desha County,5057,5.0,57.0,Arkansas,Hempstead County,5,8,AR
+5051,5,51,Arkansas,Garland County,5057,5.0,57.0,Arkansas,Hempstead County,57,58,AR
+5057,5,57,Arkansas,Hempstead County,5057,5.0,57.0,Arkansas,Hempstead County,6487,455,AR
+5059,5,59,Arkansas,Hot Spring County,5057,5.0,57.0,Arkansas,Hempstead County,21,18,AR
+5061,5,61,Arkansas,Howard County,5057,5.0,57.0,Arkansas,Hempstead County,244,75,AR
+5073,5,73,Arkansas,Lafayette County,5057,5.0,57.0,Arkansas,Hempstead County,179,61,AR
+5081,5,81,Arkansas,Little River County,5057,5.0,57.0,Arkansas,Hempstead County,45,44,AR
+5085,5,85,Arkansas,Lonoke County,5057,5.0,57.0,Arkansas,Hempstead County,11,16,AR
+5091,5,91,Arkansas,Miller County,5057,5.0,57.0,Arkansas,Hempstead County,219,92,AR
+5099,5,99,Arkansas,Nevada County,5057,5.0,57.0,Arkansas,Hempstead County,865,223,AR
+5103,5,103,Arkansas,Ouachita County,5057,5.0,57.0,Arkansas,Hempstead County,83,67,AR
+5109,5,109,Arkansas,Pike County,5057,5.0,57.0,Arkansas,Hempstead County,122,64,AR
+5133,5,133,Arkansas,Sevier County,5057,5.0,57.0,Arkansas,Hempstead County,101,55,AR
+5143,5,143,Arkansas,Washington County,5057,5.0,57.0,Arkansas,Hempstead County,45,61,AR
+5013,5,13,Arkansas,Calhoun County,5059,5.0,59.0,Arkansas,Hot Spring County,1,4,AR
+5019,5,19,Arkansas,Clark County,5059,5.0,59.0,Arkansas,Hot Spring County,385,126,AR
+5025,5,25,Arkansas,Cleveland County,5059,5.0,59.0,Arkansas,Hot Spring County,4,6,AR
+5029,5,29,Arkansas,Conway County,5059,5.0,59.0,Arkansas,Hot Spring County,6,9,AR
+5033,5,33,Arkansas,Crawford County,5059,5.0,59.0,Arkansas,Hot Spring County,16,27,AR
+5039,5,39,Arkansas,Dallas County,5059,5.0,59.0,Arkansas,Hot Spring County,127,68,AR
+5051,5,51,Arkansas,Garland County,5059,5.0,59.0,Arkansas,Hot Spring County,1029,265,AR
+5053,5,53,Arkansas,Grant County,5059,5.0,59.0,Arkansas,Hot Spring County,295,100,AR
+5059,5,59,Arkansas,Hot Spring County,5059,5.0,59.0,Arkansas,Hot Spring County,6982,579,AR
+5061,5,61,Arkansas,Howard County,5059,5.0,59.0,Arkansas,Hot Spring County,8,13,AR
+5069,5,69,Arkansas,Jefferson County,5059,5.0,59.0,Arkansas,Hot Spring County,62,45,AR
+5071,5,71,Arkansas,Johnson County,5059,5.0,59.0,Arkansas,Hot Spring County,12,17,AR
+5085,5,85,Arkansas,Lonoke County,5059,5.0,59.0,Arkansas,Hot Spring County,8,12,AR
+5097,5,97,Arkansas,Montgomery County,5059,5.0,59.0,Arkansas,Hot Spring County,9,12,AR
+5099,5,99,Arkansas,Nevada County,5059,5.0,59.0,Arkansas,Hot Spring County,23,34,AR
+5103,5,103,Arkansas,Ouachita County,5059,5.0,59.0,Arkansas,Hot Spring County,26,36,AR
+5109,5,109,Arkansas,Pike County,5059,5.0,59.0,Arkansas,Hot Spring County,63,49,AR
+5119,5,119,Arkansas,Pulaski County,5059,5.0,59.0,Arkansas,Hot Spring County,125,86,AR
+5125,5,125,Arkansas,Saline County,5059,5.0,59.0,Arkansas,Hot Spring County,443,136,AR
+5145,5,145,Arkansas,White County,5059,5.0,59.0,Arkansas,Hot Spring County,23,36,AR
+5019,5,19,Arkansas,Clark County,5061,5.0,61.0,Arkansas,Howard County,36,55,AR
+5057,5,57,Arkansas,Hempstead County,5061,5.0,61.0,Arkansas,Howard County,987,272,AR
+5059,5,59,Arkansas,Hot Spring County,5061,5.0,61.0,Arkansas,Howard County,2,5,AR
+5061,5,61,Arkansas,Howard County,5061,5.0,61.0,Arkansas,Howard County,4374,272,AR
+5073,5,73,Arkansas,Lafayette County,5061,5.0,61.0,Arkansas,Howard County,10,12,AR
+5081,5,81,Arkansas,Little River County,5061,5.0,61.0,Arkansas,Howard County,198,126,AR
+5091,5,91,Arkansas,Miller County,5061,5.0,61.0,Arkansas,Howard County,90,49,AR
+5097,5,97,Arkansas,Montgomery County,5061,5.0,61.0,Arkansas,Howard County,16,12,AR
+5099,5,99,Arkansas,Nevada County,5061,5.0,61.0,Arkansas,Howard County,57,41,AR
+5109,5,109,Arkansas,Pike County,5061,5.0,61.0,Arkansas,Howard County,619,120,AR
+5113,5,113,Arkansas,Polk County,5061,5.0,61.0,Arkansas,Howard County,31,28,AR
+5133,5,133,Arkansas,Sevier County,5061,5.0,61.0,Arkansas,Howard County,777,221,AR
+5143,5,143,Arkansas,Washington County,5061,5.0,61.0,Arkansas,Howard County,41,61,AR
+5009,5,9,Arkansas,Boone County,5063,5.0,63.0,Arkansas,Independence County,2,4,AR
+5019,5,19,Arkansas,Clark County,5063,5.0,63.0,Arkansas,Independence County,3,4,AR
+5023,5,23,Arkansas,Cleburne County,5063,5.0,63.0,Arkansas,Independence County,397,169,AR
+5031,5,31,Arkansas,Craighead County,5063,5.0,63.0,Arkansas,Independence County,29,35,AR
+5037,5,37,Arkansas,Cross County,5063,5.0,63.0,Arkansas,Independence County,3,7,AR
+5045,5,45,Arkansas,Faulkner County,5063,5.0,63.0,Arkansas,Independence County,46,66,AR
+5049,5,49,Arkansas,Fulton County,5063,5.0,63.0,Arkansas,Independence County,52,43,AR
+5053,5,53,Arkansas,Grant County,5063,5.0,63.0,Arkansas,Independence County,3,5,AR
+5063,5,63,Arkansas,Independence County,5063,5.0,63.0,Arkansas,Independence County,12752,579,AR
+5065,5,65,Arkansas,Izard County,5063,5.0,63.0,Arkansas,Independence County,618,140,AR
+5067,5,67,Arkansas,Jackson County,5063,5.0,63.0,Arkansas,Independence County,380,121,AR
+5075,5,75,Arkansas,Lawrence County,5063,5.0,63.0,Arkansas,Independence County,155,49,AR
+5085,5,85,Arkansas,Lonoke County,5063,5.0,63.0,Arkansas,Independence County,47,43,AR
+5099,5,99,Arkansas,Nevada County,5063,5.0,63.0,Arkansas,Independence County,7,11,AR
+5101,5,101,Arkansas,Newton County,5063,5.0,63.0,Arkansas,Independence County,12,18,AR
+5111,5,111,Arkansas,Poinsett County,5063,5.0,63.0,Arkansas,Independence County,22,30,AR
+5113,5,113,Arkansas,Polk County,5063,5.0,63.0,Arkansas,Independence County,19,31,AR
+5115,5,115,Arkansas,Pope County,5063,5.0,63.0,Arkansas,Independence County,5,8,AR
+5119,5,119,Arkansas,Pulaski County,5063,5.0,63.0,Arkansas,Independence County,27,32,AR
+5121,5,121,Arkansas,Randolph County,5063,5.0,63.0,Arkansas,Independence County,97,114,AR
+5123,5,123,Arkansas,St. Francis County,5063,5.0,63.0,Arkansas,Independence County,20,30,AR
+5129,5,129,Arkansas,Searcy County,5063,5.0,63.0,Arkansas,Independence County,4,9,AR
+5135,5,135,Arkansas,Sharp County,5063,5.0,63.0,Arkansas,Independence County,1410,188,AR
+5137,5,137,Arkansas,Stone County,5063,5.0,63.0,Arkansas,Independence County,104,51,AR
+5143,5,143,Arkansas,Washington County,5063,5.0,63.0,Arkansas,Independence County,14,24,AR
+5145,5,145,Arkansas,White County,5063,5.0,63.0,Arkansas,Independence County,378,133,AR
+5147,5,147,Arkansas,Woodruff County,5063,5.0,63.0,Arkansas,Independence County,21,25,AR
+5005,5,5,Arkansas,Baxter County,5065,5.0,65.0,Arkansas,Izard County,267,148,AR
+5023,5,23,Arkansas,Cleburne County,5065,5.0,65.0,Arkansas,Izard County,36,44,AR
+5033,5,33,Arkansas,Crawford County,5065,5.0,65.0,Arkansas,Izard County,23,34,AR
+5049,5,49,Arkansas,Fulton County,5065,5.0,65.0,Arkansas,Izard County,231,92,AR
+5053,5,53,Arkansas,Grant County,5065,5.0,65.0,Arkansas,Izard County,11,18,AR
+5063,5,63,Arkansas,Independence County,5065,5.0,65.0,Arkansas,Izard County,139,74,AR
+5065,5,65,Arkansas,Izard County,5065,5.0,65.0,Arkansas,Izard County,2907,304,AR
+5075,5,75,Arkansas,Lawrence County,5065,5.0,65.0,Arkansas,Izard County,41,42,AR
+5089,5,89,Arkansas,Marion County,5065,5.0,65.0,Arkansas,Izard County,11,14,AR
+5135,5,135,Arkansas,Sharp County,5065,5.0,65.0,Arkansas,Izard County,231,102,AR
+5137,5,137,Arkansas,Stone County,5065,5.0,65.0,Arkansas,Izard County,162,95,AR
+5023,5,23,Arkansas,Cleburne County,5067,5.0,67.0,Arkansas,Jackson County,7,10,AR
+5031,5,31,Arkansas,Craighead County,5067,5.0,67.0,Arkansas,Jackson County,165,77,AR
+5037,5,37,Arkansas,Cross County,5067,5.0,67.0,Arkansas,Jackson County,41,27,AR
+5051,5,51,Arkansas,Garland County,5067,5.0,67.0,Arkansas,Jackson County,14,22,AR
+5055,5,55,Arkansas,Greene County,5067,5.0,67.0,Arkansas,Jackson County,23,26,AR
+5063,5,63,Arkansas,Independence County,5067,5.0,67.0,Arkansas,Jackson County,669,194,AR
+5065,5,65,Arkansas,Izard County,5067,5.0,67.0,Arkansas,Jackson County,4,6,AR
+5067,5,67,Arkansas,Jackson County,5067,5.0,67.0,Arkansas,Jackson County,3983,354,AR
+5075,5,75,Arkansas,Lawrence County,5067,5.0,67.0,Arkansas,Jackson County,83,42,AR
+5111,5,111,Arkansas,Poinsett County,5067,5.0,67.0,Arkansas,Jackson County,60,39,AR
+5119,5,119,Arkansas,Pulaski County,5067,5.0,67.0,Arkansas,Jackson County,5,12,AR
+5121,5,121,Arkansas,Randolph County,5067,5.0,67.0,Arkansas,Jackson County,11,16,AR
+5135,5,135,Arkansas,Sharp County,5067,5.0,67.0,Arkansas,Jackson County,15,18,AR
+5141,5,141,Arkansas,Van Buren County,5067,5.0,67.0,Arkansas,Jackson County,3,6,AR
+5145,5,145,Arkansas,White County,5067,5.0,67.0,Arkansas,Jackson County,324,140,AR
+5147,5,147,Arkansas,Woodruff County,5067,5.0,67.0,Arkansas,Jackson County,113,45,AR
+5001,5,1,Arkansas,Arkansas County,5069,5.0,69.0,Arkansas,Jefferson County,168,63,AR
+5003,5,3,Arkansas,Ashley County,5069,5.0,69.0,Arkansas,Jefferson County,2,4,AR
+5007,5,7,Arkansas,Benton County,5069,5.0,69.0,Arkansas,Jefferson County,17,25,AR
+5011,5,11,Arkansas,Bradley County,5069,5.0,69.0,Arkansas,Jefferson County,112,56,AR
+5013,5,13,Arkansas,Calhoun County,5069,5.0,69.0,Arkansas,Jefferson County,36,33,AR
+5017,5,17,Arkansas,Chicot County,5069,5.0,69.0,Arkansas,Jefferson County,8,12,AR
+5019,5,19,Arkansas,Clark County,5069,5.0,69.0,Arkansas,Jefferson County,13,20,AR
+5023,5,23,Arkansas,Cleburne County,5069,5.0,69.0,Arkansas,Jefferson County,30,42,AR
+5025,5,25,Arkansas,Cleveland County,5069,5.0,69.0,Arkansas,Jefferson County,1263,141,AR
+5039,5,39,Arkansas,Dallas County,5069,5.0,69.0,Arkansas,Jefferson County,88,68,AR
+5041,5,41,Arkansas,Desha County,5069,5.0,69.0,Arkansas,Jefferson County,181,93,AR
+5043,5,43,Arkansas,Drew County,5069,5.0,69.0,Arkansas,Jefferson County,225,96,AR
+5045,5,45,Arkansas,Faulkner County,5069,5.0,69.0,Arkansas,Jefferson County,61,39,AR
+5047,5,47,Arkansas,Franklin County,5069,5.0,69.0,Arkansas,Jefferson County,7,12,AR
+5049,5,49,Arkansas,Fulton County,5069,5.0,69.0,Arkansas,Jefferson County,7,11,AR
+5051,5,51,Arkansas,Garland County,5069,5.0,69.0,Arkansas,Jefferson County,81,60,AR
+5053,5,53,Arkansas,Grant County,5069,5.0,69.0,Arkansas,Jefferson County,1117,186,AR
+5059,5,59,Arkansas,Hot Spring County,5069,5.0,69.0,Arkansas,Jefferson County,88,66,AR
+5063,5,63,Arkansas,Independence County,5069,5.0,69.0,Arkansas,Jefferson County,3,6,AR
+5069,5,69,Arkansas,Jefferson County,5069,5.0,69.0,Arkansas,Jefferson County,23023,841,AR
+5079,5,79,Arkansas,Lincoln County,5069,5.0,69.0,Arkansas,Jefferson County,890,145,AR
+5085,5,85,Arkansas,Lonoke County,5069,5.0,69.0,Arkansas,Jefferson County,222,100,AR
+5087,5,87,Arkansas,Madison County,5069,5.0,69.0,Arkansas,Jefferson County,15,25,AR
+5093,5,93,Arkansas,Mississippi County,5069,5.0,69.0,Arkansas,Jefferson County,26,31,AR
+5095,5,95,Arkansas,Monroe County,5069,5.0,69.0,Arkansas,Jefferson County,12,18,AR
+5097,5,97,Arkansas,Montgomery County,5069,5.0,69.0,Arkansas,Jefferson County,4,10,AR
+5103,5,103,Arkansas,Ouachita County,5069,5.0,69.0,Arkansas,Jefferson County,44,53,AR
+5115,5,115,Arkansas,Pope County,5069,5.0,69.0,Arkansas,Jefferson County,29,31,AR
+5117,5,117,Arkansas,Prairie County,5069,5.0,69.0,Arkansas,Jefferson County,12,11,AR
+5119,5,119,Arkansas,Pulaski County,5069,5.0,69.0,Arkansas,Jefferson County,1410,365,AR
+5123,5,123,Arkansas,St. Francis County,5069,5.0,69.0,Arkansas,Jefferson County,4,11,AR
+5125,5,125,Arkansas,Saline County,5069,5.0,69.0,Arkansas,Jefferson County,396,138,AR
+5139,5,139,Arkansas,Union County,5069,5.0,69.0,Arkansas,Jefferson County,39,56,AR
+5145,5,145,Arkansas,White County,5069,5.0,69.0,Arkansas,Jefferson County,14,30,AR
+5007,5,7,Arkansas,Benton County,5071,5.0,71.0,Arkansas,Johnson County,49,74,AR
+5023,5,23,Arkansas,Cleburne County,5071,5.0,71.0,Arkansas,Johnson County,4,8,AR
+5029,5,29,Arkansas,Conway County,5071,5.0,71.0,Arkansas,Johnson County,8,12,AR
+5033,5,33,Arkansas,Crawford County,5071,5.0,71.0,Arkansas,Johnson County,55,54,AR
+5045,5,45,Arkansas,Faulkner County,5071,5.0,71.0,Arkansas,Johnson County,12,20,AR
+5047,5,47,Arkansas,Franklin County,5071,5.0,71.0,Arkansas,Johnson County,377,129,AR
+5071,5,71,Arkansas,Johnson County,5071,5.0,71.0,Arkansas,Johnson County,8144,407,AR
+5075,5,75,Arkansas,Lawrence County,5071,5.0,71.0,Arkansas,Johnson County,10,12,AR
+5083,5,83,Arkansas,Logan County,5071,5.0,71.0,Arkansas,Johnson County,505,135,AR
+5101,5,101,Arkansas,Newton County,5071,5.0,71.0,Arkansas,Johnson County,42,25,AR
+5115,5,115,Arkansas,Pope County,5071,5.0,71.0,Arkansas,Johnson County,746,189,AR
+5125,5,125,Arkansas,Saline County,5071,5.0,71.0,Arkansas,Johnson County,72,95,AR
+5131,5,131,Arkansas,Sebastian County,5071,5.0,71.0,Arkansas,Johnson County,94,95,AR
+5137,5,137,Arkansas,Stone County,5071,5.0,71.0,Arkansas,Johnson County,8,13,AR
+5149,5,149,Arkansas,Yell County,5071,5.0,71.0,Arkansas,Johnson County,106,75,AR
+5027,5,27,Arkansas,Columbia County,5073,5.0,73.0,Arkansas,Lafayette County,212,88,AR
+5057,5,57,Arkansas,Hempstead County,5073,5.0,73.0,Arkansas,Lafayette County,25,24,AR
+5073,5,73,Arkansas,Lafayette County,5073,5.0,73.0,Arkansas,Lafayette County,1346,186,AR
+5091,5,91,Arkansas,Miller County,5073,5.0,73.0,Arkansas,Lafayette County,49,36,AR
+5099,5,99,Arkansas,Nevada County,5073,5.0,73.0,Arkansas,Lafayette County,16,25,AR
+5131,5,131,Arkansas,Sebastian County,5073,5.0,73.0,Arkansas,Lafayette County,11,18,AR
+5021,5,21,Arkansas,Clay County,5075,5.0,75.0,Arkansas,Lawrence County,74,47,AR
+5031,5,31,Arkansas,Craighead County,5075,5.0,75.0,Arkansas,Lawrence County,143,62,AR
+5045,5,45,Arkansas,Faulkner County,5075,5.0,75.0,Arkansas,Lawrence County,2,4,AR
+5049,5,49,Arkansas,Fulton County,5075,5.0,75.0,Arkansas,Lawrence County,6,10,AR
+5055,5,55,Arkansas,Greene County,5075,5.0,75.0,Arkansas,Lawrence County,71,46,AR
+5063,5,63,Arkansas,Independence County,5075,5.0,75.0,Arkansas,Lawrence County,26,30,AR
+5067,5,67,Arkansas,Jackson County,5075,5.0,75.0,Arkansas,Lawrence County,22,24,AR
+5075,5,75,Arkansas,Lawrence County,5075,5.0,75.0,Arkansas,Lawrence County,3957,278,AR
+5111,5,111,Arkansas,Poinsett County,5075,5.0,75.0,Arkansas,Lawrence County,17,22,AR
+5121,5,121,Arkansas,Randolph County,5075,5.0,75.0,Arkansas,Lawrence County,876,188,AR
+5135,5,135,Arkansas,Sharp County,5075,5.0,75.0,Arkansas,Lawrence County,132,62,AR
+5143,5,143,Arkansas,Washington County,5075,5.0,75.0,Arkansas,Lawrence County,7,13,AR
+5035,5,35,Arkansas,Crittenden County,5077,5.0,77.0,Arkansas,Lee County,60,50,AR
+5037,5,37,Arkansas,Cross County,5077,5.0,77.0,Arkansas,Lee County,24,25,AR
+5077,5,77,Arkansas,Lee County,5077,5.0,77.0,Arkansas,Lee County,1630,200,AR
+5079,5,79,Arkansas,Lincoln County,5077,5.0,77.0,Arkansas,Lee County,7,11,AR
+5095,5,95,Arkansas,Monroe County,5077,5.0,77.0,Arkansas,Lee County,33,26,AR
+5107,5,107,Arkansas,Phillips County,5077,5.0,77.0,Arkansas,Lee County,202,111,AR
+5117,5,117,Arkansas,Prairie County,5077,5.0,77.0,Arkansas,Lee County,3,6,AR
+5123,5,123,Arkansas,St. Francis County,5077,5.0,77.0,Arkansas,Lee County,377,131,AR
+5139,5,139,Arkansas,Union County,5077,5.0,77.0,Arkansas,Lee County,4,6,AR
+5001,5,1,Arkansas,Arkansas County,5079,5.0,79.0,Arkansas,Lincoln County,29,29,AR
+5003,5,3,Arkansas,Ashley County,5079,5.0,79.0,Arkansas,Lincoln County,11,13,AR
+5007,5,7,Arkansas,Benton County,5079,5.0,79.0,Arkansas,Lincoln County,30,33,AR
+5017,5,17,Arkansas,Chicot County,5079,5.0,79.0,Arkansas,Lincoln County,15,22,AR
+5025,5,25,Arkansas,Cleveland County,5079,5.0,79.0,Arkansas,Lincoln County,63,36,AR
+5041,5,41,Arkansas,Desha County,5079,5.0,79.0,Arkansas,Lincoln County,200,93,AR
+5043,5,43,Arkansas,Drew County,5079,5.0,79.0,Arkansas,Lincoln County,288,124,AR
+5045,5,45,Arkansas,Faulkner County,5079,5.0,79.0,Arkansas,Lincoln County,4,6,AR
+5053,5,53,Arkansas,Grant County,5079,5.0,79.0,Arkansas,Lincoln County,25,30,AR
+5059,5,59,Arkansas,Hot Spring County,5079,5.0,79.0,Arkansas,Lincoln County,26,40,AR
+5069,5,69,Arkansas,Jefferson County,5079,5.0,79.0,Arkansas,Lincoln County,272,83,AR
+5079,5,79,Arkansas,Lincoln County,5079,5.0,79.0,Arkansas,Lincoln County,1780,252,AR
+5117,5,117,Arkansas,Prairie County,5079,5.0,79.0,Arkansas,Lincoln County,5,7,AR
+5119,5,119,Arkansas,Pulaski County,5079,5.0,79.0,Arkansas,Lincoln County,38,35,AR
+5027,5,27,Arkansas,Columbia County,5081,5.0,81.0,Arkansas,Little River County,3,5,AR
+5057,5,57,Arkansas,Hempstead County,5081,5.0,81.0,Arkansas,Little River County,28,30,AR
+5061,5,61,Arkansas,Howard County,5081,5.0,81.0,Arkansas,Little River County,131,62,AR
+5073,5,73,Arkansas,Lafayette County,5081,5.0,81.0,Arkansas,Little River County,3,7,AR
+5081,5,81,Arkansas,Little River County,5081,5.0,81.0,Arkansas,Little River County,2356,344,AR
+5091,5,91,Arkansas,Miller County,5081,5.0,81.0,Arkansas,Little River County,405,145,AR
+5099,5,99,Arkansas,Nevada County,5081,5.0,81.0,Arkansas,Little River County,5,9,AR
+5109,5,109,Arkansas,Pike County,5081,5.0,81.0,Arkansas,Little River County,3,6,AR
+5113,5,113,Arkansas,Polk County,5081,5.0,81.0,Arkansas,Little River County,17,28,AR
+5119,5,119,Arkansas,Pulaski County,5081,5.0,81.0,Arkansas,Little River County,30,39,AR
+5133,5,133,Arkansas,Sevier County,5081,5.0,81.0,Arkansas,Little River County,308,101,AR
+5033,5,33,Arkansas,Crawford County,5083,5.0,83.0,Arkansas,Logan County,31,46,AR
+5047,5,47,Arkansas,Franklin County,5083,5.0,83.0,Arkansas,Logan County,491,138,AR
+5067,5,67,Arkansas,Jackson County,5083,5.0,83.0,Arkansas,Logan County,5,8,AR
+5071,5,71,Arkansas,Johnson County,5083,5.0,83.0,Arkansas,Logan County,89,51,AR
+5083,5,83,Arkansas,Logan County,5083,5.0,83.0,Arkansas,Logan County,5406,360,AR
+5105,5,105,Arkansas,Perry County,5083,5.0,83.0,Arkansas,Logan County,8,12,AR
+5113,5,113,Arkansas,Polk County,5083,5.0,83.0,Arkansas,Logan County,5,9,AR
+5115,5,115,Arkansas,Pope County,5083,5.0,83.0,Arkansas,Logan County,34,23,AR
+5119,5,119,Arkansas,Pulaski County,5083,5.0,83.0,Arkansas,Logan County,32,51,AR
+5127,5,127,Arkansas,Scott County,5083,5.0,83.0,Arkansas,Logan County,123,80,AR
+5131,5,131,Arkansas,Sebastian County,5083,5.0,83.0,Arkansas,Logan County,342,184,AR
+5149,5,149,Arkansas,Yell County,5083,5.0,83.0,Arkansas,Logan County,149,68,AR
+5001,5,1,Arkansas,Arkansas County,5085,5.0,85.0,Arkansas,Lonoke County,43,30,AR
+5019,5,19,Arkansas,Clark County,5085,5.0,85.0,Arkansas,Lonoke County,14,22,AR
+5023,5,23,Arkansas,Cleburne County,5085,5.0,85.0,Arkansas,Lonoke County,41,45,AR
+5029,5,29,Arkansas,Conway County,5085,5.0,85.0,Arkansas,Lonoke County,11,11,AR
+5041,5,41,Arkansas,Desha County,5085,5.0,85.0,Arkansas,Lonoke County,2,3,AR
+5043,5,43,Arkansas,Drew County,5085,5.0,85.0,Arkansas,Lonoke County,25,49,AR
+5045,5,45,Arkansas,Faulkner County,5085,5.0,85.0,Arkansas,Lonoke County,536,202,AR
+5047,5,47,Arkansas,Franklin County,5085,5.0,85.0,Arkansas,Lonoke County,6,10,AR
+5053,5,53,Arkansas,Grant County,5085,5.0,85.0,Arkansas,Lonoke County,48,45,AR
+5063,5,63,Arkansas,Independence County,5085,5.0,85.0,Arkansas,Lonoke County,30,46,AR
+5065,5,65,Arkansas,Izard County,5085,5.0,85.0,Arkansas,Lonoke County,25,23,AR
+5067,5,67,Arkansas,Jackson County,5085,5.0,85.0,Arkansas,Lonoke County,15,16,AR
+5069,5,69,Arkansas,Jefferson County,5085,5.0,85.0,Arkansas,Lonoke County,122,54,AR
+5071,5,71,Arkansas,Johnson County,5085,5.0,85.0,Arkansas,Lonoke County,17,18,AR
+5075,5,75,Arkansas,Lawrence County,5085,5.0,85.0,Arkansas,Lonoke County,3,5,AR
+5083,5,83,Arkansas,Logan County,5085,5.0,85.0,Arkansas,Lonoke County,7,10,AR
+5085,5,85,Arkansas,Lonoke County,5085,5.0,85.0,Arkansas,Lonoke County,12000,693,AR
+5095,5,95,Arkansas,Monroe County,5085,5.0,85.0,Arkansas,Lonoke County,5,9,AR
+5115,5,115,Arkansas,Pope County,5085,5.0,85.0,Arkansas,Lonoke County,49,43,AR
+5117,5,117,Arkansas,Prairie County,5085,5.0,85.0,Arkansas,Lonoke County,289,81,AR
+5119,5,119,Arkansas,Pulaski County,5085,5.0,85.0,Arkansas,Lonoke County,2159,508,AR
+5125,5,125,Arkansas,Saline County,5085,5.0,85.0,Arkansas,Lonoke County,41,36,AR
+5129,5,129,Arkansas,Searcy County,5085,5.0,85.0,Arkansas,Lonoke County,11,16,AR
+5145,5,145,Arkansas,White County,5085,5.0,85.0,Arkansas,Lonoke County,983,262,AR
+5149,5,149,Arkansas,Yell County,5085,5.0,85.0,Arkansas,Lonoke County,17,27,AR
+5007,5,7,Arkansas,Benton County,5087,5.0,87.0,Arkansas,Madison County,49,47,AR
+5015,5,15,Arkansas,Carroll County,5087,5.0,87.0,Arkansas,Madison County,79,60,AR
+5045,5,45,Arkansas,Faulkner County,5087,5.0,87.0,Arkansas,Madison County,7,13,AR
+5047,5,47,Arkansas,Franklin County,5087,5.0,87.0,Arkansas,Madison County,15,24,AR
+5087,5,87,Arkansas,Madison County,5087,5.0,87.0,Arkansas,Madison County,3460,302,AR
+5101,5,101,Arkansas,Newton County,5087,5.0,87.0,Arkansas,Madison County,45,38,AR
+5115,5,115,Arkansas,Pope County,5087,5.0,87.0,Arkansas,Madison County,16,22,AR
+5143,5,143,Arkansas,Washington County,5087,5.0,87.0,Arkansas,Madison County,346,150,AR
+5005,5,5,Arkansas,Baxter County,5089,5.0,89.0,Arkansas,Marion County,1115,219,AR
+5009,5,9,Arkansas,Boone County,5089,5.0,89.0,Arkansas,Marion County,178,134,AR
+5035,5,35,Arkansas,Crittenden County,5089,5.0,89.0,Arkansas,Marion County,2,3,AR
+5049,5,49,Arkansas,Fulton County,5089,5.0,89.0,Arkansas,Marion County,4,6,AR
+5089,5,89,Arkansas,Marion County,5089,5.0,89.0,Arkansas,Marion County,3113,341,AR
+5101,5,101,Arkansas,Newton County,5089,5.0,89.0,Arkansas,Marion County,48,48,AR
+5129,5,129,Arkansas,Searcy County,5089,5.0,89.0,Arkansas,Marion County,64,48,AR
+5023,5,23,Arkansas,Cleburne County,5091,5.0,91.0,Arkansas,Miller County,2,5,AR
+5027,5,27,Arkansas,Columbia County,5091,5.0,91.0,Arkansas,Miller County,15,17,AR
+5031,5,31,Arkansas,Craighead County,5091,5.0,91.0,Arkansas,Miller County,6,11,AR
+5057,5,57,Arkansas,Hempstead County,5091,5.0,91.0,Arkansas,Miller County,142,88,AR
+5061,5,61,Arkansas,Howard County,5091,5.0,91.0,Arkansas,Miller County,79,62,AR
+5073,5,73,Arkansas,Lafayette County,5091,5.0,91.0,Arkansas,Miller County,108,60,AR
+5081,5,81,Arkansas,Little River County,5091,5.0,91.0,Arkansas,Miller County,526,131,AR
+5091,5,91,Arkansas,Miller County,5091,5.0,91.0,Arkansas,Miller County,7867,511,AR
+5099,5,99,Arkansas,Nevada County,5091,5.0,91.0,Arkansas,Miller County,52,44,AR
+5109,5,109,Arkansas,Pike County,5091,5.0,91.0,Arkansas,Miller County,9,10,AR
+5113,5,113,Arkansas,Polk County,5091,5.0,91.0,Arkansas,Miller County,5,8,AR
+5125,5,125,Arkansas,Saline County,5091,5.0,91.0,Arkansas,Miller County,9,14,AR
+5133,5,133,Arkansas,Sevier County,5091,5.0,91.0,Arkansas,Miller County,47,28,AR
+5005,5,5,Arkansas,Baxter County,5093,5.0,93.0,Arkansas,Mississippi County,3,5,AR
+5021,5,21,Arkansas,Clay County,5093,5.0,93.0,Arkansas,Mississippi County,78,62,AR
+5031,5,31,Arkansas,Craighead County,5093,5.0,93.0,Arkansas,Mississippi County,950,213,AR
+5035,5,35,Arkansas,Crittenden County,5093,5.0,93.0,Arkansas,Mississippi County,246,109,AR
+5045,5,45,Arkansas,Faulkner County,5093,5.0,93.0,Arkansas,Mississippi County,13,19,AR
+5055,5,55,Arkansas,Greene County,5093,5.0,93.0,Arkansas,Mississippi County,300,128,AR
+5063,5,63,Arkansas,Independence County,5093,5.0,93.0,Arkansas,Mississippi County,12,20,AR
+5067,5,67,Arkansas,Jackson County,5093,5.0,93.0,Arkansas,Mississippi County,8,12,AR
+5075,5,75,Arkansas,Lawrence County,5093,5.0,93.0,Arkansas,Mississippi County,20,16,AR
+5083,5,83,Arkansas,Logan County,5093,5.0,93.0,Arkansas,Mississippi County,5,8,AR
+5093,5,93,Arkansas,Mississippi County,5093,5.0,93.0,Arkansas,Mississippi County,15343,658,AR
+5111,5,111,Arkansas,Poinsett County,5093,5.0,93.0,Arkansas,Mississippi County,318,98,AR
+5121,5,121,Arkansas,Randolph County,5093,5.0,93.0,Arkansas,Mississippi County,32,39,AR
+5135,5,135,Arkansas,Sharp County,5093,5.0,93.0,Arkansas,Mississippi County,6,8,AR
+5143,5,143,Arkansas,Washington County,5093,5.0,93.0,Arkansas,Mississippi County,13,18,AR
+5145,5,145,Arkansas,White County,5093,5.0,93.0,Arkansas,Mississippi County,20,25,AR
+5001,5,1,Arkansas,Arkansas County,5095,5.0,95.0,Arkansas,Monroe County,162,106,AR
+5021,5,21,Arkansas,Clay County,5095,5.0,95.0,Arkansas,Monroe County,12,17,AR
+5031,5,31,Arkansas,Craighead County,5095,5.0,95.0,Arkansas,Monroe County,13,22,AR
+5037,5,37,Arkansas,Cross County,5095,5.0,95.0,Arkansas,Monroe County,48,43,AR
+5067,5,67,Arkansas,Jackson County,5095,5.0,95.0,Arkansas,Monroe County,2,4,AR
+5069,5,69,Arkansas,Jefferson County,5095,5.0,95.0,Arkansas,Monroe County,11,16,AR
+5077,5,77,Arkansas,Lee County,5095,5.0,95.0,Arkansas,Monroe County,105,44,AR
+5079,5,79,Arkansas,Lincoln County,5095,5.0,95.0,Arkansas,Monroe County,6,9,AR
+5085,5,85,Arkansas,Lonoke County,5095,5.0,95.0,Arkansas,Monroe County,16,19,AR
+5095,5,95,Arkansas,Monroe County,5095,5.0,95.0,Arkansas,Monroe County,1825,202,AR
+5107,5,107,Arkansas,Phillips County,5095,5.0,95.0,Arkansas,Monroe County,83,71,AR
+5117,5,117,Arkansas,Prairie County,5095,5.0,95.0,Arkansas,Monroe County,49,26,AR
+5119,5,119,Arkansas,Pulaski County,5095,5.0,95.0,Arkansas,Monroe County,21,29,AR
+5123,5,123,Arkansas,St. Francis County,5095,5.0,95.0,Arkansas,Monroe County,258,102,AR
+5125,5,125,Arkansas,Saline County,5095,5.0,95.0,Arkansas,Monroe County,4,7,AR
+5147,5,147,Arkansas,Woodruff County,5095,5.0,95.0,Arkansas,Monroe County,125,55,AR
+5019,5,19,Arkansas,Clark County,5097,5.0,97.0,Arkansas,Montgomery County,13,15,AR
+5051,5,51,Arkansas,Garland County,5097,5.0,97.0,Arkansas,Montgomery County,44,52,AR
+5061,5,61,Arkansas,Howard County,5097,5.0,97.0,Arkansas,Montgomery County,9,16,AR
+5097,5,97,Arkansas,Montgomery County,5097,5.0,97.0,Arkansas,Montgomery County,1960,220,AR
+5099,5,99,Arkansas,Nevada County,5097,5.0,97.0,Arkansas,Montgomery County,24,38,AR
+5109,5,109,Arkansas,Pike County,5097,5.0,97.0,Arkansas,Montgomery County,65,46,AR
+5113,5,113,Arkansas,Polk County,5097,5.0,97.0,Arkansas,Montgomery County,15,19,AR
+5125,5,125,Arkansas,Saline County,5097,5.0,97.0,Arkansas,Montgomery County,36,47,AR
+5127,5,127,Arkansas,Scott County,5097,5.0,97.0,Arkansas,Montgomery County,30,31,AR
+5131,5,131,Arkansas,Sebastian County,5097,5.0,97.0,Arkansas,Montgomery County,2,4,AR
+5019,5,19,Arkansas,Clark County,5099,5.0,99.0,Arkansas,Nevada County,215,112,AR
+5027,5,27,Arkansas,Columbia County,5099,5.0,99.0,Arkansas,Nevada County,30,30,AR
+5057,5,57,Arkansas,Hempstead County,5099,5.0,99.0,Arkansas,Nevada County,316,111,AR
+5059,5,59,Arkansas,Hot Spring County,5099,5.0,99.0,Arkansas,Nevada County,30,32,AR
+5061,5,61,Arkansas,Howard County,5099,5.0,99.0,Arkansas,Nevada County,12,13,AR
+5069,5,69,Arkansas,Jefferson County,5099,5.0,99.0,Arkansas,Nevada County,56,70,AR
+5073,5,73,Arkansas,Lafayette County,5099,5.0,99.0,Arkansas,Nevada County,20,20,AR
+5081,5,81,Arkansas,Little River County,5099,5.0,99.0,Arkansas,Nevada County,28,39,AR
+5099,5,99,Arkansas,Nevada County,5099,5.0,99.0,Arkansas,Nevada County,1642,296,AR
+5103,5,103,Arkansas,Ouachita County,5099,5.0,99.0,Arkansas,Nevada County,25,25,AR
+5109,5,109,Arkansas,Pike County,5099,5.0,99.0,Arkansas,Nevada County,60,28,AR
+5145,5,145,Arkansas,White County,5099,5.0,99.0,Arkansas,Nevada County,46,72,AR
+5009,5,9,Arkansas,Boone County,5101,5.0,101.0,Arkansas,Newton County,194,87,AR
+5015,5,15,Arkansas,Carroll County,5101,5.0,101.0,Arkansas,Newton County,3,6,AR
+5101,5,101,Arkansas,Newton County,5101,5.0,101.0,Arkansas,Newton County,1638,175,AR
+5129,5,129,Arkansas,Searcy County,5101,5.0,101.0,Arkansas,Newton County,95,104,AR
+5003,5,3,Arkansas,Ashley County,5103,5.0,103.0,Arkansas,Ouachita County,15,25,AR
+5011,5,11,Arkansas,Bradley County,5103,5.0,103.0,Arkansas,Ouachita County,13,17,AR
+5013,5,13,Arkansas,Calhoun County,5103,5.0,103.0,Arkansas,Ouachita County,566,138,AR
+5019,5,19,Arkansas,Clark County,5103,5.0,103.0,Arkansas,Ouachita County,67,56,AR
+5025,5,25,Arkansas,Cleveland County,5103,5.0,103.0,Arkansas,Ouachita County,12,13,AR
+5027,5,27,Arkansas,Columbia County,5103,5.0,103.0,Arkansas,Ouachita County,167,101,AR
+5039,5,39,Arkansas,Dallas County,5103,5.0,103.0,Arkansas,Ouachita County,292,114,AR
+5045,5,45,Arkansas,Faulkner County,5103,5.0,103.0,Arkansas,Ouachita County,9,14,AR
+5051,5,51,Arkansas,Garland County,5103,5.0,103.0,Arkansas,Ouachita County,15,25,AR
+5053,5,53,Arkansas,Grant County,5103,5.0,103.0,Arkansas,Ouachita County,31,39,AR
+5057,5,57,Arkansas,Hempstead County,5103,5.0,103.0,Arkansas,Ouachita County,45,43,AR
+5059,5,59,Arkansas,Hot Spring County,5103,5.0,103.0,Arkansas,Ouachita County,16,20,AR
+5065,5,65,Arkansas,Izard County,5103,5.0,103.0,Arkansas,Ouachita County,14,23,AR
+5069,5,69,Arkansas,Jefferson County,5103,5.0,103.0,Arkansas,Ouachita County,29,44,AR
+5099,5,99,Arkansas,Nevada County,5103,5.0,103.0,Arkansas,Ouachita County,32,23,AR
+5103,5,103,Arkansas,Ouachita County,5103,5.0,103.0,Arkansas,Ouachita County,7404,457,AR
+5119,5,119,Arkansas,Pulaski County,5103,5.0,103.0,Arkansas,Ouachita County,27,40,AR
+5139,5,139,Arkansas,Union County,5103,5.0,103.0,Arkansas,Ouachita County,281,105,AR
+5029,5,29,Arkansas,Conway County,5105,5.0,105.0,Arkansas,Perry County,60,37,AR
+5045,5,45,Arkansas,Faulkner County,5105,5.0,105.0,Arkansas,Perry County,216,150,AR
+5049,5,49,Arkansas,Fulton County,5105,5.0,105.0,Arkansas,Perry County,7,13,AR
+5053,5,53,Arkansas,Grant County,5105,5.0,105.0,Arkansas,Perry County,2,3,AR
+5105,5,105,Arkansas,Perry County,5105,5.0,105.0,Arkansas,Perry County,1196,177,AR
+5115,5,115,Arkansas,Pope County,5105,5.0,105.0,Arkansas,Perry County,3,8,AR
+5119,5,119,Arkansas,Pulaski County,5105,5.0,105.0,Arkansas,Perry County,87,76,AR
+5129,5,129,Arkansas,Searcy County,5105,5.0,105.0,Arkansas,Perry County,2,3,AR
+5143,5,143,Arkansas,Washington County,5105,5.0,105.0,Arkansas,Perry County,43,60,AR
+5145,5,145,Arkansas,White County,5105,5.0,105.0,Arkansas,Perry County,51,57,AR
+5149,5,149,Arkansas,Yell County,5105,5.0,105.0,Arkansas,Perry County,45,40,AR
+5001,5,1,Arkansas,Arkansas County,5107,5.0,107.0,Arkansas,Phillips County,2,4,AR
+5003,5,3,Arkansas,Ashley County,5107,5.0,107.0,Arkansas,Phillips County,40,57,AR
+5005,5,5,Arkansas,Baxter County,5107,5.0,107.0,Arkansas,Phillips County,25,36,AR
+5023,5,23,Arkansas,Cleburne County,5107,5.0,107.0,Arkansas,Phillips County,4,7,AR
+5035,5,35,Arkansas,Crittenden County,5107,5.0,107.0,Arkansas,Phillips County,32,30,AR
+5041,5,41,Arkansas,Desha County,5107,5.0,107.0,Arkansas,Phillips County,4,8,AR
+5051,5,51,Arkansas,Garland County,5107,5.0,107.0,Arkansas,Phillips County,69,60,AR
+5055,5,55,Arkansas,Greene County,5107,5.0,107.0,Arkansas,Phillips County,8,12,AR
+5077,5,77,Arkansas,Lee County,5107,5.0,107.0,Arkansas,Phillips County,301,112,AR
+5095,5,95,Arkansas,Monroe County,5107,5.0,107.0,Arkansas,Phillips County,119,68,AR
+5107,5,107,Arkansas,Phillips County,5107,5.0,107.0,Arkansas,Phillips County,5385,392,AR
+5123,5,123,Arkansas,St. Francis County,5107,5.0,107.0,Arkansas,Phillips County,75,46,AR
+5019,5,19,Arkansas,Clark County,5109,5.0,109.0,Arkansas,Pike County,432,140,AR
+5051,5,51,Arkansas,Garland County,5109,5.0,109.0,Arkansas,Pike County,137,88,AR
+5057,5,57,Arkansas,Hempstead County,5109,5.0,109.0,Arkansas,Pike County,24,25,AR
+5059,5,59,Arkansas,Hot Spring County,5109,5.0,109.0,Arkansas,Pike County,58,75,AR
+5061,5,61,Arkansas,Howard County,5109,5.0,109.0,Arkansas,Pike County,103,51,AR
+5097,5,97,Arkansas,Montgomery County,5109,5.0,109.0,Arkansas,Pike County,358,96,AR
+5099,5,99,Arkansas,Nevada County,5109,5.0,109.0,Arkansas,Pike County,13,20,AR
+5109,5,109,Arkansas,Pike County,5109,5.0,109.0,Arkansas,Pike County,2457,242,AR
+5113,5,113,Arkansas,Polk County,5109,5.0,109.0,Arkansas,Pike County,10,14,AR
+5115,5,115,Arkansas,Pope County,5109,5.0,109.0,Arkansas,Pike County,12,20,AR
+5119,5,119,Arkansas,Pulaski County,5109,5.0,109.0,Arkansas,Pike County,39,55,AR
+5129,5,129,Arkansas,Searcy County,5109,5.0,109.0,Arkansas,Pike County,3,5,AR
+5133,5,133,Arkansas,Sevier County,5109,5.0,109.0,Arkansas,Pike County,47,54,AR
+5019,5,19,Arkansas,Clark County,5111,5.0,111.0,Arkansas,Poinsett County,6,8,AR
+5023,5,23,Arkansas,Cleburne County,5111,5.0,111.0,Arkansas,Poinsett County,25,36,AR
+5031,5,31,Arkansas,Craighead County,5111,5.0,111.0,Arkansas,Poinsett County,934,217,AR
+5035,5,35,Arkansas,Crittenden County,5111,5.0,111.0,Arkansas,Poinsett County,62,35,AR
+5037,5,37,Arkansas,Cross County,5111,5.0,111.0,Arkansas,Poinsett County,139,83,AR
+5055,5,55,Arkansas,Greene County,5111,5.0,111.0,Arkansas,Poinsett County,121,86,AR
+5063,5,63,Arkansas,Independence County,5111,5.0,111.0,Arkansas,Poinsett County,16,26,AR
+5067,5,67,Arkansas,Jackson County,5111,5.0,111.0,Arkansas,Poinsett County,62,40,AR
+5075,5,75,Arkansas,Lawrence County,5111,5.0,111.0,Arkansas,Poinsett County,39,37,AR
+5093,5,93,Arkansas,Mississippi County,5111,5.0,111.0,Arkansas,Poinsett County,94,37,AR
+5111,5,111,Arkansas,Poinsett County,5111,5.0,111.0,Arkansas,Poinsett County,4623,355,AR
+5145,5,145,Arkansas,White County,5111,5.0,111.0,Arkansas,Poinsett County,10,16,AR
+5147,5,147,Arkansas,Woodruff County,5111,5.0,111.0,Arkansas,Poinsett County,5,10,AR
+5019,5,19,Arkansas,Clark County,5113,5.0,113.0,Arkansas,Polk County,48,72,AR
+5051,5,51,Arkansas,Garland County,5113,5.0,113.0,Arkansas,Polk County,13,22,AR
+5061,5,61,Arkansas,Howard County,5113,5.0,113.0,Arkansas,Polk County,82,59,AR
+5069,5,69,Arkansas,Jefferson County,5113,5.0,113.0,Arkansas,Polk County,5,10,AR
+5071,5,71,Arkansas,Johnson County,5113,5.0,113.0,Arkansas,Polk County,14,21,AR
+5083,5,83,Arkansas,Logan County,5113,5.0,113.0,Arkansas,Polk County,41,62,AR
+5097,5,97,Arkansas,Montgomery County,5113,5.0,113.0,Arkansas,Polk County,156,54,AR
+5109,5,109,Arkansas,Pike County,5113,5.0,113.0,Arkansas,Polk County,8,13,AR
+5113,5,113,Arkansas,Polk County,5113,5.0,113.0,Arkansas,Polk County,6602,366,AR
+5127,5,127,Arkansas,Scott County,5113,5.0,113.0,Arkansas,Polk County,36,32,AR
+5131,5,131,Arkansas,Sebastian County,5113,5.0,113.0,Arkansas,Polk County,30,38,AR
+5133,5,133,Arkansas,Sevier County,5113,5.0,113.0,Arkansas,Polk County,307,135,AR
+5001,5,1,Arkansas,Arkansas County,5115,5.0,115.0,Arkansas,Pope County,4,7,AR
+5009,5,9,Arkansas,Boone County,5115,5.0,115.0,Arkansas,Pope County,19,31,AR
+5011,5,11,Arkansas,Bradley County,5115,5.0,115.0,Arkansas,Pope County,13,19,AR
+5029,5,29,Arkansas,Conway County,5115,5.0,115.0,Arkansas,Pope County,478,130,AR
+5033,5,33,Arkansas,Crawford County,5115,5.0,115.0,Arkansas,Pope County,21,17,AR
+5045,5,45,Arkansas,Faulkner County,5115,5.0,115.0,Arkansas,Pope County,217,105,AR
+5047,5,47,Arkansas,Franklin County,5115,5.0,115.0,Arkansas,Pope County,1,3,AR
+5067,5,67,Arkansas,Jackson County,5115,5.0,115.0,Arkansas,Pope County,16,20,AR
+5071,5,71,Arkansas,Johnson County,5115,5.0,115.0,Arkansas,Pope County,978,194,AR
+5075,5,75,Arkansas,Lawrence County,5115,5.0,115.0,Arkansas,Pope County,4,7,AR
+5083,5,83,Arkansas,Logan County,5115,5.0,115.0,Arkansas,Pope County,252,110,AR
+5097,5,97,Arkansas,Montgomery County,5115,5.0,115.0,Arkansas,Pope County,19,25,AR
+5101,5,101,Arkansas,Newton County,5115,5.0,115.0,Arkansas,Pope County,56,35,AR
+5105,5,105,Arkansas,Perry County,5115,5.0,115.0,Arkansas,Pope County,93,36,AR
+5113,5,113,Arkansas,Polk County,5115,5.0,115.0,Arkansas,Pope County,15,23,AR
+5115,5,115,Arkansas,Pope County,5115,5.0,115.0,Arkansas,Pope County,22103,893,AR
+5119,5,119,Arkansas,Pulaski County,5115,5.0,115.0,Arkansas,Pope County,51,49,AR
+5125,5,125,Arkansas,Saline County,5115,5.0,115.0,Arkansas,Pope County,18,22,AR
+5127,5,127,Arkansas,Scott County,5115,5.0,115.0,Arkansas,Pope County,15,15,AR
+5129,5,129,Arkansas,Searcy County,5115,5.0,115.0,Arkansas,Pope County,45,37,AR
+5135,5,135,Arkansas,Sharp County,5115,5.0,115.0,Arkansas,Pope County,3,5,AR
+5141,5,141,Arkansas,Van Buren County,5115,5.0,115.0,Arkansas,Pope County,21,22,AR
+5143,5,143,Arkansas,Washington County,5115,5.0,115.0,Arkansas,Pope County,42,43,AR
+5147,5,147,Arkansas,Woodruff County,5115,5.0,115.0,Arkansas,Pope County,2,3,AR
+5149,5,149,Arkansas,Yell County,5115,5.0,115.0,Arkansas,Pope County,3335,346,AR
+5021,5,21,Arkansas,Clay County,5117,5.0,117.0,Arkansas,Prairie County,20,24,AR
+5053,5,53,Arkansas,Grant County,5117,5.0,117.0,Arkansas,Prairie County,3,7,AR
+5067,5,67,Arkansas,Jackson County,5117,5.0,117.0,Arkansas,Prairie County,11,15,AR
+5069,5,69,Arkansas,Jefferson County,5117,5.0,117.0,Arkansas,Prairie County,25,28,AR
+5085,5,85,Arkansas,Lonoke County,5117,5.0,117.0,Arkansas,Prairie County,62,39,AR
+5095,5,95,Arkansas,Monroe County,5117,5.0,117.0,Arkansas,Prairie County,16,19,AR
+5107,5,107,Arkansas,Phillips County,5117,5.0,117.0,Arkansas,Prairie County,14,17,AR
+5117,5,117,Arkansas,Prairie County,5117,5.0,117.0,Arkansas,Prairie County,1790,186,AR
+5119,5,119,Arkansas,Pulaski County,5117,5.0,117.0,Arkansas,Prairie County,41,47,AR
+5145,5,145,Arkansas,White County,5117,5.0,117.0,Arkansas,Prairie County,128,83,AR
+5147,5,147,Arkansas,Woodruff County,5117,5.0,117.0,Arkansas,Prairie County,12,18,AR
+5001,5,1,Arkansas,Arkansas County,5119,5.0,119.0,Arkansas,Pulaski County,147,55,AR
+5003,5,3,Arkansas,Ashley County,5119,5.0,119.0,Arkansas,Pulaski County,80,66,AR
+5005,5,5,Arkansas,Baxter County,5119,5.0,119.0,Arkansas,Pulaski County,86,53,AR
+5007,5,7,Arkansas,Benton County,5119,5.0,119.0,Arkansas,Pulaski County,40,30,AR
+5009,5,9,Arkansas,Boone County,5119,5.0,119.0,Arkansas,Pulaski County,49,37,AR
+5011,5,11,Arkansas,Bradley County,5119,5.0,119.0,Arkansas,Pulaski County,15,18,AR
+5013,5,13,Arkansas,Calhoun County,5119,5.0,119.0,Arkansas,Pulaski County,10,25,AR
+5015,5,15,Arkansas,Carroll County,5119,5.0,119.0,Arkansas,Pulaski County,71,78,AR
+5017,5,17,Arkansas,Chicot County,5119,5.0,119.0,Arkansas,Pulaski County,7,10,AR
+5019,5,19,Arkansas,Clark County,5119,5.0,119.0,Arkansas,Pulaski County,343,137,AR
+5021,5,21,Arkansas,Clay County,5119,5.0,119.0,Arkansas,Pulaski County,11,13,AR
+5023,5,23,Arkansas,Cleburne County,5119,5.0,119.0,Arkansas,Pulaski County,387,122,AR
+5025,5,25,Arkansas,Cleveland County,5119,5.0,119.0,Arkansas,Pulaski County,99,55,AR
+5027,5,27,Arkansas,Columbia County,5119,5.0,119.0,Arkansas,Pulaski County,30,41,AR
+5029,5,29,Arkansas,Conway County,5119,5.0,119.0,Arkansas,Pulaski County,1005,243,AR
+5031,5,31,Arkansas,Craighead County,5119,5.0,119.0,Arkansas,Pulaski County,135,74,AR
+5033,5,33,Arkansas,Crawford County,5119,5.0,119.0,Arkansas,Pulaski County,90,85,AR
+5035,5,35,Arkansas,Crittenden County,5119,5.0,119.0,Arkansas,Pulaski County,24,25,AR
+5037,5,37,Arkansas,Cross County,5119,5.0,119.0,Arkansas,Pulaski County,24,22,AR
+5039,5,39,Arkansas,Dallas County,5119,5.0,119.0,Arkansas,Pulaski County,49,39,AR
+5041,5,41,Arkansas,Desha County,5119,5.0,119.0,Arkansas,Pulaski County,12,12,AR
+5043,5,43,Arkansas,Drew County,5119,5.0,119.0,Arkansas,Pulaski County,117,81,AR
+5045,5,45,Arkansas,Faulkner County,5119,5.0,119.0,Arkansas,Pulaski County,13384,736,AR
+5047,5,47,Arkansas,Franklin County,5119,5.0,119.0,Arkansas,Pulaski County,26,29,AR
+5049,5,49,Arkansas,Fulton County,5119,5.0,119.0,Arkansas,Pulaski County,37,43,AR
+5051,5,51,Arkansas,Garland County,5119,5.0,119.0,Arkansas,Pulaski County,1626,326,AR
+5053,5,53,Arkansas,Grant County,5119,5.0,119.0,Arkansas,Pulaski County,2164,271,AR
+5055,5,55,Arkansas,Greene County,5119,5.0,119.0,Arkansas,Pulaski County,102,94,AR
+5057,5,57,Arkansas,Hempstead County,5119,5.0,119.0,Arkansas,Pulaski County,41,42,AR
+5059,5,59,Arkansas,Hot Spring County,5119,5.0,119.0,Arkansas,Pulaski County,889,186,AR
+5061,5,61,Arkansas,Howard County,5119,5.0,119.0,Arkansas,Pulaski County,8,14,AR
+5063,5,63,Arkansas,Independence County,5119,5.0,119.0,Arkansas,Pulaski County,82,84,AR
+5065,5,65,Arkansas,Izard County,5119,5.0,119.0,Arkansas,Pulaski County,36,28,AR
+5067,5,67,Arkansas,Jackson County,5119,5.0,119.0,Arkansas,Pulaski County,80,62,AR
+5069,5,69,Arkansas,Jefferson County,5119,5.0,119.0,Arkansas,Pulaski County,2333,316,AR
+5071,5,71,Arkansas,Johnson County,5119,5.0,119.0,Arkansas,Pulaski County,21,20,AR
+5073,5,73,Arkansas,Lafayette County,5119,5.0,119.0,Arkansas,Pulaski County,15,15,AR
+5075,5,75,Arkansas,Lawrence County,5119,5.0,119.0,Arkansas,Pulaski County,67,65,AR
+5077,5,77,Arkansas,Lee County,5119,5.0,119.0,Arkansas,Pulaski County,11,16,AR
+5079,5,79,Arkansas,Lincoln County,5119,5.0,119.0,Arkansas,Pulaski County,109,63,AR
+5081,5,81,Arkansas,Little River County,5119,5.0,119.0,Arkansas,Pulaski County,6,10,AR
+5083,5,83,Arkansas,Logan County,5119,5.0,119.0,Arkansas,Pulaski County,13,16,AR
+5085,5,85,Arkansas,Lonoke County,5119,5.0,119.0,Arkansas,Pulaski County,17435,823,AR
+5087,5,87,Arkansas,Madison County,5119,5.0,119.0,Arkansas,Pulaski County,4,7,AR
+5089,5,89,Arkansas,Marion County,5119,5.0,119.0,Arkansas,Pulaski County,21,21,AR
+5093,5,93,Arkansas,Mississippi County,5119,5.0,119.0,Arkansas,Pulaski County,2,3,AR
+5095,5,95,Arkansas,Monroe County,5119,5.0,119.0,Arkansas,Pulaski County,70,37,AR
+5097,5,97,Arkansas,Montgomery County,5119,5.0,119.0,Arkansas,Pulaski County,68,54,AR
+5099,5,99,Arkansas,Nevada County,5119,5.0,119.0,Arkansas,Pulaski County,46,44,AR
+5101,5,101,Arkansas,Newton County,5119,5.0,119.0,Arkansas,Pulaski County,92,56,AR
+5103,5,103,Arkansas,Ouachita County,5119,5.0,119.0,Arkansas,Pulaski County,88,71,AR
+5105,5,105,Arkansas,Perry County,5119,5.0,119.0,Arkansas,Pulaski County,1252,226,AR
+5109,5,109,Arkansas,Pike County,5119,5.0,119.0,Arkansas,Pulaski County,21,18,AR
+5111,5,111,Arkansas,Poinsett County,5119,5.0,119.0,Arkansas,Pulaski County,27,24,AR
+5115,5,115,Arkansas,Pope County,5119,5.0,119.0,Arkansas,Pulaski County,424,132,AR
+5117,5,117,Arkansas,Prairie County,5119,5.0,119.0,Arkansas,Pulaski County,346,105,AR
+5119,5,119,Arkansas,Pulaski County,5119,5.0,119.0,Arkansas,Pulaski County,166806,2145,AR
+5121,5,121,Arkansas,Randolph County,5119,5.0,119.0,Arkansas,Pulaski County,53,46,AR
+5123,5,123,Arkansas,St. Francis County,5119,5.0,119.0,Arkansas,Pulaski County,74,73,AR
+5125,5,125,Arkansas,Saline County,5119,5.0,119.0,Arkansas,Pulaski County,28026,988,AR
+5127,5,127,Arkansas,Scott County,5119,5.0,119.0,Arkansas,Pulaski County,23,24,AR
+5129,5,129,Arkansas,Searcy County,5119,5.0,119.0,Arkansas,Pulaski County,33,26,AR
+5131,5,131,Arkansas,Sebastian County,5119,5.0,119.0,Arkansas,Pulaski County,110,118,AR
+5135,5,135,Arkansas,Sharp County,5119,5.0,119.0,Arkansas,Pulaski County,59,60,AR
+5137,5,137,Arkansas,Stone County,5119,5.0,119.0,Arkansas,Pulaski County,122,80,AR
+5139,5,139,Arkansas,Union County,5119,5.0,119.0,Arkansas,Pulaski County,104,85,AR
+5141,5,141,Arkansas,Van Buren County,5119,5.0,119.0,Arkansas,Pulaski County,278,87,AR
+5143,5,143,Arkansas,Washington County,5119,5.0,119.0,Arkansas,Pulaski County,226,112,AR
+5145,5,145,Arkansas,White County,5119,5.0,119.0,Arkansas,Pulaski County,3947,468,AR
+5147,5,147,Arkansas,Woodruff County,5119,5.0,119.0,Arkansas,Pulaski County,37,26,AR
+5149,5,149,Arkansas,Yell County,5119,5.0,119.0,Arkansas,Pulaski County,62,36,AR
+5005,5,5,Arkansas,Baxter County,5121,5.0,121.0,Arkansas,Randolph County,13,21,AR
+5021,5,21,Arkansas,Clay County,5121,5.0,121.0,Arkansas,Randolph County,128,58,AR
+5031,5,31,Arkansas,Craighead County,5121,5.0,121.0,Arkansas,Randolph County,65,42,AR
+5055,5,55,Arkansas,Greene County,5121,5.0,121.0,Arkansas,Randolph County,165,101,AR
+5063,5,63,Arkansas,Independence County,5121,5.0,121.0,Arkansas,Randolph County,5,8,AR
+5067,5,67,Arkansas,Jackson County,5121,5.0,121.0,Arkansas,Randolph County,11,13,AR
+5075,5,75,Arkansas,Lawrence County,5121,5.0,121.0,Arkansas,Randolph County,511,137,AR
+5121,5,121,Arkansas,Randolph County,5121,5.0,121.0,Arkansas,Randolph County,4279,383,AR
+5135,5,135,Arkansas,Sharp County,5121,5.0,121.0,Arkansas,Randolph County,56,42,AR
+5145,5,145,Arkansas,White County,5121,5.0,121.0,Arkansas,Randolph County,21,35,AR
+5013,5,13,Arkansas,Calhoun County,5123,5.0,123.0,Arkansas,St. Francis County,9,21,AR
+5019,5,19,Arkansas,Clark County,5123,5.0,123.0,Arkansas,St. Francis County,19,29,AR
+5031,5,31,Arkansas,Craighead County,5123,5.0,123.0,Arkansas,St. Francis County,12,21,AR
+5035,5,35,Arkansas,Crittenden County,5123,5.0,123.0,Arkansas,St. Francis County,414,115,AR
+5037,5,37,Arkansas,Cross County,5123,5.0,123.0,Arkansas,St. Francis County,939,205,AR
+5067,5,67,Arkansas,Jackson County,5123,5.0,123.0,Arkansas,St. Francis County,7,11,AR
+5069,5,69,Arkansas,Jefferson County,5123,5.0,123.0,Arkansas,St. Francis County,5,9,AR
+5077,5,77,Arkansas,Lee County,5123,5.0,123.0,Arkansas,St. Francis County,617,134,AR
+5085,5,85,Arkansas,Lonoke County,5123,5.0,123.0,Arkansas,St. Francis County,31,49,AR
+5093,5,93,Arkansas,Mississippi County,5123,5.0,123.0,Arkansas,St. Francis County,15,24,AR
+5095,5,95,Arkansas,Monroe County,5123,5.0,123.0,Arkansas,St. Francis County,116,58,AR
+5107,5,107,Arkansas,Phillips County,5123,5.0,123.0,Arkansas,St. Francis County,20,22,AR
+5111,5,111,Arkansas,Poinsett County,5123,5.0,123.0,Arkansas,St. Francis County,41,35,AR
+5117,5,117,Arkansas,Prairie County,5123,5.0,123.0,Arkansas,St. Francis County,16,16,AR
+5119,5,119,Arkansas,Pulaski County,5123,5.0,123.0,Arkansas,St. Francis County,19,31,AR
+5123,5,123,Arkansas,St. Francis County,5123,5.0,123.0,Arkansas,St. Francis County,6497,468,AR
+5145,5,145,Arkansas,White County,5123,5.0,123.0,Arkansas,St. Francis County,15,23,AR
+5147,5,147,Arkansas,Woodruff County,5123,5.0,123.0,Arkansas,St. Francis County,45,31,AR
+5007,5,7,Arkansas,Benton County,5125,5.0,125.0,Arkansas,Saline County,20,27,AR
+5009,5,9,Arkansas,Boone County,5125,5.0,125.0,Arkansas,Saline County,26,31,AR
+5015,5,15,Arkansas,Carroll County,5125,5.0,125.0,Arkansas,Saline County,62,81,AR
+5019,5,19,Arkansas,Clark County,5125,5.0,125.0,Arkansas,Saline County,297,137,AR
+5023,5,23,Arkansas,Cleburne County,5125,5.0,125.0,Arkansas,Saline County,30,41,AR
+5025,5,25,Arkansas,Cleveland County,5125,5.0,125.0,Arkansas,Saline County,3,7,AR
+5039,5,39,Arkansas,Dallas County,5125,5.0,125.0,Arkansas,Saline County,24,35,AR
+5045,5,45,Arkansas,Faulkner County,5125,5.0,125.0,Arkansas,Saline County,275,194,AR
+5051,5,51,Arkansas,Garland County,5125,5.0,125.0,Arkansas,Saline County,1095,297,AR
+5053,5,53,Arkansas,Grant County,5125,5.0,125.0,Arkansas,Saline County,424,115,AR
+5055,5,55,Arkansas,Greene County,5125,5.0,125.0,Arkansas,Saline County,5,8,AR
+5059,5,59,Arkansas,Hot Spring County,5125,5.0,125.0,Arkansas,Saline County,961,266,AR
+5063,5,63,Arkansas,Independence County,5125,5.0,125.0,Arkansas,Saline County,32,48,AR
+5069,5,69,Arkansas,Jefferson County,5125,5.0,125.0,Arkansas,Saline County,110,52,AR
+5071,5,71,Arkansas,Johnson County,5125,5.0,125.0,Arkansas,Saline County,40,47,AR
+5085,5,85,Arkansas,Lonoke County,5125,5.0,125.0,Arkansas,Saline County,174,105,AR
+5097,5,97,Arkansas,Montgomery County,5125,5.0,125.0,Arkansas,Saline County,80,66,AR
+5103,5,103,Arkansas,Ouachita County,5125,5.0,125.0,Arkansas,Saline County,17,29,AR
+5105,5,105,Arkansas,Perry County,5125,5.0,125.0,Arkansas,Saline County,1,2,AR
+5109,5,109,Arkansas,Pike County,5125,5.0,125.0,Arkansas,Saline County,14,17,AR
+5111,5,111,Arkansas,Poinsett County,5125,5.0,125.0,Arkansas,Saline County,20,31,AR
+5115,5,115,Arkansas,Pope County,5125,5.0,125.0,Arkansas,Saline County,20,25,AR
+5119,5,119,Arkansas,Pulaski County,5125,5.0,125.0,Arkansas,Saline County,2627,418,AR
+5125,5,125,Arkansas,Saline County,5125,5.0,125.0,Arkansas,Saline County,21280,950,AR
+5135,5,135,Arkansas,Sharp County,5125,5.0,125.0,Arkansas,Saline County,1,3,AR
+5143,5,143,Arkansas,Washington County,5125,5.0,125.0,Arkansas,Saline County,8,14,AR
+5145,5,145,Arkansas,White County,5125,5.0,125.0,Arkansas,Saline County,68,90,AR
+5047,5,47,Arkansas,Franklin County,5127,5.0,127.0,Arkansas,Scott County,8,14,AR
+5083,5,83,Arkansas,Logan County,5127,5.0,127.0,Arkansas,Scott County,96,76,AR
+5091,5,91,Arkansas,Miller County,5127,5.0,127.0,Arkansas,Scott County,32,35,AR
+5093,5,93,Arkansas,Mississippi County,5127,5.0,127.0,Arkansas,Scott County,24,36,AR
+5113,5,113,Arkansas,Polk County,5127,5.0,127.0,Arkansas,Scott County,31,31,AR
+5115,5,115,Arkansas,Pope County,5127,5.0,127.0,Arkansas,Scott County,15,26,AR
+5127,5,127,Arkansas,Scott County,5127,5.0,127.0,Arkansas,Scott County,3182,224,AR
+5131,5,131,Arkansas,Sebastian County,5127,5.0,127.0,Arkansas,Scott County,400,145,AR
+5143,5,143,Arkansas,Washington County,5127,5.0,127.0,Arkansas,Scott County,38,38,AR
+5149,5,149,Arkansas,Yell County,5127,5.0,127.0,Arkansas,Scott County,13,20,AR
+5005,5,5,Arkansas,Baxter County,5129,5.0,129.0,Arkansas,Searcy County,2,3,AR
+5009,5,9,Arkansas,Boone County,5129,5.0,129.0,Arkansas,Searcy County,18,23,AR
+5063,5,63,Arkansas,Independence County,5129,5.0,129.0,Arkansas,Searcy County,22,34,AR
+5089,5,89,Arkansas,Marion County,5129,5.0,129.0,Arkansas,Searcy County,25,28,AR
+5101,5,101,Arkansas,Newton County,5129,5.0,129.0,Arkansas,Searcy County,68,61,AR
+5115,5,115,Arkansas,Pope County,5129,5.0,129.0,Arkansas,Searcy County,13,21,AR
+5129,5,129,Arkansas,Searcy County,5129,5.0,129.0,Arkansas,Searcy County,1695,261,AR
+5137,5,137,Arkansas,Stone County,5129,5.0,129.0,Arkansas,Searcy County,40,36,AR
+5141,5,141,Arkansas,Van Buren County,5129,5.0,129.0,Arkansas,Searcy County,143,82,AR
+5007,5,7,Arkansas,Benton County,5131,5.0,131.0,Arkansas,Sebastian County,219,89,AR
+5023,5,23,Arkansas,Cleburne County,5131,5.0,131.0,Arkansas,Sebastian County,31,47,AR
+5027,5,27,Arkansas,Columbia County,5131,5.0,131.0,Arkansas,Sebastian County,7,13,AR
+5029,5,29,Arkansas,Conway County,5131,5.0,131.0,Arkansas,Sebastian County,17,17,AR
+5031,5,31,Arkansas,Craighead County,5131,5.0,131.0,Arkansas,Sebastian County,2,4,AR
+5033,5,33,Arkansas,Crawford County,5131,5.0,131.0,Arkansas,Sebastian County,11141,730,AR
+5045,5,45,Arkansas,Faulkner County,5131,5.0,131.0,Arkansas,Sebastian County,21,16,AR
+5047,5,47,Arkansas,Franklin County,5131,5.0,131.0,Arkansas,Sebastian County,1355,213,AR
+5051,5,51,Arkansas,Garland County,5131,5.0,131.0,Arkansas,Sebastian County,59,57,AR
+5069,5,69,Arkansas,Jefferson County,5131,5.0,131.0,Arkansas,Sebastian County,52,55,AR
+5071,5,71,Arkansas,Johnson County,5131,5.0,131.0,Arkansas,Sebastian County,204,73,AR
+5083,5,83,Arkansas,Logan County,5131,5.0,131.0,Arkansas,Sebastian County,972,196,AR
+5087,5,87,Arkansas,Madison County,5131,5.0,131.0,Arkansas,Sebastian County,25,28,AR
+5099,5,99,Arkansas,Nevada County,5131,5.0,131.0,Arkansas,Sebastian County,3,5,AR
+5109,5,109,Arkansas,Pike County,5131,5.0,131.0,Arkansas,Sebastian County,13,20,AR
+5113,5,113,Arkansas,Polk County,5131,5.0,131.0,Arkansas,Sebastian County,13,15,AR
+5115,5,115,Arkansas,Pope County,5131,5.0,131.0,Arkansas,Sebastian County,52,40,AR
+5119,5,119,Arkansas,Pulaski County,5131,5.0,131.0,Arkansas,Sebastian County,39,42,AR
+5127,5,127,Arkansas,Scott County,5131,5.0,131.0,Arkansas,Sebastian County,510,111,AR
+5131,5,131,Arkansas,Sebastian County,5131,5.0,131.0,Arkansas,Sebastian County,45764,1133,AR
+5141,5,141,Arkansas,Van Buren County,5131,5.0,131.0,Arkansas,Sebastian County,15,16,AR
+5143,5,143,Arkansas,Washington County,5131,5.0,131.0,Arkansas,Sebastian County,629,192,AR
+5149,5,149,Arkansas,Yell County,5131,5.0,131.0,Arkansas,Sebastian County,51,56,AR
+5061,5,61,Arkansas,Howard County,5133,5.0,133.0,Arkansas,Sevier County,212,85,AR
+5073,5,73,Arkansas,Lafayette County,5133,5.0,133.0,Arkansas,Sevier County,4,6,AR
+5081,5,81,Arkansas,Little River County,5133,5.0,133.0,Arkansas,Sevier County,193,94,AR
+5091,5,91,Arkansas,Miller County,5133,5.0,133.0,Arkansas,Sevier County,17,26,AR
+5099,5,99,Arkansas,Nevada County,5133,5.0,133.0,Arkansas,Sevier County,7,11,AR
+5109,5,109,Arkansas,Pike County,5133,5.0,133.0,Arkansas,Sevier County,29,31,AR
+5113,5,113,Arkansas,Polk County,5133,5.0,133.0,Arkansas,Sevier County,273,75,AR
+5133,5,133,Arkansas,Sevier County,5133,5.0,133.0,Arkansas,Sevier County,4545,364,AR
+5005,5,5,Arkansas,Baxter County,5135,5.0,135.0,Arkansas,Sharp County,4,6,AR
+5031,5,31,Arkansas,Craighead County,5135,5.0,135.0,Arkansas,Sharp County,72,79,AR
+5049,5,49,Arkansas,Fulton County,5135,5.0,135.0,Arkansas,Sharp County,464,184,AR
+5055,5,55,Arkansas,Greene County,5135,5.0,135.0,Arkansas,Sharp County,8,13,AR
+5063,5,63,Arkansas,Independence County,5135,5.0,135.0,Arkansas,Sharp County,130,61,AR
+5065,5,65,Arkansas,Izard County,5135,5.0,135.0,Arkansas,Sharp County,298,88,AR
+5075,5,75,Arkansas,Lawrence County,5135,5.0,135.0,Arkansas,Sharp County,132,70,AR
+5121,5,121,Arkansas,Randolph County,5135,5.0,135.0,Arkansas,Sharp County,3,4,AR
+5135,5,135,Arkansas,Sharp County,5135,5.0,135.0,Arkansas,Sharp County,3100,346,AR
+5005,5,5,Arkansas,Baxter County,5137,5.0,137.0,Arkansas,Stone County,24,24,AR
+5015,5,15,Arkansas,Carroll County,5137,5.0,137.0,Arkansas,Stone County,16,26,AR
+5023,5,23,Arkansas,Cleburne County,5137,5.0,137.0,Arkansas,Stone County,22,32,AR
+5053,5,53,Arkansas,Grant County,5137,5.0,137.0,Arkansas,Stone County,23,34,AR
+5063,5,63,Arkansas,Independence County,5137,5.0,137.0,Arkansas,Stone County,86,82,AR
+5065,5,65,Arkansas,Izard County,5137,5.0,137.0,Arkansas,Stone County,87,55,AR
+5077,5,77,Arkansas,Lee County,5137,5.0,137.0,Arkansas,Stone County,7,10,AR
+5089,5,89,Arkansas,Marion County,5137,5.0,137.0,Arkansas,Stone County,8,11,AR
+5129,5,129,Arkansas,Searcy County,5137,5.0,137.0,Arkansas,Stone County,138,82,AR
+5135,5,135,Arkansas,Sharp County,5137,5.0,137.0,Arkansas,Stone County,4,6,AR
+5137,5,137,Arkansas,Stone County,5137,5.0,137.0,Arkansas,Stone County,3383,382,AR
+5141,5,141,Arkansas,Van Buren County,5137,5.0,137.0,Arkansas,Stone County,26,31,AR
+5145,5,145,Arkansas,White County,5137,5.0,137.0,Arkansas,Stone County,3,6,AR
+5003,5,3,Arkansas,Ashley County,5139,5.0,139.0,Arkansas,Union County,98,62,AR
+5007,5,7,Arkansas,Benton County,5139,5.0,139.0,Arkansas,Union County,12,18,AR
+5011,5,11,Arkansas,Bradley County,5139,5.0,139.0,Arkansas,Union County,58,55,AR
+5013,5,13,Arkansas,Calhoun County,5139,5.0,139.0,Arkansas,Union County,254,88,AR
+5019,5,19,Arkansas,Clark County,5139,5.0,139.0,Arkansas,Union County,12,16,AR
+5025,5,25,Arkansas,Cleveland County,5139,5.0,139.0,Arkansas,Union County,3,5,AR
+5027,5,27,Arkansas,Columbia County,5139,5.0,139.0,Arkansas,Union County,549,216,AR
+5039,5,39,Arkansas,Dallas County,5139,5.0,139.0,Arkansas,Union County,35,27,AR
+5043,5,43,Arkansas,Drew County,5139,5.0,139.0,Arkansas,Union County,114,104,AR
+5051,5,51,Arkansas,Garland County,5139,5.0,139.0,Arkansas,Union County,23,39,AR
+5057,5,57,Arkansas,Hempstead County,5139,5.0,139.0,Arkansas,Union County,30,44,AR
+5069,5,69,Arkansas,Jefferson County,5139,5.0,139.0,Arkansas,Union County,39,36,AR
+5073,5,73,Arkansas,Lafayette County,5139,5.0,139.0,Arkansas,Union County,6,9,AR
+5085,5,85,Arkansas,Lonoke County,5139,5.0,139.0,Arkansas,Union County,6,9,AR
+5103,5,103,Arkansas,Ouachita County,5139,5.0,139.0,Arkansas,Union County,1205,361,AR
+5115,5,115,Arkansas,Pope County,5139,5.0,139.0,Arkansas,Union County,22,36,AR
+5119,5,119,Arkansas,Pulaski County,5139,5.0,139.0,Arkansas,Union County,74,77,AR
+5139,5,139,Arkansas,Union County,5139,5.0,139.0,Arkansas,Union County,14719,537,AR
+5145,5,145,Arkansas,White County,5139,5.0,139.0,Arkansas,Union County,34,36,AR
+5007,5,7,Arkansas,Benton County,5141,5.0,141.0,Arkansas,Van Buren County,4,8,AR
+5023,5,23,Arkansas,Cleburne County,5141,5.0,141.0,Arkansas,Van Buren County,174,74,AR
+5029,5,29,Arkansas,Conway County,5141,5.0,141.0,Arkansas,Van Buren County,256,90,AR
+5045,5,45,Arkansas,Faulkner County,5141,5.0,141.0,Arkansas,Van Buren County,286,84,AR
+5063,5,63,Arkansas,Independence County,5141,5.0,141.0,Arkansas,Van Buren County,8,14,AR
+5071,5,71,Arkansas,Johnson County,5141,5.0,141.0,Arkansas,Van Buren County,11,15,AR
+5083,5,83,Arkansas,Logan County,5141,5.0,141.0,Arkansas,Van Buren County,8,10,AR
+5101,5,101,Arkansas,Newton County,5141,5.0,141.0,Arkansas,Van Buren County,3,4,AR
+5105,5,105,Arkansas,Perry County,5141,5.0,141.0,Arkansas,Van Buren County,38,43,AR
+5119,5,119,Arkansas,Pulaski County,5141,5.0,141.0,Arkansas,Van Buren County,79,78,AR
+5125,5,125,Arkansas,Saline County,5141,5.0,141.0,Arkansas,Van Buren County,15,24,AR
+5129,5,129,Arkansas,Searcy County,5141,5.0,141.0,Arkansas,Van Buren County,106,57,AR
+5137,5,137,Arkansas,Stone County,5141,5.0,141.0,Arkansas,Van Buren County,160,94,AR
+5141,5,141,Arkansas,Van Buren County,5141,5.0,141.0,Arkansas,Van Buren County,3319,335,AR
+5145,5,145,Arkansas,White County,5141,5.0,141.0,Arkansas,Van Buren County,50,39,AR
+5147,5,147,Arkansas,Woodruff County,5141,5.0,141.0,Arkansas,Van Buren County,2,3,AR
+5005,5,5,Arkansas,Baxter County,5143,5.0,143.0,Arkansas,Washington County,12,14,AR
+5007,5,7,Arkansas,Benton County,5143,5.0,143.0,Arkansas,Washington County,13857,751,AR
+5009,5,9,Arkansas,Boone County,5143,5.0,143.0,Arkansas,Washington County,67,50,AR
+5015,5,15,Arkansas,Carroll County,5143,5.0,143.0,Arkansas,Washington County,165,88,AR
+5019,5,19,Arkansas,Clark County,5143,5.0,143.0,Arkansas,Washington County,6,13,AR
+5033,5,33,Arkansas,Crawford County,5143,5.0,143.0,Arkansas,Washington County,404,159,AR
+5035,5,35,Arkansas,Crittenden County,5143,5.0,143.0,Arkansas,Washington County,20,22,AR
+5045,5,45,Arkansas,Faulkner County,5143,5.0,143.0,Arkansas,Washington County,30,28,AR
+5047,5,47,Arkansas,Franklin County,5143,5.0,143.0,Arkansas,Washington County,10,17,AR
+5049,5,49,Arkansas,Fulton County,5143,5.0,143.0,Arkansas,Washington County,30,32,AR
+5051,5,51,Arkansas,Garland County,5143,5.0,143.0,Arkansas,Washington County,15,18,AR
+5055,5,55,Arkansas,Greene County,5143,5.0,143.0,Arkansas,Washington County,23,34,AR
+5059,5,59,Arkansas,Hot Spring County,5143,5.0,143.0,Arkansas,Washington County,25,37,AR
+5069,5,69,Arkansas,Jefferson County,5143,5.0,143.0,Arkansas,Washington County,6,11,AR
+5071,5,71,Arkansas,Johnson County,5143,5.0,143.0,Arkansas,Washington County,20,23,AR
+5083,5,83,Arkansas,Logan County,5143,5.0,143.0,Arkansas,Washington County,4,7,AR
+5085,5,85,Arkansas,Lonoke County,5143,5.0,143.0,Arkansas,Washington County,19,32,AR
+5087,5,87,Arkansas,Madison County,5143,5.0,143.0,Arkansas,Washington County,2367,317,AR
+5091,5,91,Arkansas,Miller County,5143,5.0,143.0,Arkansas,Washington County,2,5,AR
+5097,5,97,Arkansas,Montgomery County,5143,5.0,143.0,Arkansas,Washington County,5,6,AR
+5107,5,107,Arkansas,Phillips County,5143,5.0,143.0,Arkansas,Washington County,21,35,AR
+5113,5,113,Arkansas,Polk County,5143,5.0,143.0,Arkansas,Washington County,1,4,AR
+5115,5,115,Arkansas,Pope County,5143,5.0,143.0,Arkansas,Washington County,14,15,AR
+5119,5,119,Arkansas,Pulaski County,5143,5.0,143.0,Arkansas,Washington County,154,77,AR
+5125,5,125,Arkansas,Saline County,5143,5.0,143.0,Arkansas,Washington County,15,18,AR
+5127,5,127,Arkansas,Scott County,5143,5.0,143.0,Arkansas,Washington County,18,25,AR
+5131,5,131,Arkansas,Sebastian County,5143,5.0,143.0,Arkansas,Washington County,292,134,AR
+5143,5,143,Arkansas,Washington County,5143,5.0,143.0,Arkansas,Washington County,82844,1704,AR
+5145,5,145,Arkansas,White County,5143,5.0,143.0,Arkansas,Washington County,13,16,AR
+5023,5,23,Arkansas,Cleburne County,5145,5.0,145.0,Arkansas,White County,677,185,AR
+5027,5,27,Arkansas,Columbia County,5145,5.0,145.0,Arkansas,White County,13,19,AR
+5029,5,29,Arkansas,Conway County,5145,5.0,145.0,Arkansas,White County,7,13,AR
+5031,5,31,Arkansas,Craighead County,5145,5.0,145.0,Arkansas,White County,32,32,AR
+5033,5,33,Arkansas,Crawford County,5145,5.0,145.0,Arkansas,White County,16,26,AR
+5035,5,35,Arkansas,Crittenden County,5145,5.0,145.0,Arkansas,White County,21,31,AR
+5037,5,37,Arkansas,Cross County,5145,5.0,145.0,Arkansas,White County,2,6,AR
+5045,5,45,Arkansas,Faulkner County,5145,5.0,145.0,Arkansas,White County,448,171,AR
+5047,5,47,Arkansas,Franklin County,5145,5.0,145.0,Arkansas,White County,15,26,AR
+5051,5,51,Arkansas,Garland County,5145,5.0,145.0,Arkansas,White County,61,59,AR
+5053,5,53,Arkansas,Grant County,5145,5.0,145.0,Arkansas,White County,7,9,AR
+5055,5,55,Arkansas,Greene County,5145,5.0,145.0,Arkansas,White County,20,34,AR
+5059,5,59,Arkansas,Hot Spring County,5145,5.0,145.0,Arkansas,White County,31,47,AR
+5063,5,63,Arkansas,Independence County,5145,5.0,145.0,Arkansas,White County,215,104,AR
+5065,5,65,Arkansas,Izard County,5145,5.0,145.0,Arkansas,White County,6,9,AR
+5067,5,67,Arkansas,Jackson County,5145,5.0,145.0,Arkansas,White County,455,117,AR
+5069,5,69,Arkansas,Jefferson County,5145,5.0,145.0,Arkansas,White County,23,31,AR
+5077,5,77,Arkansas,Lee County,5145,5.0,145.0,Arkansas,White County,14,21,AR
+5083,5,83,Arkansas,Logan County,5145,5.0,145.0,Arkansas,White County,23,36,AR
+5085,5,85,Arkansas,Lonoke County,5145,5.0,145.0,Arkansas,White County,1235,270,AR
+5095,5,95,Arkansas,Monroe County,5145,5.0,145.0,Arkansas,White County,9,15,AR
+5105,5,105,Arkansas,Perry County,5145,5.0,145.0,Arkansas,White County,35,35,AR
+5107,5,107,Arkansas,Phillips County,5145,5.0,145.0,Arkansas,White County,9,15,AR
+5111,5,111,Arkansas,Poinsett County,5145,5.0,145.0,Arkansas,White County,11,15,AR
+5115,5,115,Arkansas,Pope County,5145,5.0,145.0,Arkansas,White County,28,31,AR
+5117,5,117,Arkansas,Prairie County,5145,5.0,145.0,Arkansas,White County,276,93,AR
+5119,5,119,Arkansas,Pulaski County,5145,5.0,145.0,Arkansas,White County,479,181,AR
+5125,5,125,Arkansas,Saline County,5145,5.0,145.0,Arkansas,White County,53,44,AR
+5127,5,127,Arkansas,Scott County,5145,5.0,145.0,Arkansas,White County,10,15,AR
+5131,5,131,Arkansas,Sebastian County,5145,5.0,145.0,Arkansas,White County,6,9,AR
+5135,5,135,Arkansas,Sharp County,5145,5.0,145.0,Arkansas,White County,45,46,AR
+5137,5,137,Arkansas,Stone County,5145,5.0,145.0,Arkansas,White County,24,36,AR
+5141,5,141,Arkansas,Van Buren County,5145,5.0,145.0,Arkansas,White County,82,52,AR
+5145,5,145,Arkansas,White County,5145,5.0,145.0,Arkansas,White County,23666,979,AR
+5147,5,147,Arkansas,Woodruff County,5145,5.0,145.0,Arkansas,White County,218,70,AR
+5149,5,149,Arkansas,Yell County,5145,5.0,145.0,Arkansas,White County,13,15,AR
+5023,5,23,Arkansas,Cleburne County,5147,5.0,147.0,Arkansas,Woodruff County,9,15,AR
+5031,5,31,Arkansas,Craighead County,5147,5.0,147.0,Arkansas,Woodruff County,10,15,AR
+5037,5,37,Arkansas,Cross County,5147,5.0,147.0,Arkansas,Woodruff County,59,46,AR
+5063,5,63,Arkansas,Independence County,5147,5.0,147.0,Arkansas,Woodruff County,3,4,AR
+5067,5,67,Arkansas,Jackson County,5147,5.0,147.0,Arkansas,Woodruff County,37,25,AR
+5071,5,71,Arkansas,Johnson County,5147,5.0,147.0,Arkansas,Woodruff County,3,5,AR
+5085,5,85,Arkansas,Lonoke County,5147,5.0,147.0,Arkansas,Woodruff County,30,38,AR
+5095,5,95,Arkansas,Monroe County,5147,5.0,147.0,Arkansas,Woodruff County,19,25,AR
+5107,5,107,Arkansas,Phillips County,5147,5.0,147.0,Arkansas,Woodruff County,6,9,AR
+5117,5,117,Arkansas,Prairie County,5147,5.0,147.0,Arkansas,Woodruff County,53,62,AR
+5119,5,119,Arkansas,Pulaski County,5147,5.0,147.0,Arkansas,Woodruff County,8,12,AR
+5123,5,123,Arkansas,St. Francis County,5147,5.0,147.0,Arkansas,Woodruff County,14,12,AR
+5145,5,145,Arkansas,White County,5147,5.0,147.0,Arkansas,Woodruff County,194,83,AR
+5147,5,147,Arkansas,Woodruff County,5147,5.0,147.0,Arkansas,Woodruff County,1632,177,AR
+5005,5,5,Arkansas,Baxter County,5149,5.0,149.0,Arkansas,Yell County,34,50,AR
+5007,5,7,Arkansas,Benton County,5149,5.0,149.0,Arkansas,Yell County,15,16,AR
+5029,5,29,Arkansas,Conway County,5149,5.0,149.0,Arkansas,Yell County,17,15,AR
+5045,5,45,Arkansas,Faulkner County,5149,5.0,149.0,Arkansas,Yell County,11,17,AR
+5051,5,51,Arkansas,Garland County,5149,5.0,149.0,Arkansas,Yell County,22,29,AR
+5071,5,71,Arkansas,Johnson County,5149,5.0,149.0,Arkansas,Yell County,29,28,AR
+5081,5,81,Arkansas,Little River County,5149,5.0,149.0,Arkansas,Yell County,9,12,AR
+5083,5,83,Arkansas,Logan County,5149,5.0,149.0,Arkansas,Yell County,267,114,AR
+5101,5,101,Arkansas,Newton County,5149,5.0,149.0,Arkansas,Yell County,10,12,AR
+5105,5,105,Arkansas,Perry County,5149,5.0,149.0,Arkansas,Yell County,152,84,AR
+5115,5,115,Arkansas,Pope County,5149,5.0,149.0,Arkansas,Yell County,1356,288,AR
+5127,5,127,Arkansas,Scott County,5149,5.0,149.0,Arkansas,Yell County,60,49,AR
+5143,5,143,Arkansas,Washington County,5149,5.0,149.0,Arkansas,Yell County,16,26,AR
+5145,5,145,Arkansas,White County,5149,5.0,149.0,Arkansas,Yell County,20,31,AR
+5149,5,149,Arkansas,Yell County,5149,5.0,149.0,Arkansas,Yell County,4225,423,AR
+5105,5,105,Arkansas,Perry County,6001,6.0,1.0,California,Alameda County,7,11,AR
+5133,5,133,Arkansas,Sevier County,6007,6.0,7.0,California,Butte County,5,7,AR
+5063,5,63,Arkansas,Independence County,6027,6.0,27.0,California,Inyo County,6,11,AR
+5033,5,33,Arkansas,Crawford County,6037,6.0,37.0,California,Los Angeles County,21,34,AR
+5063,5,63,Arkansas,Independence County,6037,6.0,37.0,California,Los Angeles County,9,13,AR
+5069,5,69,Arkansas,Jefferson County,6037,6.0,37.0,California,Los Angeles County,8,13,AR
+5075,5,75,Arkansas,Lawrence County,6037,6.0,37.0,California,Los Angeles County,2,4,AR
+5081,5,81,Arkansas,Little River County,6037,6.0,37.0,California,Los Angeles County,1,5,AR
+5119,5,119,Arkansas,Pulaski County,6037,6.0,37.0,California,Los Angeles County,1,3,AR
+5103,5,103,Arkansas,Ouachita County,6053,6.0,53.0,California,Monterey County,2,3,AR
+5119,5,119,Arkansas,Pulaski County,6053,6.0,53.0,California,Monterey County,6,9,AR
+5045,5,45,Arkansas,Faulkner County,6059,6.0,59.0,California,Orange County,13,20,AR
+5119,5,119,Arkansas,Pulaski County,6059,6.0,59.0,California,Orange County,77,108,AR
+5029,5,29,Arkansas,Conway County,6067,6.0,67.0,California,Sacramento County,25,32,AR
+5069,5,69,Arkansas,Jefferson County,6067,6.0,67.0,California,Sacramento County,18,32,AR
+5007,5,7,Arkansas,Benton County,6071,6.0,71.0,California,San Bernardino County,73,74,AR
+5125,5,125,Arkansas,Saline County,6071,6.0,71.0,California,San Bernardino County,60,89,AR
+5003,5,3,Arkansas,Ashley County,6073,6.0,73.0,California,San Diego County,20,30,AR
+5045,5,45,Arkansas,Faulkner County,6073,6.0,73.0,California,San Diego County,65,103,AR
+5095,5,95,Arkansas,Monroe County,6073,6.0,73.0,California,San Diego County,16,24,AR
+5125,5,125,Arkansas,Saline County,6073,6.0,73.0,California,San Diego County,16,26,AR
+5119,5,119,Arkansas,Pulaski County,6081,6.0,81.0,California,San Mateo County,14,23,AR
+5145,5,145,Arkansas,White County,6085,6.0,85.0,California,Santa Clara County,20,33,AR
+5143,5,143,Arkansas,Washington County,6099,6.0,99.0,California,Stanislaus County,12,18,AR
+5023,5,23,Arkansas,Cleburne County,6111,6.0,111.0,California,Ventura County,12,19,AR
+5139,5,139,Arkansas,Union County,6113,6.0,113.0,California,Yolo County,10,16,AR
+5115,5,115,Arkansas,Pope County,8001,8.0,1.0,Colorado,Adams County,40,54,AR
+5029,5,29,Arkansas,Conway County,8031,8.0,31.0,Colorado,Denver County,5,8,AR
+5057,5,57,Arkansas,Hempstead County,8031,8.0,31.0,Colorado,Denver County,17,17,AR
+5125,5,125,Arkansas,Saline County,8035,8.0,35.0,Colorado,Douglas County,15,24,AR
+5101,5,101,Arkansas,Newton County,8041,8.0,41.0,Colorado,El Paso County,23,25,AR
+5007,5,7,Arkansas,Benton County,8059,8.0,59.0,Colorado,Jefferson County,13,21,AR
+5125,5,125,Arkansas,Saline County,8067,8.0,67.0,Colorado,La Plata County,23,37,AR
+5145,5,145,Arkansas,White County,8077,8.0,77.0,Colorado,Mesa County,27,45,AR
+5041,5,41,Arkansas,Desha County,8101,8.0,101.0,Colorado,Pueblo County,10,16,AR
+5069,5,69,Arkansas,Jefferson County,8101,8.0,101.0,Colorado,Pueblo County,73,70,AR
+5085,5,85,Arkansas,Lonoke County,8101,8.0,101.0,Colorado,Pueblo County,8,15,AR
+5015,5,15,Arkansas,Carroll County,8123,8.0,123.0,Colorado,Weld County,1,4,AR
+5031,5,31,Arkansas,Craighead County,8123,8.0,123.0,Colorado,Weld County,3,5,AR
+5037,5,37,Arkansas,Cross County,10003,10.0,3.0,Delaware,New Castle County,4,6,AR
+5045,5,45,Arkansas,Faulkner County,11001,11.0,1.0,District of Columbia,District of Columbia,46,60,AR
+5083,5,83,Arkansas,Logan County,11001,11.0,1.0,District of Columbia,District of Columbia,19,20,AR
+5119,5,119,Arkansas,Pulaski County,11001,11.0,1.0,District of Columbia,District of Columbia,16,25,AR
+5119,5,119,Arkansas,Pulaski County,12005,12.0,5.0,Florida,Bay County,10,14,AR
+5119,5,119,Arkansas,Pulaski County,12021,12.0,21.0,Florida,Collier County,11,18,AR
+5001,5,1,Arkansas,Arkansas County,12031,12.0,31.0,Florida,Duval County,10,18,AR
+5007,5,7,Arkansas,Benton County,12031,12.0,31.0,Florida,Duval County,8,15,AR
+5033,5,33,Arkansas,Crawford County,12031,12.0,31.0,Florida,Duval County,1,3,AR
+5055,5,55,Arkansas,Greene County,12031,12.0,31.0,Florida,Duval County,3,4,AR
+5119,5,119,Arkansas,Pulaski County,12031,12.0,31.0,Florida,Duval County,18,31,AR
+5007,5,7,Arkansas,Benton County,12057,12.0,57.0,Florida,Hillsborough County,33,41,AR
+5007,5,7,Arkansas,Benton County,12071,12.0,71.0,Florida,Lee County,6,10,AR
+5141,5,141,Arkansas,Van Buren County,12071,12.0,71.0,Florida,Lee County,6,9,AR
+5043,5,43,Arkansas,Drew County,12086,12.0,86.0,Florida,Miami-Dade County,3,7,AR
+5067,5,67,Arkansas,Jackson County,12086,12.0,86.0,Florida,Miami-Dade County,5,7,AR
+5071,5,71,Arkansas,Johnson County,12086,12.0,86.0,Florida,Miami-Dade County,9,14,AR
+5145,5,145,Arkansas,White County,12086,12.0,86.0,Florida,Miami-Dade County,26,38,AR
+5149,5,149,Arkansas,Yell County,12086,12.0,86.0,Florida,Miami-Dade County,1,3,AR
+5053,5,53,Arkansas,Grant County,12089,12.0,89.0,Florida,Nassau County,9,15,AR
+5097,5,97,Arkansas,Montgomery County,12091,12.0,91.0,Florida,Okaloosa County,4,7,AR
+5045,5,45,Arkansas,Faulkner County,12095,12.0,95.0,Florida,Orange County,6,11,AR
+5007,5,7,Arkansas,Benton County,12099,12.0,99.0,Florida,Palm Beach County,7,11,AR
+5131,5,131,Arkansas,Sebastian County,12099,12.0,99.0,Florida,Palm Beach County,6,9,AR
+5143,5,143,Arkansas,Washington County,12103,12.0,103.0,Florida,Pinellas County,6,9,AR
+5031,5,31,Arkansas,Craighead County,12105,12.0,105.0,Florida,Polk County,13,14,AR
+5007,5,7,Arkansas,Benton County,12127,12.0,127.0,Florida,Volusia County,27,30,AR
+5115,5,115,Arkansas,Pope County,13033,13.0,33.0,Georgia,Burke County,3,5,AR
+5049,5,49,Arkansas,Fulton County,13051,13.0,51.0,Georgia,Chatham County,1,2,AR
+5085,5,85,Arkansas,Lonoke County,13051,13.0,51.0,Georgia,Chatham County,13,22,AR
+5143,5,143,Arkansas,Washington County,13053,13.0,53.0,Georgia,Chattahoochee County,6,8,AR
+5049,5,49,Arkansas,Fulton County,13067,13.0,67.0,Georgia,Cobb County,22,25,AR
+5109,5,109,Arkansas,Pike County,13067,13.0,67.0,Georgia,Cobb County,7,9,AR
+5139,5,139,Arkansas,Union County,13067,13.0,67.0,Georgia,Cobb County,22,35,AR
+5031,5,31,Arkansas,Craighead County,13089,13.0,89.0,Georgia,DeKalb County,19,29,AR
+5007,5,7,Arkansas,Benton County,13121,13.0,121.0,Georgia,Fulton County,13,22,AR
+5033,5,33,Arkansas,Crawford County,13121,13.0,121.0,Georgia,Fulton County,12,17,AR
+5051,5,51,Arkansas,Garland County,13121,13.0,121.0,Georgia,Fulton County,19,28,AR
+5057,5,57,Arkansas,Hempstead County,13121,13.0,121.0,Georgia,Fulton County,7,7,AR
+5119,5,119,Arkansas,Pulaski County,13121,13.0,121.0,Georgia,Fulton County,68,69,AR
+5129,5,129,Arkansas,Searcy County,13121,13.0,121.0,Georgia,Fulton County,20,30,AR
+5045,5,45,Arkansas,Faulkner County,13139,13.0,139.0,Georgia,Hall County,6,10,AR
+5071,5,71,Arkansas,Johnson County,13139,13.0,139.0,Georgia,Hall County,3,5,AR
+5087,5,87,Arkansas,Madison County,13165,13.0,165.0,Georgia,Jenkins County,12,20,AR
+5147,5,147,Arkansas,Woodruff County,13245,13.0,245.0,Georgia,Richmond County,10,16,AR
+5097,5,97,Arkansas,Montgomery County,15001,15.0,1.0,Hawaii,Hawaii County,12,17,AR
+5015,5,15,Arkansas,Carroll County,17031,17.0,31.0,Illinois,Cook County,4,8,AR
+5033,5,33,Arkansas,Crawford County,17031,17.0,31.0,Illinois,Cook County,2,4,AR
+5045,5,45,Arkansas,Faulkner County,17031,17.0,31.0,Illinois,Cook County,16,18,AR
+5069,5,69,Arkansas,Jefferson County,17031,17.0,31.0,Illinois,Cook County,8,19,AR
+5075,5,75,Arkansas,Lawrence County,17031,17.0,31.0,Illinois,Cook County,4,7,AR
+5085,5,85,Arkansas,Lonoke County,17031,17.0,31.0,Illinois,Cook County,22,34,AR
+5093,5,93,Arkansas,Mississippi County,17031,17.0,31.0,Illinois,Cook County,12,13,AR
+5109,5,109,Arkansas,Pike County,17031,17.0,31.0,Illinois,Cook County,5,8,AR
+5115,5,115,Arkansas,Pope County,17031,17.0,31.0,Illinois,Cook County,13,22,AR
+5119,5,119,Arkansas,Pulaski County,17031,17.0,31.0,Illinois,Cook County,79,58,AR
+5145,5,145,Arkansas,White County,17031,17.0,31.0,Illinois,Cook County,23,31,AR
+5045,5,45,Arkansas,Faulkner County,17077,17.0,77.0,Illinois,Jackson County,5,7,AR
+5119,5,119,Arkansas,Pulaski County,17077,17.0,77.0,Illinois,Jackson County,10,14,AR
+5067,5,67,Arkansas,Jackson County,17113,17.0,113.0,Illinois,McLean County,17,18,AR
+5111,5,111,Arkansas,Poinsett County,17115,17.0,115.0,Illinois,Macon County,6,8,AR
+5033,5,33,Arkansas,Crawford County,17119,17.0,119.0,Illinois,Madison County,2,3,AR
+5121,5,121,Arkansas,Randolph County,17119,17.0,119.0,Illinois,Madison County,31,40,AR
+5031,5,31,Arkansas,Craighead County,17127,17.0,127.0,Illinois,Massac County,30,34,AR
+5121,5,121,Arkansas,Randolph County,17127,17.0,127.0,Illinois,Massac County,21,22,AR
+5119,5,119,Arkansas,Pulaski County,17161,17.0,161.0,Illinois,Rock Island County,30,36,AR
+5145,5,145,Arkansas,White County,17161,17.0,161.0,Illinois,Rock Island County,12,20,AR
+5075,5,75,Arkansas,Lawrence County,17197,17.0,197.0,Illinois,Will County,2,3,AR
+5141,5,141,Arkansas,Van Buren County,17197,17.0,197.0,Illinois,Will County,43,35,AR
+5111,5,111,Arkansas,Poinsett County,17199,17.0,199.0,Illinois,Williamson County,20,24,AR
+5031,5,31,Arkansas,Craighead County,18039,18.0,39.0,Indiana,Elkhart County,8,12,AR
+5121,5,121,Arkansas,Randolph County,18053,18.0,53.0,Indiana,Grant County,24,37,AR
+5015,5,15,Arkansas,Carroll County,18081,18.0,81.0,Indiana,Johnson County,16,23,AR
+5085,5,85,Arkansas,Lonoke County,18089,18.0,89.0,Indiana,Lake County,10,16,AR
+5055,5,55,Arkansas,Greene County,18095,18.0,95.0,Indiana,Madison County,29,40,AR
+5007,5,7,Arkansas,Benton County,18097,18.0,97.0,Indiana,Marion County,6,11,AR
+5123,5,123,Arkansas,St. Francis County,18097,18.0,97.0,Indiana,Marion County,4,7,AR
+5131,5,131,Arkansas,Sebastian County,18097,18.0,97.0,Indiana,Marion County,62,86,AR
+5135,5,135,Arkansas,Sharp County,18097,18.0,97.0,Indiana,Marion County,4,6,AR
+5119,5,119,Arkansas,Pulaski County,18129,18.0,129.0,Indiana,Posey County,9,15,AR
+5069,5,69,Arkansas,Jefferson County,18147,18.0,147.0,Indiana,Spencer County,13,20,AR
+5091,5,91,Arkansas,Miller County,18163,18.0,163.0,Indiana,Vanderburgh County,28,42,AR
+5119,5,119,Arkansas,Pulaski County,18163,18.0,163.0,Indiana,Vanderburgh County,33,51,AR
+5113,5,113,Arkansas,Polk County,19045,19.0,45.0,Iowa,Clinton County,7,13,AR
+5087,5,87,Arkansas,Madison County,19113,19.0,113.0,Iowa,Linn County,12,14,AR
+5005,5,5,Arkansas,Baxter County,19129,19.0,129.0,Iowa,Mills County,4,7,AR
+5051,5,51,Arkansas,Garland County,19153,19.0,153.0,Iowa,Polk County,10,16,AR
+5065,5,65,Arkansas,Izard County,19153,19.0,153.0,Iowa,Polk County,7,12,AR
+5075,5,75,Arkansas,Lawrence County,19153,19.0,153.0,Iowa,Polk County,4,6,AR
+5007,5,7,Arkansas,Benton County,19161,19.0,161.0,Iowa,Sac County,8,12,AR
+5065,5,65,Arkansas,Izard County,19165,19.0,165.0,Iowa,Shelby County,7,11,AR
+5063,5,63,Arkansas,Independence County,19193,19.0,193.0,Iowa,Woodbury County,26,38,AR
+5131,5,131,Arkansas,Sebastian County,20015,20.0,15.0,Kansas,Butler County,12,19,AR
+5145,5,145,Arkansas,White County,20057,20.0,57.0,Kansas,Ford County,9,14,AR
+5007,5,7,Arkansas,Benton County,20061,20.0,61.0,Kansas,Geary County,14,24,AR
+5005,5,5,Arkansas,Baxter County,20091,20.0,91.0,Kansas,Johnson County,10,16,AR
+5007,5,7,Arkansas,Benton County,20091,20.0,91.0,Kansas,Johnson County,4,12,AR
+5083,5,83,Arkansas,Logan County,20091,20.0,91.0,Kansas,Johnson County,5,10,AR
+5007,5,7,Arkansas,Benton County,20099,20.0,99.0,Kansas,Labette County,15,17,AR
+5143,5,143,Arkansas,Washington County,20109,20.0,109.0,Kansas,Logan County,67,102,AR
+5019,5,19,Arkansas,Clark County,20113,20.0,113.0,Kansas,McPherson County,7,12,AR
+5017,5,17,Arkansas,Chicot County,20125,20.0,125.0,Kansas,Montgomery County,6,11,AR
+5145,5,145,Arkansas,White County,20125,20.0,125.0,Kansas,Montgomery County,12,22,AR
+5087,5,87,Arkansas,Madison County,20159,20.0,159.0,Kansas,Rice County,6,10,AR
+5007,5,7,Arkansas,Benton County,20173,20.0,173.0,Kansas,Sedgwick County,9,16,AR
+5015,5,15,Arkansas,Carroll County,20173,20.0,173.0,Kansas,Sedgwick County,14,23,AR
+5019,5,19,Arkansas,Clark County,20173,20.0,173.0,Kansas,Sedgwick County,5,8,AR
+5143,5,143,Arkansas,Washington County,20173,20.0,173.0,Kansas,Sedgwick County,7,12,AR
+5085,5,85,Arkansas,Lonoke County,20177,20.0,177.0,Kansas,Shawnee County,37,48,AR
+5143,5,143,Arkansas,Washington County,20177,20.0,177.0,Kansas,Shawnee County,93,115,AR
+5015,5,15,Arkansas,Carroll County,20183,20.0,183.0,Kansas,Smith County,2,4,AR
+5009,5,9,Arkansas,Boone County,20189,20.0,189.0,Kansas,Stevens County,2,3,AR
+5143,5,143,Arkansas,Washington County,20209,20.0,209.0,Kansas,Wyandotte County,13,21,AR
+5021,5,21,Arkansas,Clay County,21007,21.0,7.0,Kentucky,Ballard County,24,28,AR
+5007,5,7,Arkansas,Benton County,21029,21.0,29.0,Kentucky,Bullitt County,7,12,AR
+5045,5,45,Arkansas,Faulkner County,21037,21.0,37.0,Kentucky,Campbell County,3,5,AR
+5049,5,49,Arkansas,Fulton County,21093,21.0,93.0,Kentucky,Hardin County,11,18,AR
+5129,5,129,Arkansas,Searcy County,21105,21.0,105.0,Kentucky,Hickman County,6,8,AR
+5075,5,75,Arkansas,Lawrence County,21107,21.0,107.0,Kentucky,Hopkins County,1,3,AR
+5063,5,63,Arkansas,Independence County,21111,21.0,111.0,Kentucky,Jefferson County,16,19,AR
+5093,5,93,Arkansas,Mississippi County,21111,21.0,111.0,Kentucky,Jefferson County,15,22,AR
+5119,5,119,Arkansas,Pulaski County,21111,21.0,111.0,Kentucky,Jefferson County,9,14,AR
+5121,5,121,Arkansas,Randolph County,21111,21.0,111.0,Kentucky,Jefferson County,21,33,AR
+5097,5,97,Arkansas,Montgomery County,21141,21.0,141.0,Kentucky,Logan County,13,19,AR
+5021,5,21,Arkansas,Clay County,21143,21.0,143.0,Kentucky,Lyon County,4,5,AR
+5017,5,17,Arkansas,Chicot County,21145,21.0,145.0,Kentucky,McCracken County,17,18,AR
+5031,5,31,Arkansas,Craighead County,21145,21.0,145.0,Kentucky,McCracken County,20,31,AR
+5049,5,49,Arkansas,Fulton County,21145,21.0,145.0,Kentucky,McCracken County,59,50,AR
+5063,5,63,Arkansas,Independence County,21145,21.0,145.0,Kentucky,McCracken County,11,17,AR
+5065,5,65,Arkansas,Izard County,21145,21.0,145.0,Kentucky,McCracken County,1,3,AR
+5075,5,75,Arkansas,Lawrence County,21145,21.0,145.0,Kentucky,McCracken County,14,14,AR
+5029,5,29,Arkansas,Conway County,22005,22.0,5.0,Louisiana,Ascension Parish,4,6,AR
+5031,5,31,Arkansas,Craighead County,22005,22.0,5.0,Louisiana,Ascension Parish,75,96,AR
+5053,5,53,Arkansas,Grant County,22005,22.0,5.0,Louisiana,Ascension Parish,8,14,AR
+5139,5,139,Arkansas,Union County,22013,22.0,13.0,Louisiana,Bienville Parish,7,10,AR
+5027,5,27,Arkansas,Columbia County,22015,22.0,15.0,Louisiana,Bossier Parish,3,4,AR
+5043,5,43,Arkansas,Drew County,22015,22.0,15.0,Louisiana,Bossier Parish,35,51,AR
+5073,5,73,Arkansas,Lafayette County,22015,22.0,15.0,Louisiana,Bossier Parish,47,33,AR
+5091,5,91,Arkansas,Miller County,22015,22.0,15.0,Louisiana,Bossier Parish,57,65,AR
+5139,5,139,Arkansas,Union County,22015,22.0,15.0,Louisiana,Bossier Parish,35,38,AR
+5143,5,143,Arkansas,Washington County,22015,22.0,15.0,Louisiana,Bossier Parish,5,9,AR
+5015,5,15,Arkansas,Carroll County,22017,22.0,17.0,Louisiana,Caddo Parish,39,46,AR
+5027,5,27,Arkansas,Columbia County,22017,22.0,17.0,Louisiana,Caddo Parish,11,16,AR
+5073,5,73,Arkansas,Lafayette County,22017,22.0,17.0,Louisiana,Caddo Parish,44,30,AR
+5081,5,81,Arkansas,Little River County,22017,22.0,17.0,Louisiana,Caddo Parish,7,10,AR
+5091,5,91,Arkansas,Miller County,22017,22.0,17.0,Louisiana,Caddo Parish,138,91,AR
+5115,5,115,Arkansas,Pope County,22017,22.0,17.0,Louisiana,Caddo Parish,11,19,AR
+5119,5,119,Arkansas,Pulaski County,22017,22.0,17.0,Louisiana,Caddo Parish,16,24,AR
+5013,5,13,Arkansas,Calhoun County,22019,22.0,19.0,Louisiana,Calcasieu Parish,31,34,AR
+5063,5,63,Arkansas,Independence County,22019,22.0,19.0,Louisiana,Calcasieu Parish,21,33,AR
+5033,5,33,Arkansas,Crawford County,22023,22.0,23.0,Louisiana,Cameron Parish,12,19,AR
+5027,5,27,Arkansas,Columbia County,22027,22.0,27.0,Louisiana,Claiborne Parish,244,109,AR
+5073,5,73,Arkansas,Lafayette County,22027,22.0,27.0,Louisiana,Claiborne Parish,4,9,AR
+5139,5,139,Arkansas,Union County,22027,22.0,27.0,Louisiana,Claiborne Parish,15,12,AR
+5003,5,3,Arkansas,Ashley County,22029,22.0,29.0,Louisiana,Concordia Parish,2,4,AR
+5067,5,67,Arkansas,Jackson County,22031,22.0,31.0,Louisiana,De Soto Parish,16,25,AR
+5079,5,79,Arkansas,Lincoln County,22031,22.0,31.0,Louisiana,De Soto Parish,11,16,AR
+5091,5,91,Arkansas,Miller County,22031,22.0,31.0,Louisiana,De Soto Parish,14,16,AR
+5103,5,103,Arkansas,Ouachita County,22031,22.0,31.0,Louisiana,De Soto Parish,23,35,AR
+5001,5,1,Arkansas,Arkansas County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,11,12,AR
+5003,5,3,Arkansas,Ashley County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,10,12,AR
+5019,5,19,Arkansas,Clark County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,9,13,AR
+5067,5,67,Arkansas,Jackson County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,4,7,AR
+5069,5,69,Arkansas,Jefferson County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,7,11,AR
+5075,5,75,Arkansas,Lawrence County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,17,26,AR
+5135,5,135,Arkansas,Sharp County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,2,5,AR
+5017,5,17,Arkansas,Chicot County,22035,22.0,35.0,Louisiana,East Carroll Parish,7,11,AR
+5069,5,69,Arkansas,Jefferson County,22035,22.0,35.0,Louisiana,East Carroll Parish,6,9,AR
+5013,5,13,Arkansas,Calhoun County,22039,22.0,39.0,Louisiana,Evangeline Parish,6,11,AR
+5005,5,5,Arkansas,Baxter County,22051,22.0,51.0,Louisiana,Jefferson Parish,6,10,AR
+5035,5,35,Arkansas,Crittenden County,22051,22.0,51.0,Louisiana,Jefferson Parish,1,3,AR
+5059,5,59,Arkansas,Hot Spring County,22051,22.0,51.0,Louisiana,Jefferson Parish,15,19,AR
+5097,5,97,Arkansas,Montgomery County,22051,22.0,51.0,Louisiana,Jefferson Parish,7,12,AR
+5121,5,121,Arkansas,Randolph County,22051,22.0,51.0,Louisiana,Jefferson Parish,7,11,AR
+5027,5,27,Arkansas,Columbia County,22055,22.0,55.0,Louisiana,Lafayette Parish,6,12,AR
+5051,5,51,Arkansas,Garland County,22055,22.0,55.0,Louisiana,Lafayette Parish,25,42,AR
+5069,5,69,Arkansas,Jefferson County,22055,22.0,55.0,Louisiana,Lafayette Parish,29,43,AR
+5115,5,115,Arkansas,Pope County,22055,22.0,55.0,Louisiana,Lafayette Parish,54,69,AR
+5141,5,141,Arkansas,Van Buren County,22055,22.0,55.0,Louisiana,Lafayette Parish,5,9,AR
+5041,5,41,Arkansas,Desha County,22057,22.0,57.0,Louisiana,Lafourche Parish,6,10,AR
+5047,5,47,Arkansas,Franklin County,22057,22.0,57.0,Louisiana,Lafourche Parish,10,18,AR
+5057,5,57,Arkansas,Hempstead County,22057,22.0,57.0,Louisiana,Lafourche Parish,2,3,AR
+5111,5,111,Arkansas,Poinsett County,22057,22.0,57.0,Louisiana,Lafourche Parish,9,14,AR
+5131,5,131,Arkansas,Sebastian County,22057,22.0,57.0,Louisiana,Lafourche Parish,18,29,AR
+5139,5,139,Arkansas,Union County,22061,22.0,61.0,Louisiana,Lincoln Parish,41,35,AR
+5147,5,147,Arkansas,Woodruff County,22061,22.0,61.0,Louisiana,Lincoln Parish,3,6,AR
+5003,5,3,Arkansas,Ashley County,22067,22.0,67.0,Louisiana,Morehouse Parish,164,87,AR
+5025,5,25,Arkansas,Cleveland County,22071,22.0,71.0,Louisiana,Orleans Parish,23,31,AR
+5031,5,31,Arkansas,Craighead County,22071,22.0,71.0,Louisiana,Orleans Parish,34,37,AR
+5045,5,45,Arkansas,Faulkner County,22071,22.0,71.0,Louisiana,Orleans Parish,9,14,AR
+5055,5,55,Arkansas,Greene County,22071,22.0,71.0,Louisiana,Orleans Parish,3,4,AR
+5059,5,59,Arkansas,Hot Spring County,22071,22.0,71.0,Louisiana,Orleans Parish,1,3,AR
+5091,5,91,Arkansas,Miller County,22071,22.0,71.0,Louisiana,Orleans Parish,16,25,AR
+5115,5,115,Arkansas,Pope County,22071,22.0,71.0,Louisiana,Orleans Parish,5,9,AR
+5003,5,3,Arkansas,Ashley County,22073,22.0,73.0,Louisiana,Ouachita Parish,31,35,AR
+5039,5,39,Arkansas,Dallas County,22073,22.0,73.0,Louisiana,Ouachita Parish,8,13,AR
+5045,5,45,Arkansas,Faulkner County,22073,22.0,73.0,Louisiana,Ouachita Parish,9,15,AR
+5063,5,63,Arkansas,Independence County,22073,22.0,73.0,Louisiana,Ouachita Parish,10,16,AR
+5069,5,69,Arkansas,Jefferson County,22073,22.0,73.0,Louisiana,Ouachita Parish,8,13,AR
+5133,5,133,Arkansas,Sevier County,22073,22.0,73.0,Louisiana,Ouachita Parish,12,18,AR
+5135,5,135,Arkansas,Sharp County,22073,22.0,73.0,Louisiana,Ouachita Parish,13,20,AR
+5139,5,139,Arkansas,Union County,22073,22.0,73.0,Louisiana,Ouachita Parish,39,46,AR
+5141,5,141,Arkansas,Van Buren County,22073,22.0,73.0,Louisiana,Ouachita Parish,18,30,AR
+5005,5,5,Arkansas,Baxter County,22075,22.0,75.0,Louisiana,Plaquemines Parish,65,71,AR
+5007,5,7,Arkansas,Benton County,22075,22.0,75.0,Louisiana,Plaquemines Parish,32,52,AR
+5027,5,27,Arkansas,Columbia County,22079,22.0,79.0,Louisiana,Rapides Parish,6,9,AR
+5003,5,3,Arkansas,Ashley County,22083,22.0,83.0,Louisiana,Richland Parish,8,13,AR
+5009,5,9,Arkansas,Boone County,22085,22.0,85.0,Louisiana,Sabine Parish,13,22,AR
+5051,5,51,Arkansas,Garland County,22089,22.0,89.0,Louisiana,St. Charles Parish,17,27,AR
+5099,5,99,Arkansas,Nevada County,22089,22.0,89.0,Louisiana,St. Charles Parish,7,11,AR
+5115,5,115,Arkansas,Pope County,22089,22.0,89.0,Louisiana,St. Charles Parish,4,6,AR
+5075,5,75,Arkansas,Lawrence County,22093,22.0,93.0,Louisiana,St. James Parish,10,14,AR
+5139,5,139,Arkansas,Union County,22093,22.0,93.0,Louisiana,St. James Parish,3,5,AR
+5045,5,45,Arkansas,Faulkner County,22097,22.0,97.0,Louisiana,St. Landry Parish,30,32,AR
+5139,5,139,Arkansas,Union County,22097,22.0,97.0,Louisiana,St. Landry Parish,13,20,AR
+5045,5,45,Arkansas,Faulkner County,22101,22.0,101.0,Louisiana,St. Mary Parish,22,35,AR
+5119,5,119,Arkansas,Pulaski County,22101,22.0,101.0,Louisiana,St. Mary Parish,36,57,AR
+5069,5,69,Arkansas,Jefferson County,22109,22.0,109.0,Louisiana,Terrebonne Parish,10,15,AR
+5071,5,71,Arkansas,Johnson County,22109,22.0,109.0,Louisiana,Terrebonne Parish,14,24,AR
+5083,5,83,Arkansas,Logan County,22109,22.0,109.0,Louisiana,Terrebonne Parish,12,20,AR
+5003,5,3,Arkansas,Ashley County,22111,22.0,111.0,Louisiana,Union Parish,24,24,AR
+5115,5,115,Arkansas,Pope County,22111,22.0,111.0,Louisiana,Union Parish,83,87,AR
+5139,5,139,Arkansas,Union County,22111,22.0,111.0,Louisiana,Union Parish,151,100,AR
+5139,5,139,Arkansas,Union County,22113,22.0,113.0,Louisiana,Vermilion Parish,16,18,AR
+5027,5,27,Arkansas,Columbia County,22119,22.0,119.0,Louisiana,Webster Parish,227,98,AR
+5043,5,43,Arkansas,Drew County,22119,22.0,119.0,Louisiana,Webster Parish,4,10,AR
+5073,5,73,Arkansas,Lafayette County,22119,22.0,119.0,Louisiana,Webster Parish,222,61,AR
+5139,5,139,Arkansas,Union County,22119,22.0,119.0,Louisiana,Webster Parish,6,9,AR
+5037,5,37,Arkansas,Cross County,22121,22.0,121.0,Louisiana,West Baton Rouge Parish,23,33,AR
+5003,5,3,Arkansas,Ashley County,22123,22.0,123.0,Louisiana,West Carroll Parish,13,19,AR
+5017,5,17,Arkansas,Chicot County,22123,22.0,123.0,Louisiana,West Carroll Parish,49,35,AR
+5071,5,71,Arkansas,Johnson County,22125,22.0,125.0,Louisiana,West Feliciana Parish,4,7,AR
+5125,5,125,Arkansas,Saline County,22125,22.0,125.0,Louisiana,West Feliciana Parish,15,25,AR
+5051,5,51,Arkansas,Garland County,24005,24.0,5.0,Maryland,Baltimore County,36,54,AR
+5137,5,137,Arkansas,Stone County,24005,24.0,5.0,Maryland,Baltimore County,8,13,AR
+5119,5,119,Arkansas,Pulaski County,24025,24.0,25.0,Maryland,Harford County,8,14,AR
+5007,5,7,Arkansas,Benton County,24027,24.0,27.0,Maryland,Howard County,4,6,AR
+5007,5,7,Arkansas,Benton County,24033,24.0,33.0,Maryland,Prince George's County,10,17,AR
+5083,5,83,Arkansas,Logan County,24510,24.0,510.0,Maryland,Baltimore city,11,16,AR
+5005,5,5,Arkansas,Baxter County,25017,25.0,17.0,Massachusetts,Middlesex County,20,27,AR
+5007,5,7,Arkansas,Benton County,25017,25.0,17.0,Massachusetts,Middlesex County,6,9,AR
+5119,5,119,Arkansas,Pulaski County,25017,25.0,17.0,Massachusetts,Middlesex County,20,30,AR
+5119,5,119,Arkansas,Pulaski County,25023,25.0,23.0,Massachusetts,Plymouth County,21,25,AR
+5119,5,119,Arkansas,Pulaski County,25025,25.0,25.0,Massachusetts,Suffolk County,10,16,AR
+5135,5,135,Arkansas,Sharp County,25025,25.0,25.0,Massachusetts,Suffolk County,23,29,AR
+5045,5,45,Arkansas,Faulkner County,26055,26.0,55.0,Michigan,Grand Traverse County,10,18,AR
+5031,5,31,Arkansas,Craighead County,26081,26.0,81.0,Michigan,Kent County,11,17,AR
+5045,5,45,Arkansas,Faulkner County,26123,26.0,123.0,Michigan,Newaygo County,10,14,AR
+5007,5,7,Arkansas,Benton County,26125,26.0,125.0,Michigan,Oakland County,20,22,AR
+5051,5,51,Arkansas,Garland County,26163,26.0,163.0,Michigan,Wayne County,34,38,AR
+5107,5,107,Arkansas,Phillips County,26163,26.0,163.0,Michigan,Wayne County,18,27,AR
+5131,5,131,Arkansas,Sebastian County,27003,27.0,3.0,Minnesota,Anoka County,19,29,AR
+5019,5,19,Arkansas,Clark County,27037,27.0,37.0,Minnesota,Dakota County,4,7,AR
+5007,5,7,Arkansas,Benton County,27053,27.0,53.0,Minnesota,Hennepin County,9,14,AR
+5149,5,149,Arkansas,Yell County,27053,27.0,53.0,Minnesota,Hennepin County,14,22,AR
+5093,5,93,Arkansas,Mississippi County,27055,27.0,55.0,Minnesota,Houston County,2,3,AR
+5007,5,7,Arkansas,Benton County,27063,27.0,63.0,Minnesota,Jackson County,12,16,AR
+5033,5,33,Arkansas,Crawford County,27075,27.0,75.0,Minnesota,Lake County,15,24,AR
+5009,5,9,Arkansas,Boone County,27093,27.0,93.0,Minnesota,Meeker County,2,4,AR
+5007,5,7,Arkansas,Benton County,27123,27.0,123.0,Minnesota,Ramsey County,34,44,AR
+5007,5,7,Arkansas,Benton County,27139,27.0,139.0,Minnesota,Scott County,7,13,AR
+5001,5,1,Arkansas,Arkansas County,28011,28.0,11.0,Mississippi,Bolivar County,5,8,AR
+5017,5,17,Arkansas,Chicot County,28011,28.0,11.0,Mississippi,Bolivar County,15,19,AR
+5041,5,41,Arkansas,Desha County,28011,28.0,11.0,Mississippi,Bolivar County,42,45,AR
+5045,5,45,Arkansas,Faulkner County,28011,28.0,11.0,Mississippi,Bolivar County,16,28,AR
+5085,5,85,Arkansas,Lonoke County,28011,28.0,11.0,Mississippi,Bolivar County,24,37,AR
+5107,5,107,Arkansas,Phillips County,28013,28.0,13.0,Mississippi,Calhoun County,12,20,AR
+5115,5,115,Arkansas,Pope County,28021,28.0,21.0,Mississippi,Claiborne County,20,33,AR
+5145,5,145,Arkansas,White County,28021,28.0,21.0,Mississippi,Claiborne County,21,28,AR
+5139,5,139,Arkansas,Union County,28023,28.0,23.0,Mississippi,Clarke County,3,5,AR
+5077,5,77,Arkansas,Lee County,28027,28.0,27.0,Mississippi,Coahoma County,1,2,AR
+5107,5,107,Arkansas,Phillips County,28027,28.0,27.0,Mississippi,Coahoma County,406,210,AR
+5029,5,29,Arkansas,Conway County,28029,28.0,29.0,Mississippi,Copiah County,12,20,AR
+5031,5,31,Arkansas,Craighead County,28033,28.0,33.0,Mississippi,DeSoto County,15,22,AR
+5035,5,35,Arkansas,Crittenden County,28033,28.0,33.0,Mississippi,DeSoto County,175,66,AR
+5037,5,37,Arkansas,Cross County,28033,28.0,33.0,Mississippi,DeSoto County,16,13,AR
+5049,5,49,Arkansas,Fulton County,28033,28.0,33.0,Mississippi,DeSoto County,4,11,AR
+5075,5,75,Arkansas,Lawrence County,28033,28.0,33.0,Mississippi,DeSoto County,2,4,AR
+5093,5,93,Arkansas,Mississippi County,28033,28.0,33.0,Mississippi,DeSoto County,16,21,AR
+5107,5,107,Arkansas,Phillips County,28033,28.0,33.0,Mississippi,DeSoto County,24,37,AR
+5111,5,111,Arkansas,Poinsett County,28033,28.0,33.0,Mississippi,DeSoto County,4,5,AR
+5123,5,123,Arkansas,St. Francis County,28033,28.0,33.0,Mississippi,DeSoto County,5,5,AR
+5141,5,141,Arkansas,Van Buren County,28033,28.0,33.0,Mississippi,DeSoto County,8,14,AR
+5107,5,107,Arkansas,Phillips County,28041,28.0,41.0,Mississippi,Greene County,6,9,AR
+5035,5,35,Arkansas,Crittenden County,28047,28.0,47.0,Mississippi,Harrison County,11,20,AR
+5143,5,143,Arkansas,Washington County,28047,28.0,47.0,Mississippi,Harrison County,5,8,AR
+5023,5,23,Arkansas,Cleburne County,28049,28.0,49.0,Mississippi,Hinds County,14,16,AR
+5035,5,35,Arkansas,Crittenden County,28049,28.0,49.0,Mississippi,Hinds County,8,12,AR
+5045,5,45,Arkansas,Faulkner County,28049,28.0,49.0,Mississippi,Hinds County,8,11,AR
+5069,5,69,Arkansas,Jefferson County,28049,28.0,49.0,Mississippi,Hinds County,35,52,AR
+5121,5,121,Arkansas,Randolph County,28049,28.0,49.0,Mississippi,Hinds County,35,37,AR
+5139,5,139,Arkansas,Union County,28053,28.0,53.0,Mississippi,Humphreys County,21,32,AR
+5099,5,99,Arkansas,Nevada County,28057,28.0,57.0,Mississippi,Itawamba County,22,35,AR
+5111,5,111,Arkansas,Poinsett County,28059,28.0,59.0,Mississippi,Jackson County,10,15,AR
+5035,5,35,Arkansas,Crittenden County,28071,28.0,71.0,Mississippi,Lafayette County,4,6,AR
+5051,5,51,Arkansas,Garland County,28071,28.0,71.0,Mississippi,Lafayette County,7,12,AR
+5123,5,123,Arkansas,St. Francis County,28081,28.0,81.0,Mississippi,Lee County,2,4,AR
+5093,5,93,Arkansas,Mississippi County,28083,28.0,83.0,Mississippi,Leflore County,12,10,AR
+5031,5,31,Arkansas,Craighead County,28093,28.0,93.0,Mississippi,Marshall County,11,17,AR
+5067,5,67,Arkansas,Jackson County,28093,28.0,93.0,Mississippi,Marshall County,13,18,AR
+5093,5,93,Arkansas,Mississippi County,28093,28.0,93.0,Mississippi,Marshall County,2,3,AR
+5133,5,133,Arkansas,Sevier County,28099,28.0,99.0,Mississippi,Neshoba County,42,45,AR
+5039,5,39,Arkansas,Dallas County,28103,28.0,103.0,Mississippi,Noxubee County,6,10,AR
+5119,5,119,Arkansas,Pulaski County,28105,28.0,105.0,Mississippi,Oktibbeha County,6,12,AR
+5139,5,139,Arkansas,Union County,28121,28.0,121.0,Mississippi,Rankin County,4,7,AR
+5017,5,17,Arkansas,Chicot County,28133,28.0,133.0,Mississippi,Sunflower County,9,14,AR
+5027,5,27,Arkansas,Columbia County,28139,28.0,139.0,Mississippi,Tippah County,22,34,AR
+5035,5,35,Arkansas,Crittenden County,28143,28.0,143.0,Mississippi,Tunica County,32,34,AR
+5063,5,63,Arkansas,Independence County,28143,28.0,143.0,Mississippi,Tunica County,36,56,AR
+5093,5,93,Arkansas,Mississippi County,28143,28.0,143.0,Mississippi,Tunica County,15,24,AR
+5095,5,95,Arkansas,Monroe County,28143,28.0,143.0,Mississippi,Tunica County,3,5,AR
+5107,5,107,Arkansas,Phillips County,28143,28.0,143.0,Mississippi,Tunica County,261,132,AR
+5035,5,35,Arkansas,Crittenden County,28145,28.0,145.0,Mississippi,Union County,11,17,AR
+5017,5,17,Arkansas,Chicot County,28149,28.0,149.0,Mississippi,Warren County,55,48,AR
+5003,5,3,Arkansas,Ashley County,28151,28.0,151.0,Mississippi,Washington County,34,29,AR
+5011,5,11,Arkansas,Bradley County,28151,28.0,151.0,Mississippi,Washington County,6,9,AR
+5017,5,17,Arkansas,Chicot County,28151,28.0,151.0,Mississippi,Washington County,401,130,AR
+5023,5,23,Arkansas,Cleburne County,28151,28.0,151.0,Mississippi,Washington County,40,44,AR
+5043,5,43,Arkansas,Drew County,28151,28.0,151.0,Mississippi,Washington County,13,16,AR
+5075,5,75,Arkansas,Lawrence County,28151,28.0,151.0,Mississippi,Washington County,20,23,AR
+5135,5,135,Arkansas,Sharp County,28151,28.0,151.0,Mississippi,Washington County,14,18,AR
+5119,5,119,Arkansas,Pulaski County,28153,28.0,153.0,Mississippi,Wayne County,11,20,AR
+5007,5,7,Arkansas,Benton County,29009,29.0,9.0,Missouri,Barry County,166,97,AR
+5015,5,15,Arkansas,Carroll County,29009,29.0,9.0,Missouri,Barry County,110,78,AR
+5087,5,87,Arkansas,Madison County,29009,29.0,9.0,Missouri,Barry County,9,14,AR
+5009,5,9,Arkansas,Boone County,29013,29.0,13.0,Missouri,Bates County,10,16,AR
+5133,5,133,Arkansas,Sevier County,29013,29.0,13.0,Missouri,Bates County,10,15,AR
+5143,5,143,Arkansas,Washington County,29015,29.0,15.0,Missouri,Benton County,14,23,AR
+5009,5,9,Arkansas,Boone County,29019,29.0,19.0,Missouri,Boone County,2,4,AR
+5021,5,21,Arkansas,Clay County,29023,29.0,23.0,Missouri,Butler County,260,89,AR
+5031,5,31,Arkansas,Craighead County,29023,29.0,23.0,Missouri,Butler County,47,57,AR
+5055,5,55,Arkansas,Greene County,29023,29.0,23.0,Missouri,Butler County,97,103,AR
+5119,5,119,Arkansas,Pulaski County,29023,29.0,23.0,Missouri,Butler County,5,7,AR
+5121,5,121,Arkansas,Randolph County,29023,29.0,23.0,Missouri,Butler County,57,67,AR
+5143,5,143,Arkansas,Washington County,29023,29.0,23.0,Missouri,Butler County,30,48,AR
+5121,5,121,Arkansas,Randolph County,29031,29.0,31.0,Missouri,Cape Girardeau County,3,6,AR
+5121,5,121,Arkansas,Randolph County,29035,29.0,35.0,Missouri,Carter County,12,20,AR
+5009,5,9,Arkansas,Boone County,29037,29.0,37.0,Missouri,Cass County,12,19,AR
+5009,5,9,Arkansas,Boone County,29043,29.0,43.0,Missouri,Christian County,31,48,AR
+5021,5,21,Arkansas,Clay County,29069,29.0,69.0,Missouri,Dunklin County,389,89,AR
+5031,5,31,Arkansas,Craighead County,29069,29.0,69.0,Missouri,Dunklin County,48,27,AR
+5055,5,55,Arkansas,Greene County,29069,29.0,69.0,Missouri,Dunklin County,104,57,AR
+5075,5,75,Arkansas,Lawrence County,29069,29.0,69.0,Missouri,Dunklin County,7,10,AR
+5093,5,93,Arkansas,Mississippi County,29069,29.0,69.0,Missouri,Dunklin County,102,69,AR
+5121,5,121,Arkansas,Randolph County,29069,29.0,69.0,Missouri,Dunklin County,27,42,AR
+5005,5,5,Arkansas,Baxter County,29077,29.0,77.0,Missouri,Greene County,43,66,AR
+5007,5,7,Arkansas,Benton County,29077,29.0,77.0,Missouri,Greene County,74,45,AR
+5009,5,9,Arkansas,Boone County,29077,29.0,77.0,Missouri,Greene County,105,69,AR
+5015,5,15,Arkansas,Carroll County,29077,29.0,77.0,Missouri,Greene County,35,43,AR
+5035,5,35,Arkansas,Crittenden County,29077,29.0,77.0,Missouri,Greene County,5,7,AR
+5045,5,45,Arkansas,Faulkner County,29077,29.0,77.0,Missouri,Greene County,6,11,AR
+5049,5,49,Arkansas,Fulton County,29077,29.0,77.0,Missouri,Greene County,3,5,AR
+5051,5,51,Arkansas,Garland County,29077,29.0,77.0,Missouri,Greene County,24,46,AR
+5119,5,119,Arkansas,Pulaski County,29077,29.0,77.0,Missouri,Greene County,26,32,AR
+5135,5,135,Arkansas,Sharp County,29077,29.0,77.0,Missouri,Greene County,3,4,AR
+5143,5,143,Arkansas,Washington County,29077,29.0,77.0,Missouri,Greene County,34,39,AR
+5145,5,145,Arkansas,White County,29077,29.0,77.0,Missouri,Greene County,22,26,AR
+5145,5,145,Arkansas,White County,29079,29.0,79.0,Missouri,Grundy County,2,3,AR
+5005,5,5,Arkansas,Baxter County,29091,29.0,91.0,Missouri,Howell County,8,11,AR
+5009,5,9,Arkansas,Boone County,29091,29.0,91.0,Missouri,Howell County,21,33,AR
+5015,5,15,Arkansas,Carroll County,29091,29.0,91.0,Missouri,Howell County,10,16,AR
+5021,5,21,Arkansas,Clay County,29091,29.0,91.0,Missouri,Howell County,7,12,AR
+5049,5,49,Arkansas,Fulton County,29091,29.0,91.0,Missouri,Howell County,240,86,AR
+5135,5,135,Arkansas,Sharp County,29091,29.0,91.0,Missouri,Howell County,35,33,AR
+5005,5,5,Arkansas,Baxter County,29095,29.0,95.0,Missouri,Jackson County,17,27,AR
+5009,5,9,Arkansas,Boone County,29095,29.0,95.0,Missouri,Jackson County,3,5,AR
+5031,5,31,Arkansas,Craighead County,29095,29.0,95.0,Missouri,Jackson County,16,26,AR
+5069,5,69,Arkansas,Jefferson County,29095,29.0,95.0,Missouri,Jackson County,19,30,AR
+5143,5,143,Arkansas,Washington County,29095,29.0,95.0,Missouri,Jackson County,24,41,AR
+5007,5,7,Arkansas,Benton County,29097,29.0,97.0,Missouri,Jasper County,70,44,AR
+5049,5,49,Arkansas,Fulton County,29097,29.0,97.0,Missouri,Jasper County,3,6,AR
+5131,5,131,Arkansas,Sebastian County,29097,29.0,97.0,Missouri,Jasper County,9,15,AR
+5143,5,143,Arkansas,Washington County,29097,29.0,97.0,Missouri,Jasper County,53,48,AR
+5029,5,29,Arkansas,Conway County,29099,29.0,99.0,Missouri,Jefferson County,1,4,AR
+5007,5,7,Arkansas,Benton County,29119,29.0,119.0,Missouri,McDonald County,871,234,AR
+5015,5,15,Arkansas,Carroll County,29119,29.0,119.0,Missouri,McDonald County,15,24,AR
+5141,5,141,Arkansas,Van Buren County,29119,29.0,119.0,Missouri,McDonald County,2,5,AR
+5143,5,143,Arkansas,Washington County,29119,29.0,119.0,Missouri,McDonald County,50,56,AR
+5119,5,119,Arkansas,Pulaski County,29133,29.0,133.0,Missouri,Mississippi County,21,29,AR
+5021,5,21,Arkansas,Clay County,29143,29.0,143.0,Missouri,New Madrid County,16,17,AR
+5135,5,135,Arkansas,Sharp County,29143,29.0,143.0,Missouri,New Madrid County,2,3,AR
+5007,5,7,Arkansas,Benton County,29145,29.0,145.0,Missouri,Newton County,92,50,AR
+5143,5,143,Arkansas,Washington County,29145,29.0,145.0,Missouri,Newton County,54,94,AR
+5009,5,9,Arkansas,Boone County,29149,29.0,149.0,Missouri,Oregon County,28,32,AR
+5049,5,49,Arkansas,Fulton County,29149,29.0,149.0,Missouri,Oregon County,188,67,AR
+5075,5,75,Arkansas,Lawrence County,29149,29.0,149.0,Missouri,Oregon County,11,12,AR
+5089,5,89,Arkansas,Marion County,29149,29.0,149.0,Missouri,Oregon County,3,5,AR
+5101,5,101,Arkansas,Newton County,29149,29.0,149.0,Missouri,Oregon County,9,14,AR
+5135,5,135,Arkansas,Sharp County,29149,29.0,149.0,Missouri,Oregon County,59,35,AR
+5005,5,5,Arkansas,Baxter County,29153,29.0,153.0,Missouri,Ozark County,18,20,AR
+5049,5,49,Arkansas,Fulton County,29153,29.0,153.0,Missouri,Ozark County,2,4,AR
+5021,5,21,Arkansas,Clay County,29155,29.0,155.0,Missouri,Pemiscot County,8,9,AR
+5055,5,55,Arkansas,Greene County,29155,29.0,155.0,Missouri,Pemiscot County,9,14,AR
+5075,5,75,Arkansas,Lawrence County,29155,29.0,155.0,Missouri,Pemiscot County,2,3,AR
+5093,5,93,Arkansas,Mississippi County,29155,29.0,155.0,Missouri,Pemiscot County,99,54,AR
+5121,5,121,Arkansas,Randolph County,29155,29.0,155.0,Missouri,Pemiscot County,10,18,AR
+5143,5,143,Arkansas,Washington County,29159,29.0,159.0,Missouri,Pettis County,14,22,AR
+5009,5,9,Arkansas,Boone County,29167,29.0,167.0,Missouri,Polk County,10,17,AR
+5035,5,35,Arkansas,Crittenden County,29169,29.0,169.0,Missouri,Pulaski County,14,21,AR
+5021,5,21,Arkansas,Clay County,29181,29.0,181.0,Missouri,Ripley County,13,12,AR
+5121,5,121,Arkansas,Randolph County,29181,29.0,181.0,Missouri,Ripley County,18,22,AR
+5007,5,7,Arkansas,Benton County,29189,29.0,189.0,Missouri,St. Louis County,11,16,AR
+5009,5,9,Arkansas,Boone County,29189,29.0,189.0,Missouri,St. Louis County,12,19,AR
+5035,5,35,Arkansas,Crittenden County,29189,29.0,189.0,Missouri,St. Louis County,16,24,AR
+5111,5,111,Arkansas,Poinsett County,29189,29.0,189.0,Missouri,St. Louis County,6,10,AR
+5121,5,121,Arkansas,Randolph County,29189,29.0,189.0,Missouri,St. Louis County,16,22,AR
+5131,5,131,Arkansas,Sebastian County,29189,29.0,189.0,Missouri,St. Louis County,48,75,AR
+5009,5,9,Arkansas,Boone County,29195,29.0,195.0,Missouri,Saline County,2,4,AR
+5013,5,13,Arkansas,Calhoun County,29201,29.0,201.0,Missouri,Scott County,15,24,AR
+5079,5,79,Arkansas,Lincoln County,29201,29.0,201.0,Missouri,Scott County,20,30,AR
+5131,5,131,Arkansas,Sebastian County,29201,29.0,201.0,Missouri,Scott County,14,22,AR
+5021,5,21,Arkansas,Clay County,29207,29.0,207.0,Missouri,Stoddard County,21,17,AR
+5009,5,9,Arkansas,Boone County,29209,29.0,209.0,Missouri,Stone County,69,40,AR
+5015,5,15,Arkansas,Carroll County,29209,29.0,209.0,Missouri,Stone County,59,42,AR
+5143,5,143,Arkansas,Washington County,29209,29.0,209.0,Missouri,Stone County,21,33,AR
+5009,5,9,Arkansas,Boone County,29213,29.0,213.0,Missouri,Taney County,772,194,AR
+5015,5,15,Arkansas,Carroll County,29213,29.0,213.0,Missouri,Taney County,252,116,AR
+5089,5,89,Arkansas,Marion County,29213,29.0,213.0,Missouri,Taney County,109,118,AR
+5101,5,101,Arkansas,Newton County,29213,29.0,213.0,Missouri,Taney County,16,19,AR
+5119,5,119,Arkansas,Pulaski County,29213,29.0,213.0,Missouri,Taney County,43,71,AR
+5007,5,7,Arkansas,Benton County,29217,29.0,217.0,Missouri,Vernon County,12,20,AR
+5021,5,21,Arkansas,Clay County,29510,29.0,510.0,Missouri,St. Louis city,1,2,AR
+5059,5,59,Arkansas,Hot Spring County,29510,29.0,510.0,Missouri,St. Louis city,25,40,AR
+5063,5,63,Arkansas,Independence County,29510,29.0,510.0,Missouri,St. Louis city,12,20,AR
+5075,5,75,Arkansas,Lawrence County,29510,29.0,510.0,Missouri,St. Louis city,8,9,AR
+5085,5,85,Arkansas,Lonoke County,29510,29.0,510.0,Missouri,St. Louis city,34,54,AR
+5121,5,121,Arkansas,Randolph County,29510,29.0,510.0,Missouri,St. Louis city,19,21,AR
+5125,5,125,Arkansas,Saline County,29510,29.0,510.0,Missouri,St. Louis city,11,17,AR
+5085,5,85,Arkansas,Lonoke County,30031,30.0,31.0,Montana,Gallatin County,14,20,AR
+5055,5,55,Arkansas,Greene County,30041,30.0,41.0,Montana,Hill County,26,37,AR
+5051,5,51,Arkansas,Garland County,30067,30.0,67.0,Montana,Park County,9,17,AR
+5119,5,119,Arkansas,Pulaski County,30111,30.0,111.0,Montana,Yellowstone County,14,22,AR
+5009,5,9,Arkansas,Boone County,31055,31.0,55.0,Nebraska,Douglas County,9,14,AR
+5029,5,29,Arkansas,Conway County,31055,31.0,55.0,Nebraska,Douglas County,34,39,AR
+5037,5,37,Arkansas,Cross County,31055,31.0,55.0,Nebraska,Douglas County,58,46,AR
+5063,5,63,Arkansas,Independence County,31055,31.0,55.0,Nebraska,Douglas County,5,8,AR
+5065,5,65,Arkansas,Izard County,31055,31.0,55.0,Nebraska,Douglas County,5,9,AR
+5069,5,69,Arkansas,Jefferson County,31055,31.0,55.0,Nebraska,Douglas County,24,36,AR
+5085,5,85,Arkansas,Lonoke County,31055,31.0,55.0,Nebraska,Douglas County,29,45,AR
+5091,5,91,Arkansas,Miller County,31055,31.0,55.0,Nebraska,Douglas County,16,26,AR
+5113,5,113,Arkansas,Polk County,31055,31.0,55.0,Nebraska,Douglas County,3,4,AR
+5149,5,149,Arkansas,Yell County,31055,31.0,55.0,Nebraska,Douglas County,13,23,AR
+5009,5,9,Arkansas,Boone County,31109,31.0,109.0,Nebraska,Lancaster County,7,11,AR
+5119,5,119,Arkansas,Pulaski County,31109,31.0,109.0,Nebraska,Lancaster County,11,17,AR
+5115,5,115,Arkansas,Pope County,31127,31.0,127.0,Nebraska,Nemaha County,12,20,AR
+5019,5,19,Arkansas,Clark County,32003,32.0,3.0,Nevada,Clark County,2,3,AR
+5045,5,45,Arkansas,Faulkner County,32031,32.0,31.0,Nevada,Washoe County,5,9,AR
+5143,5,143,Arkansas,Washington County,32031,32.0,31.0,Nevada,Washoe County,19,27,AR
+5007,5,7,Arkansas,Benton County,34003,34.0,3.0,New Jersey,Bergen County,25,37,AR
+5035,5,35,Arkansas,Crittenden County,34003,34.0,3.0,New Jersey,Bergen County,11,12,AR
+5065,5,65,Arkansas,Izard County,34003,34.0,3.0,New Jersey,Bergen County,2,5,AR
+5119,5,119,Arkansas,Pulaski County,34021,34.0,21.0,New Jersey,Mercer County,29,47,AR
+5047,5,47,Arkansas,Franklin County,35013,35.0,13.0,New Mexico,Doña Ana County,2,3,AR
+5101,5,101,Arkansas,Newton County,35025,35.0,25.0,New Mexico,Lea County,10,16,AR
+5005,5,5,Arkansas,Baxter County,36047,36.0,47.0,New York,Kings County,15,24,AR
+5007,5,7,Arkansas,Benton County,36047,36.0,47.0,New York,Kings County,24,37,AR
+5011,5,11,Arkansas,Bradley County,36047,36.0,47.0,New York,Kings County,12,21,AR
+5019,5,19,Arkansas,Clark County,36047,36.0,47.0,New York,Kings County,17,17,AR
+5045,5,45,Arkansas,Faulkner County,36047,36.0,47.0,New York,Kings County,23,30,AR
+5119,5,119,Arkansas,Pulaski County,36047,36.0,47.0,New York,Kings County,27,43,AR
+5119,5,119,Arkansas,Pulaski County,36059,36.0,59.0,New York,Nassau County,18,29,AR
+5051,5,51,Arkansas,Garland County,36081,36.0,81.0,New York,Queens County,17,27,AR
+5143,5,143,Arkansas,Washington County,36081,36.0,81.0,New York,Queens County,2,12,AR
+5007,5,7,Arkansas,Benton County,36085,36.0,85.0,New York,Richmond County,3,5,AR
+5005,5,5,Arkansas,Baxter County,36091,36.0,91.0,New York,Saratoga County,42,45,AR
+5045,5,45,Arkansas,Faulkner County,36093,36.0,93.0,New York,Schenectady County,19,30,AR
+5145,5,145,Arkansas,White County,36101,36.0,101.0,New York,Steuben County,25,38,AR
+5045,5,45,Arkansas,Faulkner County,37051,37.0,51.0,North Carolina,Cumberland County,11,12,AR
+5065,5,65,Arkansas,Izard County,37057,37.0,57.0,North Carolina,Davidson County,5,8,AR
+5007,5,7,Arkansas,Benton County,37081,37.0,81.0,North Carolina,Guilford County,22,35,AR
+5143,5,143,Arkansas,Washington County,37097,37.0,97.0,North Carolina,Iredell County,25,20,AR
+5033,5,33,Arkansas,Crawford County,37119,37.0,119.0,North Carolina,Mecklenburg County,19,33,AR
+5045,5,45,Arkansas,Faulkner County,37119,37.0,119.0,North Carolina,Mecklenburg County,5,8,AR
+5005,5,5,Arkansas,Baxter County,38053,38.0,53.0,North Dakota,McKenzie County,12,13,AR
+5043,5,43,Arkansas,Drew County,38053,38.0,53.0,North Dakota,McKenzie County,17,27,AR
+5127,5,127,Arkansas,Scott County,38053,38.0,53.0,North Dakota,McKenzie County,7,13,AR
+5145,5,145,Arkansas,White County,38053,38.0,53.0,North Dakota,McKenzie County,1,3,AR
+5143,5,143,Arkansas,Washington County,38101,38.0,101.0,North Dakota,Ward County,3,5,AR
+5031,5,31,Arkansas,Craighead County,38105,38.0,105.0,North Dakota,Williams County,12,20,AR
+5045,5,45,Arkansas,Faulkner County,38105,38.0,105.0,North Dakota,Williams County,15,16,AR
+5081,5,81,Arkansas,Little River County,38105,38.0,105.0,North Dakota,Williams County,6,10,AR
+5115,5,115,Arkansas,Pope County,38105,38.0,105.0,North Dakota,Williams County,19,28,AR
+5131,5,131,Arkansas,Sebastian County,38105,38.0,105.0,North Dakota,Williams County,8,9,AR
+5131,5,131,Arkansas,Sebastian County,39013,39.0,13.0,Ohio,Belmont County,11,17,AR
+5141,5,141,Arkansas,Van Buren County,39013,39.0,13.0,Ohio,Belmont County,7,12,AR
+5131,5,131,Arkansas,Sebastian County,39017,39.0,17.0,Ohio,Butler County,5,9,AR
+5007,5,7,Arkansas,Benton County,39025,39.0,25.0,Ohio,Clermont County,13,20,AR
+5123,5,123,Arkansas,St. Francis County,39035,39.0,35.0,Ohio,Cuyahoga County,8,13,AR
+5007,5,7,Arkansas,Benton County,39043,39.0,43.0,Ohio,Erie County,13,19,AR
+5035,5,35,Arkansas,Crittenden County,39049,39.0,49.0,Ohio,Franklin County,5,9,AR
+5007,5,7,Arkansas,Benton County,39061,39.0,61.0,Ohio,Hamilton County,22,33,AR
+5045,5,45,Arkansas,Faulkner County,39061,39.0,61.0,Ohio,Hamilton County,29,43,AR
+5075,5,75,Arkansas,Lawrence County,39081,39.0,81.0,Ohio,Jefferson County,30,21,AR
+5119,5,119,Arkansas,Pulaski County,39099,39.0,99.0,Ohio,Mahoning County,26,30,AR
+5115,5,115,Arkansas,Pope County,39103,39.0,103.0,Ohio,Medina County,30,45,AR
+5007,5,7,Arkansas,Benton County,39107,39.0,107.0,Ohio,Mercer County,5,8,AR
+5115,5,115,Arkansas,Pope County,39111,39.0,111.0,Ohio,Monroe County,7,12,AR
+5145,5,145,Arkansas,White County,39111,39.0,111.0,Ohio,Monroe County,47,68,AR
+5083,5,83,Arkansas,Logan County,39119,39.0,119.0,Ohio,Muskingum County,1,2,AR
+5119,5,119,Arkansas,Pulaski County,39153,39.0,153.0,Ohio,Summit County,26,31,AR
+5131,5,131,Arkansas,Sebastian County,39153,39.0,153.0,Ohio,Summit County,77,100,AR
+5007,5,7,Arkansas,Benton County,40001,40.0,1.0,Oklahoma,Adair County,199,91,AR
+5087,5,87,Arkansas,Madison County,40001,40.0,1.0,Oklahoma,Adair County,9,14,AR
+5113,5,113,Arkansas,Polk County,40001,40.0,1.0,Oklahoma,Adair County,6,7,AR
+5143,5,143,Arkansas,Washington County,40001,40.0,1.0,Oklahoma,Adair County,335,133,AR
+5021,5,21,Arkansas,Clay County,40003,40.0,3.0,Oklahoma,Alfalfa County,1,4,AR
+5131,5,131,Arkansas,Sebastian County,40003,40.0,3.0,Oklahoma,Alfalfa County,49,63,AR
+5113,5,113,Arkansas,Polk County,40007,40.0,7.0,Oklahoma,Beaver County,7,9,AR
+5045,5,45,Arkansas,Faulkner County,40009,40.0,9.0,Oklahoma,Beckham County,29,45,AR
+5033,5,33,Arkansas,Crawford County,40013,40.0,13.0,Oklahoma,Bryan County,14,20,AR
+5051,5,51,Arkansas,Garland County,40013,40.0,13.0,Oklahoma,Bryan County,29,32,AR
+5131,5,131,Arkansas,Sebastian County,40013,40.0,13.0,Oklahoma,Bryan County,14,22,AR
+5131,5,131,Arkansas,Sebastian County,40017,40.0,17.0,Oklahoma,Canadian County,22,27,AR
+5033,5,33,Arkansas,Crawford County,40019,40.0,19.0,Oklahoma,Carter County,21,31,AR
+5045,5,45,Arkansas,Faulkner County,40019,40.0,19.0,Oklahoma,Carter County,19,29,AR
+5131,5,131,Arkansas,Sebastian County,40019,40.0,19.0,Oklahoma,Carter County,2,4,AR
+5007,5,7,Arkansas,Benton County,40021,40.0,21.0,Oklahoma,Cherokee County,18,28,AR
+5143,5,143,Arkansas,Washington County,40021,40.0,21.0,Oklahoma,Cherokee County,19,21,AR
+5133,5,133,Arkansas,Sevier County,40023,40.0,23.0,Oklahoma,Choctaw County,6,9,AR
+5071,5,71,Arkansas,Johnson County,40027,40.0,27.0,Oklahoma,Cleveland County,6,8,AR
+5083,5,83,Arkansas,Logan County,40027,40.0,27.0,Oklahoma,Cleveland County,11,15,AR
+5131,5,131,Arkansas,Sebastian County,40027,40.0,27.0,Oklahoma,Cleveland County,19,31,AR
+5007,5,7,Arkansas,Benton County,40035,40.0,35.0,Oklahoma,Craig County,6,7,AR
+5125,5,125,Arkansas,Saline County,40037,40.0,37.0,Oklahoma,Creek County,43,67,AR
+5143,5,143,Arkansas,Washington County,40037,40.0,37.0,Oklahoma,Creek County,11,18,AR
+5045,5,45,Arkansas,Faulkner County,40039,40.0,39.0,Oklahoma,Custer County,3,4,AR
+5007,5,7,Arkansas,Benton County,40041,40.0,41.0,Oklahoma,Delaware County,416,140,AR
+5033,5,33,Arkansas,Crawford County,40041,40.0,41.0,Oklahoma,Delaware County,10,17,AR
+5143,5,143,Arkansas,Washington County,40041,40.0,41.0,Oklahoma,Delaware County,62,59,AR
+5071,5,71,Arkansas,Johnson County,40047,40.0,47.0,Oklahoma,Garfield County,8,13,AR
+5119,5,119,Arkansas,Pulaski County,40047,40.0,47.0,Oklahoma,Garfield County,13,23,AR
+5125,5,125,Arkansas,Saline County,40047,40.0,47.0,Oklahoma,Garfield County,16,25,AR
+5113,5,113,Arkansas,Polk County,40049,40.0,49.0,Oklahoma,Garvin County,8,13,AR
+5141,5,141,Arkansas,Van Buren County,40049,40.0,49.0,Oklahoma,Garvin County,17,19,AR
+5019,5,19,Arkansas,Clark County,40051,40.0,51.0,Oklahoma,Grady County,14,21,AR
+5083,5,83,Arkansas,Logan County,40051,40.0,51.0,Oklahoma,Grady County,29,27,AR
+5083,5,83,Arkansas,Logan County,40061,40.0,61.0,Oklahoma,Haskell County,33,47,AR
+5113,5,113,Arkansas,Polk County,40061,40.0,61.0,Oklahoma,Haskell County,37,47,AR
+5131,5,131,Arkansas,Sebastian County,40061,40.0,61.0,Oklahoma,Haskell County,70,70,AR
+5071,5,71,Arkansas,Johnson County,40063,40.0,63.0,Oklahoma,Hughes County,4,7,AR
+5029,5,29,Arkansas,Conway County,40071,40.0,71.0,Oklahoma,Kay County,18,27,AR
+5129,5,129,Arkansas,Searcy County,40071,40.0,71.0,Oklahoma,Kay County,10,13,AR
+5033,5,33,Arkansas,Crawford County,40077,40.0,77.0,Oklahoma,Latimer County,41,65,AR
+5131,5,131,Arkansas,Sebastian County,40077,40.0,77.0,Oklahoma,Latimer County,11,18,AR
+5007,5,7,Arkansas,Benton County,40079,40.0,79.0,Oklahoma,Le Flore County,8,14,AR
+5033,5,33,Arkansas,Crawford County,40079,40.0,79.0,Oklahoma,Le Flore County,131,86,AR
+5047,5,47,Arkansas,Franklin County,40079,40.0,79.0,Oklahoma,Le Flore County,7,12,AR
+5063,5,63,Arkansas,Independence County,40079,40.0,79.0,Oklahoma,Le Flore County,87,102,AR
+5081,5,81,Arkansas,Little River County,40079,40.0,79.0,Oklahoma,Le Flore County,7,12,AR
+5083,5,83,Arkansas,Logan County,40079,40.0,79.0,Oklahoma,Le Flore County,30,23,AR
+5113,5,113,Arkansas,Polk County,40079,40.0,79.0,Oklahoma,Le Flore County,10,16,AR
+5127,5,127,Arkansas,Scott County,40079,40.0,79.0,Oklahoma,Le Flore County,44,34,AR
+5131,5,131,Arkansas,Sebastian County,40079,40.0,79.0,Oklahoma,Le Flore County,918,248,AR
+5133,5,133,Arkansas,Sevier County,40079,40.0,79.0,Oklahoma,Le Flore County,14,20,AR
+5141,5,141,Arkansas,Van Buren County,40079,40.0,79.0,Oklahoma,Le Flore County,27,37,AR
+5131,5,131,Arkansas,Sebastian County,40083,40.0,83.0,Oklahoma,Logan County,47,74,AR
+5061,5,61,Arkansas,Howard County,40089,40.0,89.0,Oklahoma,McCurtain County,4,6,AR
+5081,5,81,Arkansas,Little River County,40089,40.0,89.0,Oklahoma,McCurtain County,45,33,AR
+5113,5,113,Arkansas,Polk County,40089,40.0,89.0,Oklahoma,McCurtain County,67,34,AR
+5131,5,131,Arkansas,Sebastian County,40089,40.0,89.0,Oklahoma,McCurtain County,13,19,AR
+5133,5,133,Arkansas,Sevier County,40089,40.0,89.0,Oklahoma,McCurtain County,491,158,AR
+5009,5,9,Arkansas,Boone County,40093,40.0,93.0,Oklahoma,Major County,4,6,AR
+5033,5,33,Arkansas,Crawford County,40093,40.0,93.0,Oklahoma,Major County,5,7,AR
+5097,5,97,Arkansas,Montgomery County,40093,40.0,93.0,Oklahoma,Major County,5,8,AR
+5071,5,71,Arkansas,Johnson County,40097,40.0,97.0,Oklahoma,Mayes County,7,9,AR
+5007,5,7,Arkansas,Benton County,40101,40.0,101.0,Oklahoma,Muskogee County,10,16,AR
+5033,5,33,Arkansas,Crawford County,40101,40.0,101.0,Oklahoma,Muskogee County,16,25,AR
+5107,5,107,Arkansas,Phillips County,40101,40.0,101.0,Oklahoma,Muskogee County,4,7,AR
+5131,5,131,Arkansas,Sebastian County,40101,40.0,101.0,Oklahoma,Muskogee County,54,56,AR
+5007,5,7,Arkansas,Benton County,40109,40.0,109.0,Oklahoma,Oklahoma County,51,47,AR
+5021,5,21,Arkansas,Clay County,40109,40.0,109.0,Oklahoma,Oklahoma County,13,19,AR
+5045,5,45,Arkansas,Faulkner County,40109,40.0,109.0,Oklahoma,Oklahoma County,41,41,AR
+5047,5,47,Arkansas,Franklin County,40109,40.0,109.0,Oklahoma,Oklahoma County,47,48,AR
+5049,5,49,Arkansas,Fulton County,40109,40.0,109.0,Oklahoma,Oklahoma County,7,10,AR
+5051,5,51,Arkansas,Garland County,40109,40.0,109.0,Oklahoma,Oklahoma County,23,28,AR
+5063,5,63,Arkansas,Independence County,40109,40.0,109.0,Oklahoma,Oklahoma County,3,5,AR
+5065,5,65,Arkansas,Izard County,40109,40.0,109.0,Oklahoma,Oklahoma County,5,9,AR
+5069,5,69,Arkansas,Jefferson County,40109,40.0,109.0,Oklahoma,Oklahoma County,19,24,AR
+5071,5,71,Arkansas,Johnson County,40109,40.0,109.0,Oklahoma,Oklahoma County,12,21,AR
+5083,5,83,Arkansas,Logan County,40109,40.0,109.0,Oklahoma,Oklahoma County,53,42,AR
+5089,5,89,Arkansas,Marion County,40109,40.0,109.0,Oklahoma,Oklahoma County,35,44,AR
+5097,5,97,Arkansas,Montgomery County,40109,40.0,109.0,Oklahoma,Oklahoma County,4,6,AR
+5103,5,103,Arkansas,Ouachita County,40109,40.0,109.0,Oklahoma,Oklahoma County,9,45,AR
+5109,5,109,Arkansas,Pike County,40109,40.0,109.0,Oklahoma,Oklahoma County,5,9,AR
+5113,5,113,Arkansas,Polk County,40109,40.0,109.0,Oklahoma,Oklahoma County,5,7,AR
+5125,5,125,Arkansas,Saline County,40109,40.0,109.0,Oklahoma,Oklahoma County,35,45,AR
+5127,5,127,Arkansas,Scott County,40109,40.0,109.0,Oklahoma,Oklahoma County,6,9,AR
+5131,5,131,Arkansas,Sebastian County,40109,40.0,109.0,Oklahoma,Oklahoma County,99,71,AR
+5133,5,133,Arkansas,Sevier County,40109,40.0,109.0,Oklahoma,Oklahoma County,16,25,AR
+5139,5,139,Arkansas,Union County,40109,40.0,109.0,Oklahoma,Oklahoma County,48,71,AR
+5143,5,143,Arkansas,Washington County,40109,40.0,109.0,Oklahoma,Oklahoma County,207,235,AR
+5145,5,145,Arkansas,White County,40109,40.0,109.0,Oklahoma,Oklahoma County,61,72,AR
+5031,5,31,Arkansas,Craighead County,40111,40.0,111.0,Oklahoma,Okmulgee County,42,67,AR
+5007,5,7,Arkansas,Benton County,40115,40.0,115.0,Oklahoma,Ottawa County,16,24,AR
+5045,5,45,Arkansas,Faulkner County,40115,40.0,115.0,Oklahoma,Ottawa County,9,18,AR
+5007,5,7,Arkansas,Benton County,40119,40.0,119.0,Oklahoma,Payne County,18,20,AR
+5019,5,19,Arkansas,Clark County,40119,40.0,119.0,Oklahoma,Payne County,5,12,AR
+5101,5,101,Arkansas,Newton County,40119,40.0,119.0,Oklahoma,Payne County,24,27,AR
+5113,5,113,Arkansas,Polk County,40119,40.0,119.0,Oklahoma,Payne County,5,8,AR
+5143,5,143,Arkansas,Washington County,40119,40.0,119.0,Oklahoma,Payne County,184,287,AR
+5007,5,7,Arkansas,Benton County,40121,40.0,121.0,Oklahoma,Pittsburg County,13,21,AR
+5131,5,131,Arkansas,Sebastian County,40121,40.0,121.0,Oklahoma,Pittsburg County,23,27,AR
+5019,5,19,Arkansas,Clark County,40123,40.0,123.0,Oklahoma,Pontotoc County,10,14,AR
+5075,5,75,Arkansas,Lawrence County,40123,40.0,123.0,Oklahoma,Pontotoc County,18,27,AR
+5129,5,129,Arkansas,Searcy County,40125,40.0,125.0,Oklahoma,Pottawatomie County,36,35,AR
+5147,5,147,Arkansas,Woodruff County,40125,40.0,125.0,Oklahoma,Pottawatomie County,6,8,AR
+5033,5,33,Arkansas,Crawford County,40127,40.0,127.0,Oklahoma,Pushmataha County,22,32,AR
+5113,5,113,Arkansas,Polk County,40127,40.0,127.0,Oklahoma,Pushmataha County,57,81,AR
+5007,5,7,Arkansas,Benton County,40131,40.0,131.0,Oklahoma,Rogers County,29,44,AR
+5143,5,143,Arkansas,Washington County,40131,40.0,131.0,Oklahoma,Rogers County,26,31,AR
+5033,5,33,Arkansas,Crawford County,40135,40.0,135.0,Oklahoma,Sequoyah County,124,68,AR
+5047,5,47,Arkansas,Franklin County,40135,40.0,135.0,Oklahoma,Sequoyah County,16,23,AR
+5127,5,127,Arkansas,Scott County,40135,40.0,135.0,Oklahoma,Sequoyah County,11,18,AR
+5131,5,131,Arkansas,Sebastian County,40135,40.0,135.0,Oklahoma,Sequoyah County,727,201,AR
+5143,5,143,Arkansas,Washington County,40135,40.0,135.0,Oklahoma,Sequoyah County,25,29,AR
+5003,5,3,Arkansas,Ashley County,40143,40.0,143.0,Oklahoma,Tulsa County,3,5,AR
+5007,5,7,Arkansas,Benton County,40143,40.0,143.0,Oklahoma,Tulsa County,21,19,AR
+5015,5,15,Arkansas,Carroll County,40143,40.0,143.0,Oklahoma,Tulsa County,19,27,AR
+5033,5,33,Arkansas,Crawford County,40143,40.0,143.0,Oklahoma,Tulsa County,11,16,AR
+5045,5,45,Arkansas,Faulkner County,40143,40.0,143.0,Oklahoma,Tulsa County,46,41,AR
+5081,5,81,Arkansas,Little River County,40143,40.0,143.0,Oklahoma,Tulsa County,11,20,AR
+5087,5,87,Arkansas,Madison County,40143,40.0,143.0,Oklahoma,Tulsa County,9,14,AR
+5113,5,113,Arkansas,Polk County,40143,40.0,143.0,Oklahoma,Tulsa County,8,15,AR
+5119,5,119,Arkansas,Pulaski County,40143,40.0,143.0,Oklahoma,Tulsa County,105,130,AR
+5131,5,131,Arkansas,Sebastian County,40143,40.0,143.0,Oklahoma,Tulsa County,64,46,AR
+5143,5,143,Arkansas,Washington County,40143,40.0,143.0,Oklahoma,Tulsa County,118,88,AR
+5145,5,145,Arkansas,White County,40143,40.0,143.0,Oklahoma,Tulsa County,9,15,AR
+5131,5,131,Arkansas,Sebastian County,40147,40.0,147.0,Oklahoma,Washington County,19,20,AR
+5033,5,33,Arkansas,Crawford County,40151,40.0,151.0,Oklahoma,Woods County,29,43,AR
+5083,5,83,Arkansas,Logan County,40151,40.0,151.0,Oklahoma,Woods County,2,5,AR
+5145,5,145,Arkansas,White County,40151,40.0,151.0,Oklahoma,Woods County,14,24,AR
+5007,5,7,Arkansas,Benton County,40153,40.0,153.0,Oklahoma,Woodward County,15,23,AR
+5125,5,125,Arkansas,Saline County,40153,40.0,153.0,Oklahoma,Woodward County,8,15,AR
+5023,5,23,Arkansas,Cleburne County,41029,41.0,29.0,Oregon,Jackson County,7,12,AR
+5051,5,51,Arkansas,Garland County,41051,41.0,51.0,Oregon,Multnomah County,17,27,AR
+5119,5,119,Arkansas,Pulaski County,41051,41.0,51.0,Oregon,Multnomah County,15,23,AR
+5131,5,131,Arkansas,Sebastian County,41051,41.0,51.0,Oregon,Multnomah County,5,7,AR
+5093,5,93,Arkansas,Mississippi County,42003,42.0,3.0,Pennsylvania,Allegheny County,44,46,AR
+5125,5,125,Arkansas,Saline County,42003,42.0,3.0,Pennsylvania,Allegheny County,15,23,AR
+5131,5,131,Arkansas,Sebastian County,42015,42.0,15.0,Pennsylvania,Bradford County,19,30,AR
+5131,5,131,Arkansas,Sebastian County,42029,42.0,29.0,Pennsylvania,Chester County,41,63,AR
+5143,5,143,Arkansas,Washington County,42029,42.0,29.0,Pennsylvania,Chester County,17,25,AR
+5119,5,119,Arkansas,Pulaski County,42041,42.0,41.0,Pennsylvania,Cumberland County,21,35,AR
+5115,5,115,Arkansas,Pope County,42047,42.0,47.0,Pennsylvania,Elk County,7,12,AR
+5103,5,103,Arkansas,Ouachita County,42069,42.0,69.0,Pennsylvania,Lackawanna County,3,5,AR
+5119,5,119,Arkansas,Pulaski County,42071,42.0,71.0,Pennsylvania,Lancaster County,34,39,AR
+5053,5,53,Arkansas,Grant County,42073,42.0,73.0,Pennsylvania,Lawrence County,13,16,AR
+5119,5,119,Arkansas,Pulaski County,42079,42.0,79.0,Pennsylvania,Luzerne County,34,54,AR
+5007,5,7,Arkansas,Benton County,42091,42.0,91.0,Pennsylvania,Montgomery County,11,18,AR
+5119,5,119,Arkansas,Pulaski County,42091,42.0,91.0,Pennsylvania,Montgomery County,31,51,AR
+5143,5,143,Arkansas,Washington County,42097,42.0,97.0,Pennsylvania,Northumberland County,11,16,AR
+5005,5,5,Arkansas,Baxter County,42101,42.0,101.0,Pennsylvania,Philadelphia County,25,39,AR
+5007,5,7,Arkansas,Benton County,42101,42.0,101.0,Pennsylvania,Philadelphia County,19,33,AR
+5033,5,33,Arkansas,Crawford County,42101,42.0,101.0,Pennsylvania,Philadelphia County,31,47,AR
+5047,5,47,Arkansas,Franklin County,42101,42.0,101.0,Pennsylvania,Philadelphia County,10,18,AR
+5085,5,85,Arkansas,Lonoke County,42101,42.0,101.0,Pennsylvania,Philadelphia County,4,5,AR
+5023,5,23,Arkansas,Cleburne County,42115,42.0,115.0,Pennsylvania,Susquehanna County,7,13,AR
+5015,5,15,Arkansas,Carroll County,42117,42.0,117.0,Pennsylvania,Tioga County,2,4,AR
+5043,5,43,Arkansas,Drew County,42131,42.0,131.0,Pennsylvania,Wyoming County,10,13,AR
+5083,5,83,Arkansas,Logan County,44007,44.0,7.0,Rhode Island,Providence County,22,34,AR
+5029,5,29,Arkansas,Conway County,45003,45.0,3.0,South Carolina,Aiken County,4,6,AR
+5045,5,45,Arkansas,Faulkner County,45013,45.0,13.0,South Carolina,Beaufort County,43,48,AR
+5045,5,45,Arkansas,Faulkner County,45019,45.0,19.0,South Carolina,Charleston County,7,12,AR
+5149,5,149,Arkansas,Yell County,45019,45.0,19.0,South Carolina,Charleston County,7,13,AR
+5069,5,69,Arkansas,Jefferson County,45045,45.0,45.0,South Carolina,Greenville County,17,27,AR
+5009,5,9,Arkansas,Boone County,46029,46.0,29.0,South Dakota,Codington County,13,19,AR
+5005,5,5,Arkansas,Baxter County,46093,46.0,93.0,South Dakota,Meade County,1,2,AR
+5051,5,51,Arkansas,Garland County,46099,46.0,99.0,South Dakota,Minnehaha County,8,13,AR
+5081,5,81,Arkansas,Little River County,46099,46.0,99.0,South Dakota,Minnehaha County,26,40,AR
+5021,5,21,Arkansas,Clay County,47011,47.0,11.0,Tennessee,Bradley County,2,4,AR
+5007,5,7,Arkansas,Benton County,47025,47.0,25.0,Tennessee,Claiborne County,8,11,AR
+5007,5,7,Arkansas,Benton County,47037,47.0,37.0,Tennessee,Davidson County,5,7,AR
+5035,5,35,Arkansas,Crittenden County,47037,47.0,37.0,Tennessee,Davidson County,6,13,AR
+5045,5,45,Arkansas,Faulkner County,47037,47.0,37.0,Tennessee,Davidson County,29,45,AR
+5069,5,69,Arkansas,Jefferson County,47037,47.0,37.0,Tennessee,Davidson County,6,9,AR
+5095,5,95,Arkansas,Monroe County,47037,47.0,37.0,Tennessee,Davidson County,17,25,AR
+5143,5,143,Arkansas,Washington County,47037,47.0,37.0,Tennessee,Davidson County,17,25,AR
+5055,5,55,Arkansas,Greene County,47047,47.0,47.0,Tennessee,Fayette County,16,26,AR
+5009,5,9,Arkansas,Boone County,47065,47.0,65.0,Tennessee,Hamilton County,3,5,AR
+5121,5,121,Arkansas,Randolph County,47065,47.0,65.0,Tennessee,Hamilton County,1,4,AR
+5135,5,135,Arkansas,Sharp County,47065,47.0,65.0,Tennessee,Hamilton County,2,4,AR
+5149,5,149,Arkansas,Yell County,47065,47.0,65.0,Tennessee,Hamilton County,15,25,AR
+5035,5,35,Arkansas,Crittenden County,47069,47.0,69.0,Tennessee,Hardeman County,5,9,AR
+5081,5,81,Arkansas,Little River County,47071,47.0,71.0,Tennessee,Hardin County,10,18,AR
+5031,5,31,Arkansas,Craighead County,47079,47.0,79.0,Tennessee,Henry County,18,30,AR
+5065,5,65,Arkansas,Izard County,47093,47.0,93.0,Tennessee,Knox County,5,7,AR
+5035,5,35,Arkansas,Crittenden County,47113,47.0,113.0,Tennessee,Madison County,1,3,AR
+5093,5,93,Arkansas,Mississippi County,47113,47.0,113.0,Tennessee,Madison County,3,5,AR
+5135,5,135,Arkansas,Sharp County,47125,47.0,125.0,Tennessee,Montgomery County,8,13,AR
+5031,5,31,Arkansas,Craighead County,47131,47.0,131.0,Tennessee,Obion County,13,22,AR
+5093,5,93,Arkansas,Mississippi County,47131,47.0,131.0,Tennessee,Obion County,7,10,AR
+5113,5,113,Arkansas,Polk County,47141,47.0,141.0,Tennessee,Putnam County,1,2,AR
+5119,5,119,Arkansas,Pulaski County,47153,47.0,153.0,Tennessee,Sequatchie County,32,37,AR
+5003,5,3,Arkansas,Ashley County,47157,47.0,157.0,Tennessee,Shelby County,13,21,AR
+5005,5,5,Arkansas,Baxter County,47157,47.0,157.0,Tennessee,Shelby County,2,3,AR
+5007,5,7,Arkansas,Benton County,47157,47.0,157.0,Tennessee,Shelby County,4,7,AR
+5023,5,23,Arkansas,Cleburne County,47157,47.0,157.0,Tennessee,Shelby County,38,36,AR
+5031,5,31,Arkansas,Craighead County,47157,47.0,157.0,Tennessee,Shelby County,254,137,AR
+5035,5,35,Arkansas,Crittenden County,47157,47.0,157.0,Tennessee,Shelby County,6599,475,AR
+5037,5,37,Arkansas,Cross County,47157,47.0,157.0,Tennessee,Shelby County,423,161,AR
+5041,5,41,Arkansas,Desha County,47157,47.0,157.0,Tennessee,Shelby County,55,46,AR
+5045,5,45,Arkansas,Faulkner County,47157,47.0,157.0,Tennessee,Shelby County,44,60,AR
+5049,5,49,Arkansas,Fulton County,47157,47.0,157.0,Tennessee,Shelby County,31,35,AR
+5055,5,55,Arkansas,Greene County,47157,47.0,157.0,Tennessee,Shelby County,22,24,AR
+5057,5,57,Arkansas,Hempstead County,47157,47.0,157.0,Tennessee,Shelby County,27,45,AR
+5065,5,65,Arkansas,Izard County,47157,47.0,157.0,Tennessee,Shelby County,5,7,AR
+5069,5,69,Arkansas,Jefferson County,47157,47.0,157.0,Tennessee,Shelby County,59,59,AR
+5075,5,75,Arkansas,Lawrence County,47157,47.0,157.0,Tennessee,Shelby County,10,11,AR
+5077,5,77,Arkansas,Lee County,47157,47.0,157.0,Tennessee,Shelby County,23,24,AR
+5083,5,83,Arkansas,Logan County,47157,47.0,157.0,Tennessee,Shelby County,6,10,AR
+5085,5,85,Arkansas,Lonoke County,47157,47.0,157.0,Tennessee,Shelby County,16,19,AR
+5091,5,91,Arkansas,Miller County,47157,47.0,157.0,Tennessee,Shelby County,8,11,AR
+5093,5,93,Arkansas,Mississippi County,47157,47.0,157.0,Tennessee,Shelby County,162,65,AR
+5095,5,95,Arkansas,Monroe County,47157,47.0,157.0,Tennessee,Shelby County,32,25,AR
+5101,5,101,Arkansas,Newton County,47157,47.0,157.0,Tennessee,Shelby County,2,3,AR
+5107,5,107,Arkansas,Phillips County,47157,47.0,157.0,Tennessee,Shelby County,128,74,AR
+5111,5,111,Arkansas,Poinsett County,47157,47.0,157.0,Tennessee,Shelby County,249,65,AR
+5113,5,113,Arkansas,Polk County,47157,47.0,157.0,Tennessee,Shelby County,14,21,AR
+5117,5,117,Arkansas,Prairie County,47157,47.0,157.0,Tennessee,Shelby County,8,12,AR
+5119,5,119,Arkansas,Pulaski County,47157,47.0,157.0,Tennessee,Shelby County,25,26,AR
+5121,5,121,Arkansas,Randolph County,47157,47.0,157.0,Tennessee,Shelby County,37,42,AR
+5123,5,123,Arkansas,St. Francis County,47157,47.0,157.0,Tennessee,Shelby County,496,181,AR
+5125,5,125,Arkansas,Saline County,47157,47.0,157.0,Tennessee,Shelby County,27,33,AR
+5135,5,135,Arkansas,Sharp County,47157,47.0,157.0,Tennessee,Shelby County,21,16,AR
+5139,5,139,Arkansas,Union County,47157,47.0,157.0,Tennessee,Shelby County,10,15,AR
+5143,5,143,Arkansas,Washington County,47157,47.0,157.0,Tennessee,Shelby County,35,39,AR
+5145,5,145,Arkansas,White County,47157,47.0,157.0,Tennessee,Shelby County,48,51,AR
+5139,5,139,Arkansas,Union County,47163,47.0,163.0,Tennessee,Sullivan County,6,12,AR
+5035,5,35,Arkansas,Crittenden County,47167,47.0,167.0,Tennessee,Tipton County,11,16,AR
+5123,5,123,Arkansas,St. Francis County,47167,47.0,167.0,Tennessee,Tipton County,1,2,AR
+5081,5,81,Arkansas,Little River County,48005,48.0,5.0,Texas,Angelina County,1,8,AR
+5145,5,145,Arkansas,White County,48013,48.0,13.0,Texas,Atascosa County,28,45,AR
+5097,5,97,Arkansas,Montgomery County,48021,48.0,21.0,Texas,Bastrop County,13,14,AR
+5019,5,19,Arkansas,Clark County,48029,48.0,29.0,Texas,Bexar County,5,11,AR
+5029,5,29,Arkansas,Conway County,48029,48.0,29.0,Texas,Bexar County,5,7,AR
+5063,5,63,Arkansas,Independence County,48029,48.0,29.0,Texas,Bexar County,4,8,AR
+5069,5,69,Arkansas,Jefferson County,48029,48.0,29.0,Texas,Bexar County,9,16,AR
+5027,5,27,Arkansas,Columbia County,48037,48.0,37.0,Texas,Bowie County,54,35,AR
+5035,5,35,Arkansas,Crittenden County,48037,48.0,37.0,Texas,Bowie County,7,12,AR
+5051,5,51,Arkansas,Garland County,48037,48.0,37.0,Texas,Bowie County,8,14,AR
+5057,5,57,Arkansas,Hempstead County,48037,48.0,37.0,Texas,Bowie County,246,107,AR
+5061,5,61,Arkansas,Howard County,48037,48.0,37.0,Texas,Bowie County,92,62,AR
+5073,5,73,Arkansas,Lafayette County,48037,48.0,37.0,Texas,Bowie County,64,36,AR
+5081,5,81,Arkansas,Little River County,48037,48.0,37.0,Texas,Bowie County,1209,267,AR
+5091,5,91,Arkansas,Miller County,48037,48.0,37.0,Texas,Bowie County,8176,592,AR
+5099,5,99,Arkansas,Nevada County,48037,48.0,37.0,Texas,Bowie County,19,21,AR
+5103,5,103,Arkansas,Ouachita County,48037,48.0,37.0,Texas,Bowie County,46,70,AR
+5113,5,113,Arkansas,Polk County,48037,48.0,37.0,Texas,Bowie County,16,12,AR
+5133,5,133,Arkansas,Sevier County,48037,48.0,37.0,Texas,Bowie County,215,79,AR
+5139,5,139,Arkansas,Union County,48037,48.0,37.0,Texas,Bowie County,8,13,AR
+5063,5,63,Arkansas,Independence County,48039,48.0,39.0,Texas,Brazoria County,21,32,AR
+5061,5,61,Arkansas,Howard County,48041,48.0,41.0,Texas,Brazos County,24,32,AR
+5007,5,7,Arkansas,Benton County,48061,48.0,61.0,Texas,Cameron County,10,14,AR
+5057,5,57,Arkansas,Hempstead County,48063,48.0,63.0,Texas,Camp County,23,36,AR
+5057,5,57,Arkansas,Hempstead County,48067,48.0,67.0,Texas,Cass County,16,20,AR
+5061,5,61,Arkansas,Howard County,48067,48.0,67.0,Texas,Cass County,19,29,AR
+5073,5,73,Arkansas,Lafayette County,48067,48.0,67.0,Texas,Cass County,21,23,AR
+5081,5,81,Arkansas,Little River County,48067,48.0,67.0,Texas,Cass County,8,10,AR
+5091,5,91,Arkansas,Miller County,48067,48.0,67.0,Texas,Cass County,298,116,AR
+5109,5,109,Arkansas,Pike County,48067,48.0,67.0,Texas,Cass County,15,21,AR
+5139,5,139,Arkansas,Union County,48071,48.0,71.0,Texas,Chambers County,1,4,AR
+5139,5,139,Arkansas,Union County,48073,48.0,73.0,Texas,Cherokee County,10,16,AR
+5005,5,5,Arkansas,Baxter County,48085,48.0,85.0,Texas,Collin County,33,34,AR
+5007,5,7,Arkansas,Benton County,48085,48.0,85.0,Texas,Collin County,6,9,AR
+5041,5,41,Arkansas,Desha County,48085,48.0,85.0,Texas,Collin County,1,4,AR
+5051,5,51,Arkansas,Garland County,48085,48.0,85.0,Texas,Collin County,1,4,AR
+5125,5,125,Arkansas,Saline County,48085,48.0,85.0,Texas,Collin County,17,27,AR
+5131,5,131,Arkansas,Sebastian County,48085,48.0,85.0,Texas,Collin County,18,30,AR
+5031,5,31,Arkansas,Craighead County,48091,48.0,91.0,Texas,Comal County,14,23,AR
+5097,5,97,Arkansas,Montgomery County,48097,48.0,97.0,Texas,Cooke County,3,6,AR
+5003,5,3,Arkansas,Ashley County,48113,48.0,113.0,Texas,Dallas County,7,12,AR
+5007,5,7,Arkansas,Benton County,48113,48.0,113.0,Texas,Dallas County,109,134,AR
+5021,5,21,Arkansas,Clay County,48113,48.0,113.0,Texas,Dallas County,8,9,AR
+5031,5,31,Arkansas,Craighead County,48113,48.0,113.0,Texas,Dallas County,25,30,AR
+5045,5,45,Arkansas,Faulkner County,48113,48.0,113.0,Texas,Dallas County,74,51,AR
+5047,5,47,Arkansas,Franklin County,48113,48.0,113.0,Texas,Dallas County,28,47,AR
+5051,5,51,Arkansas,Garland County,48113,48.0,113.0,Texas,Dallas County,45,64,AR
+5059,5,59,Arkansas,Hot Spring County,48113,48.0,113.0,Texas,Dallas County,25,26,AR
+5077,5,77,Arkansas,Lee County,48113,48.0,113.0,Texas,Dallas County,5,8,AR
+5085,5,85,Arkansas,Lonoke County,48113,48.0,113.0,Texas,Dallas County,12,13,AR
+5103,5,103,Arkansas,Ouachita County,48113,48.0,113.0,Texas,Dallas County,16,18,AR
+5119,5,119,Arkansas,Pulaski County,48113,48.0,113.0,Texas,Dallas County,37,34,AR
+5125,5,125,Arkansas,Saline County,48113,48.0,113.0,Texas,Dallas County,10,16,AR
+5131,5,131,Arkansas,Sebastian County,48113,48.0,113.0,Texas,Dallas County,66,83,AR
+5135,5,135,Arkansas,Sharp County,48113,48.0,113.0,Texas,Dallas County,46,67,AR
+5143,5,143,Arkansas,Washington County,48113,48.0,113.0,Texas,Dallas County,37,28,AR
+5079,5,79,Arkansas,Lincoln County,48121,48.0,121.0,Texas,Denton County,15,22,AR
+5091,5,91,Arkansas,Miller County,48121,48.0,121.0,Texas,Denton County,8,14,AR
+5111,5,111,Arkansas,Poinsett County,48121,48.0,121.0,Texas,Denton County,48,48,AR
+5065,5,65,Arkansas,Izard County,48123,48.0,123.0,Texas,DeWitt County,15,23,AR
+5145,5,145,Arkansas,White County,48123,48.0,123.0,Texas,DeWitt County,54,45,AR
+5135,5,135,Arkansas,Sharp County,48127,48.0,127.0,Texas,Dimmit County,5,8,AR
+5037,5,37,Arkansas,Cross County,48135,48.0,135.0,Texas,Ector County,5,8,AR
+5047,5,47,Arkansas,Franklin County,48135,48.0,135.0,Texas,Ector County,3,5,AR
+5131,5,131,Arkansas,Sebastian County,48135,48.0,135.0,Texas,Ector County,31,49,AR
+5145,5,145,Arkansas,White County,48135,48.0,135.0,Texas,Ector County,22,25,AR
+5149,5,149,Arkansas,Yell County,48135,48.0,135.0,Texas,Ector County,6,9,AR
+5033,5,33,Arkansas,Crawford County,48141,48.0,141.0,Texas,El Paso County,12,19,AR
+5137,5,137,Arkansas,Stone County,48157,48.0,157.0,Texas,Fort Bend County,18,30,AR
+5139,5,139,Arkansas,Union County,48157,48.0,157.0,Texas,Fort Bend County,19,29,AR
+5091,5,91,Arkansas,Miller County,48159,48.0,159.0,Texas,Franklin County,1,11,AR
+5133,5,133,Arkansas,Sevier County,48161,48.0,161.0,Texas,Freestone County,5,10,AR
+5133,5,133,Arkansas,Sevier County,48165,48.0,165.0,Texas,Gaines County,2,3,AR
+5091,5,91,Arkansas,Miller County,48167,48.0,167.0,Texas,Galveston County,9,12,AR
+5119,5,119,Arkansas,Pulaski County,48167,48.0,167.0,Texas,Galveston County,28,46,AR
+5033,5,33,Arkansas,Crawford County,48183,48.0,183.0,Texas,Gregg County,15,18,AR
+5035,5,35,Arkansas,Crittenden County,48183,48.0,183.0,Texas,Gregg County,17,26,AR
+5053,5,53,Arkansas,Grant County,48183,48.0,183.0,Texas,Gregg County,13,17,AR
+5003,5,3,Arkansas,Ashley County,48199,48.0,199.0,Texas,Hardin County,12,18,AR
+5003,5,3,Arkansas,Ashley County,48201,48.0,201.0,Texas,Harris County,16,26,AR
+5007,5,7,Arkansas,Benton County,48201,48.0,201.0,Texas,Harris County,45,48,AR
+5023,5,23,Arkansas,Cleburne County,48201,48.0,201.0,Texas,Harris County,18,24,AR
+5031,5,31,Arkansas,Craighead County,48201,48.0,201.0,Texas,Harris County,5,10,AR
+5033,5,33,Arkansas,Crawford County,48201,48.0,201.0,Texas,Harris County,10,19,AR
+5045,5,45,Arkansas,Faulkner County,48201,48.0,201.0,Texas,Harris County,59,44,AR
+5049,5,49,Arkansas,Fulton County,48201,48.0,201.0,Texas,Harris County,4,6,AR
+5051,5,51,Arkansas,Garland County,48201,48.0,201.0,Texas,Harris County,55,89,AR
+5053,5,53,Arkansas,Grant County,48201,48.0,201.0,Texas,Harris County,15,27,AR
+5057,5,57,Arkansas,Hempstead County,48201,48.0,201.0,Texas,Harris County,9,14,AR
+5061,5,61,Arkansas,Howard County,48201,48.0,201.0,Texas,Harris County,7,11,AR
+5063,5,63,Arkansas,Independence County,48201,48.0,201.0,Texas,Harris County,41,42,AR
+5065,5,65,Arkansas,Izard County,48201,48.0,201.0,Texas,Harris County,4,7,AR
+5073,5,73,Arkansas,Lafayette County,48201,48.0,201.0,Texas,Harris County,8,11,AR
+5081,5,81,Arkansas,Little River County,48201,48.0,201.0,Texas,Harris County,24,33,AR
+5089,5,89,Arkansas,Marion County,48201,48.0,201.0,Texas,Harris County,20,23,AR
+5091,5,91,Arkansas,Miller County,48201,48.0,201.0,Texas,Harris County,63,56,AR
+5093,5,93,Arkansas,Mississippi County,48201,48.0,201.0,Texas,Harris County,5,6,AR
+5099,5,99,Arkansas,Nevada County,48201,48.0,201.0,Texas,Harris County,7,10,AR
+5101,5,101,Arkansas,Newton County,48201,48.0,201.0,Texas,Harris County,3,4,AR
+5105,5,105,Arkansas,Perry County,48201,48.0,201.0,Texas,Harris County,4,6,AR
+5109,5,109,Arkansas,Pike County,48201,48.0,201.0,Texas,Harris County,55,55,AR
+5111,5,111,Arkansas,Poinsett County,48201,48.0,201.0,Texas,Harris County,8,12,AR
+5113,5,113,Arkansas,Polk County,48201,48.0,201.0,Texas,Harris County,25,23,AR
+5115,5,115,Arkansas,Pope County,48201,48.0,201.0,Texas,Harris County,8,12,AR
+5119,5,119,Arkansas,Pulaski County,48201,48.0,201.0,Texas,Harris County,28,33,AR
+5123,5,123,Arkansas,St. Francis County,48201,48.0,201.0,Texas,Harris County,23,37,AR
+5125,5,125,Arkansas,Saline County,48201,48.0,201.0,Texas,Harris County,74,87,AR
+5131,5,131,Arkansas,Sebastian County,48201,48.0,201.0,Texas,Harris County,26,40,AR
+5139,5,139,Arkansas,Union County,48201,48.0,201.0,Texas,Harris County,40,50,AR
+5141,5,141,Arkansas,Van Buren County,48201,48.0,201.0,Texas,Harris County,9,14,AR
+5143,5,143,Arkansas,Washington County,48201,48.0,201.0,Texas,Harris County,8,12,AR
+5145,5,145,Arkansas,White County,48201,48.0,201.0,Texas,Harris County,24,27,AR
+5017,5,17,Arkansas,Chicot County,48203,48.0,203.0,Texas,Harrison County,14,25,AR
+5023,5,23,Arkansas,Cleburne County,48203,48.0,203.0,Texas,Harrison County,7,11,AR
+5081,5,81,Arkansas,Little River County,48203,48.0,203.0,Texas,Harrison County,10,16,AR
+5085,5,85,Arkansas,Lonoke County,48203,48.0,203.0,Texas,Harrison County,18,21,AR
+5007,5,7,Arkansas,Benton County,48209,48.0,209.0,Texas,Hays County,28,43,AR
+5083,5,83,Arkansas,Logan County,48221,48.0,221.0,Texas,Hood County,14,20,AR
+5027,5,27,Arkansas,Columbia County,48227,48.0,227.0,Texas,Howard County,6,11,AR
+5051,5,51,Arkansas,Garland County,48235,48.0,235.0,Texas,Irion County,15,25,AR
+5019,5,19,Arkansas,Clark County,48257,48.0,257.0,Texas,Kaufman County,7,13,AR
+5027,5,27,Arkansas,Columbia County,48257,48.0,257.0,Texas,Kaufman County,8,16,AR
+5051,5,51,Arkansas,Garland County,48257,48.0,257.0,Texas,Kaufman County,17,28,AR
+5103,5,103,Arkansas,Ouachita County,48257,48.0,257.0,Texas,Kaufman County,3,6,AR
+5119,5,119,Arkansas,Pulaski County,48257,48.0,257.0,Texas,Kaufman County,6,14,AR
+5055,5,55,Arkansas,Greene County,48259,48.0,259.0,Texas,Kendall County,9,14,AR
+5091,5,91,Arkansas,Miller County,48287,48.0,287.0,Texas,Lee County,2,4,AR
+5091,5,91,Arkansas,Miller County,48293,48.0,293.0,Texas,Limestone County,6,10,AR
+5107,5,107,Arkansas,Phillips County,48303,48.0,303.0,Texas,Lubbock County,8,13,AR
+5023,5,23,Arkansas,Cleburne County,48309,48.0,309.0,Texas,McLennan County,5,7,AR
+5033,5,33,Arkansas,Crawford County,48309,48.0,309.0,Texas,McLennan County,2,5,AR
+5083,5,83,Arkansas,Logan County,48321,48.0,321.0,Texas,Matagorda County,5,7,AR
+5007,5,7,Arkansas,Benton County,48329,48.0,329.0,Texas,Midland County,8,11,AR
+5023,5,23,Arkansas,Cleburne County,48329,48.0,329.0,Texas,Midland County,27,34,AR
+5029,5,29,Arkansas,Conway County,48329,48.0,329.0,Texas,Midland County,14,23,AR
+5083,5,83,Arkansas,Logan County,48329,48.0,329.0,Texas,Midland County,2,3,AR
+5085,5,85,Arkansas,Lonoke County,48329,48.0,329.0,Texas,Midland County,38,47,AR
+5135,5,135,Arkansas,Sharp County,48329,48.0,329.0,Texas,Midland County,7,12,AR
+5145,5,145,Arkansas,White County,48329,48.0,329.0,Texas,Midland County,4,4,AR
+5009,5,9,Arkansas,Boone County,48339,48.0,339.0,Texas,Montgomery County,3,5,AR
+5073,5,73,Arkansas,Lafayette County,48339,48.0,339.0,Texas,Montgomery County,6,9,AR
+5139,5,139,Arkansas,Union County,48339,48.0,339.0,Texas,Montgomery County,5,9,AR
+5091,5,91,Arkansas,Miller County,48343,48.0,343.0,Texas,Morris County,18,31,AR
+5113,5,113,Arkansas,Polk County,48343,48.0,343.0,Texas,Morris County,2,3,AR
+5023,5,23,Arkansas,Cleburne County,48355,48.0,355.0,Texas,Nueces County,8,12,AR
+5137,5,137,Arkansas,Stone County,48355,48.0,355.0,Texas,Nueces County,12,22,AR
+5141,5,141,Arkansas,Van Buren County,48355,48.0,355.0,Texas,Nueces County,1,4,AR
+5055,5,55,Arkansas,Greene County,48363,48.0,363.0,Texas,Palo Pinto County,7,15,AR
+5051,5,51,Arkansas,Garland County,48365,48.0,365.0,Texas,Panola County,12,20,AR
+5139,5,139,Arkansas,Union County,48367,48.0,367.0,Texas,Parker County,7,12,AR
+5029,5,29,Arkansas,Conway County,48371,48.0,371.0,Texas,Pecos County,4,11,AR
+5033,5,33,Arkansas,Crawford County,48373,48.0,373.0,Texas,Polk County,15,24,AR
+5145,5,145,Arkansas,White County,48373,48.0,373.0,Texas,Polk County,8,11,AR
+5027,5,27,Arkansas,Columbia County,48387,48.0,387.0,Texas,Red River County,15,17,AR
+5133,5,133,Arkansas,Sevier County,48387,48.0,387.0,Texas,Red River County,10,16,AR
+5109,5,109,Arkansas,Pike County,48389,48.0,389.0,Texas,Reeves County,13,22,AR
+5015,5,15,Arkansas,Carroll County,48423,48.0,423.0,Texas,Smith County,7,11,AR
+5049,5,49,Arkansas,Fulton County,48423,48.0,423.0,Texas,Smith County,7,12,AR
+5119,5,119,Arkansas,Pulaski County,48423,48.0,423.0,Texas,Smith County,45,67,AR
+5085,5,85,Arkansas,Lonoke County,48435,48.0,435.0,Texas,Sutton County,12,19,AR
+5007,5,7,Arkansas,Benton County,48439,48.0,439.0,Texas,Tarrant County,15,19,AR
+5023,5,23,Arkansas,Cleburne County,48439,48.0,439.0,Texas,Tarrant County,6,10,AR
+5029,5,29,Arkansas,Conway County,48439,48.0,439.0,Texas,Tarrant County,5,12,AR
+5033,5,33,Arkansas,Crawford County,48439,48.0,439.0,Texas,Tarrant County,6,7,AR
+5051,5,51,Arkansas,Garland County,48439,48.0,439.0,Texas,Tarrant County,45,54,AR
+5059,5,59,Arkansas,Hot Spring County,48439,48.0,439.0,Texas,Tarrant County,2,3,AR
+5091,5,91,Arkansas,Miller County,48439,48.0,439.0,Texas,Tarrant County,55,67,AR
+5097,5,97,Arkansas,Montgomery County,48439,48.0,439.0,Texas,Tarrant County,29,44,AR
+5131,5,131,Arkansas,Sebastian County,48439,48.0,439.0,Texas,Tarrant County,30,43,AR
+5143,5,143,Arkansas,Washington County,48439,48.0,439.0,Texas,Tarrant County,8,14,AR
+5119,5,119,Arkansas,Pulaski County,48451,48.0,451.0,Texas,Tom Green County,12,20,AR
+5119,5,119,Arkansas,Pulaski County,48453,48.0,453.0,Texas,Travis County,34,32,AR
+5029,5,29,Arkansas,Conway County,48457,48.0,457.0,Texas,Tyler County,5,7,AR
+5131,5,131,Arkansas,Sebastian County,48469,48.0,469.0,Texas,Victoria County,13,20,AR
+5145,5,145,Arkansas,White County,48469,48.0,469.0,Texas,Victoria County,2,3,AR
+5145,5,145,Arkansas,White County,48483,48.0,483.0,Texas,Wheeler County,21,31,AR
+5003,5,3,Arkansas,Ashley County,48491,48.0,491.0,Texas,Williamson County,39,59,AR
+5145,5,145,Arkansas,White County,48499,48.0,499.0,Texas,Wood County,9,12,AR
+5009,5,9,Arkansas,Boone County,49035,49.0,35.0,Utah,Salt Lake County,9,15,AR
+5115,5,115,Arkansas,Pope County,51013,51.0,13.0,Virginia,Arlington County,6,11,AR
+5119,5,119,Arkansas,Pulaski County,51013,51.0,13.0,Virginia,Arlington County,8,14,AR
+5119,5,119,Arkansas,Pulaski County,51059,51.0,59.0,Virginia,Fairfax County,12,20,AR
+5143,5,143,Arkansas,Washington County,51059,51.0,59.0,Virginia,Fairfax County,5,10,AR
+5007,5,7,Arkansas,Benton County,51093,51.0,93.0,Virginia,Isle of Wight County,12,18,AR
+5025,5,25,Arkansas,Cleveland County,51121,51.0,121.0,Virginia,Montgomery County,7,11,AR
+5051,5,51,Arkansas,Garland County,51149,51.0,149.0,Virginia,Prince George County,30,36,AR
+5051,5,51,Arkansas,Garland County,51153,51.0,153.0,Virginia,Prince William County,14,23,AR
+5031,5,31,Arkansas,Craighead County,51195,51.0,195.0,Virginia,Wise County,13,23,AR
+5143,5,143,Arkansas,Washington County,51600,51.0,600.0,Virginia,Fairfax city,18,27,AR
+5143,5,143,Arkansas,Washington County,51700,51.0,700.0,Virginia,Newport News city,34,56,AR
+5007,5,7,Arkansas,Benton County,53033,53.0,33.0,Washington,King County,10,15,AR
+5131,5,131,Arkansas,Sebastian County,53033,53.0,33.0,Washington,King County,17,27,AR
+5143,5,143,Arkansas,Washington County,53033,53.0,33.0,Washington,King County,16,24,AR
+5005,5,5,Arkansas,Baxter County,53057,53.0,57.0,Washington,Skagit County,3,4,AR
+5125,5,125,Arkansas,Saline County,53061,53.0,61.0,Washington,Snohomish County,6,11,AR
+5007,5,7,Arkansas,Benton County,53065,53.0,65.0,Washington,Stevens County,19,28,AR
+5109,5,109,Arkansas,Pike County,54039,54.0,39.0,West Virginia,Kanawha County,21,31,AR
+5145,5,145,Arkansas,White County,54039,54.0,39.0,West Virginia,Kanawha County,23,32,AR
+5145,5,145,Arkansas,White County,54051,54.0,51.0,West Virginia,Marshall County,35,44,AR
+5139,5,139,Arkansas,Union County,55009,55.0,9.0,Wisconsin,Brown County,7,10,AR
+5075,5,75,Arkansas,Lawrence County,55023,55.0,23.0,Wisconsin,Crawford County,8,13,AR
+5119,5,119,Arkansas,Pulaski County,55025,55.0,25.0,Wisconsin,Dane County,64,65,AR
+5143,5,143,Arkansas,Washington County,55025,55.0,25.0,Wisconsin,Dane County,13,21,AR
+5069,5,69,Arkansas,Jefferson County,55043,55.0,43.0,Wisconsin,Grant County,11,19,AR
+5085,5,85,Arkansas,Lonoke County,55045,55.0,45.0,Wisconsin,Green County,9,15,AR
+5007,5,7,Arkansas,Benton County,55079,55.0,79.0,Wisconsin,Milwaukee County,4,6,AR
+5125,5,125,Arkansas,Saline County,55079,55.0,79.0,Wisconsin,Milwaukee County,11,17,AR
+5035,5,35,Arkansas,Crittenden County,55111,55.0,111.0,Wisconsin,Sauk County,4,7,AR
+5097,5,97,Arkansas,Montgomery County,56005,56.0,5.0,Wyoming,Campbell County,7,9,AR
+5007,5,7,Arkansas,Benton County,56021,56.0,21.0,Wyoming,Laramie County,2,4,AR
+5071,5,71,Arkansas,Johnson County,56021,56.0,21.0,Wyoming,Laramie County,16,21,AR
+5131,5,131,Arkansas,Sebastian County,56025,56.0,25.0,Wyoming,Natrona County,6,12,AR
+5145,5,145,Arkansas,White County,56037,56.0,37.0,Wyoming,Sweetwater County,3,5,AR
+5119,5,119,Arkansas,Pulaski County,301000,301.0,,Canada,,14,20,AR
+5137,5,137,Arkansas,Stone County,301000,301.0,,Canada,,4,6,AR
+5143,5,143,Arkansas,Washington County,301000,301.0,,Canada,,4,6,AR
+5119,5,119,Arkansas,Pulaski County,303000,303.0,,Mexico,,8,13,AR
+5005,5,5,Arkansas,Baxter County,-1,,,Other workplace outside of the U.S.,,3,6,AR
+5007,5,7,Arkansas,Benton County,-1,,,Other workplace outside of the U.S.,,5,8,AR
+5015,5,15,Arkansas,Carroll County,-1,,,Other workplace outside of the U.S.,,7,11,AR
+5023,5,23,Arkansas,Cleburne County,-1,,,Other workplace outside of the U.S.,,31,41,AR
+5051,5,51,Arkansas,Garland County,-1,,,Other workplace outside of the U.S.,,26,42,AR
+5083,5,83,Arkansas,Logan County,-1,,,Other workplace outside of the U.S.,,6,9,AR
+5091,5,91,Arkansas,Miller County,-1,,,Other workplace outside of the U.S.,,36,33,AR
+5119,5,119,Arkansas,Pulaski County,-1,,,Other workplace outside of the U.S.,,120,98,AR
+5135,5,135,Arkansas,Sharp County,-1,,,Other workplace outside of the U.S.,,15,23,AR
+5137,5,137,Arkansas,Stone County,-1,,,Other workplace outside of the U.S.,,7,11,AR
+5143,5,143,Arkansas,Washington County,-1,,,Other workplace outside of the U.S.,,146,119,AR
+5145,5,145,Arkansas,White County,-1,,,Other workplace outside of the U.S.,,42,51,AR
+5149,5,149,Arkansas,Yell County,-1,,,Other workplace outside of the U.S.,,11,17,AR

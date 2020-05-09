@@ -1,0 +1,306 @@
+POR_FIPS,POR_SFIPS,POR_COFIPS,POR_State,POR_County,POW_FIPS,POW_SFIPS,POW_COFIPS,POW_State,POW_County,Worker_Flow,MOE,ABBR
+10001,10,1,Delaware,Kent County,4013,4.0,13.0,Arizona,Maricopa County,8,12,DE
+10003,10,3,Delaware,New Castle County,4013,4.0,13.0,Arizona,Maricopa County,23,27,DE
+10005,10,5,Delaware,Sussex County,4013,4.0,13.0,Arizona,Maricopa County,7,12,DE
+10003,10,3,Delaware,New Castle County,5031,5.0,31.0,Arkansas,Craighead County,16,26,DE
+10003,10,3,Delaware,New Castle County,5045,5.0,45.0,Arkansas,Faulkner County,6,11,DE
+10003,10,3,Delaware,New Castle County,6073,6.0,73.0,California,San Diego County,11,17,DE
+10003,10,3,Delaware,New Castle County,6075,6.0,75.0,California,San Francisco County,14,21,DE
+10003,10,3,Delaware,New Castle County,8097,8.0,97.0,Colorado,Pitkin County,11,19,DE
+10005,10,5,Delaware,Sussex County,9009,9.0,9.0,Connecticut,New Haven County,7,11,DE
+10001,10,1,Delaware,Kent County,9011,9.0,11.0,Connecticut,New London County,14,22,DE
+10003,10,3,Delaware,New Castle County,9011,9.0,11.0,Connecticut,New London County,14,23,DE
+10001,10,1,Delaware,Kent County,10001,10.0,1.0,Delaware,Kent County,53552,1273,DE
+10003,10,3,Delaware,New Castle County,10001,10.0,1.0,Delaware,Kent County,4019,441,DE
+10005,10,5,Delaware,Sussex County,10001,10.0,1.0,Delaware,Kent County,6630,489,DE
+10001,10,1,Delaware,Kent County,10003,10.0,3.0,Delaware,New Castle County,10562,769,DE
+10003,10,3,Delaware,New Castle County,10003,10.0,3.0,Delaware,New Castle County,214105,2426,DE
+10005,10,5,Delaware,Sussex County,10003,10.0,3.0,Delaware,New Castle County,1147,202,DE
+10001,10,1,Delaware,Kent County,10005,10.0,5.0,Delaware,Sussex County,6797,587,DE
+10003,10,3,Delaware,New Castle County,10005,10.0,5.0,Delaware,Sussex County,553,162,DE
+10005,10,5,Delaware,Sussex County,10005,10.0,5.0,Delaware,Sussex County,67082,1338,DE
+10001,10,1,Delaware,Kent County,11001,11.0,1.0,District of Columbia,District of Columbia,223,116,DE
+10003,10,3,Delaware,New Castle County,11001,11.0,1.0,District of Columbia,District of Columbia,415,161,DE
+10005,10,5,Delaware,Sussex County,11001,11.0,1.0,District of Columbia,District of Columbia,388,108,DE
+10003,10,3,Delaware,New Castle County,12011,12.0,11.0,Florida,Broward County,24,28,DE
+10003,10,3,Delaware,New Castle County,12021,12.0,21.0,Florida,Collier County,8,13,DE
+10003,10,3,Delaware,New Castle County,12086,12.0,86.0,Florida,Miami-Dade County,42,42,DE
+10005,10,5,Delaware,Sussex County,12086,12.0,86.0,Florida,Miami-Dade County,22,24,DE
+10003,10,3,Delaware,New Castle County,12095,12.0,95.0,Florida,Orange County,12,19,DE
+10003,10,3,Delaware,New Castle County,12099,12.0,99.0,Florida,Palm Beach County,4,7,DE
+10005,10,5,Delaware,Sussex County,13051,13.0,51.0,Georgia,Chatham County,7,10,DE
+10003,10,3,Delaware,New Castle County,13121,13.0,121.0,Georgia,Fulton County,19,21,DE
+10005,10,5,Delaware,Sussex County,13121,13.0,121.0,Georgia,Fulton County,2,2,DE
+10003,10,3,Delaware,New Castle County,13135,13.0,135.0,Georgia,Gwinnett County,7,12,DE
+10001,10,1,Delaware,Kent County,13153,13.0,153.0,Georgia,Houston County,3,6,DE
+10003,10,3,Delaware,New Castle County,17031,17.0,31.0,Illinois,Cook County,11,18,DE
+10005,10,5,Delaware,Sussex County,17031,17.0,31.0,Illinois,Cook County,33,36,DE
+10003,10,3,Delaware,New Castle County,17043,17.0,43.0,Illinois,DuPage County,26,37,DE
+10003,10,3,Delaware,New Castle County,17111,17.0,111.0,Illinois,McHenry County,9,14,DE
+10003,10,3,Delaware,New Castle County,17197,17.0,197.0,Illinois,Will County,5,9,DE
+10003,10,3,Delaware,New Castle County,18097,18.0,97.0,Indiana,Marion County,8,14,DE
+10005,10,5,Delaware,Sussex County,18097,18.0,97.0,Indiana,Marion County,6,9,DE
+10003,10,3,Delaware,New Castle County,18163,18.0,163.0,Indiana,Vanderburgh County,10,17,DE
+10003,10,3,Delaware,New Castle County,21015,21.0,15.0,Kentucky,Boone County,8,14,DE
+10003,10,3,Delaware,New Castle County,21067,21.0,67.0,Kentucky,Fayette County,24,37,DE
+10003,10,3,Delaware,New Castle County,21111,21.0,111.0,Kentucky,Jefferson County,15,24,DE
+10005,10,5,Delaware,Sussex County,22033,22.0,33.0,Louisiana,East Baton Rouge Parish,16,18,DE
+10001,10,1,Delaware,Kent County,24003,24.0,3.0,Maryland,Anne Arundel County,239,88,DE
+10003,10,3,Delaware,New Castle County,24003,24.0,3.0,Maryland,Anne Arundel County,128,63,DE
+10005,10,5,Delaware,Sussex County,24003,24.0,3.0,Maryland,Anne Arundel County,191,65,DE
+10001,10,1,Delaware,Kent County,24005,24.0,5.0,Maryland,Baltimore County,20,26,DE
+10003,10,3,Delaware,New Castle County,24005,24.0,5.0,Maryland,Baltimore County,263,115,DE
+10005,10,5,Delaware,Sussex County,24005,24.0,5.0,Maryland,Baltimore County,228,84,DE
+10005,10,5,Delaware,Sussex County,24009,24.0,9.0,Maryland,Calvert County,7,12,DE
+10001,10,1,Delaware,Kent County,24011,24.0,11.0,Maryland,Caroline County,517,145,DE
+10003,10,3,Delaware,New Castle County,24011,24.0,11.0,Maryland,Caroline County,45,62,DE
+10005,10,5,Delaware,Sussex County,24011,24.0,11.0,Maryland,Caroline County,693,160,DE
+10001,10,1,Delaware,Kent County,24013,24.0,13.0,Maryland,Carroll County,4,7,DE
+10005,10,5,Delaware,Sussex County,24013,24.0,13.0,Maryland,Carroll County,13,18,DE
+10001,10,1,Delaware,Kent County,24015,24.0,15.0,Maryland,Cecil County,516,214,DE
+10003,10,3,Delaware,New Castle County,24015,24.0,15.0,Maryland,Cecil County,4935,566,DE
+10005,10,5,Delaware,Sussex County,24015,24.0,15.0,Maryland,Cecil County,15,17,DE
+10001,10,1,Delaware,Kent County,24019,24.0,19.0,Maryland,Dorchester County,104,79,DE
+10003,10,3,Delaware,New Castle County,24019,24.0,19.0,Maryland,Dorchester County,26,39,DE
+10005,10,5,Delaware,Sussex County,24019,24.0,19.0,Maryland,Dorchester County,676,169,DE
+10003,10,3,Delaware,New Castle County,24021,24.0,21.0,Maryland,Frederick County,5,12,DE
+10005,10,5,Delaware,Sussex County,24021,24.0,21.0,Maryland,Frederick County,32,24,DE
+10001,10,1,Delaware,Kent County,24025,24.0,25.0,Maryland,Harford County,108,80,DE
+10003,10,3,Delaware,New Castle County,24025,24.0,25.0,Maryland,Harford County,1311,257,DE
+10005,10,5,Delaware,Sussex County,24025,24.0,25.0,Maryland,Harford County,23,27,DE
+10001,10,1,Delaware,Kent County,24027,24.0,27.0,Maryland,Howard County,15,22,DE
+10003,10,3,Delaware,New Castle County,24027,24.0,27.0,Maryland,Howard County,93,47,DE
+10005,10,5,Delaware,Sussex County,24027,24.0,27.0,Maryland,Howard County,157,95,DE
+10001,10,1,Delaware,Kent County,24029,24.0,29.0,Maryland,Kent County,181,76,DE
+10003,10,3,Delaware,New Castle County,24029,24.0,29.0,Maryland,Kent County,223,121,DE
+10005,10,5,Delaware,Sussex County,24029,24.0,29.0,Maryland,Kent County,42,39,DE
+10001,10,1,Delaware,Kent County,24031,24.0,31.0,Maryland,Montgomery County,35,53,DE
+10003,10,3,Delaware,New Castle County,24031,24.0,31.0,Maryland,Montgomery County,185,117,DE
+10005,10,5,Delaware,Sussex County,24031,24.0,31.0,Maryland,Montgomery County,240,76,DE
+10001,10,1,Delaware,Kent County,24033,24.0,33.0,Maryland,Prince George's County,164,135,DE
+10003,10,3,Delaware,New Castle County,24033,24.0,33.0,Maryland,Prince George's County,95,66,DE
+10005,10,5,Delaware,Sussex County,24033,24.0,33.0,Maryland,Prince George's County,140,78,DE
+10001,10,1,Delaware,Kent County,24035,24.0,35.0,Maryland,Queen Anne's County,301,121,DE
+10003,10,3,Delaware,New Castle County,24035,24.0,35.0,Maryland,Queen Anne's County,63,42,DE
+10005,10,5,Delaware,Sussex County,24035,24.0,35.0,Maryland,Queen Anne's County,124,65,DE
+10005,10,5,Delaware,Sussex County,24037,24.0,37.0,Maryland,St. Mary's County,16,25,DE
+10001,10,1,Delaware,Kent County,24039,24.0,39.0,Maryland,Somerset County,24,33,DE
+10005,10,5,Delaware,Sussex County,24039,24.0,39.0,Maryland,Somerset County,88,50,DE
+10001,10,1,Delaware,Kent County,24041,24.0,41.0,Maryland,Talbot County,128,79,DE
+10003,10,3,Delaware,New Castle County,24041,24.0,41.0,Maryland,Talbot County,58,55,DE
+10005,10,5,Delaware,Sussex County,24041,24.0,41.0,Maryland,Talbot County,359,140,DE
+10005,10,5,Delaware,Sussex County,24043,24.0,43.0,Maryland,Washington County,8,13,DE
+10001,10,1,Delaware,Kent County,24045,24.0,45.0,Maryland,Wicomico County,185,101,DE
+10003,10,3,Delaware,New Castle County,24045,24.0,45.0,Maryland,Wicomico County,27,29,DE
+10005,10,5,Delaware,Sussex County,24045,24.0,45.0,Maryland,Wicomico County,4682,526,DE
+10001,10,1,Delaware,Kent County,24047,24.0,47.0,Maryland,Worcester County,106,92,DE
+10005,10,5,Delaware,Sussex County,24047,24.0,47.0,Maryland,Worcester County,2890,425,DE
+10001,10,1,Delaware,Kent County,24510,24.0,510.0,Maryland,Baltimore city,36,33,DE
+10003,10,3,Delaware,New Castle County,24510,24.0,510.0,Maryland,Baltimore city,376,138,DE
+10005,10,5,Delaware,Sussex County,24510,24.0,510.0,Maryland,Baltimore city,210,79,DE
+10005,10,5,Delaware,Sussex County,25005,25.0,5.0,Massachusetts,Bristol County,5,5,DE
+10001,10,1,Delaware,Kent County,25013,25.0,13.0,Massachusetts,Hampden County,5,8,DE
+10003,10,3,Delaware,New Castle County,25015,25.0,15.0,Massachusetts,Hampshire County,13,21,DE
+10003,10,3,Delaware,New Castle County,25017,25.0,17.0,Massachusetts,Middlesex County,46,40,DE
+10003,10,3,Delaware,New Castle County,25025,25.0,25.0,Massachusetts,Suffolk County,28,43,DE
+10003,10,3,Delaware,New Castle County,25027,25.0,27.0,Massachusetts,Worcester County,51,71,DE
+10003,10,3,Delaware,New Castle County,26055,26.0,55.0,Michigan,Grand Traverse County,4,7,DE
+10003,10,3,Delaware,New Castle County,26161,26.0,161.0,Michigan,Washtenaw County,14,22,DE
+10005,10,5,Delaware,Sussex County,27053,27.0,53.0,Minnesota,Hennepin County,88,114,DE
+10001,10,1,Delaware,Kent County,27145,27.0,145.0,Minnesota,Stearns County,18,30,DE
+10003,10,3,Delaware,New Castle County,27145,27.0,145.0,Minnesota,Stearns County,17,27,DE
+10001,10,1,Delaware,Kent County,28003,28.0,3.0,Mississippi,Alcorn County,7,11,DE
+10005,10,5,Delaware,Sussex County,28081,28.0,81.0,Mississippi,Lee County,12,19,DE
+10003,10,3,Delaware,New Castle County,29183,29.0,183.0,Missouri,St. Charles County,7,11,DE
+10003,10,3,Delaware,New Castle County,31019,31.0,19.0,Nebraska,Buffalo County,12,20,DE
+10003,10,3,Delaware,New Castle County,32003,32.0,3.0,Nevada,Clark County,13,13,DE
+10001,10,1,Delaware,Kent County,34001,34.0,1.0,New Jersey,Atlantic County,13,21,DE
+10003,10,3,Delaware,New Castle County,34001,34.0,1.0,New Jersey,Atlantic County,110,68,DE
+10003,10,3,Delaware,New Castle County,34003,34.0,3.0,New Jersey,Bergen County,42,35,DE
+10005,10,5,Delaware,Sussex County,34003,34.0,3.0,New Jersey,Bergen County,1,2,DE
+10001,10,1,Delaware,Kent County,34005,34.0,5.0,New Jersey,Burlington County,86,53,DE
+10003,10,3,Delaware,New Castle County,34005,34.0,5.0,New Jersey,Burlington County,752,210,DE
+10005,10,5,Delaware,Sussex County,34005,34.0,5.0,New Jersey,Burlington County,2,4,DE
+10001,10,1,Delaware,Kent County,34007,34.0,7.0,New Jersey,Camden County,16,21,DE
+10003,10,3,Delaware,New Castle County,34007,34.0,7.0,New Jersey,Camden County,572,133,DE
+10005,10,5,Delaware,Sussex County,34007,34.0,7.0,New Jersey,Camden County,21,19,DE
+10003,10,3,Delaware,New Castle County,34009,34.0,9.0,New Jersey,Cape May County,5,9,DE
+10005,10,5,Delaware,Sussex County,34009,34.0,9.0,New Jersey,Cape May County,17,27,DE
+10001,10,1,Delaware,Kent County,34011,34.0,11.0,New Jersey,Cumberland County,34,40,DE
+10003,10,3,Delaware,New Castle County,34011,34.0,11.0,New Jersey,Cumberland County,264,138,DE
+10001,10,1,Delaware,Kent County,34013,34.0,13.0,New Jersey,Essex County,13,20,DE
+10003,10,3,Delaware,New Castle County,34013,34.0,13.0,New Jersey,Essex County,148,94,DE
+10005,10,5,Delaware,Sussex County,34013,34.0,13.0,New Jersey,Essex County,7,11,DE
+10001,10,1,Delaware,Kent County,34015,34.0,15.0,New Jersey,Gloucester County,149,88,DE
+10003,10,3,Delaware,New Castle County,34015,34.0,15.0,New Jersey,Gloucester County,1030,166,DE
+10005,10,5,Delaware,Sussex County,34015,34.0,15.0,New Jersey,Gloucester County,68,61,DE
+10001,10,1,Delaware,Kent County,34017,34.0,17.0,New Jersey,Hudson County,27,32,DE
+10003,10,3,Delaware,New Castle County,34017,34.0,17.0,New Jersey,Hudson County,41,49,DE
+10005,10,5,Delaware,Sussex County,34017,34.0,17.0,New Jersey,Hudson County,8,9,DE
+10001,10,1,Delaware,Kent County,34019,34.0,19.0,New Jersey,Hunterdon County,6,10,DE
+10005,10,5,Delaware,Sussex County,34019,34.0,19.0,New Jersey,Hunterdon County,15,23,DE
+10003,10,3,Delaware,New Castle County,34021,34.0,21.0,New Jersey,Mercer County,212,98,DE
+10005,10,5,Delaware,Sussex County,34021,34.0,21.0,New Jersey,Mercer County,23,25,DE
+10001,10,1,Delaware,Kent County,34023,34.0,23.0,New Jersey,Middlesex County,12,20,DE
+10003,10,3,Delaware,New Castle County,34023,34.0,23.0,New Jersey,Middlesex County,137,97,DE
+10005,10,5,Delaware,Sussex County,34023,34.0,23.0,New Jersey,Middlesex County,12,19,DE
+10001,10,1,Delaware,Kent County,34025,34.0,25.0,New Jersey,Monmouth County,14,16,DE
+10003,10,3,Delaware,New Castle County,34025,34.0,25.0,New Jersey,Monmouth County,15,17,DE
+10005,10,5,Delaware,Sussex County,34025,34.0,25.0,New Jersey,Monmouth County,21,30,DE
+10003,10,3,Delaware,New Castle County,34027,34.0,27.0,New Jersey,Morris County,111,77,DE
+10005,10,5,Delaware,Sussex County,34027,34.0,27.0,New Jersey,Morris County,34,31,DE
+10003,10,3,Delaware,New Castle County,34029,34.0,29.0,New Jersey,Ocean County,15,24,DE
+10003,10,3,Delaware,New Castle County,34031,34.0,31.0,New Jersey,Passaic County,15,25,DE
+10001,10,1,Delaware,Kent County,34033,34.0,33.0,New Jersey,Salem County,228,89,DE
+10003,10,3,Delaware,New Castle County,34033,34.0,33.0,New Jersey,Salem County,1691,273,DE
+10005,10,5,Delaware,Sussex County,34033,34.0,33.0,New Jersey,Salem County,7,12,DE
+10003,10,3,Delaware,New Castle County,34035,34.0,35.0,New Jersey,Somerset County,144,88,DE
+10003,10,3,Delaware,New Castle County,34037,34.0,37.0,New Jersey,Sussex County,25,34,DE
+10005,10,5,Delaware,Sussex County,34037,34.0,37.0,New Jersey,Sussex County,2,3,DE
+10003,10,3,Delaware,New Castle County,34039,34.0,39.0,New Jersey,Union County,14,17,DE
+10005,10,5,Delaware,Sussex County,34039,34.0,39.0,New Jersey,Union County,21,24,DE
+10003,10,3,Delaware,New Castle County,34041,34.0,41.0,New Jersey,Warren County,36,55,DE
+10001,10,1,Delaware,Kent County,36005,36.0,5.0,New York,Bronx County,15,18,DE
+10003,10,3,Delaware,New Castle County,36005,36.0,5.0,New York,Bronx County,13,20,DE
+10001,10,1,Delaware,Kent County,36025,36.0,25.0,New York,Delaware County,9,13,DE
+10003,10,3,Delaware,New Castle County,36029,36.0,29.0,New York,Erie County,37,41,DE
+10005,10,5,Delaware,Sussex County,36029,36.0,29.0,New York,Erie County,8,11,DE
+10001,10,1,Delaware,Kent County,36047,36.0,47.0,New York,Kings County,11,14,DE
+10003,10,3,Delaware,New Castle County,36047,36.0,47.0,New York,Kings County,177,101,DE
+10005,10,5,Delaware,Sussex County,36047,36.0,47.0,New York,Kings County,2,3,DE
+10003,10,3,Delaware,New Castle County,36055,36.0,55.0,New York,Monroe County,16,24,DE
+10003,10,3,Delaware,New Castle County,36059,36.0,59.0,New York,Nassau County,114,80,DE
+10001,10,1,Delaware,Kent County,36061,36.0,61.0,New York,New York County,95,101,DE
+10003,10,3,Delaware,New Castle County,36061,36.0,61.0,New York,New York County,660,192,DE
+10005,10,5,Delaware,Sussex County,36061,36.0,61.0,New York,New York County,102,57,DE
+10003,10,3,Delaware,New Castle County,36081,36.0,81.0,New York,Queens County,43,45,DE
+10003,10,3,Delaware,New Castle County,36085,36.0,85.0,New York,Richmond County,28,29,DE
+10005,10,5,Delaware,Sussex County,36085,36.0,85.0,New York,Richmond County,31,34,DE
+10001,10,1,Delaware,Kent County,36087,36.0,87.0,New York,Rockland County,3,8,DE
+10003,10,3,Delaware,New Castle County,36087,36.0,87.0,New York,Rockland County,15,23,DE
+10003,10,3,Delaware,New Castle County,36089,36.0,89.0,New York,St. Lawrence County,14,23,DE
+10003,10,3,Delaware,New Castle County,36103,36.0,103.0,New York,Suffolk County,20,31,DE
+10005,10,5,Delaware,Sussex County,36103,36.0,103.0,New York,Suffolk County,1,2,DE
+10005,10,5,Delaware,Sussex County,36105,36.0,105.0,New York,Sullivan County,14,22,DE
+10003,10,3,Delaware,New Castle County,36117,36.0,117.0,New York,Wayne County,14,21,DE
+10001,10,1,Delaware,Kent County,36119,36.0,119.0,New York,Westchester County,9,11,DE
+10003,10,3,Delaware,New Castle County,36119,36.0,119.0,New York,Westchester County,31,31,DE
+10005,10,5,Delaware,Sussex County,36119,36.0,119.0,New York,Westchester County,20,24,DE
+10005,10,5,Delaware,Sussex County,37021,37.0,21.0,North Carolina,Buncombe County,6,8,DE
+10003,10,3,Delaware,New Castle County,37063,37.0,63.0,North Carolina,Durham County,10,16,DE
+10005,10,5,Delaware,Sussex County,37081,37.0,81.0,North Carolina,Guilford County,2,3,DE
+10005,10,5,Delaware,Sussex County,37097,37.0,97.0,North Carolina,Iredell County,17,27,DE
+10003,10,3,Delaware,New Castle County,37119,37.0,119.0,North Carolina,Mecklenburg County,32,34,DE
+10003,10,3,Delaware,New Castle County,37129,37.0,129.0,North Carolina,New Hanover County,7,12,DE
+10001,10,1,Delaware,Kent County,37139,37.0,139.0,North Carolina,Pasquotank County,12,19,DE
+10005,10,5,Delaware,Sussex County,38045,38.0,45.0,North Dakota,LaMoure County,8,13,DE
+10003,10,3,Delaware,New Castle County,39035,39.0,35.0,Ohio,Cuyahoga County,25,40,DE
+10005,10,5,Delaware,Sussex County,39035,39.0,35.0,Ohio,Cuyahoga County,1,2,DE
+10003,10,3,Delaware,New Castle County,39049,39.0,49.0,Ohio,Franklin County,30,38,DE
+10003,10,3,Delaware,New Castle County,39061,39.0,61.0,Ohio,Hamilton County,8,12,DE
+10003,10,3,Delaware,New Castle County,39099,39.0,99.0,Ohio,Mahoning County,33,37,DE
+10003,10,3,Delaware,New Castle County,40109,40.0,109.0,Oklahoma,Oklahoma County,19,32,DE
+10003,10,3,Delaware,New Castle County,41067,41.0,67.0,Oregon,Washington County,21,34,DE
+10005,10,5,Delaware,Sussex County,42001,42.0,1.0,Pennsylvania,Adams County,18,28,DE
+10001,10,1,Delaware,Kent County,42003,42.0,3.0,Pennsylvania,Allegheny County,10,15,DE
+10003,10,3,Delaware,New Castle County,42003,42.0,3.0,Pennsylvania,Allegheny County,57,44,DE
+10005,10,5,Delaware,Sussex County,42003,42.0,3.0,Pennsylvania,Allegheny County,21,33,DE
+10003,10,3,Delaware,New Castle County,42007,42.0,7.0,Pennsylvania,Beaver County,35,39,DE
+10003,10,3,Delaware,New Castle County,42011,42.0,11.0,Pennsylvania,Berks County,26,23,DE
+10005,10,5,Delaware,Sussex County,42011,42.0,11.0,Pennsylvania,Berks County,5,7,DE
+10001,10,1,Delaware,Kent County,42017,42.0,17.0,Pennsylvania,Bucks County,14,23,DE
+10003,10,3,Delaware,New Castle County,42017,42.0,17.0,Pennsylvania,Bucks County,257,112,DE
+10005,10,5,Delaware,Sussex County,42017,42.0,17.0,Pennsylvania,Bucks County,11,13,DE
+10003,10,3,Delaware,New Castle County,42027,42.0,27.0,Pennsylvania,Centre County,7,20,DE
+10001,10,1,Delaware,Kent County,42029,42.0,29.0,Pennsylvania,Chester County,191,88,DE
+10003,10,3,Delaware,New Castle County,42029,42.0,29.0,Pennsylvania,Chester County,6518,520,DE
+10005,10,5,Delaware,Sussex County,42029,42.0,29.0,Pennsylvania,Chester County,275,155,DE
+10003,10,3,Delaware,New Castle County,42033,42.0,33.0,Pennsylvania,Clearfield County,10,15,DE
+10003,10,3,Delaware,New Castle County,42037,42.0,37.0,Pennsylvania,Columbia County,54,83,DE
+10001,10,1,Delaware,Kent County,42041,42.0,41.0,Pennsylvania,Cumberland County,12,18,DE
+10003,10,3,Delaware,New Castle County,42041,42.0,41.0,Pennsylvania,Cumberland County,24,28,DE
+10005,10,5,Delaware,Sussex County,42041,42.0,41.0,Pennsylvania,Cumberland County,17,28,DE
+10001,10,1,Delaware,Kent County,42043,42.0,43.0,Pennsylvania,Dauphin County,15,23,DE
+10003,10,3,Delaware,New Castle County,42043,42.0,43.0,Pennsylvania,Dauphin County,47,34,DE
+10005,10,5,Delaware,Sussex County,42043,42.0,43.0,Pennsylvania,Dauphin County,37,29,DE
+10001,10,1,Delaware,Kent County,42045,42.0,45.0,Pennsylvania,Delaware County,277,121,DE
+10003,10,3,Delaware,New Castle County,42045,42.0,45.0,Pennsylvania,Delaware County,9547,754,DE
+10005,10,5,Delaware,Sussex County,42045,42.0,45.0,Pennsylvania,Delaware County,127,72,DE
+10005,10,5,Delaware,Sussex County,42057,42.0,57.0,Pennsylvania,Fulton County,40,48,DE
+10003,10,3,Delaware,New Castle County,42071,42.0,71.0,Pennsylvania,Lancaster County,187,80,DE
+10005,10,5,Delaware,Sussex County,42071,42.0,71.0,Pennsylvania,Lancaster County,193,119,DE
+10003,10,3,Delaware,New Castle County,42073,42.0,73.0,Pennsylvania,Lawrence County,24,25,DE
+10005,10,5,Delaware,Sussex County,42075,42.0,75.0,Pennsylvania,Lebanon County,1,2,DE
+10003,10,3,Delaware,New Castle County,42077,42.0,77.0,Pennsylvania,Lehigh County,93,85,DE
+10005,10,5,Delaware,Sussex County,42077,42.0,77.0,Pennsylvania,Lehigh County,12,18,DE
+10003,10,3,Delaware,New Castle County,42079,42.0,79.0,Pennsylvania,Luzerne County,42,43,DE
+10001,10,1,Delaware,Kent County,42081,42.0,81.0,Pennsylvania,Lycoming County,22,25,DE
+10005,10,5,Delaware,Sussex County,42081,42.0,81.0,Pennsylvania,Lycoming County,10,15,DE
+10003,10,3,Delaware,New Castle County,42083,42.0,83.0,Pennsylvania,McKean County,28,33,DE
+10003,10,3,Delaware,New Castle County,42089,42.0,89.0,Pennsylvania,Monroe County,6,8,DE
+10005,10,5,Delaware,Sussex County,42089,42.0,89.0,Pennsylvania,Monroe County,16,28,DE
+10001,10,1,Delaware,Kent County,42091,42.0,91.0,Pennsylvania,Montgomery County,21,26,DE
+10003,10,3,Delaware,New Castle County,42091,42.0,91.0,Pennsylvania,Montgomery County,2168,323,DE
+10005,10,5,Delaware,Sussex County,42091,42.0,91.0,Pennsylvania,Montgomery County,115,59,DE
+10005,10,5,Delaware,Sussex County,42093,42.0,93.0,Pennsylvania,Montour County,16,24,DE
+10003,10,3,Delaware,New Castle County,42095,42.0,95.0,Pennsylvania,Northampton County,187,92,DE
+10003,10,3,Delaware,New Castle County,42097,42.0,97.0,Pennsylvania,Northumberland County,10,14,DE
+10005,10,5,Delaware,Sussex County,42099,42.0,99.0,Pennsylvania,Perry County,15,25,DE
+10001,10,1,Delaware,Kent County,42101,42.0,101.0,Pennsylvania,Philadelphia County,445,153,DE
+10003,10,3,Delaware,New Castle County,42101,42.0,101.0,Pennsylvania,Philadelphia County,8972,658,DE
+10005,10,5,Delaware,Sussex County,42101,42.0,101.0,Pennsylvania,Philadelphia County,180,115,DE
+10003,10,3,Delaware,New Castle County,42103,42.0,103.0,Pennsylvania,Pike County,4,6,DE
+10003,10,3,Delaware,New Castle County,42107,42.0,107.0,Pennsylvania,Schuylkill County,15,27,DE
+10001,10,1,Delaware,Kent County,42115,42.0,115.0,Pennsylvania,Susquehanna County,8,14,DE
+10003,10,3,Delaware,New Castle County,42133,42.0,133.0,Pennsylvania,York County,49,36,DE
+10005,10,5,Delaware,Sussex County,42133,42.0,133.0,Pennsylvania,York County,99,76,DE
+10001,10,1,Delaware,Kent County,44003,44.0,3.0,Rhode Island,Kent County,3,5,DE
+10003,10,3,Delaware,New Castle County,45003,45.0,3.0,South Carolina,Aiken County,7,11,DE
+10003,10,3,Delaware,New Castle County,45019,45.0,19.0,South Carolina,Charleston County,17,23,DE
+10005,10,5,Delaware,Sussex County,45077,45.0,77.0,South Carolina,Pickens County,4,6,DE
+10003,10,3,Delaware,New Castle County,48085,48.0,85.0,Texas,Collin County,4,7,DE
+10001,10,1,Delaware,Kent County,48113,48.0,113.0,Texas,Dallas County,19,32,DE
+10003,10,3,Delaware,New Castle County,48113,48.0,113.0,Texas,Dallas County,9,15,DE
+10003,10,3,Delaware,New Castle County,48121,48.0,121.0,Texas,Denton County,90,92,DE
+10005,10,5,Delaware,Sussex County,48201,48.0,201.0,Texas,Harris County,19,36,DE
+10003,10,3,Delaware,New Castle County,48439,48.0,439.0,Texas,Tarrant County,10,16,DE
+10001,10,1,Delaware,Kent County,48441,48.0,441.0,Texas,Taylor County,10,15,DE
+10001,10,1,Delaware,Kent County,48453,48.0,453.0,Texas,Travis County,18,28,DE
+10005,10,5,Delaware,Sussex County,49005,49.0,5.0,Utah,Cache County,16,27,DE
+10001,10,1,Delaware,Kent County,49049,49.0,49.0,Utah,Utah County,3,6,DE
+10001,10,1,Delaware,Kent County,49051,49.0,51.0,Utah,Wasatch County,14,25,DE
+10005,10,5,Delaware,Sussex County,51001,51.0,1.0,Virginia,Accomack County,48,40,DE
+10001,10,1,Delaware,Kent County,51013,51.0,13.0,Virginia,Arlington County,37,56,DE
+10003,10,3,Delaware,New Castle County,51013,51.0,13.0,Virginia,Arlington County,44,44,DE
+10005,10,5,Delaware,Sussex County,51013,51.0,13.0,Virginia,Arlington County,110,48,DE
+10005,10,5,Delaware,Sussex County,51041,51.0,41.0,Virginia,Chesterfield County,7,12,DE
+10001,10,1,Delaware,Kent County,51059,51.0,59.0,Virginia,Fairfax County,10,16,DE
+10003,10,3,Delaware,New Castle County,51059,51.0,59.0,Virginia,Fairfax County,138,89,DE
+10005,10,5,Delaware,Sussex County,51059,51.0,59.0,Virginia,Fairfax County,294,142,DE
+10003,10,3,Delaware,New Castle County,51107,51.0,107.0,Virginia,Loudoun County,151,90,DE
+10005,10,5,Delaware,Sussex County,51107,51.0,107.0,Virginia,Loudoun County,25,21,DE
+10005,10,5,Delaware,Sussex County,51153,51.0,153.0,Virginia,Prince William County,36,33,DE
+10005,10,5,Delaware,Sussex County,51179,51.0,179.0,Virginia,Stafford County,11,17,DE
+10001,10,1,Delaware,Kent County,51187,51.0,187.0,Virginia,Warren County,7,12,DE
+10001,10,1,Delaware,Kent County,51510,51.0,510.0,Virginia,Alexandria city,5,9,DE
+10003,10,3,Delaware,New Castle County,51510,51.0,510.0,Virginia,Alexandria city,26,33,DE
+10005,10,5,Delaware,Sussex County,51510,51.0,510.0,Virginia,Alexandria city,20,24,DE
+10001,10,1,Delaware,Kent County,51550,51.0,550.0,Virginia,Chesapeake city,6,9,DE
+10001,10,1,Delaware,Kent County,51600,51.0,600.0,Virginia,Fairfax city,8,13,DE
+10003,10,3,Delaware,New Castle County,51680,51.0,680.0,Virginia,Lynchburg city,22,35,DE
+10003,10,3,Delaware,New Castle County,51683,51.0,683.0,Virginia,Manassas city,12,20,DE
+10001,10,1,Delaware,Kent County,51700,51.0,700.0,Virginia,Newport News city,20,31,DE
+10003,10,3,Delaware,New Castle County,51700,51.0,700.0,Virginia,Newport News city,10,19,DE
+10001,10,1,Delaware,Kent County,51760,51.0,760.0,Virginia,Richmond city,8,15,DE
+10003,10,3,Delaware,New Castle County,51760,51.0,760.0,Virginia,Richmond city,21,36,DE
+10003,10,3,Delaware,New Castle County,51810,51.0,810.0,Virginia,Virginia Beach city,37,29,DE
+10005,10,5,Delaware,Sussex County,51810,51.0,810.0,Virginia,Virginia Beach city,48,73,DE
+10005,10,5,Delaware,Sussex County,51830,51.0,830.0,Virginia,Williamsburg city,12,21,DE
+10003,10,3,Delaware,New Castle County,53033,53.0,33.0,Washington,King County,10,13,DE
+10003,10,3,Delaware,New Castle County,53053,53.0,53.0,Washington,Pierce County,37,41,DE
+10003,10,3,Delaware,New Castle County,55025,55.0,25.0,Wisconsin,Dane County,35,35,DE
+10003,10,3,Delaware,New Castle County,56029,56.0,29.0,Wyoming,Park County,8,14,DE
+10003,10,3,Delaware,New Castle County,301000,301.0,,Canada,,7,12,DE
+10005,10,5,Delaware,Sussex County,301000,301.0,,Canada,,2,3,DE
+10001,10,1,Delaware,Kent County,-1,,,Other workplace outside of the U.S.,,40,38,DE
+10003,10,3,Delaware,New Castle County,-1,,,Other workplace outside of the U.S.,,58,36,DE
